@@ -1,0 +1,148 @@
+[
+  {
+    "name": "Grave of Saints",
+    "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "children": [
+      {
+        "name": "Royal Rat Vanguard",
+        "access_rules": [],
+        "sections":[
+          {
+            "name":"GraveOfSaints: Royal Rat Vanguard Soul"
+          },
+          {
+            "name":"GraveOfSaints: Rat Tail - boss drop"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Grave of Saints",
+            "x": 202,
+            "y": 917,
+			      "size": 20
+          }
+        ]
+
+      },
+
+      {
+        "name": "After bridge, second floor",
+        "access_rules": ["Master Lockstone"],
+        "sections":[
+          {
+            "name":"GraveOfSaints: Whisper of Despair - after bridge, second floor"
+          },
+          {
+            "name":"GraveOfSaints: Torch - after bridge, second floor"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Grave of Saints",
+            "x": 213,
+            "y": 1206,
+			      "size": 20
+          }
+        ]
+
+      },
+
+      {
+        "name": "GraveOfSaints: Large Soul of a Nameless Soldier - first circular room",
+        "sections":[
+          {
+            "access_rules": []
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Grave of Saints",
+            "x": 332,
+            "y": 583,
+			      "size": 20
+          }
+        ]
+
+      },
+
+      {
+        "name": "GraveOfSaints: Homeward Bone x3 - second floor, left side",
+        "sections":[
+          {
+            "access_rules": []
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Grave of Saints",
+            "x": 434,
+            "y": 1022,
+			      "size": 20
+          }
+        ]
+
+      },
+
+      {
+        "name": "GraveOfSaints: Poison Moss x2 - after bridge, first floor",
+        "sections":[
+          {
+            "access_rules": ["Master Lockstone"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Grave of Saints",
+            "x": 202,
+            "y": 1164,
+			      "size": 20
+          }
+        ]
+
+      },
+
+      {
+        "name": "GraveOfSaints: Pharros' Lockstone - after boss",
+        "sections":[
+          {
+            "access_rules": []
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Grave of Saints",
+            "x": 379,
+            "y": 556,
+			      "size": 20
+          }
+        ]
+
+      },
+
+      {
+        "name": "GraveOfSaints: Small Smooth & Silky Stone x3 - first floor, left side",
+        "sections":[
+          {
+            "access_rules": []
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Grave of Saints",
+            "x": 321,
+            "y": 680,
+			      "size": 20
+          }
+        ]
+
+      }
+	  
+    ]
+  }
+  
+  
+  
+ 
+]

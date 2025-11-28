@@ -1,0 +1,133 @@
+[
+  {
+    "name": "Belfry Sol",
+    "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "children": [
+      {
+        "name": "After exit, illusory wall",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "BelfrySol: Black Knight Greatsword - after exit, illusory wall"
+          },
+          {
+            "name": "BelfrySol: Protective Chime - after exit, illusory wall"
+          },
+          {
+            "name": "BelfrySol: Grand Spirit Tree Shield - after exit, illusory wall"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Iron Keep & Belfry Sol",
+            "x": 338,
+            "y": 672,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "BelfrySol: Immolation - by exit, chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Iron Keep & Belfry Sol",
+            "x": 452,
+            "y": 1141,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "BelfrySol: Thunder Quartz Ring+1 - before bonfire, chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Iron Keep & Belfry Sol",
+            "x": 376,
+            "y": 566,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "BelfrySol: Simpleton's Spice - right of bell ladder",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Iron Keep & Belfry Sol",
+            "x": 176,
+            "y": 1135,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "BelfrySol: Simpleton's Spice - sloped roof",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Iron Keep & Belfry Sol",
+            "x": 298,
+            "y": 1243,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "BelfrySol: Simpleton's Spice - by ladder near exit",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Iron Keep & Belfry Sol",
+            "x": 400,
+            "y": 1156,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "After exit, bottom of stairs",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "BelfrySol: Human Effigy - after exit, bottom of stairs"
+          },
+          {
+            "name": "BelfrySol: Triclops Snake Troches - after exit, bottom of stairs"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Iron Keep & Belfry Sol",
+            "x": 416,
+            "y": 741,
+			      "size": 20
+          }
+        ]
+      }
+	  
+    ]
+  }
+  
+  
+  
+ 
+]

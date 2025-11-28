@@ -1,0 +1,1582 @@
+[
+ {
+	"name": "Overworld",
+	"children": [
+	  {
+		"name": "Majula Mansion",    
+		"sections": [
+			  {
+				"ref": "Majula/Majula: Titanite Shard x3 - mansion attic/",
+				"name": "Majula: Titanite Shard x3 - mansion attic"
+			  },
+              {
+				"ref": "Majula/Majula: Torch x3 - mansion attic/",
+				"name": "Majula: Torch x3 - mansion attic"
+			  },
+              {
+				"ref": "Majula/Majula: Soul Vessel - mansion basement/",
+				"name": "Majula: Soul Vessel - mansion basement"
+			  },
+              {
+				"ref": "Majula/Majula: Estus Flask Shard - mansion basement/",
+				"name": "Majula: Estus Flask Shard - mansion basement"
+			  },
+              {
+				"ref": "Majula/Majula: Pharros' Lockstone - mansion library/",
+				"name": "Majula: Pharros' Lockstone - mansion library"
+			  }
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 686,
+			"y": 663,
+			"size": 20
+		  }
+		]
+	  },
+      {
+		"name": "Majula Northwest Cliff",    
+		"sections": [
+			  {
+				"ref": "Majula/Majula: Divine Blessing - towards SW, under tree/",
+				"name": "Majula: Divine Blessing - towards SW, under tree"
+			  },
+              {
+				"ref": "Majula/Majula: Morning Star - from TB, drop from cliff/",
+				"name": "Majula: Morning Star - from TB, drop from cliff"
+			  },
+              {
+				"ref": "Majula/Majula: Cleric's Sacred Chime - from TB, drop from cliff/",
+				"name": "Majula: Cleric's Sacred Chime - from TB, drop from cliff"
+			  },
+              {
+				"ref": "Majula/Majula: Binoculars - from TB, drop from cliff, end of path/",
+				"name": "Majula: Binoculars - from TB, drop from cliff, end of path"
+			  }
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 527,
+			"y": 708,
+			"size": 15
+		  }
+		]
+	  },
+      {
+		"name": "Majula Neaar Lenigrast's workshop",    
+		"sections": [
+			  {
+				"ref": "Majula/Majula: Soul of a Nameless Soldier - by Lenigrast workshop/",
+				"name": "Majula: Soul of a Nameless Soldier - by Lenigrast workshop"
+			  },
+              {
+				"ref": "Majula/Majula: Lifegem x3 - by Lenigrast workshop/",
+				"name": "Majula: Lifegem x3 - by Lenigrast workshop"
+			  },
+              {
+				"ref": "Majula/Majula: Lifegem - tent by Shalquoir/",
+				"name": "Majula: Lifegem - tent by Shalquoir"
+			  },
+              {
+				"ref": "Majula/Majula: Short Bow - Lenigrast workshop/",
+				"name": "Majula: Short Bow - Lenigrast workshop"
+			  }
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 731,
+			"y": 855,
+			"size": 15
+		  }
+		]
+	  },
+      {
+		"name": "Majula near Shaded Woods",    
+		"sections": [
+			  {
+				"ref": "Majula/Majula: Lloyd's Talisman x3 - room by petrified Rosabeth/",
+				"name": "Majula: Lloyd's Talisman x3 - room by petrified Rosabeth"
+			  },
+              {
+				"ref": "Majula/By Benhart/Majula: Lifegem x3 - by Benhart",
+				"name": "Majula: Lifegem x3 - by Benhart"
+			  },
+              {
+				"ref": "Majula/By Benhart/Majula: Homeward Bone x3 - by Benhart",
+				"name": "Majula: Homeward Bone x3 - by Benhart"
+			  }
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 555,
+			"y": 609,
+			"size": 15
+		  }
+		]
+	  },
+      {
+		"name": "The Pit",    
+		"sections": [
+			  {
+				"ref": "The Pit/Pit: Forgotten Door/Pit: Soul Vortex - forgotten door, chest",
+				"name": "Pit: Soul Vortex - forgotten door, chest"
+			  },
+              {
+				"ref": "The Pit/Pit: Forgotten Door/Pit: Great Lightning Spear - forgotten door, chest",
+				"name": "Pit: Great Lightning Spear - forgotten door, chest"
+			  },
+              {
+				"ref": "The Pit/Pit: Forgotten Door/Pit: Witchtree Branch - forgotten door, chest",
+				"name": "Pit: Witchtree Branch - forgotten door, chest"
+			  },
+              {
+				"ref": "The Pit/Pit: Forgotten Door/Pit: Witchtree Bellvine - forgotten door, chest",
+				"name": "Pit: Witchtree Bellvine - forgotten door, chest"
+			  },
+              {
+				"ref": "The Pit/Pit: Forgotten Door/Pit: Dragon Talon - forgotten door",
+				"name": "Pit: Dragon Talon - forgotten door"
+			  },
+              {
+				"ref": "The Pit/Pit: Poison Moss x3 - third board/",
+				"name": "Pit: Poison Moss x3 - third board"
+			  },
+              {
+				"ref": "The Pit/Pit: Pharros' Lockstone - second board/",
+				"name": "Pit: Pharros' Lockstone - second board"
+			  },
+              {
+				"ref": "The Pit/Pit: Ring of the Evil Eye+1 - fourth board/",
+				"name": "Pit: Ring of the Evil Eye+1 - fourth board"
+			  },
+              {
+				"ref": "The Pit/Pit: Radiant Lifegem - first board/",
+				"name": "Pit: Radiant Lifegem - first board"
+			  },
+              {
+				"ref": "The Pit/Pit: Homeward Bone - before bridge/",
+				"name": "Pit: Homeward Bone - before bridge"
+			  },
+              {
+				"ref": "The Pit/Pit: Ash Knuckle Ring - after bridge/",
+				"name": "Pit: Ash Knuckle Ring - after bridge"
+			  },
+              {
+				"ref": "The Pit/Pit: Token of Spite - towards Gutter, under scaffolding/",
+				"name": "Pit: Token of Spite - towards Gutter, under scaffolding"
+			  },
+              {
+				"ref": "The Pit/Pit: Sublime Bone Dust - left of circular room/",
+				"name": "Pit: Sublime Bone Dust - left of circular room"
+			  },
+              {
+				"ref": "The Pit/Pit: Human Effigy - scaffolding/",
+				"name": "Pit: Human Effigy - scaffolding"
+			  },
+              {
+				"ref": "The Pit/Pit: Radiant Lifegem - towards Gutter/",
+				"name": "Pit: Radiant Lifegem - towards Gutter"
+			  },
+              {
+				"ref": "The Pit/Pit: Great Heal - towards Gutter/",
+				"name": "Pit: Great Heal - towards Gutter"
+			  },
+              {
+				"ref": "The Pit/Pit: Bleed Stone - bridge/",
+				"name": "Pit: Bleed Stone - bridge"
+			  },
+              {
+				"ref": "The Pit/Pit: Disc Chime - unconnected ledge/",
+				"name": "Pit: Disc Chime - unconnected ledge"
+			  },
+              {
+				"ref": "The Pit/Pit: Homeward Bone x3 - circular room/",
+				"name": "Pit: Homeward Bone x3 - circular room"
+			  }
+
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 705,
+			"y": 756,
+			"size": 25
+		  }
+		]
+	  },
+      {
+		"name": "Shaded Woods entrance",    
+		"sections": [
+			  {
+				"ref": "Shaded Woods/ShadedWoods: Estus Flask Shard - Metal chest next to the Old Akelarre bonfire/",
+				"name": "ShadedWoods: Estus Flask Shard - Metal chest next to the Old Akelarre bonfire"
+			  },
+              {
+				"ref": "Shaded Woods/ShadedWoods Above Old Akelarre bonfire/ShadedWoods: Soul of a Proud Knight - Corpse in the room above the Old Akelarre bonfire",
+				"name": "ShadedWoods: Soul of a Proud Knight - Corpse in the room above the Old Akelarre bonfire"
+			  },
+              {
+				"ref": "Shaded Woods/ShadedWoods Above Old Akelarre bonfire/ShadedWoods: Human Effigy - Corpse in the room above the Old Akelarre bonfire",
+				"name": "ShadedWoods: Human Effigy - Corpse in the room above the Old Akelarre bonfire"
+			  }  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 551,
+			"y": 566,
+			"size": 15
+		  }
+		]
+	  },
+	  {
+		"name": "Aldia's Keep entrance",    
+		"sections": [
+			  {
+				"ref": "Shaded Woods/ShadedWoods: Red Tearstone Ring - Vanilla RTSR: in the mud next to hippo/",
+				"name": "ShadedWoods: Red Tearstone Ring - Vanilla RTSR: in the mud next to hippo"
+			  },
+			  {
+				"ref": "Aldia's Keep/AldiasKeep: Petrified Dragon Bone - courtyard/",
+				"name": "AldiasKeep: Petrified Dragon Bone - courtyard"
+			  },
+			  {
+				"ref": "Aldia's Keep/AldiasKeep: Soul of a Nameless Soldier - courtyard/",
+				"name": "AldiasKeep: Soul of a Nameless Soldier - courtyard"
+			  },
+			  {
+				"ref": "Aldia's Keep/AldiasKeep: Poison Throwing Knife x10 - courtyard/",
+				"name": "AldiasKeep: Poison Throwing Knife x10 - courtyard"
+			  },
+			  {
+				"ref": "Aldia's Keep/AldiasKeep: Alluring Skull x3 - courtyard/",
+				"name": "AldiasKeep: Alluring Skull x3 - courtyard"
+			  },
+			  {
+				"ref": "Aldia's Keep/AldiasKeep: Fire Seed - right side before entrance stairs/",
+				"name": "AldiasKeep: Fire Seed - right side before entrance stairs"
+			  },
+			  {
+				"ref": "Aldia's Keep/AldiasKeep: Radiant Lifegem - in water by the entrance/",
+				"name": "AldiasKeep: Radiant Lifegem - in water by the entrance"
+			  },
+			  {
+				"ref": "Aldia's Keep/AldiasKeep: Twilight Herb - left side after entrance stairs/",
+				"name": "AldiasKeep: Twilight Herb - left side after entrance stairs"
+			  },
+			  {
+				"ref": "Aldia's Keep/AldiasKeep: Fading Soul - by skeleton dragon/",
+				"name": "AldiasKeep: Fading Soul - by skeleton dragon"
+			  },
+			  {
+				"ref": "Aldia's Keep/AldiasKeep: Aldia Key - skeleton dragon after killing four invaders/",
+				"name": "AldiasKeep: Aldia Key - skeleton dragon after killing four invaders"
+			  }
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 476,
+			"y": 302,
+			"size": 15
+		  }
+		]
+	  },
+	  {
+		"name": "Aldia's Keep mirror room area",    
+		"sections": [
+			  {
+				"ref": "Aldia's Keep/AldiasKeep: Great Magic Barrier - corridor right of mirror room/",
+				"name": "AldiasKeep: Great Magic Barrier - corridor right of mirror room"
+			  },
+			  {
+				"ref": "Aldia's Keep/AldiasKeep: Large Soul of a Brave Warrior - mirror room, stuck in mirror/",
+				"name": "AldiasKeep: Large Soul of a Brave Warrior - mirror room, stuck in mirror"
+			  },
+			  {
+				"ref": "Aldia's Keep/Mirror room/AldiasKeep: Northern Ritual Band+2 - mirror room",
+				"name": "AldiasKeep: Northern Ritual Band+2 - mirror room"
+			  },
+			  {
+				"ref": "Aldia's Keep/Mirror room/AldiasKeep: Petrified Dragon Bone - mirror room",
+				"name": "AldiasKeep: Petrified Dragon Bone - mirror room"
+			  },
+			  {
+				"ref": "Aldia's Keep/AldiasKeep: Brightbug - mirror room, chest/",
+				"name": "AldiasKeep: Brightbug - mirror room, chest"
+			  },
+			  {
+				"ref": "Aldia's Keep/AldiasKeep: Bonfire Ascetic x2 - right side after big staircase/",
+				"name": "AldiasKeep: Bonfire Ascetic x2 - right side after big staircase"
+			  },
+			  {
+				"ref": "Aldia's Keep/AldiasKeep: Crimson Water - after big staircase/",
+				"name": "AldiasKeep: Crimson Water - after big staircase"
+			  }
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 500,
+			"y": 302,
+			"size": 15
+		  }
+		]
+	  },
+	  {
+		"name": "Aldia's Keep corridor",    
+		"sections": [
+			  {
+				"ref": "Aldia's Keep/AldiasKeep: Radiant Lifegem - long corridor/",
+				"name": "AldiasKeep: Radiant Lifegem - long corridor"
+			  },
+			  {
+				"ref": "Aldia's Keep/AldiasKeep: Soul of a Proud Knight - locked side room, on table/",
+				"name": "AldiasKeep: Soul of a Proud Knight - locked side room, on table"
+			  },
+			  {
+				"ref": "Aldia's Keep/AldiasKeep: Large Soul of a Brave Warrior - locked side room, behind barrel/",
+				"name": "AldiasKeep: Large Soul of a Brave Warrior - locked side room, behind barrel"
+			  },
+			  {
+				"ref": "Aldia's Keep/AldiasKeep: Fragrant Branch of Yore - locked side room, enemy drop/",
+				"name": "AldiasKeep: Fragrant Branch of Yore - locked side room, enemy drop"
+			  },
+			  {
+				"ref": "Aldia's Keep/AldiasKeep: Malformed Shell - behind breakable chained door/",
+				"name": "AldiasKeep: Malformed Shell - behind breakable chained door"
+			  },
+			  {
+				"ref": "Aldia's Keep/Acid pool north corner/AldiasKeep: Soul Geyser - acid pool",
+				"name": "AldiasKeep: Soul Geyser - acid pool"
+			  },
+			  {
+				"ref": "Aldia's Keep/Acid pool north corner/AldiasKeep: Petrified Dragon Bone - acid pool",
+				"name": "AldiasKeep: Petrified Dragon Bone - acid pool"
+			  },
+			  {
+				"ref": "Aldia's Keep/Acid pool south corner/AldiasKeep: Large Soul of a Nameless Soldier - acid pool",
+				"name": "AldiasKeep: Large Soul of a Nameless Soldier - acid pool"
+			  },
+			  {
+				"ref": "Aldia's Keep/Acid pool south corner/AldiasKeep: Corrosive Urn x4 - acid pool",
+				"name": "AldiasKeep: Corrosive Urn x4 - acid pool"
+			  },
+			  {
+				"ref": "Aldia's Keep/AldiasKeep: Divine Blessing x2 - acid pool/",
+				"name": "AldiasKeep: Divine Blessing x2 - acid pool"
+			  },
+			  {
+				"ref": "Aldia's Keep/AldiasKeep: Aldia Key - acid pool/",
+				"name": "AldiasKeep: Aldia Key - acid pool"
+			  },
+			  {
+				"ref": "Aldia's Keep/AldiasKeep: Pharros' Lockstone - behind shelf in potion room/",
+				"name": "AldiasKeep: Pharros' Lockstone - behind shelf in potion room"
+			  }
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 524,
+			"y": 302,
+			"size": 15
+		  }
+		]
+	  },
+	  {
+		"name": "Aldia's Keep to Dragon Aerie",    
+		"sections": [
+			  {
+				"ref": "Aldia's Keep/Corpse before boss/AldiasKeep: Simpleton's Spice - room before boss",
+				"name": "AldiasKeep: Simpleton's Spice - room before boss"
+			  },
+			  {
+				"ref": "Aldia's Keep/Corpse before boss/AldiasKeep: Twilight Herb - room before boss",
+				"name": "AldiasKeep: Twilight Herb - room before boss"
+			  },
+			  {
+				"ref": "Aldia's Keep/AldiasKeep: Guardian Dragon Soul/",
+				"name": "AldiasKeep: Guardian Dragon Soul"
+			  },
+			  {
+				"ref": "Aldia's Keep/AldiasKeep: Dragon Scale - by elevator to DA/",
+				"name": "AldiasKeep: Dragon Scale - by elevator to DA"
+			  }
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 548,
+			"y": 302,
+			"size": 15
+		  }
+		]
+	  },
+
+
+	  {
+		"name": "Belfry Luna",    
+		"sections": [
+			  {
+				"ref": "Belfry Luna/BelfryLuna: Belfry Gargoyle Soul/",
+				"name": "BelfryLuna: Belfry Gargoyle Soul"
+			  },
+			  {
+				"ref": "Belfry Luna/Topmost floor chest/BelfryLuna: Radiant Lifegem x2 - topmost floor, chest",
+				"name": "BelfryLuna: Radiant Lifegem x2 - topmost floor, chest"
+			  },
+			  {
+				"ref": "Belfry Luna/Topmost floor chest/BelfryLuna: Twilight Herb x2 - topmost floor, chest",
+				"name": "BelfryLuna: Twilight Herb x2 - topmost floor, chest"
+			  },
+			  {
+				"ref": "Belfry Luna/BelfryLuna: Blue Tearstone Ring - drop from second floor hole, chest/",
+				"name": "BelfryLuna: Blue Tearstone Ring - drop from second floor hole, chest"
+			  },
+			  {
+				"ref": "Belfry Luna/BelfryLuna: Southern Ritual Band - after boss/",
+				"name": "BelfryLuna: Southern Ritual Band - after boss"
+			  },
+			  {
+				"ref": "Belfry Luna/BelfryLuna: Skeptic's Spice - second floor/",
+				"name": "BelfryLuna: Skeptic's Spice - second floor"
+			  },
+			  {
+				"ref": "Belfry Luna/BelfryLuna: Skeptic's Spice - drop from second floor hole/",
+				"name": "BelfryLuna: Skeptic's Spice - drop from second floor hole"
+			  },
+			  {
+				"ref": "Belfry Luna/BelfryLuna: Skeptic's Spice - topmost floor, behind pillar/",
+				"name": "BelfryLuna: Skeptic's Spice - topmost floor, behind pillar"
+			  },
+			  {
+				"ref": "Belfry Luna/Pit after Boss - Lower level/BelfryLuna: Bastille Key - pit after boss, lower level",
+				"name": "BelfryLuna: Bastille Key - pit after boss, lower level"
+			  },
+			  {
+				"ref": "Belfry Luna/Pit after Boss - Lower level/BelfryLuna: Dragon Tooth - pit after boss, lower level",
+				"name": "BelfryLuna: Dragon Tooth - pit after boss, lower level"
+			  },
+			  {
+				"ref": "Belfry Luna/Pit after Boss - Lower level/BelfryLuna: Petrified Something - pit after boss, lower level",
+				"name": "BelfryLuna: Petrified Something - pit after boss, lower level"
+			  },
+			  {
+				"ref": "Belfry Luna/Pit after Boss - Lower level/BelfryLuna: Brightbug - pit after boss, lower level",
+				"name": "BelfryLuna: Brightbug - pit after boss, lower level"
+			  },
+			  {
+				"ref": "Belfry Luna/BelfryLuna: Falchion - pit after boss, upper level/",
+				"name": "BelfryLuna: Falchion - pit after boss, upper level"
+			  },
+			  {
+				"ref": "Belfry Luna/BelfryLuna: Soul of a Proud Knight - boss arena/",
+				"name": "BelfryLuna: Soul of a Proud Knight - boss arena"
+			  }
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1563,
+			"y": 332,
+			"size": 15
+		  }
+		]
+	  },
+
+
+	  {
+		"name": "Iron Keep - Start",    
+		"sections": [
+			  {
+				"ref": "Iron Keep/IronKeep: Human Effigy - on lava by the first bonfire/",
+				"name": "IronKeep: Human Effigy - on lava by the first bonfire"
+			  },
+			  {
+				"ref": "Iron Keep/IronKeep: Bonfire Ascetic x3 - on lava right of first bridge/",
+				"name": "IronKeep: Bonfire Ascetic x3 - on lava right of first bridge"
+			  },
+			  {
+				"ref": "Iron Keep/IronKeep: Pharros' Lockstone - first hall, ledge above/",
+				"name": "IronKeep: Pharros' Lockstone - first hall, ledge above"
+			  },
+			  {
+				"ref": "Iron Keep/IronKeep: Iron Key - first hall, under fire bull/",
+				"name": "IronKeep: Iron Key - first hall, under fire bull"
+			  },
+			  {
+				"ref": "Iron Keep/IronKeep: Fire Arrow x20 - behind illusory wall with ballista/",
+				"name": "IronKeep: Fire Arrow x20 - behind illusory wall with ballista"
+			  },
+			  {
+				"ref": "Iron Keep/Before first boss, lower left side/IronKeep: Soul of a Proud Knight - before first boss, lower left side",
+				"name": "IronKeep: Soul of a Proud Knight - before first boss, lower left side"
+			  },
+			  {
+				"ref": "Iron Keep/Before first boss, lower left side/IronKeep: Repair Powder - before first boss, lower left side",
+				"name": "IronKeep: Repair Powder - before first boss, lower left side"
+			  },
+			  {
+				"ref": "Iron Keep/Before first boss upper left side/IronKeep: Life Ring+1 - before first boss, upper left side",
+				"name": "IronKeep: Life Ring+1 - before first boss, upper left side"
+			  },
+			  {
+				"ref": "Iron Keep/Before first boss upper left side/IronKeep: Twinkling Titanite - before first boss, upper left side",
+				"name": "IronKeep: Twinkling Titanite - before first boss, upper left side"
+			  }
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1630,
+			"y": 106,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Iron Keep - Way to Smelter Demon",    
+		"sections": [
+			  {
+				"ref": "Iron Keep/Before first boss, on pillar/IronKeep: Large Soul of a Nameless Soldier - before first boss, on pillar",
+				"name": "IronKeep: Large Soul of a Nameless Soldier - before first boss, on pillar"
+			  },
+			  {
+				"ref": "Iron Keep/Before first boss, on pillar/IronKeep: Red Leech Troches - before first boss, on pillar",
+				"name": "IronKeep: Red Leech Troches - before first boss, on pillar"
+			  },
+			  {
+				"ref": "Iron Keep/IronKeep: Phoenix Parma - before first boss, chest in lava/",
+				"name": "IronKeep: Phoenix Parma - before first boss, chest in lava"
+			  },
+			  {
+				"ref": "Iron Keep/IronKeep: Zweihander - before first boss, by contraption/",
+				"name": "IronKeep: Zweihander - before first boss, by contraption"
+			  },
+			  {
+				"ref": "Iron Keep/Before first boss, after jump/IronKeep: Dull Ember - before first boss, after jump",
+				"name": "IronKeep: Dull Ember - before first boss, after jump"
+			  },
+			  {
+				"ref": "Iron Keep/Before first boss, after jump/IronKeep: Petrified Dragon Bone - before first boss, after jump",
+				"name": "IronKeep: Petrified Dragon Bone - before first boss, after jump"
+			  },
+			  {
+				"ref": "Iron Keep/Inside Central Furnace/IronKeep: Large Titanite Shard x2 - inside central furnace",
+				"name": "IronKeep: Large Titanite Shard x2 - inside central furnace"
+			  },
+			  {
+				"ref": "Iron Keep/Inside Central Furnace/IronKeep: Petrified Dragon Bone - inside central furnace",
+				"name": "IronKeep: Petrified Dragon Bone - inside central furnace"
+			  },
+			  {
+				"ref": "Iron Keep/IronKeep: Smelter Demon Soul/",
+				"name": "IronKeep: Smelter Demon Soul"
+			  }
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1660,
+			"y": 106,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Iron Keep - From Smelter to Platform room",    
+		"sections": [
+			  {
+				"ref": "Iron Keep/Chest after first boss/IronKeep: Porcine Shield - after first boss",
+				"name": "IronKeep: Porcine Shield - after first boss"
+			  },
+			  {
+				"ref": "Iron Keep/Chest after first boss/IronKeep: Flame Butterfly x5 - after first boss",
+				"name": "IronKeep: Flame Butterfly x5 - after first boss"
+			  },
+			  {
+				"ref": "Iron Keep/After ladder in furnace/IronKeep: Old Radiant Lifegem - after ladder in furnace",
+				"name": "IronKeep: Old Radiant Lifegem - after ladder in furnace"
+			  },
+			  {
+				"ref": "Iron Keep/After ladder in furnace/IronKeep: Green Blossom - after ladder in furnace",
+				"name": "IronKeep: Green Blossom - after ladder in furnace"
+			  },
+			  {
+				"ref": "Iron Keep/Platforms Room left side/IronKeep: Large Soul of a Proud Knight - platforms room, left side",
+				"name": "IronKeep: Large Soul of a Proud Knight - platforms room, left side"
+			  },
+			  {
+				"ref": "Iron Keep/Platforms Room left side/IronKeep: Radiant Lifegem - platforms room, left side",
+				"name": "IronKeep: Radiant Lifegem - platforms room, left side"
+			  },
+			  {
+				"ref": "Iron Keep/IronKeep: Fire Seed - platforms room, corpse in lava/",
+				"name": "IronKeep: Fire Seed - platforms room, corpse in lava"
+			  },
+			  {
+				"ref": "Iron Keep/IronKeep: Large Soul of a Nameless Soldier - platforms room, on platform/",
+				"name": "IronKeep: Large Soul of a Nameless Soldier - platforms room, on platform"
+			  },
+			  {
+				"ref": "Iron Keep/IronKeep: Chaos Storm - platforms room, chest in lava/",
+				"name": "IronKeep: Chaos Storm - platforms room, chest in lava"
+			  },
+			  {
+				"ref": "Iron Keep/Platforms Room by fog gate/IronKeep: Large Soul of a Nameless Soldier - platforms room, by fog gate",
+				"name": "IronKeep: Large Soul of a Nameless Soldier - platforms room, by fog gate"
+			  },
+			  {
+				"ref": "Iron Keep/Platforms Room by fog gate/IronKeep: Monastery Charm - platforms room, by fog gate",
+				"name": "IronKeep: Monastery Charm - platforms room, by fog gate"
+			  }
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1690,
+			"y": 106,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Iron Keep - Tower and Last boss",    
+		"sections": [
+			  {
+				"ref": "Iron Keep/IronKeep: Destructive Greatarrow x10 - platforms room, upper level/",
+				"name": "IronKeep: Destructive Greatarrow x10 - platforms room, upper level"
+			  },
+			  {
+				"ref": "Iron Keep/IronKeep: Titanite Shard x5 - top of the high tower/",
+				"name": "IronKeep: Titanite Shard x5 - top of the high tower"
+			  },
+			  {
+				"ref": "Iron Keep/IronKeep: Simpleton's Spice - top of the high tower/",
+				"name": "IronKeep: Simpleton's Spice - top of the high tower"
+			  },
+			  {
+				"ref": "Iron Keep/IronKeep: Black Knight Greataxe - top of the high tower/",
+				"name": "IronKeep: Black Knight Greataxe - top of the high tower"
+			  },
+			  {
+				"ref": "Iron Keep/Top of the high tower, drop down/IronKeep: Cracked Red Eye Orb - top of the high tower, drop down",
+				"name": "IronKeep: Cracked Red Eye Orb - top of the high tower, drop down"
+			  },
+			  {
+				"ref": "Iron Keep/Top of the high tower, drop down/IronKeep: Torch - top of the high tower, drop down",
+				"name": "IronKeep: Torch - top of the high tower, drop down"
+			  },
+			  {
+				"ref": "Iron Keep/IronKeep: Covetous Gold Serpent Ring - Vanilla covetous gold ring: in large smelting pot hanging above bridges/",
+				"name": "IronKeep: Covetous Gold Serpent Ring - Vanilla covetous gold ring: in large smelting pot hanging above bridges"
+			  },
+			  {
+				"ref": "Iron Keep/IronKeep: Short Bow - before last boss, under fire bull/",
+				"name": "IronKeep: Short Bow - before last boss, under fire bull"
+			  },
+			  {
+				"ref": "Iron Keep/IronKeep: Old Iron King Soul/",
+				"name": "IronKeep: Old Iron King Soul"
+			  },
+			  {
+				"ref": "Iron Keep/After Second Boss/IronKeep: Sublime Bone Dust - after second boss",
+				"name": "IronKeep: Sublime Bone Dust - after second boss"
+			  },
+			  {
+				"ref": "Iron Keep/After Second Boss/IronKeep: Petrified Something - after second boss",
+				"name": "IronKeep: Petrified Something - after second boss"
+			  }
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1720,
+			"y": 106,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Magerold Shop 1",    
+		"sections": [
+			  {
+				"ref": "Iron Keep/Magerold Shop 1/IronKeep: Soul Arrow - Magerold shop",
+				"name": "IronKeep: Soul Arrow - Magerold shop"
+			  },
+			  {
+				"ref": "Iron Keep/Magerold Shop 1/IronKeep: Great Soul Arrow - Magerold shop",
+				"name": "IronKeep: Great Soul Arrow - Magerold shop"
+			  },
+			  {
+				"ref": "Iron Keep/Magerold Shop 1/IronKeep: Heavy Soul Arrow - Magerold shop",
+				"name": "IronKeep: Heavy Soul Arrow - Magerold shop"
+			  },
+			  {
+				"ref": "Iron Keep/Magerold Shop 1/IronKeep: Great Heavy Soul Arrow - Magerold shop",
+				"name": "IronKeep: Great Heavy Soul Arrow - Magerold shop"
+			  },
+			  {
+				"ref": "Iron Keep/Magerold Shop 1/IronKeep: Dark Hail - Magerold shop",
+				"name": "IronKeep: Dark Hail - Magerold shop"
+			  },
+			  {
+				"ref": "Iron Keep/Magerold Shop 1/IronKeep: Darkstorm - Magerold shop",
+				"name": "IronKeep: Darkstorm - Magerold shop"
+			  },
+			  {
+				"ref": "Iron Keep/Magerold Shop 1/IronKeep: Fall Control - Magerold shop",
+				"name": "IronKeep: Fall Control - Magerold shop"
+			  },
+			  {
+				"ref": "Iron Keep/Magerold Shop 1/IronKeep: Cursebite Ring - Magerold shop",
+				"name": "IronKeep: Cursebite Ring - Magerold shop"
+			  },
+			  {
+				"ref": "Iron Keep/Magerold Shop 1/IronKeep: Hello Carving - Magerold shop",
+				"name": "IronKeep: Hello Carving - Magerold shop"
+			  }
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1645,
+			"y": 67,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Magerold Shop 2",    
+		"sections": [
+			  {
+				"ref": "Iron Keep/Magerold Shop 2/IronKeep: Thank You Carving - Magerold shop",
+				"name": "IronKeep: Thank You Carving - Magerold shop"
+			  },
+			  {
+				"ref": "Iron Keep/Magerold Shop 2/IronKeep: I'm Sorry Carving - Magerold shop",
+				"name": "IronKeep: I'm Sorry Carving - Magerold shop"
+			  },
+			  {
+				"ref": "Iron Keep/Magerold Shop 2/IronKeep: Very Good! Carving - Magerold shop",
+				"name": "IronKeep: Very Good! Carving - Magerold shop"
+			  },
+			  {
+				"ref": "Iron Keep/Magerold Shop 2/IronKeep: Charcoal Pine Resin - Magerold shop",
+				"name": "IronKeep: Charcoal Pine Resin - Magerold shop"
+			  },
+			  {
+				"ref": "Iron Keep/Magerold Shop 2/IronKeep: Black Firebomb - Magerold shop",
+				"name": "IronKeep: Black Firebomb - Magerold shop"
+			  },
+			  {
+				"ref": "Iron Keep/Magerold Shop 2/IronKeep: Repair Powder - Magerold shop",
+				"name": "IronKeep: Repair Powder - Magerold shop"
+			  },
+			  {
+				"ref": "Iron Keep/Magerold Shop 2/IronKeep: Human Effigy - Magerold shop",
+				"name": "IronKeep: Human Effigy - Magerold shop"
+			  },
+			  {
+				"ref": "Iron Keep/Magerold Shop 2/IronKeep: Fragrant Branch of Yore - Magerold shop",
+				"name": "IronKeep: Fragrant Branch of Yore - Magerold shop"
+			  },
+			  {
+				"ref": "Iron Keep/Magerold Shop 2/IronKeep: Spiked Bandit Helm - Magerold shop",
+				"name": "IronKeep: Spiked Bandit Helm - Magerold shop"
+			  }
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1675,
+			"y": 67,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Magerold Shop 3",    
+		"sections": [
+			  {
+				"ref": "Iron Keep/Magerold Shop 3/IronKeep: Bandit Armor - Magerold shop",
+				"name": "IronKeep: Bandit Armor - Magerold shop"
+			  },
+			  {
+				"ref": "Iron Keep/Magerold Shop 3/IronKeep: Bandit Gauntlets - Magerold shop",
+				"name": "IronKeep: Bandit Gauntlets - Magerold shop"
+			  },
+			  {
+				"ref": "Iron Keep/Magerold Shop 3/IronKeep: Bandit Boots - Magerold shop",
+				"name": "IronKeep: Bandit Boots - Magerold shop"
+			  },
+			  {
+				"ref": "Iron Keep/Magerold Shop 3/IronKeep: Jester's Cap - Magerold shop",
+				"name": "IronKeep: Jester's Cap - Magerold shop"
+			  },
+			  {
+				"ref": "Iron Keep/Magerold Shop 3/IronKeep: Jester's Robes - Magerold shop",
+				"name": "IronKeep: Jester's Robes - Magerold shop"
+			  },
+			  {
+				"ref": "Iron Keep/Magerold Shop 3/IronKeep: Jester's Gloves - Magerold shop",
+				"name": "IronKeep: Jester's Gloves - Magerold shop"
+			  },
+			  {
+				"ref": "Iron Keep/Magerold Shop 3/IronKeep: Jester's Tights - Magerold shop",
+				"name": "IronKeep: Jester's Tights - Magerold shop"
+			  },
+			  {
+				"ref": "Iron Keep/Magerold Shop 3/IronKeep: Ancient Dragon Seal - join Dragon Remnants",
+				"name": "IronKeep: Ancient Dragon Seal - join Dragon Remnants"
+			  },
+			  {
+				"ref": "Iron Keep/Magerold Shop 3/IronKeep: Dragon Eye - join Dragon Remnants",
+				"name": "IronKeep: Dragon Eye - join Dragon Remnants"
+			  }
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1705,
+			"y": 67,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Belfry Sol",    
+		"sections": [
+			  {
+				"ref": "Belfry Sol/After exit, illusory wall/BelfrySol: Black Knight Greatsword - after exit, illusory wall",
+				"name": "BelfrySol: Black Knight Greatsword - after exit, illusory wall"
+			  },
+			  {
+				"ref": "Belfry Sol/After exit, illusory wall/BelfrySol: Protective Chime - after exit, illusory wall",
+				"name": "BelfrySol: Protective Chime - after exit, illusory wall"
+			  },
+			  {
+				"ref": "Belfry Sol/After exit, illusory wall/BelfrySol: Grand Spirit Tree Shield - after exit, illusory wall",
+				"name": "BelfrySol: Grand Spirit Tree Shield - after exit, illusory wall"
+			  },
+			  {
+				"ref": "Belfry Sol/BelfrySol: Immolation - by exit, chest/",
+				"name": "BelfrySol: Immolation - by exit, chest"
+			  },
+			  {
+				"ref": "Belfry Sol/BelfrySol: Thunder Quartz Ring+1 - before bonfire, chest/",
+				"name": "BelfrySol: Thunder Quartz Ring+1 - before bonfire, chest"
+			  },
+			  {
+				"ref": "Belfry Sol/BelfrySol: Simpleton's Spice - right of bell ladder/",
+				"name": "BelfrySol: Simpleton's Spice - right of bell ladder"
+			  },
+			  {
+				"ref": "Belfry Sol/BelfrySol: Simpleton's Spice - sloped roof/",
+				"name": "BelfrySol: Simpleton's Spice - sloped roof"
+			  },
+			  {
+				"ref": "Belfry Sol/BelfrySol: Simpleton's Spice - by ladder near exit/",
+				"name": "BelfrySol: Simpleton's Spice - by ladder near exit"
+			  },
+			  {
+				"ref": "Belfry Sol/After exit, bottom of stairs/BelfrySol: Human Effigy - after exit, bottom of stairs",
+				"name": "BelfrySol: Human Effigy - after exit, bottom of stairs"
+			  },
+			  {
+				"ref": "Belfry Sol/After exit, bottom of stairs/BelfrySol: Triclops Snake Troches - after exit, bottom of stairs",
+				"name": "BelfrySol: Triclops Snake Troches - after exit, bottom of stairs"
+			  }
+			  
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1672,
+            "y": 206,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Black Gulch first half",    
+		"sections": [
+			  {
+				"ref": "Black Gulch/Gulch: Divine Blessing - second side tunnel/",
+				"name": "Gulch: Divine Blessing - second side tunnel"
+			  },
+			  {
+				"ref": "Black Gulch/Side room in cave below/Gulch: Ring of Giants+1 - side room in cave below, chest",
+				"name": "Gulch: Ring of Giants+1 - side room in cave below, chest"
+			  },
+			  {
+				"ref": "Black Gulch/Side room in cave below/Gulch: Petrified Dragon Bone - side room in cave below, chest",
+				"name": "Gulch: Petrified Dragon Bone - side room in cave below, chest"
+			  },
+			  {
+				"ref": "Black Gulch/First side tunnel/Gulch: Shotel - first side tunnel",
+				"name": "Gulch: Shotel - first side tunnel"
+			  },
+			  {
+				"ref": "Black Gulch/First side tunnel/Gulch: Great Magic Weapon - first side tunnel",
+				"name": "Gulch: Great Magic Weapon - first side tunnel"
+			  },
+			  {
+				"ref": "Black Gulch/Gulch: Silver Talisman x4 - cave below, behind elevator/",
+				"name": "Gulch: Silver Talisman x4 - cave below, behind elevator"
+			  },
+			  {
+				"ref": "Black Gulch/Gulch: Large Soul of a Nameless Soldier - first urn/",
+				"name": "Gulch: Large Soul of a Nameless Soldier - first urn"
+			  },
+			  {
+				"ref": "Black Gulch/Second Urn/Gulch: Scraps of Life - second urn",
+				"name": "Gulch: Scraps of Life - second urn"
+			  },
+			  {
+				"ref": "Black Gulch/Second Urn/Gulch: Torch - second urn",
+				"name": "Gulch: Torch - second urn"
+			  },
+			  {
+				"ref": "Black Gulch/Cave below, enemy drop/Gulch: Forgotten Key - cave below, enemy drop",
+				"name": "Gulch: Forgotten Key - cave below, enemy drop"
+			  },
+			  {
+				"ref": "Black Gulch/Cave below, enemy drop/Gulch: Soul of a Giant - cave below, enemy drop",
+				"name": "Gulch: Soul of a Giant - cave below, enemy drop"
+			  } 
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1055,
+            "y": 971,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Black Gulch second half",    
+		"sections": [
+			  {
+				"ref": "Black Gulch/Gulch: Pharros' Lockstone - by second bonfire/",
+				"name": "Gulch: Pharros' Lockstone - by second bonfire"
+			  },
+			  {
+				"ref": "Black Gulch/Gulch: Radiant Lifegem - third urn/",
+				"name": "Gulch: Radiant Lifegem - third urn"
+			  },
+			  {
+				"ref": "Black Gulch/Gulch: Fire Seed - boss arena/",
+				"name": "Gulch: Fire Seed - boss arena"
+			  },
+			  {
+				"ref": "Black Gulch/Gulch: Soul of the Rotten/",
+				"name": "Gulch: Soul of the Rotten"
+			  },
+			  {
+				"ref": "Black Gulch/After Boss/Gulch: Sublime Bone Dust - after boss",
+				"name": "Gulch: Sublime Bone Dust - after boss"
+			  },
+			  {
+				"ref": "Black Gulch/After Boss/Gulch: Petrified Something - after boss",
+				"name": "Gulch: Petrified Something - after boss"
+			  },
+			  {
+				"ref": "Black Gulch/After Boss/Gulch: Simpleton's Spice - after boss",
+				"name": "Gulch: Simpleton's Spice - after boss"
+			  },
+			  {
+				"ref": "Black Gulch/After Boss/Gulch: Skeptic's Spice - after boss",
+				"name": "Gulch: Skeptic's Spice - after boss"
+			  }
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1085,
+            "y": 971,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Grave of Saints",    
+		"sections": [
+			  {
+				"ref": "Grave of Saints/Royal Rat Vanguard/GraveOfSaints: Royal Rat Vanguard Soul",
+				"name": "GraveOfSaints: Royal Rat Vanguard Soul"
+			  },
+			  {
+				"ref": "Grave of Saints/Royal Rat Vanguard/GraveOfSaints: Rat Tail - boss drop",
+				"name": "GraveOfSaints: Royal Rat Vanguard Soul"
+			  },
+			  {
+				"ref": "Grave of Saints/After bridge, second floor/GraveOfSaints: Whisper of Despair - after bridge, second floor",
+				"name": "GraveOfSaints: Whisper of Despair - after bridge, second floor"
+			  },
+			  {
+				"ref": "Grave of Saints/After bridge, second floor/GraveOfSaints: Torch - after bridge, second floor",
+				"name": "GraveOfSaints: Torch - after bridge, second floor"
+			  },
+			  {
+				"ref": "Grave of Saints/GraveOfSaints: Large Soul of a Nameless Soldier - first circular room/",
+				"name": "GraveOfSaints: Large Soul of a Nameless Soldier - first circular room"
+			  },
+			  {
+				"ref": "Grave of Saints/GraveOfSaints: Homeward Bone x3 - second floor, left side/",
+				"name": "GraveOfSaints: Homeward Bone x3 - second floor, left side"
+			  },
+			  {
+				"ref": "Grave of Saints/GraveOfSaints: Poison Moss x2 - after bridge, first floor/",
+				"name": "GraveOfSaints: Poison Moss x2 - after bridge, first floor"
+			  },
+			  {
+				"ref": "Grave of Saints/GraveOfSaints: Pharros' Lockstone - after boss/",
+				"name": "GraveOfSaints: Pharros' Lockstone - after boss"
+			  },
+			  {
+				"ref": "Grave of Saints/GraveOfSaints: Small Smooth & Silky Stone x3 - first floor, left side/",
+				"name": "GraveOfSaints: Small Smooth & Silky Stone x3 - first floor, left side"
+			  }
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1070,
+            "y": 783,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Path from Majula to Heide's Tower of Flame",    
+		"sections": [
+			  {
+				"ref": "Heides Tower of Flame/Heides: Soul of a Lost Undead - in waterway from Majula/",
+				"name": "Heides: Soul of a Lost Undead - in waterway from Majula"
+			  },
+			  {
+				"ref": "Heides Tower of Flame/Heides: Broken Thief Sword - in waterway from Majula/",
+				"name": "Heides: Broken Thief Sword - in waterway from Majula"
+			  }
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1089,
+            "y": 410,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Heide's Tower of Flame first half",    
+		"sections": [
+			  {
+				"ref": "Heides Tower of Flame/Railing after first bonfire/Heides: Soul of a Nameless Soldier - railing after first bonfire",
+				"name": "Heides: Soul of a Nameless Soldier - railing after first bonfire"
+			  },
+			  {
+				"ref": "Heides Tower of Flame/Railing after first bonfire/Heides: Human Effigy - railing after first bonfire",
+				"name": "Heides: Human Effigy - railing after first bonfire"
+			  },
+			  {
+				"ref": "Heides Tower of Flame/Heides: Lloyd's Talisman - by first lever/",
+				"name": "Heides: Lloyd's Talisman - by first lever"
+			  },
+			  {
+				"ref": "Heides Tower of Flame/Heides: Divine Blessing - on a ledge towards CathedralOfBlue/",
+				"name": "Heides: Divine Blessing - on a ledge towards CathedralOfBlue"
+			  },
+			  {
+				"ref": "Heides Tower of Flame/Heides: Ring of Binding - before boss, chest/",
+				"name": "Heides: Ring of Binding - before boss, chest"
+			  },
+			  {
+				"ref": "Heides Tower of Flame/Heides: Green Blossom x3 - before boss, chest/",
+				"name": "Heides: Green Blossom x3 - before boss, chest"
+			  },
+			  {
+				"ref": "Heides Tower of Flame/Heides: Dragonrider Soul/",
+				"name": "Heides: Dragonrider Soul"
+			  }  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1157,
+            "y": 435,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Heide's Tower of Flame second half",    
+		"sections": [
+			  {
+				"ref": "Heides Tower of Flame/Dragon Knight Set SotFS/Heides: Knight Helm - behind statue before Wharf, metal chest",
+				"name": "Heides: Knight Helm - behind statue before Wharf, metal chest"
+			  },
+			  {
+				"ref": "Heides Tower of Flame/Dragon Knight Set SotFS/Heides: Knight Armor - behind statue before Wharf, metal chest",
+				"name": "Heides: Knight Armor - behind statue before Wharf, metal chest"
+			  },
+			  {
+				"ref": "Heides Tower of Flame/Dragon Knight Set SotFS/Heides: Knight Gauntlets - behind statue before Wharf, metal chest",
+				"name": "Heides: Knight Gauntlets - behind statue before Wharf, metal chest"
+			  },
+			  {
+				"ref": "Heides Tower of Flame/Dragon Knight Set SotFS/Heides: Knight Leggings - behind statue before Wharf, metal chest",
+				"name": "Heides: Knight Leggings - behind statue before Wharf, metal chest"
+			  },
+			  {
+				"ref": "Heides Tower of Flame/Dragon Knight Set Vanilla/Heides: Knight Helm - side room just before Wharf, metal chest",
+				"name": "Heides: Knight Helm - side room just before Wharf, metal chest"
+			  },
+			  {
+				"ref": "Heides Tower of Flame/Dragon Knight Set Vanilla/Heides: Knight Armor - side room just before Wharf, metal chest",
+				"name": "Heides: Knight Armor - side room just before Wharf, metal chest"
+			  },
+			  {
+				"ref": "Heides Tower of Flame/Dragon Knight Set Vanilla/Heides: Knight Gauntlets - side room just before Wharf, metal chest",
+				"name": "Heides: Knight Gauntlets - side room just before Wharf, metal chest"
+			  },
+			  {
+				"ref": "Heides Tower of Flame/Dragon Knight Set Vanilla/Heides: Knight Leggings - side room just before Wharf, metal chest",
+				"name": "Heides: Knight Leggings - side room just before Wharf, metal chest"
+			  },
+			  {
+				"ref": "Heides Tower of Flame/Heides: Sublime Bone Dust - metal chest guarded by enemy after boss/",
+				"name": "Heides: Sublime Bone Dust - metal chest guarded by enemy after boss"
+			  },
+			  {
+				"ref": "Heides Tower of Flame/Alcove top floor far end after boss, corpse/Heides: Soul of a Proud Knight - alcove- top floor far end after boss, corpse",
+				"name": "Heides: Soul of a Proud Knight - alcove- top floor far end after boss, corpse"
+			  },
+			  {
+				"ref": "Heides Tower of Flame/Alcove top floor far end after boss, corpse/Heides: Old Knight Halberd - alcove- top floor far end after boss, corpse",
+				"name": "Heides: Old Knight Halberd - alcove- top floor far end after boss, corpse"
+			  },
+			  {
+				"ref": "Heides Tower of Flame/Railing- top floor far end after boss, corpse/Heides: Human Effigy - railing- top floor far end after boss, corpse",
+				"name": "Heides: Human Effigy - railing- top floor far end after boss, corpse"
+			  },
+			  {
+				"ref": "Heides Tower of Flame/Railing- top floor far end after boss, corpse/Heides: Dark Troches - railing- top floor far end after boss, corpse",
+				"name": "Heides: Dark Troches - railing- top floor far end after boss, corpse"
+			  },
+			  {
+				"ref": "Heides Tower of Flame/Heides: Estus Flask Shard - railing behind statue before Wharf/",
+				"name": "Heides: Estus Flask Shard - railing behind statue before Wharf"
+			  },
+			  {
+				"ref": "Heides Tower of Flame/Heides: Estus Flask Shard - railing behind statue before Wharf/",
+				"name": "Heides: Estus Flask Shard - railing behind statue before Wharf"
+			  }
+
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1191,
+            "y": 435,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Licia of Lindeldt",    
+		"sections": [
+			  {
+				"ref": "Heides Tower of Flame/Licia of Lindeldt/Heides: Cleric's Sacred Chime - Licia shop",
+				"name": "Heides: Cleric's Sacred Chime - Licia shop"
+			  },
+			  {
+				"ref": "Heides Tower of Flame/Licia of Lindeldt/Heides: Heal - Licia shop",
+				"name": "Heides: Heal - Licia shop"
+			  },
+			  {
+				"ref": "Heides Tower of Flame/Licia of Lindeldt/Heides: Med Heal - Licia shop",
+				"name": "Heides: Med Heal - Licia shop"
+			  },
+			  {
+				"ref": "Heides Tower of Flame/Licia of Lindeldt/Heides: Great Heal Excerpt - Licia shop",
+				"name": "Heides: Great Heal Excerpt - Licia shop"
+			  },
+			  {
+				"ref": "Heides Tower of Flame/Licia of Lindeldt/Heides: Replenishment - Licia shop",
+				"name": "Heides: Replenishment - Licia shop"
+			  },
+			  {
+				"ref": "Heides Tower of Flame/Licia of Lindeldt/Heides: Resplendent Life - Licia shop",
+				"name": "Heides: Resplendent Life - Licia shop"
+			  },
+			  {
+				"ref": "Heides Tower of Flame/Licia of Lindeldt/Heides: Caressing Prayer - Licia shop",
+				"name": "Heides: Caressing Prayer - Licia shop"
+			  },
+			  {
+				"ref": "Heides Tower of Flame/Licia of Lindeldt/Heides: Force - Licia shop",
+				"name": "Heides: Force - Licia shop"
+			  },
+			  {
+				"ref": "Heides Tower of Flame/Licia of Lindeldt/Heides: Lightning Spear - Licia shop",
+				"name": "Heides: Lightning Spear - Licia shop"
+			  },
+			  {
+				"ref": "Heides Tower of Flame/Licia of Lindeldt/Heides: Homeward - Licia shop",
+				"name": "Heides: Homeward - Licia shop"
+			  },
+			  {
+				"ref": "Heides Tower of Flame/Licia of Lindeldt/Heides: Guidance - Licia shop",
+				"name": "Heides: Guidance - Licia shop"
+			  },
+			  {
+				"ref": "Heides Tower of Flame/Licia of Lindeldt/Heides: Ring of Prayer - Licia shop",
+				"name": "Heides: Ring of Prayer - Licia shop"
+			  }
+			  
+
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1225,
+            "y": 435,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Cathedral of Blue",    
+		"sections": [
+			  {
+				"ref": "Cathedral of Blue/Before boss, chest/CathedralOfBlue: Ring of Binding - before boss, chest",
+				"name": "CathedralOfBlue: Ring of Binding - before boss, chest"
+			  },
+			  {
+				"ref": "Cathedral of Blue/Before boss, chest/CathedralOfBlue: Human Effigy x5 - before boss, chest",
+				"name": "CathedralOfBlue: Human Effigy x5 - before boss, chest"
+			  },
+			  {
+				"ref": "Cathedral of Blue/CathedralOfBlue: Old Radiant Lifegem - before boss, by chest/",
+				"name": "CathedralOfBlue: Old Radiant Lifegem - before boss, by chest"
+			  },
+			  {
+				"ref": "Cathedral of Blue/Old Dragonslayer/CathedralOfBlue: Old Dragonslayer Soul",
+				"name": "CathedralOfBlue: Old Dragonslayer Soul"
+			  },
+			  {
+				"ref": "Cathedral of Blue/Old Dragonslayer/CathedralOfBlue: Old Leo Ring",
+				"name": "CathedralOfBlue: Old Leo Ring"
+			  },
+			  {
+				"ref": "Cathedral of Blue/After boss metal chest/CathedralOfBlue: Heide Knight Iron Mask - after boss, metal chest",
+				"name": "CathedralOfBlue: Heide Knight Iron Mask - after boss, metal chest"
+			  },
+			  {
+				"ref": "Cathedral of Blue/After boss metal chest/CathedralOfBlue: Cleric's Parma - after boss, metal chest",
+				"name": "CathedralOfBlue: Cleric's Parma - after boss, metal chest"
+			  },
+			  {
+				"ref": "Cathedral of Blue/After boss metal chest/CathedralOfBlue: Tower Shield - after boss, metal chest",
+				"name": "CathedralOfBlue: Tower Shield - after boss, metal chest"
+			  },
+			  {
+				"ref": "Cathedral of Blue/CathedralOfBlue: Cracked Blue Eye Orb x3 - after boss, wooden chest/",
+				"name": "CathedralOfBlue: Cracked Blue Eye Orb x3 - after boss, wooden chest"
+			  }
+			  
+
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1189,
+            "y": 534,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Sinner's Rise main area",    
+		"sections": [
+			  {
+				"ref": "Sinner's Rise/SinnersRise: Large Soul of a Lost Undead - by bonfire, before ladder/",
+				"name": "SinnersRise: Large Soul of a Lost Undead - by bonfire, before ladder"
+			  },
+			  {
+				"ref": "Sinner's Rise/SinnersRise: Human Effigy - before elevator, ledge outside/",
+				"name": "SinnersRise: Human Effigy - before elevator, ledge outside"
+			  },
+			  {
+				"ref": "Sinner's Rise/SinnersRise: Blossom Kite Shield - after elevator, left side/",
+				"name": "SinnersRise: Blossom Kite Shield - after elevator, left side"
+			  },
+			  {
+				"ref": "Sinner's Rise/SinnersRise: Sublime Bone Dust - after elevator, left side/",
+				"name": "SinnersRise: Sublime Bone Dust - after elevator, left side"
+			  },
+			  {
+				"ref": "Sinner's Rise/SinnersRise: Large Soul of a Nameless Soldier - after elevator, right side/",
+				"name": "SinnersRise: Large Soul of a Nameless Soldier - after elevator, right side"
+			  },
+			  {
+				"ref": "Sinner's Rise/Illusory Wall/SinnersRise: Northern Ritual Band - after elevator, right side illusory wall",
+				"name": "SinnersRise: Northern Ritual Band - after elevator, right side illusory wall"
+			  },
+			  {
+				"ref": "Sinner's Rise/Illusory Wall/SinnersRise: Bleed Stone - after elevator, right side illusory wall",
+				"name": "SinnersRise: Bleed Stone - after elevator, right side illusory wall"
+			  },
+			  {
+				"ref": "Sinner's Rise/SinnersRise: Fire Seed - locked upper left cell/",
+				"name": "SinnersRise: Fire Seed - locked upper left cell"
+			  },
+			  {
+				"ref": "Sinner's Rise/SinnersRise: Lacerating Knife x5 - during elevator, drop off/",
+				"name": "SinnersRise: Lacerating Knife x5 - during elevator, drop off"
+			  },
+			  {
+				"ref": "Sinner's Rise/Lower left cell/SinnersRise: Soul of a Proud Knight - lower left cell",
+				"name": "SinnersRise: Soul of a Proud Knight - lower left cell"
+			  },
+			  {
+				"ref": "Sinner's Rise/Lower left cell/SinnersRise: Pharros' Lockstone - lower left cell",
+				"name": "SinnersRise: Pharros' Lockstone - lower left cell"
+			  }
+			  
+			  
+
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1548,
+            "y": 530,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Sinner's Rise Boss area",    
+		"sections": [
+			  {
+				"ref": "Sinner's Rise/SinnersRise: Radiant Lifegem - before boss, left side/",
+				"name": "SinnersRise: Radiant Lifegem - before boss, left side"
+			  },
+			  {
+				"ref": "Sinner's Rise/SinnersRise: Smooth & Silky Stone - before boss, right side locked room/",
+				"name": "SinnersRise: Smooth & Silky Stone - before boss, right side locked room"
+			  },
+			  {
+				"ref": "Sinner's Rise/SinnersRise: Soul of the Lost Sinner/",
+				"name": "SinnersRise: Soul of the Lost Sinner"
+			  },
+			  {
+				"ref": "Sinner's Rise/After boss/SinnersRise: Fragrant Branch of Yore - after boss",
+				"name": "SinnersRise: Fragrant Branch of Yore - after boss"
+			  },
+			  {
+				"ref": "Sinner's Rise/After boss/SinnersRise: Fragrant Branch of Yore - after boss",
+				"name": "SinnersRise: Fragrant Branch of Yore - after boss"
+			  }
+			  
+			  
+
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1580,
+            "y": 530,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Dragon Aerie first and second nests",    
+		"sections": [
+			  {
+				"ref": "Dragon Aerie/Aerie: Bonfire Ascetic - first dragon nest, drop down/",
+				"name": "Aerie: Bonfire Ascetic - first dragon nest, drop down"
+			  },
+			  {
+				"ref": "Dragon Aerie/Aerie: Radiant Lifegem - first dragon nest, drop down/",
+				"name": "Aerie: Radiant Lifegem - first dragon nest, drop down"
+			  },
+			  {
+				"ref": "Dragon Aerie/Aerie: Darknight Stone - first dragon nest/",
+				"name": "Aerie: Darknight Stone - first dragon nest"
+			  },
+			  {
+				"ref": "Dragon Aerie/Aerie: Soul of a Brave Warrior - first dragon nest/",
+				"name": "Aerie: Soul of a Brave Warrior - first dragon nest"
+			  },
+			  {
+				"ref": "Dragon Aerie/Aerie: Boltstone - first dragon nest/",
+				"name": "Aerie: Boltstone - first dragon nest"
+			  },
+			  {
+				"ref": "Dragon Aerie/Aerie: Dragon Tooth - first dragon nest/",
+				"name": "Aerie: Dragon Tooth - first dragon nest"
+			  },
+			  {
+				"ref": "Dragon Aerie/Aerie: Old Radiant Lifegem - after first dragon nest/",
+				"name": "Aerie: Old Radiant Lifegem - after first dragon nest"
+			  },
+			  {
+				"ref": "Dragon Aerie/Aerie: Petrified Dragon Bone - by second dragon nest/",
+				"name": "Aerie: Petrified Dragon Bone - by second dragon nest"
+			  },
+			  {
+				"ref": "Dragon Aerie/Aerie: Large Soul of a Brave Warrior - second dragon nest/",
+				"name": "Aerie: Large Soul of a Brave Warrior - second dragon nest"
+			  }
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 490,
+            "y": 198,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Dragon Aerie second half",    
+		"sections": [
+			  {
+				"ref": "Dragon Aerie/Aerie: Pharros' Lockstone - drop to ledge before third dragon nest/",
+				"name": "Aerie: Pharros' Lockstone - drop to ledge before third dragon nest"
+			  },
+			  {
+				"ref": "Dragon Aerie/Aerie: Soul of a Brave Warrior - drop to ledge before third dragon nest/",
+				"name": "Aerie: Soul of a Brave Warrior - drop to ledge before third dragon nest"
+			  },
+			  {
+				"ref": "Dragon Aerie/Aerie: Dragon Charm - third dragon nest/",
+				"name": "Aerie: Dragon Charm - third dragon nest"
+			  },
+			  {
+				"ref": "Dragon Aerie/Aerie: Firedrake Stone - third dragon nest/",
+				"name": "Aerie: Firedrake Stone - third dragon nest"
+			  },
+			  {
+				"ref": "Dragon Aerie/Aerie: Ring of the Evil Eye+1 - third dragon nest/",
+				"name": "Aerie: Ring of the Evil Eye+1 - third dragon nest"
+			  },
+			  {
+				"ref": "Dragon Aerie/Aerie: Bleed Stone - third dragon nest/",
+				"name": "Aerie: Bleed Stone - third dragon nest"
+			  },
+			  {
+				"ref": "Dragon Aerie/Aerie: Ring of the Evil Eye+1 - third dragon nest/",
+				"name": "Aerie: Ring of the Evil Eye+1 - third dragon nest"
+			  },
+			  {
+				"ref": "Dragon Aerie/Aerie: Twinkling Titanite - drop to ledge by big zip-line/",
+				"name": "Aerie: Twinkling Titanite - drop to ledge by big zip-line"
+			  },
+			  {
+				"ref": "Dragon Aerie/Aerie: Soul of a Great Hero - drop from zip-line to stone pillar/",
+				"name": "Aerie: Soul of a Great Hero - drop from zip-line to stone pillar"
+			  }
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 530,
+            "y": 198,
+			"size": 15
+		  }
+		]
+	  }
+
+	  
+	  
+
+	  
+	]
+
+ }
+]

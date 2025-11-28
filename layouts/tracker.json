@@ -1,0 +1,385 @@
+{
+    "tracker_default": {
+        "type": "container",
+        "background": "#000000",
+        "content": {
+            "type": "dock",
+            "dropshadow": true,
+            "content": [
+                {
+                    "type": "dock",
+                    "dock": "left",
+                    "v_alignment": "stretch",
+                    "content": [
+						{
+                            "type": "group",
+                            "header": "Items",
+                            "dock": "top",
+                            "content": {
+                                "type": "layout",
+                                "key": "Items"
+                            }
+                        },
+						{
+                            "type": "group",
+                            "header": "Unpetrifications",
+                            "dock": "top",
+                            "content": {
+                                "type": "layout",
+                                "key": "Unpetrifications"
+                            }
+                        }
+                        
+                    ]
+                }
+            ]
+        }
+    },
+    "tracker_horizontal": {
+        "type": "container",
+        "background": "#000000",
+        "content": {
+            "type": "dock",
+            "dropshadow": true,
+            "content": [
+                {
+                    "type": "dock",
+                    "dock": "left",
+                    "v_alignment": "stretch",
+                    "content": [
+						{
+                            "type": "group",
+                            "header": "Items",
+                            "dock": "top",
+                            "margin": "0,0,3,0",
+                            "content": {
+                                "type": "layout",
+                                "h_alignment": "center",
+                                "v_alignment": "center",
+                                "key": "Items"
+                            }
+                        },
+						{
+                            "type": "group",
+                            "header": "Unpetrifications",
+                            "dock": "top",
+                            "margin": "0,0,3,0",
+                            "content": {
+                                "type": "layout",
+                                "h_alignment": "center",
+                                "v_alignment": "center",
+                                "key": "Unpetrifications"
+                            }
+                        }
+                        
+                    ]
+                },
+                {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Overworld",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Overworld"
+                                ]
+                            }
+                        },
+						{
+                            "title": "Things Betwixt",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Things Betwixt"
+                                ]
+                            }
+                        },
+						{
+                            "title": "Majula",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Majula"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Forest of the Fallen Giants",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Forest of the Fallen Giants"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Heide's Tower of Flame",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Heide's Tower of Flame"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Lost Bastille & Belfry Luna",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Lost Bastille & Belfry Luna"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Sinner's Rise",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Sinner's Rise"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Huntmans Copse",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Huntmans Copse"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Harvest Valley",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Harvest Valley"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Earthen Peak",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Earthen Peak"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "No-Man's Wharf",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "No-Man's Wharf"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "The Gutter & Black Gulch",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "The Gutter & Black Gulch"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Shaded Woods",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Shaded Woods"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Doors of Pharros",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Doors of Pharros"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Brightstone Cove Tseldora",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Brightstone Cove Tseldora"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Grave of Saints",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Grave of Saints"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Iron Keep & Belfry Sol",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Iron Keep & Belfry Sol"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Drangleic Castle",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Drangleic Castle"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Shrine of Amana",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Shrine of Amana"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Undead Crypt",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Undead Crypt"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Aldia's Keep",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Aldia's Keep"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Dragon Aerie & Shrine",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Dragon Aerie & Shrine"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Memories",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Memories"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Shulva Sanctum City",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Shulva Sanctum City"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Dragon Sanctum",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Dragon Sanctum"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Dragon's Rest",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Dragon's Rest"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Cave of the Dead",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Cave of the Dead"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Brume Tower",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Brume Tower"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Iron Passage",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Iron Passage"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Memory of Old Iron King",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Memory of Old Iron King"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Frozen Eleum Loyce",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Frozen Eleum Loyce"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Grand Cathedral",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Grand Cathedral"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Frigid Outskirts",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Frigid Outskirts"
+                                ]
+                            }
+                        }
+						
+                        
+
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,227 @@
+[
+  {
+    "name": "Sinner's Rise",
+    "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "children": [
+      {
+        "name": "SinnersRise: Large Soul of a Lost Undead - by bonfire, before ladder",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Sinner's Rise",
+            "x": 778,
+            "y": 87,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "SinnersRise: Human Effigy - before elevator, ledge outside",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Sinner's Rise",
+            "x": 69,
+            "y": 205,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "SinnersRise: Blossom Kite Shield - after elevator, left side",
+        "sections":[{
+          "visibility_rules": ["SotFS"]
+        }],
+        "map_locations": [
+          {
+            "map": "Sinner's Rise",
+            "x": 263,
+            "y": 511,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "SinnersRise: Sublime Bone Dust - after elevator, left side",
+        "sections":[{
+          "visibility_rules": ["$hasnot|SotFS"]
+        }],
+        "map_locations": [
+          {
+            "map": "Sinner's Rise",
+            "x": 263,
+            "y": 511,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "SinnersRise: Large Soul of a Nameless Soldier - after elevator, right side",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Sinner's Rise",
+            "x": 303,
+            "y": 659,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "Illusory Wall",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "SinnersRise: Northern Ritual Band - after elevator, right side illusory wall"
+          },
+          {
+            "name": "SinnersRise: Bleed Stone - after elevator, right side illusory wall"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Sinner's Rise",
+            "x": 299,
+            "y": 683,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "SinnersRise: Fire Seed - locked upper left cell",
+        "sections":[{
+          "access_rules": ["Bastille Key"]
+        }],
+        "map_locations": [
+          {
+            "map": "Sinner's Rise",
+            "x": 490,
+            "y": 504,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "SinnersRise: Lacerating Knife x5 - during elevator, drop off",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Sinner's Rise",
+            "x": 36,
+            "y": 610,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "Lower left cell",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "SinnersRise: Soul of a Proud Knight - lower left cell"
+          },
+          {
+            "name": "SinnersRise: Pharros' Lockstone - lower left cell"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Sinner's Rise",
+            "x": 483,
+            "y": 413,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "SinnersRise: Radiant Lifegem - before boss, left side",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Sinner's Rise",
+            "x": 277,
+            "y": 992,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "SinnersRise: Smooth & Silky Stone - before boss, right side locked room",
+        "sections":[{
+          "access_rules": ["Bastille Key"]
+        }],
+        "map_locations": [
+          {
+            "map": "Sinner's Rise",
+            "x": 287,
+            "y": 1235,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "SinnersRise: Soul of the Lost Sinner",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Sinner's Rise",
+            "x": 456,
+            "y": 1096,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "After boss",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "SinnersRise: Fragrant Branch of Yore - after boss"
+          },
+          {
+            "name": "SinnersRise: Elizabeth Mushroom - after boss"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Sinner's Rise",
+            "x": 623,
+            "y": 1079,
+			      "size": 20
+          }
+        ]
+      }
+	  
+    ]
+  }
+  
+  
+  
+ 
+]

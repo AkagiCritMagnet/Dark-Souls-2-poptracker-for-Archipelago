@@ -1,0 +1,187 @@
+[
+  {
+    "name": "Belfry Luna",
+    "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "children": [
+      {
+        "name": "BelfryLuna: Belfry Gargoyle Soul",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 1341,
+            "y": 1260,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Topmost floor chest",
+        "access_rules": [],
+        "sections":[
+          {
+             "name": "BelfryLuna: Radiant Lifegem x2 - topmost floor, chest"         
+          },
+          {
+             "name": "BelfryLuna: Twilight Herb x2 - topmost floor, chest"         
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 1206,
+            "y": 1143,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "BelfryLuna: Blue Tearstone Ring - drop from second floor hole, chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 1063,
+            "y": 1172,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "BelfryLuna: Southern Ritual Band - after boss",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 1337,
+            "y": 1446,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "BelfryLuna: Skeptic's Spice - second floor",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 1125,
+            "y": 1284,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "BelfryLuna: Skeptic's Spice - drop from second floor hole",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 1127,
+            "y": 1152,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "BelfryLuna: Skeptic's Spice - topmost floor, behind pillar",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 1256,
+            "y": 1124,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Pit after Boss - Lower level",
+        "access_rules": [],
+        "sections":[
+          {
+            "name":"BelfryLuna: Bastille Key - pit after boss, lower level",
+            "visibility_rules": ["$hasnot|SotFS"]
+          },
+          {
+            "name":"BelfryLuna: Dragon Tooth - pit after boss, lower level",
+            "visibility_rules": ["SotFS"]
+          },
+          {
+            "name":"BelfryLuna: Petrified Something - pit after boss, lower level",
+            "visibility_rules": ["SotFS"]
+          },
+          {
+            "name":"BelfryLuna: Brightbug - pit after boss, lower level",
+            "visibility_rules": ["SotFS"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 1230,
+            "y": 1405,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "BelfryLuna: Falchion - pit after boss, upper level",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 1255,
+            "y": 1404,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "BelfryLuna: Soul of a Proud Knight - boss arena",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 1378,
+            "y": 1301,
+			      "size": 20
+          }
+        ]
+
+      }
+	  
+    ]
+  }
+  
+  
+  
+ 
+]

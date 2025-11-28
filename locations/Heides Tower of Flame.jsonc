@@ -1,0 +1,336 @@
+[
+  {
+    "name": "Heides Tower of Flame",
+    "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "children": [
+      {
+        "name": "Heides: Soul of a Lost Undead - in waterway from Majula",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 467,
+            "y": 169,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Heides: Broken Thief Sword - in waterway from Majula",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 481,
+            "y": 178,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "Railing after first bonfire",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Heides: Soul of a Nameless Soldier - railing after first bonfire"
+          },
+          {
+            "name": "Heides: Human Effigy - railing after first bonfire"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Heide's Tower of Flame",
+            "x": 1072,
+            "y": 1196,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "Heides: Lloyd's Talisman - by first lever",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Heide's Tower of Flame",
+            "x": 1096,
+            "y": 1130,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "Heides: Divine Blessing - on a ledge towards CathedralOfBlue",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Heide's Tower of Flame",
+            "x": 704,
+            "y": 992,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "Heides: Ring of Binding - before boss, chest",
+        "sections":[{
+          "access_rules": ["SotFS"]
+        }],
+        "map_locations": [
+          {
+            "map": "Heide's Tower of Flame",
+            "x": 1000,
+            "y": 854,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "Heides: Green Blossom x3 - before boss, chest",
+        "sections":[{
+          "access_rules": ["$hasnot|SotFS"]
+        }],
+        "map_locations": [
+          {
+            "map": "Heide's Tower of Flame",
+            "x": 1000,
+            "y": 854,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "Heides: Dragonrider Soul",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Heide's Tower of Flame",
+            "x": 1184,
+            "y": 889,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "Dragon Knight Set SotFS",
+        "access_rules": ["Statue in Heide"],
+        "visibility_rules":["SotFS"],
+        "sections":[
+          {
+            "name": "Heides: Knight Helm - behind statue before Wharf, metal chest"
+          },
+          {
+            "name": "Heides: Knight Armor - behind statue before Wharf, metal chest"
+          },
+          {
+            "name": "Heides: Knight Gauntlets - behind statue before Wharf, metal chest"
+          },
+          {
+            "name": "Heides: Knight Leggings - behind statue before Wharf, metal chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Heide's Tower of Flame",
+            "x": 336,
+            "y": 378,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "Dragon Knight Set Vanilla",
+        "access_rules": [],
+        "visibility_rules":["$hasnot|SotFS"],
+        "sections":[
+          {
+            "name": "Heides: Knight Helm - side room just before Wharf, metal chest"
+          },
+          {
+            "name": "Heides: Knight Armor - side room just before Wharf, metal chest"
+          },
+          {
+            "name": "Heides: Knight Gauntlets - side room just before Wharf, metal chest"
+          },
+          {
+            "name": "Heides: Knight Leggings - side room just before Wharf, metal chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Heide's Tower of Flame",
+            "x": 336,
+            "y": 378,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "Heides: Sublime Bone Dust - metal chest guarded by enemy after boss",
+        "sections":[{
+          "visibility_rules": ["SotFS"],
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Heide's Tower of Flame",
+            "x": 936,
+            "y": 554,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "Alcove top floor far end after boss, corpse",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Heides: Soul of a Proud Knight - alcove- top floor far end after boss, corpse"
+          },
+          {
+            "name": "Heides: Old Knight Halberd - alcove- top floor far end after boss, corpse"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Heide's Tower of Flame",
+            "x": 1020,
+            "y": 323,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "Railing- top floor far end after boss, corpse",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Heides: Human Effigy - railing- top floor far end after boss, corpse"
+          },
+          {
+            "name": "Heides: Dark Troches - railing- top floor far end after boss, corpse"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Heide's Tower of Flame",
+            "x": 980,
+            "y": 335,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "Heides: Estus Flask Shard - railing behind statue before Wharf",
+        "sections":[{
+          "visibility_rules": ["SotFS"],
+          "access_rules": ["Statue in Heide"]
+        }],
+        "map_locations": [
+          {
+            "map": "Heide's Tower of Flame",
+            "x": 422,
+            "y": 343,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "Heides: Monastery Charm - under spiral staircase after boss",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Heide's Tower of Flame",
+            "x": 1181,
+            "y": 521,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "Licia of Lindeldt",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Heides: Cleric's Sacred Chime - Licia shop"
+          },
+          {
+            "name": "Heides: Heal - Licia shop"
+          },
+          {
+            "name": "Heides: Med Heal - Licia shop"
+          },
+          {
+            "name": "Heides: Great Heal Excerpt - Licia shop"
+          },
+          {
+            "name": "Heides: Replenishment - Licia shop"
+          },
+          {
+            "name": "Heides: Resplendent Life - Licia shop"
+          },
+          {
+            "name": "Heides: Caressing Prayer - Licia shop"
+          },
+          {
+            "name": "Heides: Force - Licia shop"
+          },
+          {
+            "name": "Heides: Lightning Spear - Licia shop"
+          },
+          {
+            "name": "Heides: Homeward - Licia shop"
+          },
+          {
+            "name": "Heides: Guidance - Licia shop"
+          },
+          {
+            "name": "Heides: Ring of Prayer - Licia shop"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Heide's Tower of Flame",
+            "x": 1256,
+            "y": 718,
+			      "size": 20
+          }
+        ]
+      }
+	  
+    ]
+  }
+  
+  
+  
+ 
+]

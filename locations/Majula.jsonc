@@ -1,0 +1,633 @@
+[
+  {
+    "name": "Majula",
+    "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "children": [
+      {
+        "name": "Majula: Estus Flask - Emerald Herald",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 1135,
+            "y": 465,
+			      "size": 20
+          },
+          {
+            "map": "Overworld",
+            "x": 642,
+            "y": 881,
+			      "size": 15
+          }
+        ]
+
+      },
+      {
+        "name": "Rosabeth",
+        "access_rules": ["Rosabeth of Melfia"],
+        "sections":[
+          {
+          "name": "Majula: Prism Stone - Rosabeth after unpetrifying her"
+          },
+          {
+          "name": "Majula: Fireball - Rosabeth shop"
+          },
+          {
+          "name": "Majula: Combustion - Rosabeth shop"
+          },
+          {
+          "name": "Majula: Poison Mist - Rosabeth shop"
+          },
+          {
+          "name": "Majula: Flash Sweat - Rosabeth shop"
+          },
+          {
+          "name": "Majula: Iron Flesh - Rosabeth shop"
+          },
+          {
+          "name": "Majula: Flame Quartz Ring - Rosabeth shop"
+          },
+          {
+          "name": "Majula: Thunder Quartz Ring - Rosabeth shop"
+          },
+          {
+          "name": "Majula: Dark Quartz Ring - Rosabeth shop"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 1102,
+            "y": 291,
+			      "size": 20
+          },
+          {
+            "map": "Overworld",
+            "x": 753,
+            "y": 950,
+			      "size": 15
+          }
+        ]
+
+      },
+      {
+        "name": "Majula: Titanite Shard - Maughlin attic",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 1006,
+            "y": 718,
+			      "size": 20
+          },
+          {
+            "map": "Overworld",
+            "x": 597,
+            "y": 737,
+			      "size": 15
+          }
+        ]
+
+      },
+      {
+        "name": "Majula: Titanite Shard x3 - mansion attic",
+        "sections":[{
+          "access_rules": ["House Key"]
+        }],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 905,
+            "y": 824,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Majula: Torch x3 - mansion attic",
+        "sections":[{
+          "access_rules": ["House Key"]
+        }],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 925,
+            "y": 823,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Majula: Short Bow - Lenigrast workshop",
+        "sections":[{
+          "access_rules": ["Lenigrast's Key"]
+        }],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 1023,
+            "y": 457,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Majula: Rusted Coin - towards FOFG, chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 1010,
+            "y": 1230,
+			      "size": 20
+          },
+          {
+			      "map": "Overworld",
+			      "x": 483,
+			      "y": 746,
+			      "size": 15
+		      }
+        ]
+
+      },
+      {
+        "name": "Majula: Crimson Parma - towards HToF, chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 637,
+            "y": 291,
+			      "size": 20
+          },
+          {
+			      "map": "Overworld",
+			      "x": 959,
+			      "y": 645,
+			      "size": 15
+		      }
+        ]
+
+      },
+      {
+        "name": "Majula: Soul Vessel - mansion basement",
+        "sections":[{
+          "access_rules": ["House Key"]
+        }],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 684,
+            "y": 834,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Majula: Estus Flask Shard - water well",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 852,
+            "y": 622,
+			      "size": 20
+          },
+          {
+			      "map": "Overworld",
+			      "x": 737,
+			      "y": 710,
+			      "size": 15
+		      }
+        ]
+
+      },
+      {
+        "name": "Majula: Divine Blessing - towards SW, under tree",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 1058,
+            "y": 735,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Majula: Morning Star - from TB, drop from cliff",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 1145,
+            "y": 700,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Majula: Cleric's Sacred Chime - from TB, drop from cliff",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 1125,
+            "y": 675,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Majula: Binoculars - from TB, drop from cliff, end of path",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 1141,
+            "y": 625,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Majula: Soul of a Nameless Soldier - by Lenigrast workshop",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 1011,
+            "y": 404,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Majula: Lifegem x3 - by Lenigrast workshop",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 1031,
+            "y": 398,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Majula: Estus Flask Shard - mansion basement",
+        "sections":[{
+          "access_rules": ["House Key"]
+        }],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 667,
+            "y": 785,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Majula: Pharros' Lockstone - mansion library",
+        "sections":[{
+          "access_rules": ["House Key"]
+        }],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 837,
+            "y": 673,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Majula: Homeward Bone x5 - by Covenant of Champions",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 734,
+            "y": 418,
+			      "size": 20
+          },
+          {
+            "map": "Overworld",
+            "x": 911,
+            "y": 731,
+			      "size": 15
+          }
+        ]
+
+      },
+      {
+        "name": "Majula: Lifegem - tent by Shalquoir",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 882,
+            "y": 554,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Majula: Lloyd's Talisman x3 - room by petrified Rosabeth",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 891,
+            "y": 1146,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "By Benhart",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Majula: Lifegem x3 - by Benhart"
+          },
+          {
+            "name": "Majula: Homeward Bone x3 - by Benhart"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 891,
+            "y": 1106,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Maughlin Shop",
+        "access_rules": [],
+        "sections":[
+          {
+          "name": "Majula: Iron Parma - Maughlin shop"
+          },
+          {
+          "name": "Majula: Silver Eagle Kite Shield - Maughlin shop"
+          },
+          {
+          "name": "Majula: Twin Dragon Greatshield - Maughlin shop"
+          },
+          {
+          "name": "Majula: Standard Helm - Maughlin shop"
+          },
+          {
+          "name": "Majula: Hard Leather Armor - Maughlin shop"
+          },
+          {
+          "name": "Majula: Hard Leather Gauntlets - Maughlin shop"
+          },
+          {
+          "name": "Majula: Hard Leather Boots - Maughlin shop"
+          },
+          {
+          "name": "Majula: Falconer Helm - Maughlin shop"
+          },
+          {
+          "name": "Majula: Falconer Armor - Maughlin shop"
+          },
+          {
+          "name": "Majula: Falconer Gloves - Maughlin shop"
+          },
+          {
+          "name": "Majula: Falconer Boots - Maughlin shop"
+          },
+          {
+          "name": "Majula: Infantry Armor - Maughlin shop"
+          },
+          {
+          "name": "Majula: Infantry Gloves - Maughlin shop"
+          },
+          {
+          "name": "Majula: Infantry Boots - Maughlin shop"
+          }
+      ],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 973,
+            "y": 678,
+			      "size": 20
+          },
+          {
+            "map": "Overworld",
+            "x": 632,
+            "y": 731,
+			      "size": 15
+          }
+        ]
+
+      },
+      {
+        "name": "Maughlin Shop 2",
+        "access_rules": [],
+        "sections":[
+          {
+          "name": "Majula: Royal Soldier Helm - Maughlin shop after 1000 Souls"
+          },
+          {
+          "name": "Majula: Royal Soldier Armor - Maughlin shop after 1000 Souls"
+          },
+          {
+          "name": "Majula: Royal Soldier Gauntlets - Maughlin shop after 1000 Souls"
+          },
+          {
+          "name": "Majula: Royal Soldier Leggings - Maughlin shop after 1000 Souls"
+          },
+          {
+          "name": "Majula: Elite Knight Helm - Maughlin shop after 1000 Souls"
+          },
+          {
+          "name": "Majula: Elite Knight Armor - Maughlin shop after 1000 Souls"
+          },
+          {
+          "name": "Majula: Elite Knight Gloves - Maughlin shop after 1000 Souls"
+          },
+          {
+          "name": "Majula: Elite Knight Leggings - Maughlin shop after 1000 Souls"
+          },
+          {
+          "name": "Majula: Alva Helm - Maughlin shop after 15000 Souls"
+          },
+          {
+          "name": "Majula: Alva Armor - Maughlin shop after 15000 Souls"
+          },
+          {
+          "name": "Majula: Alva Gauntlets - Maughlin shop after 15000 Souls"
+          },
+          {
+          "name": "Majula: Alva Leggings - Maughlin shop after 15000 Souls"
+          }
+      ],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 995,
+            "y": 678,
+			      "size": 20
+          },
+          {
+            "map": "Overworld",
+            "x": 632,
+            "y": 751,
+			      "size": 15
+          }
+        ]
+
+      },
+      {
+        "name": "Lenigrast",
+        "access_rules": ["Lenigrast's Key"],
+        "sections":[
+          {
+          "name": "Majula: Longsword - Lenigrast shop"
+          },
+          {
+          "name": "Majula: Broadsword - Lenigrast shop"
+          },
+          {
+          "name": "Majula: Estoc - Lenigrast shop"
+          },
+          {
+          "name": "Majula: Rapier - Lenigrast shop"
+          },
+          {
+          "name": "Majula: Falchion - Lenigrast shop"
+          },
+          {
+          "name": "Majula: Battle Axe - Lenigrast shop"
+          },
+          {
+          "name": "Majula: Mace - Lenigrast shop"
+          },
+          {
+          "name": "Majula: Spear - Lenigrast shop"
+          },
+          {
+          "name": "Majula: Repair Powder - Lenigrast shop"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 1000,
+            "y": 436,
+			      "size": 20
+          },
+          {
+            "map": "Overworld",
+            "x": 776,
+            "y": 851,
+			      "size": 15
+          }
+        ]
+
+      },
+      {
+        "name": "Shalquoir",
+        "access_rules": [],
+        "sections":[
+          {
+          "name": "Majula: Flying Feline Boots - Shalquoir shop after killing DoP and GoS bosses"
+          },
+          {
+          "name": "Majula: Silvercat Ring - Shalquoir shop"
+          },
+          {
+          "name": "Majula: Redeye Ring - Shalquoir shop"
+          },
+          {
+          "name": "Majula: Name-engraved Ring - Shalquoir shop"
+          },
+          {
+          "name": "Majula: Ring of Whispers - Shalquoir shop"
+          },
+          {
+          "name": "Majula: Ring of the Evil Eye - Shalquoir shop"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 862,
+            "y": 572,
+			      "size": 20
+          },
+          {
+            "map": "Overworld",
+            "x": 777,
+            "y": 767,
+			      "size": 15
+          }
+        ]
+
+      }
+      
+      
+
+
+      
+      
+	  
+    ]
+  }
+  
+  
+  
+ 
+]

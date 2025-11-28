@@ -1,0 +1,203 @@
+[
+  {
+    "name": "Things Betwixt",
+    "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "children": [
+      {
+        "name": "Betwixt: Human Effigy - attic",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Things Betwixt",
+            "x": 857,
+            "y": 638,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Betwixt: Rusted Coin - right of grass field before bridge",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Things Betwixt",
+            "x": 1035,
+            "y": 947,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Betwixt: Gold Pine Resin - left path before bridge",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Things Betwixt",
+            "x": 575,
+            "y": 1027,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Betwixt: Small Smooth & Silky Stone - under waterfall",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Things Betwixt",
+            "x": 751,
+            "y": 847,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Betwixt: Soul of a Nameless Soldier - below crow nest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Things Betwixt",
+            "x": 501,
+            "y": 509,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "By bonefire",
+        "access_rules": [],
+        "sections":[
+          {
+          "name": "Betwixt: Soul of a Lost Undead - by bonfire"
+          },
+          {
+            "name": "Betwixt: Torch - by bonfire"
+          }
+      ],
+        "map_locations": [
+          {
+            "map": "Things Betwixt",
+            "x": 655,
+            "y": 643,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Betwixt: Cracked Red Eye Orb - 2nd tutorial, alcove behind door",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Things Betwixt",
+            "x": 631,
+            "y": 92,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Betwixt: Dagger - 1st tutorial, halfway",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Things Betwixt",
+            "x": 519,
+            "y": 759,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Betwixt: Lifegem - 1st tutorial, end",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Things Betwixt",
+            "x": 245,
+            "y": 698,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Betwixt: Amber Herb x2 - 2nd tutorial, jumpable gap",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Things Betwixt",
+            "x": 793,
+            "y": 375,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Betwixt: Estus Flask Shard - pit after petrified statue",
+        "sections":[{
+          "access_rules": ["Statue in TB"],
+          "visibility_rules": ["SotFS"]
+        }],
+        "map_locations": [
+          {
+            "map": "Things Betwixt",
+            "x": 263,
+            "y": 450,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Betwixt: Twinkling Titanite - by coffin, enemy drop",
+        "sections":[{
+          "access_rules": ["Statue in TB"],
+          "visibility_rules": ["SotFS"]
+        }],
+        "map_locations": [
+          {
+            "map": "Things Betwixt",
+            "x": 174,
+            "y": 582,
+			      "size": 20
+          }
+        ]
+
+      }
+	  
+    ]
+  }
+  
+  
+  
+ 
+]

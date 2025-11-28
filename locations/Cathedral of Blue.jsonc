@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Cathedral of Blue",
+    "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "children": [
+      {
+        "name": "Old Dragonslayer",
+        "access_rules": [],
+        "sections":[
+            {
+                "name": "CathedralOfBlue: Old Dragonslayer Soul"
+            },
+            {
+                "name": "CathedralOfBlue: Old Leo Ring"
+            }
+        ],
+        "map_locations": [
+          {
+            "map": "Heide's Tower of Flame",
+            "x": 193,
+            "y": 919,
+			      "size": 20
+          }
+        ]
+
+      },
+
+      {
+        "name": "After boss metal chest",
+        "access_rules": [],
+        "sections":[
+            {
+                "name": "CathedralOfBlue: Heide Knight Iron Mask - after boss, metal chest",
+                "visibility_rules":["$hasnot|SotFS"] 
+            },
+            {
+                "name": "CathedralOfBlue: Cleric's Parma - after boss, metal chest",
+                "visibility_rules": ["SotFS"]
+            },
+            {
+                "name": "CathedralOfBlue: Tower Shield - after boss, metal chest"
+            }
+        ],
+        "map_locations": [
+          {
+            "map": "Heide's Tower of Flame",
+            "x": 74,
+            "y": 849,
+			      "size": 20
+          }
+        ]
+
+      },
+
+      {
+        "name": "CathedralOfBlue: Cracked Blue Eye Orb x3 - after boss, wooden chest",
+        "sections":[
+            {
+              "access_rules": []
+            }
+        ],
+        "map_locations": [
+          {
+            "map": "Heide's Tower of Flame",
+            "x": 61,
+            "y": 885,
+			      "size": 20
+          }
+        ]
+
+      },
+
+      {
+        "name": "Before boss, chest",
+        "access_rules": [],
+        "sections":[
+            {
+                "name": "CathedralOfBlue: Ring of Binding - before boss, chest",
+                "visibility_rules":["$hasnot|SotFS"]
+            },
+            {
+                "name": "CathedralOfBlue: Human Effigy x5 - before boss, chest"
+            }
+        ],
+        "map_locations": [
+          {
+            "map": "Heide's Tower of Flame",
+            "x": 360,
+            "y": 1009,
+			      "size": 20
+          }
+        ]
+
+      },
+
+      {
+        "name": "CathedralOfBlue: Old Radiant Lifegem - before boss, by chest",
+        "sections":[
+            {
+              "access_rules": []
+            }
+        ],
+        "map_locations": [
+          {
+            "map": "Heide's Tower of Flame",
+            "x": 336,
+            "y": 1000,
+			      "size": 20
+          }
+        ]
+
+      }
+	  
+    ]
+  }
+  
+  
+  
+ 
+]

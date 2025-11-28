@@ -1,0 +1,259 @@
+[
+  {
+    "name": "The Pit",
+    "access_rules": ["$canAccessPit"],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "children": [
+      {
+        "name": "Pit: Forgotten Door",
+        "access_rules": ["Forgotten Key, $canAccessPit"],
+        "sections":[
+          {
+          "name": "Pit: Soul Vortex - forgotten door, chest"
+          },
+          {
+          "name": "Pit: Great Lightning Spear - forgotten door, chest"
+          },
+          {
+          "name": "Pit: Witchtree Branch - forgotten door, chest"
+          },
+          {
+          "name": "Pit: Witchtree Bellvine - forgotten door, chest"
+          },
+          {
+          "name": "Pit: Dragon Talon - forgotten door",
+          "visibility_rules": ["SotFS"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 269,
+            "y": 411,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Pit: Poison Moss x3 - third board",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 264,
+            "y": 319,
+		        "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Pit: Pharros' Lockstone - second board",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 268,
+            "y": 192,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Pit: Ring of the Evil Eye+1 - fourth board",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 244,
+            "y": 767,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Pit: Radiant Lifegem - first board",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 275,
+            "y": 74,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Pit: Homeward Bone - before bridge",
+        "sections":[{
+          "access_rules": [],
+          "visibility_rules": ["SotFS"]
+        }],
+        "map_locations": [
+          {
+            "map": "???",
+            "x": 481,
+            "y": 178,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Pit: Ash Knuckle Ring - after bridge",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 225,
+            "y": 1043,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Pit: Token of Spite - towards Gutter, under scaffolding",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 212,
+            "y": 1368,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Pit: Sublime Bone Dust - left of circular room",
+        "sections":[{
+          "access_rules": [],
+          "visibility_rules": ["SotFS"]
+        }],
+        "map_locations": [
+          {
+            "map": "???",
+            "x": 50,
+            "y": 50,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Pit: Human Effigy - scaffolding",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 94,
+            "y": 892,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Pit: Radiant Lifegem - towards Gutter",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 59,
+            "y": 1066,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Pit: Great Heal - towards Gutter",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 362,
+            "y": 1021,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Pit: Bleed Stone - bridge",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "???",
+            "x": 481,
+            "y": 178,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Pit: Disc Chime - unconnected ledge",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 245,
+            "y": 1035,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Pit: Homeward Bone x3 - circular room",
+        "sections":[{
+          "access_rules": [],
+          "visibility_rules": ["SotFS"]
+        }],
+        "map_locations": [
+          {
+            "map": "???",
+            "x": 481,
+            "y": 178,
+			      "size": 20
+          }
+        ]
+
+      }
+	  
+    ]
+  }
+  
+  
+  
+ 
+]

@@ -1,0 +1,17 @@
+{
+  "name": "Dark Souls 2 Randomizer Track Pack",
+  "game_name": "Dark Souls 2",
+  "package_version": "0.1",
+  "package_uid": "DS2_Track_Pack",
+  "author": "CRIT MAGNET",
+  "min_poptracker_version": "0.25.9",
+  "target_poptracker_version": "0.32.0",
+  "variants": {
+    "standard": {
+      "display_name": "Map Tracker",
+      "flags": [
+        "ap"
+      ]
+    }
+  }
+}

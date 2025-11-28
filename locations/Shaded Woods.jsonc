@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Shaded Woods",
+    "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "children": [
+      {
+        "name": "ShadedWoods: Estus Flask Shard - Metal chest next to the Old Akelarre bonfire",
+        "sections":[{
+          "access_rules": ["Rosabeth of Melfia"]
+        }],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 699,
+            "y": 1072,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "ShadedWoods Above Old Akelarre bonfire",
+        "access_rules": ["Rosabeth of Melfia"],
+        "sections":[
+          {
+          "name":"ShadedWoods: Soul of a Proud Knight - Corpse in the room above the Old Akelarre bonfire"
+          },
+          {
+          "name":"ShadedWoods: Human Effigy - Corpse in the room above the Old Akelarre bonfire"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 761,
+            "y": 1159,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "ShadedWoods: Red Tearstone Ring - Vanilla RTSR: in the mud next to hippo",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Aldia's Keep",
+            "x": 814,
+            "y": 186,
+			      "size": 20
+          }
+        ]
+
+      }
+	  
+    ]
+  }
+  
+  
+  
+ 
+]

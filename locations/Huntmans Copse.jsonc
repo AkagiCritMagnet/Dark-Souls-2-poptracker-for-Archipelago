@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Huntman's Copse",
+    "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "children": [
+      {
+        "name": "HC: Rouge Water - right after rotating rotunda",
+        "sections":[{
+          "access_rules": ["Rotunda Lockstone"]
+        }],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 572,
+            "y": 518,
+			      "size": 20
+          }
+        ]
+
+      }
+	  
+    ]
+  }
+  
+  
+  
+ 
+]

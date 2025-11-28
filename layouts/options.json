@@ -1,0 +1,28 @@
+{
+  "settings_popup": {
+    "type": "container",
+    "background": "#000000",
+    "margin": "6, 6",
+    "content": {
+      "type": "tabbed",
+      "tabs": [
+        {
+          "title": "Options",
+          "content": [
+            {
+              "type": "itemgrid",
+              "item_h_alignment": "left",
+              "item_size": "400, 60",
+              "rows": [
+				["SotFS"],
+				[]
+
+
+              ]
+            }
+          ]
+        }
+		]
+		}
+	}
+}

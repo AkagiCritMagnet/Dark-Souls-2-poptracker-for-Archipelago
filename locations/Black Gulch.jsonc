@@ -1,0 +1,223 @@
+[
+  {
+    "name": "Black Gulch",
+    "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "children": [
+      {
+        "name": "Gulch: Soul of the Rotten",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "The Gutter & Black Gulch",
+            "x": 1130,
+            "y": 619,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Gulch: Divine Blessing - second side tunnel",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "The Gutter & Black Gulch",
+            "x": 989,
+            "y": 445,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Side room in cave below",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Gulch: Ring of Giants+1 - side room in cave below, chest"         
+          },
+          {
+            "name": "Gulch: Petrified Dragon Bone - side room in cave below, chest"         
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Gutter & Black Gulch",
+            "x": 1137,
+            "y": 468,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "After Boss",
+        "access_rules": [],
+        "sections":[
+          {
+          "name": "Gulch: Sublime Bone Dust - after boss",
+          "visibility_rules":["$hasnot|SotFS"]
+          },
+          {
+          "name": "Gulch: Petrified Something - after boss",
+          "visibility_rules":["SotFS"]
+          },
+          {
+          "name": "Gulch: Simpleton's Spice - after boss",
+          "visibility_rules":["SotFS"]
+          },
+          {
+          "name": "Gulch: Skeptic's Spice - after boss",
+          "visibility_rules":["SotFS"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Gutter & Black Gulch",
+            "x": 1255,
+            "y": 675,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "First side tunnel",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Gulch: Shotel - first side tunnel"         
+          },
+          {
+            "name": "Gulch: Great Magic Weapon - first side tunnel"         
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Gutter & Black Gulch",
+            "x": 1049,
+            "y": 557,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Gulch: Fire Seed - boss arena",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "The Gutter & Black Gulch",
+            "x": 1130,
+            "y": 557,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Gulch: Silver Talisman x4 - cave below, behind elevator",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "The Gutter & Black Gulch",
+            "x": 1049,
+            "y": 557,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Gulch: Pharros' Lockstone - by second bonfire",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "The Gutter & Black Gulch",
+            "x": 929,
+            "y": 603,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Gulch: Large Soul of a Nameless Soldier - first urn",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "The Gutter & Black Gulch",
+            "x": 888,
+            "y": 425,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Second Urn",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Gulch: Scraps of Life - second urn"         
+          },
+          {
+            "name": "Gulch: Torch - second urn"         
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Gutter & Black Gulch",
+            "x": 907,
+            "y": 436,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Gulch: Radiant Lifegem - third urn",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "The Gutter & Black Gulch",
+            "x": 937,
+            "y": 516,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Cave below, enemy drop",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Gulch: Forgotten Key - cave below, enemy drop"         
+          },
+          {
+            "name": "Gulch: Soul of a Giant - cave below, enemy drop"         
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Gutter & Black Gulch",
+            "x": 1082,
+            "y": 469,
+			      "size": 20
+          }
+        ]
+      }
+	  
+    ]
+  }
+  
+  
+  
+ 
+]

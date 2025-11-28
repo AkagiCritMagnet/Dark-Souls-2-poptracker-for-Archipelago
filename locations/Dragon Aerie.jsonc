@@ -1,0 +1,285 @@
+[
+  {
+    "name": "Dragon Aerie",
+    "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "children": [
+      {
+        "name": "Aerie: Bonfire Ascetic - first dragon nest, drop down",
+        "sections":[{
+          "visibility_rules": ["SotFS"]
+        }],
+        "map_locations": [
+          {
+            "map": "Dragon Aerie & Shrine",
+            "x": 665,
+            "y": 252,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "Aerie: Radiant Lifegem - first dragon nest, drop down",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Dragon Aerie & Shrine",
+            "x": 741,
+            "y": 325,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "Aerie: Darknight Stone - first dragon nest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Dragon Aerie & Shrine",
+            "x": 772,
+            "y": 573,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "Aerie: Soul of a Brave Warrior - first dragon nest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Dragon Aerie & Shrine",
+            "x": 746,
+            "y": 616,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "Aerie: Boltstone - first dragon nest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Dragon Aerie & Shrine",
+            "x": 710,
+            "y": 574,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "Aerie: Dragon Tooth - first dragon nest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Dragon Aerie & Shrine",
+            "x": 729,
+            "y": 529,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "Aerie: Old Radiant Lifegem - after first dragon nest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Dragon Aerie & Shrine",
+            "x": 453,
+            "y": 465,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "Aerie: Petrified Dragon Bone - by second dragon nest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Dragon Aerie & Shrine",
+            "x": 229,
+            "y": 622,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "Aerie: Large Soul of a Brave Warrior - second dragon nest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Dragon Aerie & Shrine",
+            "x": 195,
+            "y": 527,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "Aerie: Pharros' Lockstone - drop to ledge before third dragon nest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Dragon Aerie & Shrine",
+            "x": 222,
+            "y": 406,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "Aerie: Soul of a Brave Warrior - drop to ledge before third dragon nest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Dragon Aerie & Shrine",
+            "x": 267,
+            "y": 383,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "Aerie: Dragon Charm - third dragon nest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Dragon Aerie & Shrine",
+            "x": 334,
+            "y": 466,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "Aerie: Firedrake Stone - third dragon nest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Dragon Aerie & Shrine",
+            "x": 272,
+            "y": 470,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "Aerie: Ring of the Evil Eye+1 - third dragon nest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Dragon Aerie & Shrine",
+            "x": 299,
+            "y": 529,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "Aerie: Bleed Stone - third dragon nest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Dragon Aerie & Shrine",
+            "x": 291,
+            "y": 579,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "Aerie: Ring of the Evil Eye+1 - third dragon nest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Dragon Aerie & Shrine",
+            "x": 299,
+            "y": 529,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "Aerie: Twinkling Titanite - drop to ledge by big zip-line",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Dragon Aerie & Shrine",
+            "x": 924,
+            "y": 298,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "Aerie: Soul of a Great Hero - drop from zip-line to stone pillar",
+        "sections":[{
+          "visibility_rules": ["SotFS"]
+        }],
+        "map_locations": [
+          {
+            "map": "Dragon Aerie & Shrine",
+            "x": 1061,
+            "y": 467,
+			      "size": 20
+          }
+        ]
+      }
+      
+	  
+    ]
+  }
+  
+  
+  
+ 
+]

@@ -1,0 +1,628 @@
+[
+  {
+    "name": "Iron Keep",
+    "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "children": [
+      {
+        "name": "IronKeep: Smelter Demon Soul",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Iron Keep & Belfry Sol",
+            "x": 619,
+            "y": 633,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "IronKeep: Old Iron King Soul",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Iron Keep & Belfry Sol",
+            "x": 965,
+            "y": 336,
+			      "size": 20
+          }
+        ]
+      },
+
+
+
+      {
+        "name": "IronKeep: Destructive Greatarrow x10 - platforms room, upper level",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Iron Keep & Belfry Sol",
+            "x": 362,
+            "y": 203,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "IronKeep: Zweihander - before first boss, by contraption",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Iron Keep & Belfry Sol",
+            "x": 869,
+            "y": 719,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Before first boss upper left side",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "IronKeep: Life Ring+1 - before first boss, upper left side"
+          },
+          {
+            "name": "IronKeep: Twinkling Titanite - before first boss, upper left side"
+          }
+      ],
+        "map_locations": [
+          {
+            "map": "Iron Keep & Belfry Sol",
+            "x": 428,
+            "y": 862,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "IronKeep: Black Knight Greataxe - top of the high tower",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Iron Keep & Belfry Sol",
+            "x": 453,
+            "y": 44,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "IronKeep: Phoenix Parma - before first boss, chest in lava",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Iron Keep & Belfry Sol",
+            "x": 717,
+            "y": 685,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "IronKeep: Chaos Storm - platforms room, chest in lava",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Iron Keep & Belfry Sol",
+            "x": 103,
+            "y": 535,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Chest after first boss",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "IronKeep: Porcine Shield - after first boss"
+          },
+          {
+            "name": "IronKeep: Flame Butterfly x5 - after first boss"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Iron Keep & Belfry Sol",
+            "x": 574,
+            "y": 582,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "After Second Boss",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "IronKeep: Sublime Bone Dust - after second boss",
+            "visibility_rules": ["$hasnot|SotFS"]
+          },
+          {
+            "name": "IronKeep: Petrified Something - after second boss",
+            "visibility_rules": ["SotFS"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Iron Keep & Belfry Sol",
+            "x": 943,
+            "y": 392,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Before first boss, lower left side",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "IronKeep: Soul of a Proud Knight - before first boss, lower left side"
+          },
+          {
+            "name": "IronKeep: Repair Powder - before first boss, lower left side"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Iron Keep & Belfry Sol",
+            "x": 690,
+            "y": 994,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "IronKeep: Simpleton's Spice - top of the high tower",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Iron Keep & Belfry Sol",
+            "x": 407,
+            "y": 19,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "IronKeep: Short Bow - before last boss, under fire bull",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Iron Keep & Belfry Sol",
+            "x": 633,
+            "y": 319,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Before first boss, on pillar",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "IronKeep: Large Soul of a Nameless Soldier - before first boss, on pillar"
+          },
+          {
+            "name": "IronKeep: Red Leech Troches - before first boss, on pillar"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Iron Keep & Belfry Sol",
+            "x": 733,
+            "y": 701,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "After ladder in furnace",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "IronKeep: Old Radiant Lifegem - after ladder in furnace"
+          },
+          {
+            "name": "IronKeep: Green Blossom - after ladder in furnace"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Iron Keep & Belfry Sol",
+            "x": 457,
+            "y": 807,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "IronKeep: Iron Key - first hall, under fire bull",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Iron Keep & Belfry Sol",
+            "x": 918,
+            "y": 852,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "IronKeep: Pharros' Lockstone - first hall, ledge above",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Iron Keep & Belfry Sol",
+            "x": 950,
+            "y": 817,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Top of the high tower, drop down",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "IronKeep: Cracked Red Eye Orb - top of the high tower, drop down"
+          },
+          {
+            "name": "IronKeep: Torch - top of the high tower, drop down"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Iron Keep & Belfry Sol",
+            "x": 490,
+            "y": 180,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "IronKeep: Large Soul of a Nameless Soldier - platforms room, on platform",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Iron Keep & Belfry Sol",
+            "x": 223,
+            "y": 588,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Platforms Room left side",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "IronKeep: Large Soul of a Proud Knight - platforms room, left side"
+          },
+          {
+            "name": "IronKeep: Radiant Lifegem - platforms room, left side"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Iron Keep & Belfry Sol",
+            "x": 230,
+            "y": 633,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Platforms Room by fog gate",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "IronKeep: Large Soul of a Nameless Soldier - platforms room, by fog gate"
+          },
+          {
+            "name": "IronKeep: Monastery Charm - platforms room, by fog gate"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Iron Keep & Belfry Sol",
+            "x": 389,
+            "y": 509,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "IronKeep: Bonfire Ascetic x3 - on lava right of first bridge",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Iron Keep & Belfry Sol",
+            "x": 1112,
+            "y": 710,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "IronKeep: Fire Arrow x20 - behind illusory wall with ballista",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Iron Keep & Belfry Sol",
+            "x": 892,
+            "y": 722,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Before first boss, after jump",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "IronKeep: Dull Ember - before first boss, after jump",
+            "visibility_rules": ["$hasnot|SotFS"]
+          },
+          {
+            "name": "IronKeep: Petrified Dragon Bone - before first boss, after jump",
+            "visibility_rules": ["SotFS"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Iron Keep & Belfry Sol",
+            "x": 818,
+            "y": 763,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "IronKeep: Covetous Gold Serpent Ring - Vanilla covetous gold ring: in large smelting pot hanging above bridges",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Iron Keep & Belfry Sol",
+            "x": 472,
+            "y": 388,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "IronKeep: Human Effigy - on lava by the first bonfire",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Iron Keep & Belfry Sol",
+            "x": 1246,
+            "y": 882,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "IronKeep: Fire Seed - platforms room, corpse in lava",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Iron Keep & Belfry Sol",
+            "x": 200,
+            "y": 600,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "Inside Central Furnace",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "IronKeep: Large Titanite Shard x2 - inside central furnace"
+          },
+          {
+            "name": "IronKeep: Petrified Dragon Bone - inside central furnace"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Iron Keep & Belfry Sol",
+            "x": 657,
+            "y": 702,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "IronKeep: Titanite Shard x5 - top of the high tower",
+        "sections":[{
+          "access_rules": [],
+          "visibility_rules": ["SotFS"]
+        }],
+        "map_locations": [
+          {
+            "map": "Iron Keep & Belfry Sol",
+            "x": 439,
+            "y": 58,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "Magerold Shop 1",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "IronKeep: Soul Arrow - Magerold shop"
+          },
+          {
+            "name": "IronKeep: Great Soul Arrow - Magerold shop"
+          },
+          {
+            "name": "IronKeep: Heavy Soul Arrow - Magerold shop"
+          },
+          {
+            "name": "IronKeep: Great Heavy Soul Arrow - Magerold shop"
+          },
+          {
+            "name": "IronKeep: Dark Hail - Magerold shop"
+          },
+          {
+            "name": "IronKeep: Darkstorm - Magerold shop"
+          },
+          {
+            "name": "IronKeep: Fall Control - Magerold shop"
+          },
+          {
+            "name": "IronKeep: Cursebite Ring - Magerold shop"
+          },
+          {
+            "name": "IronKeep: Hello Carving - Magerold shop"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Iron Keep & Belfry Sol",
+            "x": 958,
+            "y": 713,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "Magerold Shop 2",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "IronKeep: Thank You Carving - Magerold shop"
+          },
+          {
+            "name": "IronKeep: I'm Sorry Carving - Magerold shop"
+          },
+          {
+            "name": "IronKeep: Very Good! Carving - Magerold shop"
+          },
+          {
+            "name": "IronKeep: Charcoal Pine Resin - Magerold shop"
+          },
+          {
+            "name": "IronKeep: Black Firebomb - Magerold shop"
+          },
+          {
+            "name": "IronKeep: Repair Powder - Magerold shop"
+          },
+          {
+            "name": "IronKeep: Human Effigy - Magerold shop"
+          },
+          {
+            "name": "IronKeep: Fragrant Branch of Yore - Magerold shop"
+          },
+          {
+            "name": "IronKeep: Spiked Bandit Helm - Magerold shop"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Iron Keep & Belfry Sol",
+            "x": 980,
+            "y": 713,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "Magerold Shop 3",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "IronKeep: Bandit Armor - Magerold shop"
+          },
+          {
+            "name": "IronKeep: Bandit Gauntlets - Magerold shop"
+          },
+          {
+            "name": "IronKeep: Bandit Boots - Magerold shop"
+          },
+          {
+            "name": "IronKeep: Jester's Cap - Magerold shop"
+          },
+          {
+            "name": "IronKeep: Jester's Robes - Magerold shop"
+          },
+          {
+            "name": "IronKeep: Jester's Gloves - Magerold shop"
+          },
+          {
+            "name": "IronKeep: Jester's Tights - Magerold shop"
+          },
+          {
+            "name": "IronKeep: Ancient Dragon Seal - join Dragon Remnants",
+            "access_rules": ["Petrified Egg"]
+          },
+          {
+            "name": "IronKeep: Dragon Eye - join Dragon Remnants",
+            "access_rules": ["Petrified Egg"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Iron Keep & Belfry Sol",
+            "x": 1002,
+            "y": 713,
+			      "size": 20
+          }
+        ]
+      }
+
+      
+      
+	  
+    ]
+  }
+  
+  
+  
+ 
+]
