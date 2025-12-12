@@ -1064,7 +1064,7 @@
 			  },
 			  {
 				"ref": "Grave of Saints/Royal Rat Vanguard/GraveOfSaints: Rat Tail - boss drop",
-				"name": "GraveOfSaints: Royal Rat Vanguard Soul"
+				"name": "GraveOfSaints: Rat Tail - boss drop"
 			  },
 			  {
 				"ref": "Grave of Saints/After bridge, second floor/GraveOfSaints: Whisper of Despair - after bridge, second floor",
@@ -1229,10 +1229,6 @@
 			  {
 				"ref": "Heides Tower of Flame/Railing- top floor far end after boss, corpse/Heides: Dark Troches - railing- top floor far end after boss, corpse",
 				"name": "Heides: Dark Troches - railing- top floor far end after boss, corpse"
-			  },
-			  {
-				"ref": "Heides Tower of Flame/Heides: Estus Flask Shard - railing behind statue before Wharf/",
-				"name": "Heides: Estus Flask Shard - railing behind statue before Wharf"
 			  },
 			  {
 				"ref": "Heides Tower of Flame/Heides: Estus Flask Shard - railing behind statue before Wharf/",
@@ -1449,10 +1445,6 @@
 			  {
 				"ref": "Sinner's Rise/After boss/SinnersRise: Fragrant Branch of Yore - after boss",
 				"name": "SinnersRise: Fragrant Branch of Yore - after boss"
-			  },
-			  {
-				"ref": "Sinner's Rise/After boss/SinnersRise: Fragrant Branch of Yore - after boss",
-				"name": "SinnersRise: Fragrant Branch of Yore - after boss"
 			  }
 			  
 			  
@@ -1548,10 +1540,6 @@
 				"name": "Aerie: Bleed Stone - third dragon nest"
 			  },
 			  {
-				"ref": "Dragon Aerie/Aerie: Ring of the Evil Eye+1 - third dragon nest/",
-				"name": "Aerie: Ring of the Evil Eye+1 - third dragon nest"
-			  },
-			  {
 				"ref": "Dragon Aerie/Aerie: Twinkling Titanite - drop to ledge by big zip-line/",
 				"name": "Aerie: Twinkling Titanite - drop to ledge by big zip-line"
 			  },
@@ -1567,6 +1555,110 @@
 			"map": "Overworld",
 			"x": 530,
             "y": 198,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Dragon Shrine first half",    
+		"sections": [
+			  {
+				"ref": "Dragon Shrine/DragonShrine: Bonfire Ascetic x3 - after bonfire, side room/",
+				"name": "DragonShrine: Bonfire Ascetic x3 - after bonfire, side room"
+			  },
+			  {
+				"ref": "Dragon Shrine/Jump from watchtower/DragonShrine: Drakekeeper's Greataxe - jump from watchtower, chest",
+				"name": "DragonShrine: Drakekeeper's Greataxe - jump from watchtower, chest"
+			  },
+			  {
+				"ref": "Dragon Shrine/Jump from watchtower/DragonShrine: Drakekeeper's Greatshield - jump from watchtower, chest",
+				"name": "DragonShrine: Drakekeeper's Greatshield - jump from watchtower, chest"
+			  },
+			  {
+				"ref": "Dragon Shrine/DragonShrine: Titanite Slab - towards petrified egg door, chest/",
+				"name": "DragonShrine: Titanite Slab - towards petrified egg door, chest"
+			  },
+			  {
+				"ref": "Dragon Shrine/DragonShrine: Crystal Magic Weapon - by petrified egg, outside chest/",
+				"name": "DragonShrine: Crystal Magic Weapon - by petrified egg, outside chest"
+			  },
+			  {
+				"ref": "Dragon Shrine/Chest by petrified egg/DragonShrine: Watchdragon Parma - by petrified egg, chest",
+				"name": "DragonShrine: Watchdragon Parma - by petrified egg, chest"
+			  },
+			  {
+				"ref": "Dragon Shrine/Chest by petrified egg/DragonShrine: Petrified Something - by petrified egg, chest",
+				"name": "DragonShrine: Petrified Something - by petrified egg, chest"
+			  },
+			  {
+				"ref": "Dragon Shrine/DragonShrine: Petrified Egg - by invader/",
+				"name": "DragonShrine: Petrified Egg - by invader"
+			  },
+			  {
+				"ref": "Dragon Shrine/DragonShrine: Third Dragon Ring - after petrified egg door/",
+				"name": "DragonShrine: Third Dragon Ring - after petrified egg door"
+			  }
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 490,
+            "y": 97,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Dragon Shrine second half",    
+		"sections": [
+			  {
+				"ref": "Dragon Shrine/Before petrified egg door/DragonShrine: Skeptic's Spice - before petrified egg door",
+				"name": "DragonShrine: Skeptic's Spice - before petrified egg door"
+			  },
+			  {
+				"ref": "Dragon Shrine/Before petrified egg door/DragonShrine: Twilight Herb - before petrified egg door",
+				"name": "DragonShrine: Twilight Herb - before petrified egg door"
+			  },
+			  {
+				"ref": "Dragon Shrine/DragonShrine: Faintstone - corpse in watchtower/",
+				"name": "DragonShrine: Faintstone - corpse in watchtower"
+			  },
+			  {
+				"ref": "Dragon Shrine/DragonShrine: Twinkling Titanite - after second stairs, left path/",
+				"name": "DragonShrine: Twinkling Titanite - after second stairs, left path"
+			  },
+			  {
+				"ref": "Dragon Shrine/Judgement Set/DragonShrine: Mask of Judgment - after bonfire, contraption under stairs",
+				"name": "DragonShrine: Mask of Judgment - after bonfire, contraption under stairs"
+			  },
+			  {
+				"ref": "Dragon Shrine/Judgement Set/DragonShrine: Robe of Judgment - after bonfire, contraption under stairs",
+				"name": "DragonShrine: Robe of Judgment - after bonfire, contraption under stairs"
+			  },
+			  {
+				"ref": "Dragon Shrine/Judgement Set/DragonShrine: Manchettes of Judgment - after bonfire, contraption under stairs",
+				"name": "DragonShrine: Manchettes of Judgment - after bonfire, contraption under stairs"
+			  },
+			  {
+				"ref": "Dragon Shrine/Judgement Set/DragonShrine: Tights of Judgment - after bonfire, contraption under stairs",
+				"name": "DragonShrine: Tights of Judgment - after bonfire, contraption under stairs"
+			  },
+			  {
+				"ref": "Dragon Shrine/DragonShrine: Ashen Mist Heart - talk to Ancient Dragon/",
+				"name": "DragonShrine: Ashen Mist Heart - talk to Ancient Dragon"
+			  }
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 530,
+            "y": 97,
 			"size": 15
 		  }
 		]

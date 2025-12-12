@@ -231,21 +231,6 @@
       },
 
       {
-        "name": "Aerie: Ring of the Evil Eye+1 - third dragon nest",
-        "sections":[{
-          "access_rules": []
-        }],
-        "map_locations": [
-          {
-            "map": "Dragon Aerie & Shrine",
-            "x": 299,
-            "y": 529,
-			      "size": 20
-          }
-        ]
-      },
-
-      {
         "name": "Aerie: Twinkling Titanite - drop to ledge by big zip-line",
         "sections":[{
           "access_rules": []

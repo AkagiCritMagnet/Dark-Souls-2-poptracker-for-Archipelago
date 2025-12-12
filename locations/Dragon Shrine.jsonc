@@ -6,20 +6,228 @@
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [
       {
-        "name": "Test",
+        "name": "DragonShrine: Bonfire Ascetic x3 - after bonfire, side room",
         "sections":[{
           "access_rules": []
         }],
         "map_locations": [
           {
-            "map": "map",
-            "x": 50,
-            "y": 50,
+            "map": "Dragon Aerie & Shrine",
+            "x": 975,
+            "y": 1000,
 			      "size": 20
           }
         ]
-
       },
+
+      {
+        "name": "Jump from watchtower",
+        "access_rules": [],
+        "sections":[
+          {
+            "name":"DragonShrine: Drakekeeper's Greataxe - jump from watchtower, chest"
+          },
+          {
+            "name":"DragonShrine: Drakekeeper's Greatshield - jump from watchtower, chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Dragon Aerie & Shrine",
+            "x": 843,
+            "y": 1039,
+			      "size": 20
+          },
+          {
+            "map": "Dragon Aerie & Shrine",
+            "x": 1153,
+            "y": 1159,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "DragonShrine: Titanite Slab - towards petrified egg door, chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Dragon Aerie & Shrine",
+            "x": 735,
+            "y": 1138,
+			      "size": 20
+          },
+          {
+            "map": "Dragon Aerie & Shrine",
+            "x": 1041,
+            "y": 1260,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "DragonShrine: Crystal Magic Weapon - by petrified egg, outside chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Dragon Aerie & Shrine",
+            "x": 1160,
+            "y": 1256,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "Chest by petrified egg",
+        "access_rules": [],
+        "sections":[
+          {
+            "name":"DragonShrine: Watchdragon Parma - by petrified egg, chest",
+            "visibility_rules": ["$hasnot|SotFS"]
+          },
+          {
+            "name":"DragonShrine: Petrified Something - by petrified egg, chest",
+            "visibility_rules": ["SotFS"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Dragon Aerie & Shrine",
+            "x": 1019,
+            "y": 1302,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "DragonShrine: Petrified Egg - by invader",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Dragon Aerie & Shrine",
+            "x": 1037,
+            "y": 1333,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "DragonShrine: Third Dragon Ring - after petrified egg door",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Dragon Aerie & Shrine",
+            "x": 848,
+            "y": 1165,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "Before petrified egg door",
+        "access_rules": [],
+        "sections":[
+          {
+            "name":"DragonShrine: Skeptic's Spice - before petrified egg door"
+          },
+          {
+            "name":"DragonShrine: Twilight Herb - before petrified egg door"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Dragon Aerie & Shrine",
+            "x": 883,
+            "y": 1103,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "DragonShrine: Faintstone - corpse in watchtower",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Dragon Aerie & Shrine",
+            "x": 777,
+            "y": 1008,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "DragonShrine: Twinkling Titanite - after second stairs, left path",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Dragon Aerie & Shrine",
+            "x": 866,
+            "y": 914,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "Judgement Set",
+        "access_rules": [],
+        "sections":[
+          {
+            "name":"DragonShrine: Mask of Judgment - after bonfire, contraption under stairs"
+          },
+          {
+            "name":"DragonShrine: Robe of Judgment - after bonfire, contraption under stairs"
+          },
+          {
+            "name":"DragonShrine: Manchettes of Judgment - after bonfire, contraption under stairs"
+          },
+          {
+            "name":"DragonShrine: Tights of Judgment - after bonfire, contraption under stairs"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Dragon Aerie & Shrine",
+            "x": 1036,
+            "y": 1084,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "DragonShrine: Ashen Mist Heart - talk to Ancient Dragon",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Dragon Aerie & Shrine",
+            "x": 263,
+            "y": 1231,
+			      "size": 20
+          }
+        ]
+      }
 	  
     ]
   }
