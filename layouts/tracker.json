@@ -105,11 +105,11 @@
                             }
                         },
                         {
-                            "title": "Forest of the Fallen Giants",
+                            "title": "Forest of Fallen Giants",
                             "content": {
                                 "type": "map",
                                 "maps": [
-                                    "Forest of the Fallen Giants"
+                                    "Forest of Fallen Giants"
                                 ]
                             }
                         },
@@ -141,11 +141,11 @@
                             }
                         },
                         {
-                            "title": "Huntmans Copse",
+                            "title": "Huntsmans Copse",
                             "content": {
                                 "type": "map",
                                 "maps": [
-                                    "Huntmans Copse"
+                                    "Huntsmans Copse"
                                 ]
                             }
                         },
@@ -294,11 +294,11 @@
                             }
                         },
                         {
-                            "title": "Dragon Sanctum",
+                            "title": "Dragons Sanctum",
                             "content": {
                                 "type": "map",
                                 "maps": [
-                                    "Dragon Sanctum"
+                                    "Dragons Sanctum"
                                 ]
                             }
                         },

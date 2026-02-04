@@ -1662,6 +1662,177 @@
 			"size": 15
 		  }
 		]
+	  },
+
+
+
+	  {
+		"name": "Doors of Pharros first half",    
+		"sections": [
+			  {
+				"ref": "Doors of Pharros/Pharros: Prism Stone x10 - in water before bonfire/",
+				"name": "Pharros: Prism Stone x10 - in water before bonfire"
+			  },
+			  {
+				"ref": "Doors of Pharros/Pharros: Lifegem - by Gavlan/",
+				"name": "Pharros: Lifegem - by Gavlan"
+			  },
+			  {
+				"ref": "Doors of Pharros/Pharros: Dragon Charm - left after first stairs, chest/",
+				"name": "Pharros: Dragon Charm - left after first stairs, chest"
+			  },
+			  {
+				"ref": "Doors of Pharros/Pharros: Santier's Spear - first big hall, three-part contraption/",
+				"name": "Pharros: Santier's Spear - first big hall, three-part contraption"
+			  },
+			  {
+				"ref": "Doors of Pharros/Corpse on ledge/Pharros: Gyrm Axe - first big hall, elevated ledge",
+				"name": "Pharros: Gyrm Axe - first big hall, elevated ledge"
+			  },
+			  {
+				"ref": "Doors of Pharros/Corpse on ledge/Pharros: Torch - first big hall, elevated ledge",
+				"name": "Pharros: Torch - first big hall, elevated ledge"
+			  },
+			  {
+				"ref": "Doors of Pharros/Pharros: Amber Herb x2 - first big hall, far end/",
+				"name": "Pharros: Amber Herb x2 - first big hall, far end"
+			  },
+			  {
+				"ref": "Doors of Pharros/Top of ladder/Pharros: Twisted Barricade - after ladder",
+				"name": "Pharros: Twisted Barricade - after ladder"
+			  },
+			  {
+				"ref": "Doors of Pharros/Top of ladder/Pharros: Soul of a Proud Knight - after ladder",
+				"name": "Pharros: Soul of a Proud Knight - after ladder"
+			  },
+			  {
+				"ref": "Doors of Pharros/Room behind ladder, locked by contraption/Pharros: Faintstone - room behind ladder after using lockstone above, chest",
+				"name": "Pharros: Faintstone - room behind ladder after using lockstone above, chest"
+			  },
+			  {
+				"ref": "Doors of Pharros/Room behind ladder, locked by contraption/Pharros: Twinkling Titanite - room behind ladder after using lockstone above, chest",
+				"name": "Pharros: Twinkling Titanite - room behind ladder after using lockstone above, chest"
+			  }
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 730,
+            "y": 228,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Doors of Pharros second half",    
+		"sections": [
+			  {
+				"ref": "Doors of Pharros/After ladder, trapped chest/Pharros: Titanite Chunk - after ladder, chest",
+				"name": "Pharros: Titanite Chunk - after ladder, chest"
+			  },
+			  {
+				"ref": "Doors of Pharros/After ladder, trapped chest/Pharros: Petrified Dragon Bone - after ladder, chest",
+				"name": "Pharros: Petrified Dragon Bone - after ladder, chest"
+			  },
+			  {
+				"ref": "Doors of Pharros/Upper level, behind small stairs/Pharros: Pharros' Lockstone - upper level, behind small stairs",
+				"name": "Pharros: Pharros' Lockstone - upper level, behind small stairs"
+			  },
+			  {
+				"ref": "Doors of Pharros/Upper level, behind small stairs/Pharros: Large Soul of a Nameless Soldier - upper level, behind small stairs",
+				"name": "Pharros: Large Soul of a Nameless Soldier - upper level, behind small stairs"
+			  },
+			  {
+				"ref": "Doors of Pharros/Pharros: Soul of a Brave Warrior - upper level, three-part contraption/",
+				"name": "Pharros: Soul of a Brave Warrior - upper level, three-part contraption"
+			  },
+			  {
+				"ref": "Doors of Pharros/Pharros: Large Soul of a Brave Warrior - upper level, by statues/",
+				"name": "Pharros: Large Soul of a Brave Warrior - upper level, by statues"
+			  },
+			  {
+				"ref": "Doors of Pharros/Pharros: Magic Arrow x15 - upper level, chest behind contraption/",
+				"name": "Pharros: Magic Arrow x15 - upper level, chest behind contraption"
+			  }			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 760,
+            "y": 228,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Royal Rat Authority boss fight",    
+		"sections": [
+			  {
+				"ref": "Doors of Pharros/Royal Rat Authority Boss/Pharros: Royal Rat Authority Soul",
+				"name": "Pharros: Royal Rat Authority Soul"
+			  },
+			  {
+				"ref": "Doors of Pharros/Royal Rat Authority Boss/Pharros: Rat Tail - boss drop",
+				"name": "Pharros: Rat Tail - boss drop"
+			  }
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 903,
+            "y": 230,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Undead Purgatory",    
+		"sections": [
+			  {
+				"ref": "Undead Purgatory/Chariot: Fading Soul 1 - boss arena/",
+				"name": "Chariot: Fading Soul 1 - boss arena"
+			  },
+			  {
+				"ref": "Undead Purgatory/Chariot: Fading Soul 2 - boss arena/",
+				"name": "Chariot: Fading Soul 2 - boss arena"
+			  },
+			  {
+				"ref": "Undead Purgatory/Chariot: Fading Soul 3 - boss arena/",
+				"name": "Chariot: Fading Soul 3 - boss arena"
+			  },
+			  {
+				"ref": "Undead Purgatory/Chariot: Fading Soul 4 - boss arena/",
+				"name": "Chariot: Fading Soul 4 - boss arena"
+			  },
+			  {
+				"ref": "Undead Purgatory/Chariot: Soul of a Brave Warrior - boss arena/",
+				"name": "Chariot: Soul of a Brave Warrior - boss arena"
+			  },
+			  {
+				"ref": "Undead Purgatory/Chariot: Executioner's Chariot Soul/",
+				"name": "Chariot: Executioner's Chariot Soul"
+			  },
+			  {
+				"ref": "Undead Purgatory/Chariot: Cracked Red Eye Orb x2 - by bonfire, above stairs/",
+				"name": "Chariot: Cracked Red Eye Orb x2 - by bonfire, above stairs"
+			  }
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1100,
+            "y": 168,
+			"size": 15
+		  }
+		]
 	  }
 
 	  

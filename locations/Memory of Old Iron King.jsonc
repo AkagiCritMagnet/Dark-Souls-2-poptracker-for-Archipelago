@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Memory of Old Iron King",
+    "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "children": [
+      {
+        "name": "Test",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Memory of Old Iron King",
+            "x": 50,
+            "y": 50,
+			      "size": 20
+          }
+        ]
+
+      },
+	  
+    ]
+  }
+  
+  
+  
+ 
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Brightstone Cove Tseldora",
+    "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "children": [
+      {
+        "name": "Tseldora: Radiant Lifegem - In urn in the first room on a way from doors of pharros",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Doors of Pharros",
+            "x": 375,
+            "y": 1103,
+			      "size": 20
+          },
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 375,
+            "y": 1103,
+			      "size": 20
+          }
+        ]
+
+      },
+
+
+
+      {
+        "name": "Test",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 50,
+            "y": 50,
+			      "size": 20
+          }
+        ]
+
+      },
+	  
+    ]
+  }
+  
+  
+  
+ 
+]

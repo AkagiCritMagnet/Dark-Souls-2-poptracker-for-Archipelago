@@ -1,0 +1,198 @@
+[
+  {
+    "name": "Undead Purgatory",
+    "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "children": [
+      {
+        "name": "Chariot: Fading Soul 1 - boss arena",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Huntsmans Copse",
+            "x": 1038,
+            "y": 575,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Chariot: Fading Soul 2 - boss arena",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Huntsmans Copse",
+            "x": 1136,
+            "y": 576,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Chariot: Fading Soul 3 - boss arena",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Huntsmans Copse",
+            "x": 1153,
+            "y": 774,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Chariot: Fading Soul 4 - boss arena",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Huntsmans Copse",
+            "x": 1120,
+            "y": 791,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Chariot: Soul of a Brave Warrior - boss arena",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Huntsmans Copse",
+            "x": 887,
+            "y": 743,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Chariot: Executioner's Chariot Soul",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Huntsmans Copse",
+            "x": 944,
+            "y": 757,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Chariot: Cracked Red Eye Orb x2 - by bonfire, above stairs",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Huntsmans Copse",
+            "x": 860,
+            "y": 811,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Gren Shop",
+        "access_rules": ["Token of Spite"],
+        "sections":[
+          {
+            "name": "Chariot: Great Scythe - Gren shop"
+          },
+          {
+            "name": "Chariot: Priest's Chime - Gren shop"
+          },
+          {
+            "name": "Chariot: Bone Crown - Gren shop after killing Copse boss"
+          },
+          {
+            "name": "Chariot: Bone King Robe - Gren shop after killing Copse boss"
+          },
+          {
+            "name": "Chariot: Bone King Cuffs - Gren shop after killing Copse boss"
+          },
+          {
+            "name": "Chariot: Bone King Skirt - Gren shop after killing Copse boss"
+          },
+          {
+            "name": "Chariot: Firestorm - Gren shop"
+          },
+          {
+            "name": "Chariot: Great Combustion - Gren shop"
+          },
+          {
+            "name": "Chariot: Fire Whip - Gren shop"
+          },
+          {
+            "name": "Chariot: Delicate String - Gren shop"
+          },
+          {
+            "name": "Chariot: Red Sign Soapstone - Gren shop"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Huntsmans Copse",
+            "x": 774,
+            "y": 673,
+			      "size": 20
+          },
+          {
+			      "map": "Overworld",
+			      "x": 1088,
+            "y": 207,
+			      "size": 15
+		      }
+        ]
+      },
+      {
+        "name": "Gren Shop after Shrine of Winter",
+        "access_rules": ["Token of Spite"], //+Shrine of Winter
+        "sections":[
+          {
+            "name": "Chariot: Executioner Helm - Gren shop after Shrine of Winter"
+          },
+          {
+            "name": "Chariot: Executioner Armor - Gren shop after Shrine of Winter"
+          },
+          {
+            "name": "Chariot: Executioner Gauntlets - Gren shop after Shrine of Winter"
+          },
+          {
+            "name": "Chariot: Executioner Leggings - Gren shop after Shrine of Winter"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Huntsmans Copse",
+            "x": 774,
+            "y": 705,
+			      "size": 20
+          },
+          {
+			      "map": "Overworld",
+			      "x": 1118,
+            "y": 207,
+			      "size": 15
+		      }
+        ]
+      }
+	  
+    ]
+  }
+  
+  
+  
+ 
+]

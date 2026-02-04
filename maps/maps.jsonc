@@ -22,7 +22,7 @@
         "img": "images/maps/Majula.jpg"
     },
     {
-        "name": "Forest of the Fallen Giants",
+        "name": "Forest of Fallen Giants",
         "location_size": 10,
         "location_border_thickness": 2,
 		"location_shape": "rect",
@@ -50,7 +50,7 @@
         "img": "images/maps/SinnersRise.jpg"
     },
     {
-        "name": "Huntmans Copse",
+        "name": "Huntsmans Copse",
         "location_size": 10,
         "location_border_thickness": 2,
 		"location_shape": "rect",
@@ -169,7 +169,7 @@
         "img": "images/maps/ShulvaSancumCity.jpg"
     },
     {
-        "name": "Dragon Sanctum",
+        "name": "Dragons Sanctum",
         "location_size": 10,
         "location_border_thickness": 2,
 		"location_shape": "rect",

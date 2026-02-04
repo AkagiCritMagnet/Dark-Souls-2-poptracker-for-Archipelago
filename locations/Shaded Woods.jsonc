@@ -55,6 +55,24 @@
           }
         ]
 
+      },
+
+
+
+      {
+        "name": "test",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shaded Woods",
+            "x": 50,
+            "y": 50,
+			      "size": 20
+          }
+        ]
+
       }
 	  
     ]

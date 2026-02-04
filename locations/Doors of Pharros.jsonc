@@ -1,0 +1,247 @@
+[
+  {
+    "name": "Doors of Pharros",
+    "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "children": [
+      {
+        "name": "Pharros: Prism Stone x10 - in water before bonfire",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Doors of Pharros",
+            "x": 657,
+            "y": 782,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Pharros: Lifegem - by Gavlan",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Doors of Pharros",
+            "x": 646,
+            "y": 706,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Pharros: Dragon Charm - left after first stairs, chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Doors of Pharros",
+            "x": 578,
+            "y": 911,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Pharros: Santier's Spear - first big hall, three-part contraption",
+        "sections":[{
+          "access_rules": ["Master Lockstone"]
+        }],
+        "map_locations": [
+          {
+            "map": "Doors of Pharros",
+            "x": 986,
+            "y": 248,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Corpse on ledge",
+        "access_rules": [],
+        "sections":[
+          {
+            "name":"Pharros: Gyrm Axe - first big hall, elevated ledge"
+          },
+          {
+            "name":"Pharros: Torch - first big hall, elevated ledge"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Doors of Pharros",
+            "x": 1004,
+            "y": 470,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Pharros: Amber Herb x2 - first big hall, far end",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Doors of Pharros",
+            "x": 804,
+            "y": 319,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Top of ladder",
+        "access_rules": [],
+        "sections":[
+          {
+            "name":"Pharros: Twisted Barricade - after ladder"
+          },
+          {
+            "name":"Pharros: Soul of a Proud Knight - after ladder"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Doors of Pharros",
+            "x": 149,
+            "y": 544,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Room behind ladder, locked by contraption",
+        "access_rules": ["Master Lockstone"],
+        "sections":[
+          {
+            "name":"Pharros: Faintstone - room behind ladder after using lockstone above, chest"
+          },
+          {
+            "name":"Pharros: Twinkling Titanite - room behind ladder after using lockstone above, chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Doors of Pharros",
+            "x": 42,
+            "y": 420,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "After ladder, trapped chest",
+        "access_rules": [],
+        "sections":[
+          {
+            "name":"Pharros: Titanite Chunk - after ladder, chest"
+          },
+          {
+            "name":"Pharros: Petrified Dragon Bone - after ladder, chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Doors of Pharros",
+            "x": 118,
+            "y": 595,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Upper level, behind small stairs",
+        "access_rules": [],
+        "sections":[
+          {
+            "name":"Pharros: Pharros' Lockstone - upper level, behind small stairs"
+          },
+          {
+            "name":"Pharros: Large Soul of a Nameless Soldier - upper level, behind small stairs"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Doors of Pharros",
+            "x": 279,
+            "y": 649,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Pharros: Soul of a Brave Warrior - upper level, three-part contraption",
+        "sections":[{
+          "access_rules": ["Master Lockstone"]
+        }],
+        "map_locations": [
+          {
+            "map": "Doors of Pharros",
+            "x": 515,
+            "y": 848,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Pharros: Large Soul of a Brave Warrior - upper level, by statues",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Doors of Pharros",
+            "x": 366,
+            "y": 866,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Pharros: Magic Arrow x15 - upper level, chest behind contraption",
+        "sections":[{
+          "access_rules": ["Master Lockstone"]
+        }],
+        "map_locations": [
+          {
+            "map": "Doors of Pharros",
+            "x": 183,
+            "y": 884,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Royal Rat Authority Boss",
+        "access_rules": [],
+        "sections":[
+          {
+            "name":"Pharros: Royal Rat Authority Soul"
+          },
+          {
+            "name":"Pharros: Rat Tail - boss drop"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Doors of Pharros",
+            "x": 634,
+            "y": 501,
+			      "size": 20
+          }
+        ]
+      }
+	  
+    ]
+  }
+  
+  
+  
+ 
+]
