@@ -6,25 +6,579 @@
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [
       {
-        "name": "Test",
+        "name": "Crypt: Radiant Lifegem - after first bonfire, right of stairs",
         "sections":[{
           "access_rules": []
         }],
         "map_locations": [
           {
             "map": "Undead Crypt",
-            "x": 50,
-            "y": 50,
+            "x": 68,
+            "y": 909,
 			      "size": 20
           }
         ]
 
       },
-	  
+      {
+        "name": "Crypt: Large Soul of a Nameless Soldier - by Agdayne",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Undead Crypt",
+            "x": 189,
+            "y": 1367,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Crushed Eye Orb and Fire Seed",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Crypt: Crushed Eye Orb - above bridge after Agdayne"     
+          },
+          {
+            "name": "Crypt: Fire Seed - above bridge after Agdayne"
+          }],
+        "map_locations": [
+          {
+            "map": "Undead Crypt",
+            "x": 302,
+            "y": 1342,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Simpleton's Spice and Soul of a Great Hero",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Crypt: Simpleton's Spice - below bridge after Agdayne"     
+          },
+          {
+            "name": "Crypt: Soul of a Great Hero - below bridge after Agdayne"
+          }],
+        "map_locations": [
+          {
+            "map": "Undead Crypt",
+            "x": 385,
+            "y": 1446,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Dried Fingers, Bonfire Ascetic and Twinkling Titanite",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Crypt: Dried Fingers - balcony above second graveyard"     
+          },
+          {
+            "name": "Crypt: Bonfire Ascetic - balcony above second graveyard"     
+          },
+          {
+            "name": "Crypt: Twinkling Titanite - balcony above second graveyard"
+          }],
+        "map_locations": [
+          {
+            "map": "Undead Crypt",
+            "x": 486,
+            "y": 1294,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Petrified Dragon Bone and Titanite Chunk",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Crypt: Petrified Dragon Bone - first graveyard"     
+          },
+          {
+            "name": "Crypt: Titanite Chunk - first graveyard"
+          }],
+        "map_locations": [
+          {
+            "map": "Undead Crypt",
+            "x": 407,
+            "y": 1214,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Crypt: Bracing Knuckle Ring+2 - second graveyard",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Undead Crypt",
+            "x": 461,
+            "y": 1218,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Crypt: Soul of a Lost Undead - second graveyard",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Undead Crypt",
+            "x": 532,
+            "y": 1230,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Divine Blessing and Soul of a Hero",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Crypt: Divine Blessing - room after second graveyard"     
+          },
+          {
+            "name": "Crypt: Soul of a Hero - room after second graveyard"
+          }],
+        "map_locations": [
+          {
+            "map": "Undead Crypt",
+            "x": 608,
+            "y": 1272,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Avelyn and Heavy Bolt x15",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Crypt: Avelyn - illusory wall, room after second graveyard"     
+          },
+          {
+            "name": "Crypt: Heavy Bolt x15 - illusory wall, room after second graveyard"
+          }],
+        "map_locations": [
+          {
+            "map": "Undead Crypt",
+            "x": 520,
+            "y": 1293,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Simpleton's Spice and Black Firebomb x2",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Crypt: Simpleton's Spice - first graveyard"     
+          },
+          {
+            "name": "Crypt: Black Firebomb x2 - first graveyard"
+          }],
+        "map_locations": [
+          {
+            "map": "Undead Crypt",
+            "x": 420,
+            "y": 1056,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Crypt: Soul Vessel - under shortcut, metal chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Undead Crypt",
+            "x": 277,
+            "y": 1152,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Mace of the Insolent and Soul of a Hero",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Crypt: Mace of the Insolent - third graveyard"     
+          },
+          {
+            "name": "Crypt: Soul of a Hero - third graveyard"
+          }],
+        "map_locations": [
+          {
+            "map": "Undead Crypt",
+            "x": 452,
+            "y": 972,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Test",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Crypt: Olenford's Staff - Pharros contraption behind illusory wall, third graveyard room, metal chest"     
+          },
+          {
+            "name": "Crypt: Great Lightning Spear - Pharros contraption behind illusory wall, third graveyard room, metal chest"
+          }],
+        "map_locations": [
+          {
+            "map": "Undead Crypt",
+            "x": 559,
+            "y": 1022,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Test",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Crypt: Large Soul of a Proud Knight - third graveyard, side tunnel"     
+          },
+          {
+            "name": "Crypt: Dragon Charm - third graveyard, side tunnel"
+          }],
+        "map_locations": [
+          {
+            "map": "Undead Crypt",
+            "x": 468,
+            "y": 872,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Crypt: Soul of a Hero - overlooking Undead Ditch bonfire",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Undead Crypt",
+            "x": 378,
+            "y": 1135,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Radiant Lifegem and Homeward Bone",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Crypt: Radiant Lifegem - third graveyard"     
+          },
+          {
+            "name": "Crypt: Homeward Bone - third graveyard"
+          }],
+        "map_locations": [
+          {
+            "map": "Undead Crypt",
+            "x": 540,
+            "y": 968,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Crypt: King's Ring - last boss room",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Undead Crypt",
+            "x": 264,
+            "y": 58,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Crypt: Soul of Velstadt",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Undead Crypt",
+            "x": 262,
+            "y": 316,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Crypt: Torch x4 - before first boss",
+        "visibility_rules": ["SotFS"],
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Undead Crypt",
+            "x": 212,
+            "y": 458,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Crypt: Fragrant Branch of Yore - before first boss",
+        "visibility_rules": ["SotFS"],
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Undead Crypt",
+            "x": 232,
+            "y": 458,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Crypt: Darknight Stone - before first boss",
+        "visibility_rules": ["SotFS"],
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Undead Crypt",
+            "x": 291,
+            "y": 458,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Crypt: Poison Throwing Knife x15 - before first boss",
+        "visibility_rules": ["SotFS"],
+        "sections":[{
+        "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Undead Crypt",
+            "x": 312,
+            "y": 458,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Magic Stone and Darknight Stone",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Crypt: Magic Stone - left side before great hall"     
+          },
+          {
+            "name": "Crypt: Darknight Stone - left side before great hall"
+          }],
+        "map_locations": [
+          {
+            "map": "Undead Crypt",
+            "x": 210,
+            "y": 1013,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Crypt: Human Effigy x2 - first graveyard",
+        "visibility_rules": ["SotFS"],
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Undead Crypt",
+            "x": 420,
+            "y": 1102,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Crypt: Soul of a Hero - first graveyard",
+        "visibility_rules": ["SotFS"],
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Undead Crypt",
+            "x": 468,
+            "y": 1138,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Crypt: Smooth & Silky Stone - first graveyard",
+        "visibility_rules": ["SotFS"],
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Undead Crypt",
+            "x": 500,
+            "y": 1087,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Crypt: Smooth & Silky Stone - first graveyard #2",
+        "visibility_rules": ["SotFS"],
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Undead Crypt",
+            "x": 512,
+            "y": 1120,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Crypt: Smooth & Silky Stone - first graveyard #3",
+        "visibility_rules": ["SotFS"],
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Undead Crypt",
+            "x": 484,
+            "y": 1202,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Agdayne Gift and Shop",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Crypt: Darkdrift - Agdayne after King's Ring"     
+          },
+          {
+            "name": "Crypt: Agdayne's Black Robe - Agdayne after King's Ring"     
+          },
+          {
+            "name": "Crypt: Agdayne's Cuffs - Agdayne after King's Ring"     
+          },
+          {
+            "name": "Crypt: Agdayne's Kilt - Agdayne after King's Ring"     
+          },
+          {
+            "name": "Crypt: Soul Spear - Agdayne shop"     
+          },
+          {
+            "name": "Crypt: Soul Vortex - Agdayne shop"     
+          },
+          {
+            "name": "Crypt: Soul Appease - Agdayne shop"     
+          },
+          {
+            "name": "Crypt: Warmth - Agdayne shop"     
+          },
+          {
+            "name": "Crypt: Ring of Thorns+1 - Agdayne shop"     
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Undead Crypt",
+            "x": 165,
+            "y": 1401,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Maughlin after Velstadt",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Majula: Velstadt's Helm - Maughlin shop after killing first Crypt boss"     
+          },
+          {
+            "name": "Majula: Velstadt's Gauntlets - Maughlin shop after killing first Crypt boss"     
+          },
+          {
+            "name": "Majula: Velstadt's Leggings - Maughlin shop after killing first Crypt boss"     
+          },
+          {
+            "name": "Majula: Velstadt's Armor - Maughlin shop after killing first Crypt boss"
+          }],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 987,
+            "y": 641,
+			      "size": 20
+          }
+        ]
+      }
     ]
-  }
-  
-  
-  
- 
+  }      
 ]

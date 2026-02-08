@@ -6,25 +6,496 @@
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [
       {
-        "name": "Test",
+        "name": "Gutter: Dung Pie x2 - urn near upper bonfire",
         "sections":[{
           "access_rules": []
         }],
         "map_locations": [
           {
             "map": "The Gutter & Black Gulch",
-            "x": 50,
-            "y": 50,
+            "x": 220,
+            "y": 973,
 			      "size": 20
           }
         ]
 
       },
-	  
+      {
+        "name": "Gutter: Soul of a Nameless Soldier - top level from path nearby forgotten door, urn",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "The Gutter & Black Gulch",
+            "x": 465,
+            "y": 962,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Gutter: Large Soul of a Nameless Soldier - urn before upper bonfire catwalk return",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "The Gutter & Black Gulch",
+            "x": 472,
+            "y": 1182,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Gutter: Lifegem - urn on upper bonfire catwalk return",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "The Gutter & Black Gulch",
+            "x": 288,
+            "y": 1111,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Gutter: Ring of Soul Protection - near npc invasion, metal chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "The Gutter & Black Gulch",
+            "x": 584,
+            "y": 1242,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Gutter: Titanite Chunk - urn on floor halfway down drop to zipline ladder",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "The Gutter & Black Gulch",
+            "x": 756,
+            "y": 1103,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Tattered Cloth Set",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Gutter: Tattered Cloth Hood - Urn near hanging poison statue, path to zipline ladder"            
+          },
+          {
+            "name": "Gutter: Tattered Cloth Robe - Urn near hanging poison statue, path to zipline ladder"
+          },
+          {
+            "name": "Gutter: Tattered Cloth Manchettes - Urn near hanging poison statue, path to zipline ladder"            
+          },
+          {
+            "name": "Gutter: Heavy Boots - Urn near hanging poison statue, path to zipline ladder"
+          }],
+        "map_locations": [
+          {
+            "map": "The Gutter & Black Gulch",
+            "x": 848,
+            "y": 1110,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Aurous Set",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Gutter: Ring of the Evil Eye - next to zipline ladder, metal chest",
+            "visibility_rules":["$hasnot|SotFS"]         
+          },
+          {
+            "name": "Gutter: Helm of Aurous - next to zipline ladder, metal chest",
+            "visibility_rules": ["SotFS"]
+          },
+          {
+            "name": "Gutter: Armor of Aurous - next to zipline ladder, metal chest",     
+            "visibility_rules": ["SotFS"]   
+          },
+          {
+            "name": "Gutter: Gauntlets of Aurous - next to zipline ladder, metal chest", 
+            "visibility_rules": ["SotFS"]           
+          },
+          {
+            "name": "Gutter: Leggings of Aurous - next to zipline ladder, metal chest",
+            "visibility_rules": ["SotFS"]
+          }],
+        "map_locations": [
+          {
+            "map": "The Gutter & Black Gulch",
+            "x": 826,
+            "y": 1174,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Gutter: Estus Flask Shard - top of zipline tower, corpse",
+        "visibility_rules": ["SotFS"],
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "The Gutter & Black Gulch",
+            "x": 1107,
+            "y": 1194,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Gutter: Soul of a Proud Knight - top of zipline tower, urn",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "The Gutter & Black Gulch",
+            "x": 1061,
+            "y": 1161,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Gutter: Flame Butterfly x2 - tight corner, zipline tower middle level, urn",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "The Gutter & Black Gulch",
+            "x": 1298,
+            "y": 1026,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Items visible close to the second bridge",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Gutter: Human Effigy - corpse, top level, visible from second bridge",
+            "visibility_rules": ["SotFS"]        
+          },
+          {
+            "name": "Gutter: Smooth & Silky Stone - corpse, top level, visible from second bridge",
+            "visibility_rules": ["SotFS"]
+          },
+          {
+            "name": "Gutter: Twinkling Titanite - corpse, top level, visible from second bridge",     
+            "visibility_rules": ["SotFS"]   
+          },
+          {
+            "name": "Gutter: Smooth & Silky Stone - corpse, top level, visible from second bridge #2", 
+            "visibility_rules": ["SotFS"]           
+          },
+          {
+            "name": "Gutter: Fragrant Branch of Yore - corpse, top level, visible from second bridge",
+            "visibility_rules": ["SotFS"]
+          }],
+        "map_locations": [
+          {
+            "map": "The Gutter & Black Gulch",
+            "x": 440,
+            "y": 943,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Gutter: Black Firebomb x3 - small structure top at first long bridge end, chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "The Gutter & Black Gulch",
+            "x": 693,
+            "y": 1016,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Twinkling Titanite and Small Smooth & Silky Stone x3",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Gutter: Twinkling Titanite - tower middle floor near npc invasion, chest",
+            "visibility_rules":["$hasnot|SotFS"]     
+          },
+          {
+            "name": "Gutter: Small Smooth & Silky Stone x3 - tower middle floor near npc invasion, chest",
+            "visibility_rules":["$hasnot|SotFS"]
+          }],
+        "map_locations": [
+          {
+            "map": "The Gutter & Black Gulch",
+            "x": 667,
+            "y": 1310,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Dark Pyromancy Flame and Rotten Pine Resin x3",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Gutter: Dark Pyromancy Flame - urn on lower floor near forgotten door"      
+          },
+          {
+            "name": "Gutter: Rotten Pine Resin x3 - urn on lower floor near forgotten door"
+          }],
+        "map_locations": [
+          {
+            "map": "The Gutter & Black Gulch",
+            "x": 233,
+            "y": 524,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Havel's Set",
+        "access_rules": ["Forgotten Key"],
+        "sections":[
+          {
+            "name": "Gutter: Havel's Greatshield - urn behind forgotten door"        
+          },
+          {
+            "name": "Gutter: Havel's Helm - urn behind forgotten door"
+          },
+          {
+            "name": "Gutter: Havel's Armor - urn behind forgotten door"  
+          },
+          {
+            "name": "Gutter: Havel's Gauntlets - urn behind forgotten door"           
+          },
+          {
+            "name": "Gutter: Havel's Leggings - urn behind forgotten door"
+          }],
+        "map_locations": [
+          {
+            "map": "The Gutter & Black Gulch",
+            "x": 306,
+            "y": 662,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Gutter: Bandit Greataxe - small structure, top of zipline tower, urn",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "The Gutter & Black Gulch",
+            "x": 1077,
+            "y": 1190,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Gutter: Great Club - lower ledge, second bonfire ladder area, chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "The Gutter & Black Gulch",
+            "x": 368,
+            "y": 49,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Gutter: Lifegem x20 - bottom area, first urn",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "The Gutter & Black Gulch",
+            "x": 402,
+            "y": 118,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Gutter: Rotten Pine Resin x3 - wooden ledge, second bonfire ladder area, urn",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "The Gutter & Black Gulch",
+            "x": 420,
+            "y": 321,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Gutter: Wicked Eye Greatshield - cave above fog door, metal chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "The Gutter & Black Gulch",
+            "x": 474,
+            "y": 638,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Cave by fog gate",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Gutter: Poison Moss - cave across from fog door, first urn"        
+          },
+          {
+            "name": "Gutter: Poison Moss x3 - cave across from fog door, second urn"
+          }],
+        "map_locations": [
+          {
+            "map": "The Gutter & Black Gulch",
+            "x": 650,
+            "y": 555,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Gutter: Poison Arrow x20 - urn by fog door",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "The Gutter & Black Gulch",
+            "x": 642,
+            "y": 706,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Gutter: Dung Pie x3 - urn by second bonfire ladder area",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "The Gutter & Black Gulch",
+            "x": 650,
+            "y": 796,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Gutter: Black Firebomb x2 - inside structure at end of second long bridge, urn",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "The Gutter & Black Gulch",
+            "x": 868,
+            "y": 976,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Dark Fog and Torch",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Gutter: Dark Fog - bottom area, second urn"        
+          },
+          {
+            "name": "Gutter: Torch - bottom area, second urn"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Gutter & Black Gulch",
+            "x": 473,
+            "y": 33,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Gutter: Fragrant Branch of Yore - before Black Gulch entrance",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "The Gutter & Black Gulch",
+            "x": 520,
+            "y": 51,
+			      "size": 20
+          }
+        ]
+      }        	  
     ]
-  }
-  
-  
-  
- 
+  } 
 ]

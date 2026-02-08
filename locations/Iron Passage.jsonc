@@ -1,26 +1,166 @@
 [
   {
     "name": "Iron Passage",
-    "access_rules": [],
+    "access_rules": ["Tower Key"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [
       {
-        "name": "Test",
+        "name": "IronPassage: Twilight Herb x2 - elevator up from bonfire",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 770,
+            "y": 738,
+			      "size": 5
+          }
+        ]
+
+      },
+	    {
+        "name": "IronPassage: Large Titanite Shard x7 - right side cell, opened by first lever",
         "sections":[{
           "access_rules": []
         }],
         "map_locations": [
           {
             "map": "Iron Passage",
-            "x": 50,
-            "y": 50,
-			      "size": 20
+            "x": 84,
+            "y": 212,
+			      "size": 5
           }
         ]
 
       },
-	  
+      {
+        "name": "IronPassage: Crimson Water x2 - upper ledge, first large room",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Iron Passage",
+            "x": 125,
+            "y": 198,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "IronPassage: Simpleton's Spice - right side cell, opened by second lever",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Iron Passage",
+            "x": 128,
+            "y": 332,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "IronPassage: Torch x5 - left side cell, opened by second lever",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Iron Passage",
+            "x": 153,
+            "y": 300,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "IronPassage: Wilted Dusk Herb x2 - upper ledge, second large room",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Iron Passage",
+            "x": 199,
+            "y": 273,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "IronPassage: Dried Root - lower level, third large room before boss",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Iron Passage",
+            "x": 246,
+            "y": 278,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "Cracked Red Eye Orbs and Old Growth Balm",
+        "access_rules": [],
+        "sections":[
+        {
+          "name":"IronPassage: Old Growth Balm x3 - upper ledge, third large room"
+        },
+        {
+          "name":"IronPassage: Cracked Red Eye Orb x3 - upper ledge, third large room"
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "Iron Passage",
+            "x": 260,
+            "y": 262,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "IronPassage: Pharros Mask - past boss arena, corpse",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Iron Passage",
+            "x": 163,
+            "y": 90,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "IronPassage: Smelter Demon Soul",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Iron Passage",
+            "x": 246,
+            "y": 178,
+			      "size": 5
+          }
+        ]
+
+      }
     ]
   }
   

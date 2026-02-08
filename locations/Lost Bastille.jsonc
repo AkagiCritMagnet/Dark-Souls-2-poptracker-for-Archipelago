@@ -1,30 +1,941 @@
 [
   {
     "name": "Lost Bastille",
-    "access_rules": [],
+  "access_rules": [],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [
       {
-        "name": "Test",
-        "sections":[{
-          "access_rules": []
-        }],
+        "name": "Radiant Lifegem and Large Titanite Shard",
+        "access_rules": ["Soldier Key"],
+        "sections":[
+          {
+            "name": "Bastille: Radiant Lifegem - ledge near Tower Apart bonfire"
+          },
+          {
+            "name": "Bastille: Large Titanite Shard - ledge near Tower Apart bonfire"
+          }
+        ],
         "map_locations": [
           {
             "map": "Lost Bastille & Belfry Luna",
-            "x": 50,
-            "y": 50,
+            "x": 1132,
+            "y": 734,
 			      "size": 20
           }
         ]
 
       },
-	  
+      {
+        "name": "Bastille: Human Effigy x2 - metal chest next to Tower Apart bonfire",
+        "visibility_rules": ["SotFS"],
+        "access_rules": ["Soldier Key"],
+        "sections":[{
+        
+        }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 1245,
+            "y": 820,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Metal chest after explosive room",
+        "access_rules": ["Soldier Key"],
+        "sections":[
+          {
+            "name": "Bastille: Covetous Silver Serpent Ring - near Tower Apart after explosive room, metal chest"
+          },
+          {
+            "name": "Bastille: Antiquated Key - near Tower Apart after explosive room, metal chest",
+            "visibility_rules":["$hasnot|SotFS"]
+          },
+          {
+            "name": "Bastille: Human Effigy - near Tower Apart after explosive room, metal chest",
+            "visibility_rules": ["SotFS"]
+          },
+          {
+            "name": "Bastille: Fragrant Branch of Yore - near Tower Apart after explosive room, metal chest",
+            "visibility_rules": ["SotFS"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 1021,
+            "y": 661,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Bastille: Dull Ember - metal chest near Tower Apart bonfire",
+        "visibility_rules": ["SotFS"],
+        "sections":[{
+        "access_rules": ["Soldier Key"]
+        }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 1245,
+            "y": 782,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Bastille: Ruin Sentinel Soul",
+        "sections":[{
+        "access_rules": ["SotFS, Statue in LB","$hasnot|SotFS","$hasnot|SotFS"]
+        }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 1230,
+            "y": 964,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Bastille: Rouge Water - illusory wall, stairs after boss, chest",
+        "sections":[{
+        "access_rules": ["SotFS, Statue in LB","$hasnot|SotFS"]
+        }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 726,
+            "y": 867,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Bastille: Target Shield - illusory wall from boss room, chest",
+        "sections":[{
+        "access_rules": ["SotFS, Statue in LB","$hasnot|SotFS"]
+        }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 1280,
+            "y": 1062,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Bastille: Hush - illusory wall in boss room, metal chest",
+        "sections":[{
+        "access_rules": ["SotFS, Statue in LB","$hasnot|SotFS"]
+        }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 1006,
+            "y": 837,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Bastille: Homeward Bone x3 - upper ledge, boss room",
+        "sections":[{
+        "access_rules": ["SotFS, Statue in LB","$hasnot|SotFS"]
+        }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 965,
+            "y": 846,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Bastille: Rusted Coin - illusory wall in boss room, corpse",
+        "sections":[{
+        "access_rules": ["SotFS, Statue in LB","$hasnot|SotFS"]
+        }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 1156,
+            "y": 1061,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Bastille: Soul of a Nameless Soldier - cell in narrow corridor after boss",
+        "sections":[{
+      "access_rules": ["SotFS, Statue in LB","$hasnot|SotFS"]
+        }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 866,
+            "y": 923,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Bastille: Priest's Chime - under Servants' Quarters bonfire, metal chest",
+        "sections":[{
+      "access_rules": ["SotFS, Statue in LB","$hasnot|SotFS"]
+        }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 911,
+            "y": 1216,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Bastille: Large Club - room under Servants' Quarters bonfire",
+        "sections":[{
+        "access_rules": ["SotFS, Statue in LB","$hasnot|SotFS"]
+        }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 911,
+            "y": 1269,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Bastille: Soul of a Nameless Soldier - behind door after Servants' Quarters",
+        "access_rules": ["SotFS, Statue in LB","$hasnot|SotFS"],
+        "sections":[{
+        
+        }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 731,
+            "y": 1010,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Bones on ledge, left after Servant's Quarters",
+        "access_rules": ["SotFS, Statue in LB","$hasnot|SotFS"],
+        "sections":[
+          {
+            "name": "Bastille: Bastille Key - boxes on ledge, left after Servants' Quarters",
+            "visibility_rules":["$hasnot|SotFS"]
+          },
+          {
+            "name": "Bastille: Human Effigy - boxes on ledge, left after Servants' Quarters",
+            "visibility_rules": ["SotFS"]
+            
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 683,
+            "y": 1162,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Soul of a Proud Knight and Human Effigy",
+        "access_rules": ["SotFS, Statue in LB","$hasnot|SotFS","$hasnot|SotFS"],
+        "sections":[
+          {
+            "name": "Bastille: Soul of a Proud Knight - ladder bottom before boss"
+          },
+          {
+            "name": "Bastille: Human Effigy - ladder bottom before boss"
+          }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 803,
+            "y": 692,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Bastille: Radiant Lifegem x2 - cell before boss",
+        "sections":[{
+        "access_rules": ["SotFS, Statue in LB","$hasnot|SotFS","$hasnot|SotFS"]
+        }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 895,
+            "y": 680,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Bastille: Flame Butterfly x3 - roof after Servants' Quarters",
+        "sections":[{
+        "access_rules": ["SotFS, Statue in LB","$hasnot|SotFS","$hasnot|SotFS"]
+        }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 612,
+            "y": 854,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Bastille: Large Soul of a Nameless Soldier - opposite roof after Servants' Quarters lower path",
+        "sections":[{
+        "access_rules": ["SotFS, Statue in LB","$hasnot|SotFS","$hasnot|SotFS"]
+        }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 590,
+            "y": 761,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Bastille: Parrying Dagger - Pharros/elevator room, metal chest",
+        "sections":[{
+        "access_rules": ["SotFS, SotFS, Statue in LB","SotFS, Antiquated Key","$hasnot|SotFS"]
+        }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 704,
+            "y": 610,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Bastille: Twinblade - Pharros/elevator room, metal chest",
+        "sections":[{
+        "access_rules": ["SotFS, SotFS, Statue in LB","SotFS, Antiquated Key","$hasnot|SotFS"]
+        }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 705,
+            "y": 574,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Bastille: Soul Vessel - behind Pharros' contraption, Pharros/elevator room, chest",
+        "sections":[{
+        "access_rules": ["Antiquated Key, Master Lockstone", "SotFS, Statue in LB, Master Lockstone","$hasnot|SotFS, Master Lockstone"]
+        }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 617,
+            "y": 674,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Bastille: Wilted Dusk Herb - next to elevator, Pharros/elevator room, metal chest",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Bastille: Wilted Dusk Herb - next to elevator, Pharros/elevator room, metal chest",
+            "access_rules":["SotFS, Statue in LB","SotFS, Antiquated Key", "$hasnot|SotFS, Master Lockstone"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 618,
+            "y": 584,
+            "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Bastille: Bone Staff - Pharros/elevator room, metal chest",
+        "sections":[{
+        "access_rules": ["SotFS, Statue in LB","SotFS, Antiquated Key","$hasnot|SotFS"]
+        }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 649,
+            "y": 636,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Large Soul of a Nameless Soldier and Green Blossom",
+        "access_rules": ["SotFS, Statue in LB","SotFS, Antiquated Key","$hasnot|SotFS"],
+        "sections":[
+          {
+            "name": "Bastille: Large Soul of a Nameless Soldier - up ladder overlooking Pharros/elevator room"
+          },
+          {
+            "name": "Bastille: Green Blossom - up ladder overlooking Pharros/elevator room"
+          }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 674,
+            "y": 707,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Archdrake Robes and Shield",
+        "access_rules": ["SotFS, Statue in LB","SotFS, Antiquated Key","$hasnot|SotFS"],
+        "sections":[
+          {
+            "name": "Bastille: Archdrake Robes - explodable wall before Pharros/elevator room"
+          },
+          {
+            "name": "Bastille: Archdrake Shield - explodable wall before Pharros/elevator room"
+          }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 734,
+            "y": 771,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Wanderers Set SotFs",
+       "access_rules": ["SotFS, Statue in LB","Antiquated Key"],
+       "visibility_rules": ["SotFS"],
+        "sections":[
+          {
+            "name": "Bastille: Wanderer Hood - well outside Pharros/elevator room"
+          },
+          {
+            "name": "Bastille: Wanderer Coat - well outside Pharros/elevator room"
+          },
+          {
+            "name": "Bastille: Wanderer Manchettes - well outside Pharros/elevator room"
+          },
+          {
+            "name": "Bastille: Wanderer Boots - well outside Pharros/elevator room"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 585,
+            "y": 804,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "McDuff Metal Chest",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Bastille: Craftsman's Hammer - McDuff's workshop, metal chest"
+          },
+          {
+            "name": "Bastille: Twinkling Titanite - McDuff's workshop, metal chest"
+          }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 676,
+            "y": 349,
+			      "size": 10
+          }
+        ]
+      },
+      {
+        "name": "Bastille: Heavy Bolt x10 - McDuff's workshop, fourth chest",
+        "sections":[{
+        "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 669,
+            "y": 368,
+			      "size": 10
+          }
+        ]
+      },
+      {
+        "name": "Bastille: Titanite Shard x5 - McDuff's workshop, second chest",
+        "sections":[{
+        "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 648,
+            "y": 349,
+			      "size": 10
+          }
+        ]
+      },
+      {
+        "name": "Bastille: Iron Arrow x10 - McDuff's workshop, third chest",
+        "sections":[{
+        "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 631,
+            "y": 368,
+			      "size": 10
+          }
+        ]
+      },
+      {
+        "name": "Bastille: Large Titanite Shard x2 - McDuff's workshop, first chest",
+        "sections":[{
+        "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 605,
+            "y": 360,
+			      "size": 10
+          }
+        ]
+      },
+      {
+        "name": "Bastille: Antiquated Key - metal chest next to Lucatiel",
+        "visibility_rules": ["SotFS"],
+        "sections":[{
+        "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 1273,
+            "y": 400,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Bastille: Large Titanite Shard - Lucatiel tower upper floor",
+        "sections":[{
+        "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 1256,
+            "y": 317,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Bastille: Gold Pine Resin - near stairs up from McDuff's",
+        "sections":[{
+        "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 838,
+            "y": 483,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "McDuff Shop",
+        "access_rules": ["Dull Ember"],
+        "sections":[
+          {
+            "name": "Bastille: Uchigatana - McDuff shop"
+          },
+          {
+            "name": "Bastille: Bastard Sword - McDuff shop"
+          },
+          {
+            "name": "Bastille: Greataxe - McDuff shop"
+          },
+          {
+            "name": "Bastille: Winged Spear - McDuff shop"
+          },
+          {
+            "name": "Bastille: Scythe - McDuff shop"
+          },
+          {
+            "name": "Bastille: Royal Kite Shield - McDuff shop"
+          },
+          {
+            "name": "Bastille: Long Bow - McDuff shop"
+          },
+          {
+            "name": "Bastille: Light Crossbow - McDuff shop"
+          },
+          {
+            "name": "Bastille: Repair Powder - McDuff shop"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 662,
+            "y": 357,
+			      "size": 10
+          }
+        ]
+      },
+      {
+        "name": "Soul of a Brave Warrior and Golden Wing Shield",
+        "access_rules": ["SotFS, Statue in LB","SotFS, Antiquated Key","$hasnot|SotFS"],
+        "sections":[
+          {
+            "name": "Bastille: Soul of a Brave Warrior - end of path above Mcduff's workshop"
+          },
+          {
+            "name": "Bastille: Golden Wing Shield - end of path above Mcduff's workshop"
+          }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 772,
+            "y": 399,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Bastille: Skeptic's Spice - top of cage elevator, corpse",
+        "sections":[
+          {
+            "access_rules":["SotFS, Statue in LB","SotFS, Antiquated Key","$hasnot|SotFS"]
+          }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 418,
+            "y": 914,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Bastille: Lifegem x8 - beginning of bridge to Sinner's Rise",
+        "access_rules":["SotFS, Statue in LB","SotFS, Antiquated Key","$hasnot|SotFS"],
+        "sections":[
+          {
+          }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 384,
+            "y": 928,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Bastille: Bracing Knuckle Ring - after double illusory wall, end of path",
+        "access_rules":["SotFS, Statue in LB","SotFS, Antiquated Key","$hasnot|SotFS"],
+        "sections":[
+          {
+          }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 537,
+            "y": 696,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "after double illusory wall, jump gap",
+        "access_rules": ["SotFS, Statue in LB","SotFS, Antiquated Key","$hasnot|SotFS"],
+        "sections":[
+          {
+            "name": "Bastille: Flame Butterfly - after double illusory wall, jump gap"
+          },
+          {
+            "name": "Bastille: Torch x3 - after double illusory wall, jump gap"
+          }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 484,
+            "y": 548,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Petrified Dragon Bone and Firebomb x3",
+        "access_rules": ["SotFS, Statue in LB","SotFS, Antiquated Key","$hasnot|SotFS"],
+        "sections":[
+          {
+            "name": "Bastille: Petrified Dragon Bone - Straid's neighboring cell",
+            "access_rules": ["Bastille Key"]
+          },
+          {
+            "name": "Bastille: Firebomb x3 - Straid's neighboring cell",
+            "access_rules": ["Bastille Key"]
+          }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 384,
+            "y": 1180,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Bastille: Green Blossom x2 - behind illusory wall - 2 levels below Straid",
+        "visibility_rules":["SotFS"],
+        "sections":[{
+        "access_rules": ["SotFS, Statue in LB","SotFS, Antiquated Key"]
+        }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 248,
+            "y": 482,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Bastille: Bonfire Ascetic - ledge halfway up cage elevator shaft",
+        "sections":[{
+        "access_rules": ["SotFS, Statue in LB","SotFS, Antiquated Key","$hasnot|SotFS"]
+        }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 246,
+            "y": 586,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Straid Shop",
+        "access_rules": ["SotFS, Statue in LB, Straid of Olaphis","SotFS, Antiquated Key, Straid of Olaphis","$hasnot|SotFS, Straid of Olaphis"],
+        "sections":[
+          {
+            "name": "Bastille: Homing Soul Arrow - Straid shop"
+          },
+          {
+            "name": "Bastille: Resplendent Life - Straid shop"
+          },
+          {
+            "name": "Bastille: Great Lightning Spear - Straid of Olaphis after Crypt boss",
+            "access_rules":["@Undead Crypt/Soul of Velstadt"]
+          },
+          {
+            "name": "Bastille: Unveil - Straid shop"
+          },
+          {
+            "name": "Bastille: Sunlight Blade - Straid of Olaphis after Crypt boss",
+            "access_rules":["@Undead Crypt/Soul of Velstadt"]
+          },
+          {
+            "name": "Bastille: Lingering Flame - Straid shop"
+          },
+          {
+            "name": "Bastille: Flame Swathe - Straid shop"
+          },
+          {
+            "name": "Bastille: Dark Orb - Straid shop"
+          },
+          {
+            "name": "Bastille: Dark Hail - Straid shop"
+          },
+          {
+            "name": "Bastille: Dark Fog - Straid shop"
+          },
+          {
+            "name": "Bastille: Affinity - Straid shop"
+          },
+          {
+            "name": "Bastille: Strong Magic Shield - Straid shop"
+          }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 404,
+            "y": 1235,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Straid Shop 2",
+        "access_rules": ["SotFS, Statue in LB, Straid of Olaphis","SotFS, Antiquated Key, Straid of Olaphis","$hasnot|SotFS, Straid of Olaphis"],
+        "sections":[
+          {
+            "name": "Bastille: Cast Light - Straid shop"
+          },
+          {
+            "name": "Bastille: Ring of Knowledge - Straid shop"
+          },
+          {
+            "name": "Bastille: Lingering Dragoncrest Ring - Straid shop"
+          },
+          {
+            "name": "Bastille: Agape Ring - Straid shop"
+          }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 429,
+            "y": 1235,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Estus Shard and Large Titanite Shard",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Bastille: Estus Flask Shard - behind dog/Pursuer courtyard, metal chest"
+          },
+          {
+            "name": "Bastille: Large Titanite Shard - behind dog/Pursuer courtyard, metal chest"
+          }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 542,
+            "y": 444,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Bastille: Alluring Skull - top of scaffolding, dog courtyard",
+        "sections":[{
+        "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 522,
+            "y": 669,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Soul of a Brave Warrior and Human Effigy",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Bastille: Soul of a Brave Warrior - rubble path above Pursuer/dog courtyard (drop down)"
+          },
+          {
+            "name": "Bastille: Human Effigy - rubble path above Pursuer/dog courtyard (drop down)"
+          }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 394,
+            "y": 791,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Bastille: Common Fruit x2 - cell near Exile Holding Cells bonfire",
+        "sections":[{
+        "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 675,
+            "y": 192,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Soul of a Proud Knight and Radiant Lifegem",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Bastille: Soul of a Proud Knight - cell, top of post-Wharf elevator ride"
+          },
+          {
+            "name": "Bastille: Radiant Lifegem - cell, top of post-Wharf elevator ride"
+          }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 843,
+            "y": 147,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Scimitar and Repair Powder",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Bastille: Scimitar - tunnel after riding on top of elevator post-Wharf"
+          },
+          {
+            "name": "Bastille: Repair Powder - tunnel after riding on top of elevator post-Wharf"
+          }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 494,
+            "y": 126,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Bastille: Flame Butterfly x2 - jail cell by Antiquated door",
+        "sections":[{
+        "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Lost Bastille & Belfry Luna",
+            "x": 566,
+            "y": 724,
+			      "size": 20
+          }
+        ]
+      }
     ]
   }
-  
-  
-  
- 
 ]

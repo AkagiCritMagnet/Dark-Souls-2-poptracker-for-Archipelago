@@ -6,7 +6,7 @@
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [
       {
-        "name": "Tseldora: Radiant Lifegem - In urn in the first room on a way from doors of pharros",
+        "name": "Tseldora: Radiant Lifegem - urn, first room",
         "sections":[{
           "access_rules": []
         }],
@@ -19,8 +19,8 @@
           },
           {
             "map": "Brightstone Cove Tseldora",
-            "x": 375,
-            "y": 1103,
+            "x": 1054,
+            "y": 863,
 			      "size": 20
           }
         ]
@@ -30,21 +30,967 @@
 
 
       {
-        "name": "Test",
+        "name": "Group of corpses at the back of camp",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Tseldora: Large Soul of a Proud Knight - corpse at the back of camp"     
+          },
+          {
+            "name": "Tseldora: Soul of a Nameless Soldier - corpse at the back of camp"
+          },
+          {
+            "name": "Tseldora: Soul of a Nameless Soldier - corpse at the back of camp #2"
+          },
+          {
+            "name": "Tseldora: Soul of a Nameless Soldier - corpse at the back of camp #3"         
+          }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 881,
+            "y": 811,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Tseldora: Lacerating Arrow x15 - atop breakable tower, camp",
         "sections":[{
           "access_rules": []
         }],
         "map_locations": [
           {
             "map": "Brightstone Cove Tseldora",
-            "x": 50,
-            "y": 50,
+            "x": 860,
+            "y": 767,
 			      "size": 20
           }
         ]
 
       },
-	  
+      {
+        "name": "Tseldora: Large Soul of a Nameless Soldier - urn by ruined house, camp",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 844,
+            "y": 684,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Well Items",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Tseldora: Titanite Shard - hanging on the well, camp"     
+          },
+          {
+            "name": "Tseldora: Holy Water Urn x3 - bottom of well, camp"
+          }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 890,
+            "y": 619,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Tseldora: Soul of a Nameless Soldier - on path, under first boulder",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 1106,
+            "y": 509,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Tseldora: Soul of a Brave Warrior - under second boulder",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 1146,
+            "y": 417,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Tseldora: Large Titanite Shard - ledge before first spider-decorated door",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 1167,
+            "y": 384,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Tseldora: Heavy Bolt x20 - trapped chest before first boss",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 1047,
+            "y": 186,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Tseldora: Human Effigy - urn before first boss",
+        "visibility_rules": ["SotFS"],
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 1036,
+            "y": 264,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Priestess Set",
+        "visibility_rules":["SotFS"],
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Tseldora: Priestess Headpiece - window behind illusory wall before first boss"     
+          },
+          {
+            "name": "Tseldora: Priestess Robe - window behind illusory wall before first boss"
+          },
+          {
+            "name": "Tseldora: Priestess Gloves - window behind illusory wall before first boss"
+          },
+          {
+            "name": "Tseldora: Priestess Skirt - window behind illusory wall before first boss"         
+          }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 934,
+            "y": 282,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Tseldora: Estus Flask Shard - window behind illusory wall before first boss",
+        "visibility_rules":["$hasnot|SotFS"],
+        "sections":[{
+        "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 934,
+            "y": 282,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Items By Cromwell",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Tseldora: Fading Soul - by Cromwell"     
+          },
+          {
+            "name": "Tseldora: Cleric's Small Shield - by Cromwell"
+          },
+          {
+            "name": "Tseldora: Fading Soul - by Cromwell #2"
+          },
+          {
+            "name": "Tseldora: Skeptic's Spice - by Cromwell"         
+          },
+          {
+            "name": "Tseldora: Bonfire Ascetic - by Cromwell"
+          },
+          {
+            "name": "Tseldora: Fading Soul - by Cromwell #3"         
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 934,
+            "y": 400,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Cromwell Shop",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Tseldora: White Priest Headpiece - Cromwell shop"     
+          },
+          {
+            "name": "Tseldora: White Priest Robe - Cromwell shop"
+          },
+          {
+            "name": "Tseldora: White Priest Gloves - Cromwell shop"
+          },
+          {
+            "name": "Tseldora: White Priest Skirt - Cromwell shop"         
+          },
+          {
+            "name": "Tseldora: Great Heal - Cromwell shop"
+          },
+          {
+            "name": "Tseldora: Replenishment - Cromwell shop"         
+          },
+          {
+            "name": "Tseldora: Caressing Prayer - Cromwell shop"     
+          },
+          {
+            "name": "Tseldora: Force - Cromwell shop"
+          },
+          {
+            "name": "Tseldora: Emit Force - Cromwell shop"
+          },
+          {
+            "name": "Tseldora: Heavenly Thunder - Cromwell shop"         
+          },
+          {
+            "name": "Tseldora: Perseverance - Cromwell shop"
+          },
+          {
+            "name": "Tseldora: Scraps of Life - Cromwell shop"         
+          }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 958,
+            "y": 380,
+			      "size": 15
+          }
+        ]
+
+      },
+      {
+        "name": "Cromwell Shop 2",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Tseldora: Poisonbite Ring - Cromwell shop"     
+          },
+          {
+            "name": "Tseldora: Bloodbite Ring - Cromwell shop"
+          },
+          {
+            "name": "Tseldora: Cursebite Ring - Cromwell shop"
+          },
+          {
+            "name": "Tseldora: White Priest Skirt - Cromwell shop"         
+          }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 978,
+            "y": 380,
+			      "size": 15
+          }
+        ]
+
+      },
+      {
+        "name": "Tseldora: Soul of a Proud Knight - under stairs below Chapel Threshold bonfire",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 880,
+            "y": 129,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Tseldora: Wilted Dusk Herb x2 - urn, first room below Chapel Threshold bonfire",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 810,
+            "y": 168,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Tseldora: Petrified Dragon Bone - by webs, first sand area",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 696,
+            "y": 166,
+			      "size": 20
+          },
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 488,
+            "y": 462,
+			      "size": 20
+          },
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 355,
+            "y": 743,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Tseldora: Estus Flask Shard - raised house by sand whirlpool",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 728,
+            "y": 208,
+			      "size": 15
+          },
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 518,
+            "y": 502,
+			      "size": 15
+          },
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 382,
+            "y": 783,
+			      "size": 15
+          }
+        ]
+
+      },
+      {
+        "name": "Tseldora: Large Titanite Shard - roof, raised house by sand whirlpool",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 736,
+            "y": 222,
+			      "size": 15
+          },
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 392,
+            "y": 796,
+			      "size": 15
+          },
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 524,
+            "y": 516,
+			      "size": 15
+          }
+        ]
+
+      },
+      {
+        "name": "Tseldora: Charcoal Pine Resin x3 - urn, room with Pate/Creighton fight",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 788,
+            "y": 353,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Tseldora: Torch - mini staircase, room after Pate/Creighton fight",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 842,
+            "y": 368,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Tseldora: Southern Ritual Band+1 - lowerable platform, metal chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 614,
+            "y": 621,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Titanite Chunk and Twinkling Titanite",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Tseldora: Titanite Chunk - ledge above sand whirlpool"     
+          },
+          {
+            "name": "Tseldora: Twinkling Titanite - ledge above sand whirlpool"
+          }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 640,
+            "y": 516,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Tseldora: Large Titanite Shard - house, cliffside above sand whirlpool",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 614,
+            "y": 507,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Tseldora: Pharros' Lockstone - urn, Ornifex's Tseldora room",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 527,
+            "y": 726,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Tseldora: Flame Butterfly - behind shelf, Ornifex's Tseldora room",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 504,
+            "y": 732,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Test",
+        "access_rules": ["Fang Key"],
+        "sections":[
+          {
+            "name": "Tseldora: Murakumo - Ornifex shop"     
+          },
+          {
+            "name": "Tseldora: Twinblade - Ornifex shop"
+          },
+          {
+            "name": "Tseldora: Partizan - Ornifex shop"     
+          },
+          {
+            "name": "Tseldora: Composite Bow - Ornifex shop"
+          },
+          {
+            "name": "Tseldora: Heavy Crossbow - Ornifex shop"     
+          },
+          {
+            "name": "Tseldora: Homing Soul Arrow - Ornifex shop"
+          },
+          {
+            "name": "Tseldora: Homing Soulmass - Ornifex shop"     
+          },
+          {
+            "name": "Tseldora: Fall Control - Ornifex shop"
+          }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 538,
+            "y": 748,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Crescent Axe and Soul Vortex",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Tseldora: Crescent Axe - double-door house, by sand whirlpool, metal chest"     
+          },
+          {
+            "name": "Tseldora: Soul Vortex - double-door house, by sand whirlpool, metal chest"
+          }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 560,
+            "y": 774,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Tseldora: Titanite Chunk - back room full of sand, second sand area",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 636,
+            "y": 800,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Tseldora Den",
+        "access_rules": ["Tseldora Den Key"],
+        "sections":[
+          {
+            "name": "Tseldora: Rusted Coin x10 - Tseldora Den, trapped chest"     
+          },
+          {
+            "name": "Tseldora: Engraved Gauntlets - Tseldora Den, metal chest"
+          }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 658,
+            "y": 870,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Tseldora: Large Titanite Shard - balcony, house before spiky mining field",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 572,
+            "y": 970,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Spiky Mining Field Items",
+        "visibility_rules": ["SotFS"],
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Tseldora: Torch x3 - spiky mining field, corpse"     
+          },
+          {
+            "name": "Tseldora: Titanite Chunk x3 - spiky mining field, corpse"
+          },
+          {
+            "name": "Tseldora: Titanite Shard - spiky mining field, corpse"     
+          },
+          {
+            "name": "Tseldora: Titanite Slab - spiky mining field, corpse"
+          }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 625,
+            "y": 1021,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Tseldora: Cracked Red Eye Orb - urn, right side after first boss",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 914,
+            "y": 196,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Tseldora: Poison Arrow x15 - urn, spider temple",
+        "visibility_rules": ["SotFS"],
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 773,
+            "y": 1055,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Tseldora: Pickaxe - guide pig to eat mushrooms",
+        "sections":[{
+        "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 790,
+            "y": 1060,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Chest behind Brightstone Key door",
+        "access_rules": ["Brightstone Key"],
+        "sections":[
+          {
+            "name": "Tseldora: Black Knight Ultra Greatsword - behind locked door, spider temple, metal chest"     
+          },
+          {
+            "name": "Tseldora: Great Fireball - behind locked door, spider temple, metal chest"
+          },
+          {
+            "name": "Tseldora: Fire Seed - behind locked door, spider temple, metal chest"
+          }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 749,
+            "y": 1156,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Tseldora: Homeward Bone x3 - right side lever-door, spider temple",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 834,
+            "y": 1096,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Behind bench in spider temple",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Tseldora: Soul of a Hero - behind bench in spider temple"     
+          },
+          {
+            "name": "Tseldora: Gold Pine Resin x4 - behind bench in spider temple"
+          }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 757,
+            "y": 1085,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Tseldora: Pharros' Lockstone - urn, middle level web room",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 598,
+            "y": 1362,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Tseldora: Torch - middle level web room",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 518,
+            "y": 1332,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Tseldora: Twilight Herb - first floor web room, behind pillar",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 58,
+            "y": 938,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Tseldora: Radiant Lifegem - corpse on the web, web room",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 150,
+            "y": 850,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Tseldora: Corrosive Urn x5 - behind pillar, ground floor web room",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 48,
+            "y": 640,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Tseldora: Simpleton's Spice - under web in the web room",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 115,
+            "y": 576,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Tseldora: Soul of the Duke's Dear Freja",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 198,
+            "y": 440,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Tseldora: Lightning Urn x4 - upper floor above Lower Brightstone Cove bonfire",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 580,
+            "y": 413,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Tseldora: Titanite Slab - first boss drop",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 960,
+            "y": 227,
+			      "size": 20
+          }
+        ]
+
+      },
+	    {
+        "name": "Tseldora: Torch x2 - urn, house before spiky mining field",   
+        "visibility_rules": ["SotFS"],
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 545,
+            "y": 945,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Tseldora: Titanite Chunk - ledge overlooking second sand area",   
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 856,
+            "y": 290,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "ShadedWoods: Second Dragon Ring - Tark after killing last Tseldora boss",  
+        "visibility_rules":["$hasnot|SotFS"], 
+        "sections":[{
+          "access_rules": ["@Brightstone Cove Tseldora/Tseldora: Soul of the Duke's Dear Freja, Ring of Whispers"]
+        }],
+        "map_locations": [
+          {
+            "map": "Shaded Woods",
+            "x": 1213,
+            "y": 1019,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "ShadedWoods: Black Scorpion Stinger - Tark after killing last Tseldora boss",   
+        "visibility_rules": ["SotFS"],
+        "sections":[{
+          "access_rules": ["@Brightstone Cove Tseldora/Tseldora: Soul of the Duke's Dear Freja, Ring of Whispers"]
+        }],
+        "map_locations": [
+          {
+            "map": "Shaded Woods",
+            "x": 1213,
+            "y": 1019,
+			      "size": 20
+          }
+        ]
+
+      }
     ]
   }
   

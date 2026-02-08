@@ -1,14 +1,14 @@
 [
   {
     "name": "Shaded Woods",
-    "access_rules": [],
+    "access_rules": ["Rosabeth of Melfia"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [
       {
-        "name": "ShadedWoods: Estus Flask Shard - Metal chest next to the Old Akelarre bonfire",
+        "name": "ShadedWoods: Estus Flask Shard - room opposite of first bonfire",
         "sections":[{
-          "access_rules": ["Rosabeth of Melfia"]
+          "access_rules": []
         }],
         "map_locations": [
           {
@@ -22,13 +22,13 @@
       },
       {
         "name": "ShadedWoods Above Old Akelarre bonfire",
-        "access_rules": ["Rosabeth of Melfia"],
+        "access_rules": [],
         "sections":[
           {
-          "name":"ShadedWoods: Soul of a Proud Knight - Corpse in the room above the Old Akelarre bonfire"
+          "name":"ShadedWoods: Soul of a Proud Knight - room above first bonfire"
           },
           {
-          "name":"ShadedWoods: Human Effigy - Corpse in the room above the Old Akelarre bonfire"
+          "name":"ShadedWoods: Human Effigy - room above first bonfire"
           }
         ],
         "map_locations": [
@@ -42,7 +42,7 @@
 
       },
       {
-        "name": "ShadedWoods: Red Tearstone Ring - Vanilla RTSR: in the mud next to hippo",
+        "name": "ShadedWoods: Red Tearstone Ring - in mud, forward from Ruined Fork Road",
         "sections":[{
           "access_rules": []
         }],
@@ -52,33 +52,776 @@
             "x": 814,
             "y": 186,
 			      "size": 20
+          },
+          {
+            "map": "Shaded Woods",
+            "x": 633,
+            "y": 505,
+			      "size": 20
           }
         ]
 
       },
 
-
-
       {
-        "name": "test",
+        "name": "ShadedWoods: Fading Soul - path to Ruined Fork Road bonfire",
         "sections":[{
           "access_rules": []
         }],
         "map_locations": [
           {
             "map": "Shaded Woods",
-            "x": 50,
-            "y": 50,
+            "x": 997,
+            "y": 131,
 			      "size": 20
           }
         ]
 
-      }
-	  
+      },
+      {
+        "name": "ShadedWoods: Pharros' Lockstone - left ledge, path to Ruined Fork Road",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shaded Woods",
+            "x": 888,
+            "y": 139,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "ledge, left side of path to Shrine of Winter",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "ShadedWoods: Large Soul of a Proud Knight - ledge, left side of path to Shrine of Winter"     
+          },
+          {
+            "name": "ShadedWoods: Ring of Life Protection - ledge, left side of path to Shrine of Winter",
+            "visibility_rules":["$hasnot|SotFS"]
+          },
+          {
+            "name": "ShadedWoods: Human Effigy - ledge, left side of path to Shrine of Winter",
+             "visibility_rules":["SotFS"]    
+          },
+          {
+            "name": "ShadedWoods: Twinkling Titanite x2 - ledge, left side of path to Shrine of Winter",
+            "visibility_rules":["SotFS"]      
+          }],
+        "map_locations": [
+          {
+            "map": "Shaded Woods",
+            "x": 865,
+            "y": 157,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Soul of a Proud Knight and Human Effigy",
+        "visibility_rules":["SotFS"],
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "ShadedWoods: Soul of a Proud Knight - corpse just before Ruined Fork Road bonfire"          
+          },
+          {
+            "name": "ShadedWoods: Human Effigy - corpse just before Ruined Fork Road bonfire"
+          }],
+        "map_locations": [
+          {
+            "map": "Shaded Woods",
+            "x": 720,
+            "y": 133,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "ShadedWoods: Fire Seed - behind Head of Vengarl's stone circle",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shaded Woods",
+            "x": 494,
+            "y": 453,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "ShadedWoods: Lloyd's Talisman x2 - right side fog area",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shaded Woods",
+            "x": 478,
+            "y": 226,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Soul of a Nameless Soldier and Radiant Lifegem",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "ShadedWoods: Soul of a Nameless Soldier - corpse by tree, across from Head of Vengarl's path"     
+          },
+          {
+            "name": "ShadedWoods: Radiant Lifegem - corpse by tree, across from Head of Vengarl's path"
+          }],
+        "map_locations": [
+          {
+            "map": "Shaded Woods",
+            "x": 431,
+            "y": 308,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "ShadedWoods: Large Soul of a Nameless Soldier - left fog area, large tree - right",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shaded Woods",
+            "x": 345,
+            "y": 310,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "ShadedWoods: Chloranthy Ring+1 - fog area, far side chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shaded Woods",
+            "x": 209,
+            "y": 279,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "ShadedWoods: Amber Herb x3 - middle of fog area, near curse urn",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shaded Woods",
+            "x": 316,
+            "y": 209,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "ShadedWoods: Clear Bluestone Ring+1 - fog area, middle chest by big tree",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shaded Woods",
+            "x": 294,
+            "y": 144,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "ShadedWoods: Old Sun Ring - fog area, right side chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shaded Woods",
+            "x": 268,
+            "y": 26,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Soul of a Proud Knight and Human Effigy",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "ShadedWoods: Soul of a Proud Knight - corpse, before Head of Vengarl's stone circle"     
+          },
+          {
+            "name": "ShadedWoods: Human Effigy - corpse, before Head of Vengarl's stone circle"
+          }],
+        "map_locations": [
+          {
+            "map": "Shaded Woods",
+            "x": 398,
+            "y": 459,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Head of Vengarl",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "ShadedWoods: Claymore - Vengarl shop"     
+          },
+          {
+            "name": "ShadedWoods: Greatsword - Vengarl shop"
+          },
+          {
+            "name": "ShadedWoods: Red Rust Sword - Vengarl shop"     
+          },
+          {
+            "name": "ShadedWoods: Red Rust Scimitar - Vengarl shop"
+          },
+          {
+            "name": "ShadedWoods: Red Rust Shield - Vengarl shop"     
+          },
+          {
+            "name": "ShadedWoods: Magic Barrier - Vengarl shop"
+          },
+          {
+            "name": "ShadedWoods: Vengarl's Helm - talk with Vengarl"     
+          }],
+        "map_locations": [
+          {
+            "map": "Shaded Woods",
+            "x": 473,
+            "y": 469,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "ShadedWoods: Homing Soulmass - chest by Grandahl",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shaded Woods",
+            "x": 995,
+            "y": 946,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "ShadedWoods: Twinkling Titanite - cave, right of door to Ornifex",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shaded Woods",
+            "x": 977,
+            "y": 1098,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "room where Ornifex is locked",
+        "access_rules": ["Fang Key"],
+        "sections":[
+          {
+            "name": "ShadedWoods: Fragrant Branch of Yore - room where Ornifex is locked",
+            "visibility_rules": ["SotFS"]               
+          },
+          {
+            "name": "ShadedWoods: Estus Flask Shard - room where Ornifex is locked",
+            "visibility_rules":["$hasnot|SotFS"]
+          }],
+        "map_locations": [
+          {
+            "map": "Shaded Woods",
+            "x": 1024,
+            "y": 1134,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Soul of a Brave Warrior and Firebomb x3",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "ShadedWoods: Soul of a Brave Warrior - outside ledge, near corrosive puddles area exit"     
+          },
+          {
+            "name": "ShadedWoods: Firebomb x3 - outside ledge, near corrosive puddles area exit"
+          }],
+        "map_locations": [
+          {
+            "map": "Shaded Woods",
+            "x": 1035,
+            "y": 994,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "ShadedWoods: Radiant Lifegem - above Shaded Ruins bonfire",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shaded Woods",
+            "x": 474,
+            "y": 820,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "ShadedWoods: Soul of a Brave Warrior - collapsed stairs in right tower before boss"     
+          },
+          {
+            "name": "ShadedWoods: Skeptic's Spice - collapsed stairs in right tower before boss"
+          }],
+        "map_locations": [
+          {
+            "map": "Shaded Woods",
+            "x": 364,
+            "y": 963,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "ShadedWoods: Lifegem - near big collapsing floor, corpse",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shaded Woods",
+            "x": 511,
+            "y": 1077,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Soul of a Brave Warrior and Pharros' Lockstone",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "ShadedWoods: Soul of a Brave Warrior - lower floor, building leading to Manscorpion Tark"     
+          },
+          {
+            "name": "ShadedWoods: Pharros' Lockstone - lower floor, building leading to Manscorpion Tark"
+          }],
+        "map_locations": [
+          {
+            "map": "Shaded Woods",
+            "x": 930,
+            "y": 1300,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Pharros' Lockstone and Soul of a Brave Warrior",
+        "sections":[
+          {
+            "name": "ShadedWoods: Soul of a Brave Warrior - 2nd floor, building forward from bonfire bridge"     
+          },
+          {
+            "name": "ShadedWoods: Pharros' Lockstone - 2nd floor, building forward from bonfire bridge"
+          }],
+        "map_locations": [
+          {
+            "map": "Shaded Woods",
+            "x": 646,
+            "y": 1130,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "statue-blocked metal chest, left from bonfire bridge",
+        "access_rules": ["Statue Blocking the Chest in SR"],
+        "visibility_rules": ["SotFS"],
+        "sections":[
+          {
+            "name": "ShadedWoods: Repair - statue-blocked metal chest, left from bonfire bridge"
+          },
+          {
+            "name": "ShadedWoods: Human Effigy x3 - statue-blocked metal chest, left from bonfire bridge"
+          },
+          {
+            "name": "ShadedWoods: Bleeding Serum x3 - statue-blocked metal chest, left from bonfire bridge"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Shaded Woods",
+            "x": 690,
+            "y": 1084,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "chest, left from bonfire bridge",
+        "access_rules": [],
+        "visibility_rules": ["$hasnot|SotFS"],
+        "sections":[
+          {
+            "name": "ShadedWoods: Human Effigy x3 - chest, left from bonfire bridge"
+          },
+          {
+            "name": "ShadedWoods: Bleeding Serum x3 - chest, left from bonfire bridge"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Shaded Woods",
+            "x": 690,
+            "y": 1084,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Lion Mage Set and Fragrant Branch",
+        "access_rules": ["Lion Mage Set Statue in SR"],
+        "sections":[
+          {
+            "name": "ShadedWoods: Fragrant Branch of Yore - metal chest blocked by statue near boss path"     
+          },
+          {
+            "name": "ShadedWoods: Lion Mage Robe - metal chest blocked by statue near boss path"
+          },
+          {
+            "name": "ShadedWoods: Lion Mage Cuffs - metal chest blocked by statue near boss path"     
+          },
+          {
+            "name": "ShadedWoods: Lion Mage Skirt - metal chest blocked by statue near boss path"
+          }],
+        "map_locations": [
+          {
+            "map": "Shaded Woods",
+            "x": 520,
+            "y": 940,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Petrified Dragon Bone and Titanite Chunk",
+       "access_rules": [],
+        "sections":[
+          {
+            "name": "ShadedWoods: Titanite Chunk - after third bonfire, chest above"     
+          },
+          {
+            "name": "ShadedWoods: Petrified Dragon Bone - after third bonfire, chest above"
+          }],
+        "map_locations": [
+          {
+            "map": "Shaded Woods",
+            "x": 694,
+            "y": 1278,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "ShadedWoods: Magic Bolt x10 - after third bonfire, chest below",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shaded Woods",
+            "x": 644,
+            "y": 753,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "ShadedWoods: Black Knight Halberd - metal chest under Shaded Ruins bonfire",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shaded Woods",
+            "x": 1034,
+            "y": 843,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "ruined building near statue, jump out window by bonfire",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "ShadedWoods: Soul of a Brave Warrior - ruined building near statue, jump out window by bonfire"     
+          },
+          {
+            "name": "ShadedWoods: Twilight Herb - ruined building near statue, jump out window by bonfire"
+          },
+          {
+            "name": "ShadedWoods: Sublime Bone Dust - ruined building near statue, jump out window by bonfire",
+            "visibility_rules": ["SotFS"]
+          }],
+        "map_locations": [
+          {
+            "map": "Shaded Woods",
+            "x": 1143,
+            "y": 818,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "ShadedWoods: Flame Butterfly - on tree in boss arena",
+
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shaded Woods",
+            "x": 563,
+            "y": 1361,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "ShadedWoods: Fang Key - petrified enemy by Shaded Ruins bonfire, drop",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shaded Woods",
+            "x": 992,
+            "y": 802,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "ShadedWoods: Torch - passage past Manscorpion Tark",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shaded Woods",
+            "x": 1207,
+            "y": 871,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Flame Butterfly and Torch x3",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "ShadedWoods: Flame Butterfly - left of building leading to Manscorpion Tark"     
+          },
+          {
+            "name": "ShadedWoods: Torch x3 - left of building leading to Manscorpion Tark"
+          }],
+        "map_locations": [
+          {
+            "map": "Shaded Woods",
+            "x": 660,
+            "y": 868,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "ShadedWoods: Fragrant Branch of Yore - Tark after killing zone boss",
+        "sections":[{
+          "access_rules": ["Ring of Whispers"]
+        }],
+        "map_locations": [
+          {
+            "map": "Shaded Woods",
+            "x": 986,
+            "y": 1322,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "ShadedWoods: Scythe - chest above Tark",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shaded Woods",
+            "x": 1012,
+            "y": 1242,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "ShadedWoods: Scorpioness Najka Soul",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shaded Woods",
+            "x": 496,
+            "y": 1327,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Dragonslayer's Crescent Axe and Golden Falcon Shield",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "ShadedWoods: Dragonslayer's Crescent Axe - ruined gate just before Shrine of Winter"     
+          },
+          {
+            "name": "ShadedWoods: Golden Falcon Shield - ruined gate just before Shrine of Winter"
+          }],
+        "map_locations": [
+          {
+            "map": "Shaded Woods",
+            "x": 1140,
+            "y": 467,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "behind ruined gate, right after Shrine of Winter",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "ShadedWoods: Repair - behind ruined gate, right after Shrine of Winter",
+            "visibility_rules":["$hasnot|SotFS"]
+          },
+          {
+            "name": "ShadedWoods: Soul of a Hero - behind ruined gate, right after Shrine of Winter",
+            "visibility_rules": ["SotFS"]
+          },
+          {
+            "name": "ShadedWoods: Large Soul of a Lost Undead - behind ruined gate, right after Shrine of Winter",
+            "visibility_rules":["$hasnot|SotFS"]
+          }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 534,
+            "y": 235,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "ShadedWoods: Divine Blessing - path after Shrine of Winter",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 603,
+            "y": 43,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Large Soul of a Nameless Soldier and Human Effigy",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "ShadedWoods: Large Soul of a Nameless Soldier - wall along path after Shrine of Winter"     
+          },
+          {
+            "name": "ShadedWoods: Human Effigy - wall along path after Shrine of Winter"
+          }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 778,
+            "y": 97,
+			      "size": 20
+          }
+        ]
+      }                      	  
     ]
-  }
-  
-  
-  
- 
+  }      
 ]

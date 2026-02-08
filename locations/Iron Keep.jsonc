@@ -614,6 +614,53 @@
 			      "size": 20
           }
         ]
+      },
+
+      {
+        "name": "Raime and Alonne Set",
+        "sections":[
+        {
+          "name":"IronKeep: Raime's Helm - Magerold shop after killing last BrumeTower boss",
+          "access_rules": ["Scorching Iron Sceptre"]
+        },
+        {
+          "name":"IronKeep: Raime's Armor - Magerold shop after killing last BrumeTower boss",
+          "access_rules": ["Scorching Iron Sceptre"]
+        },
+        {
+          "name":"IronKeep: Raime's Gauntlets - Magerold shop after killing last BrumeTower boss",
+          "access_rules": ["Scorching Iron Sceptre"]
+        },
+        {
+          "name":"IronKeep: Raime's Leggings - Magerold shop after killing last BrumeTower boss",
+          "access_rules": ["Scorching Iron Sceptre"]
+        },
+        {
+          "name":"IronKeep: Alonne's Helm - Magerold shop after killing Alonne boss",
+          "access_rules": ["Crown of the Old Iron King, Tower Key"]
+        },
+        {
+          "name":"IronKeep: Alonne's Armor - Magerold shop after killing Alonne boss",
+          "access_rules": ["Crown of the Old Iron King, Tower Key"]
+        },
+        {
+          "name":"IronKeep: Alonne's Gauntlets - Magerold shop after killing Alonne boss",
+          "access_rules": ["Crown of the Old Iron King, Tower Key"]
+        },
+        {
+          "name":"IronKeep: Alonne's Leggings - Magerold shop after killing Alonne boss",
+          "access_rules": ["Crown of the Old Iron King, Tower Key"]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "Iron Keep & Belfry Sol",
+            "x": 980,
+            "y": 691,
+                  "size": 20
+          }
+        ]
+
       }
 
       

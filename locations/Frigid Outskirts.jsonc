@@ -1,25 +1,151 @@
 [
   {
     "name": "Frigid Outskirts",
-    "access_rules": [],
+    "access_rules": ["Garrison Ward Key","Frozen Flower"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [
       {
-        "name": "Test",
+        "name": "FrigidOutskirts: Blackweed Balm x2 - inside furthest coffin after ride",
         "sections":[{
           "access_rules": []
         }],
         "map_locations": [
           {
             "map": "Frigid Outskirts",
-            "x": 50,
-            "y": 50,
+            "x": 336,
+            "y": 405,
 			      "size": 20
           }
         ]
 
       },
+      {
+        "name": "FrigidOutskirts: Wilted Dusk Herb x2 - under coffin after ride",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frigid Outskirts",
+            "x": 411,
+            "y": 431,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FrigidOutskirts: Mirrah Hat - outside first house",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frigid Outskirts",
+            "x": 790,
+            "y": 353,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FrigidOutskirts: Dried Root - inside first house",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frigid Outskirts",
+            "x": 763,
+            "y": 361,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FrigidOutskirts: Lacerating Knife x20 - between first and second house",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frigid Outskirts",
+            "x": 983,
+            "y": 461,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FrigidOutskirts: Twinkling Titanite x2 - between second and third house",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frigid Outskirts",
+            "x": 1373,
+            "y": 610,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FrigidOutskirts: Human Effigy x2 - inside third house",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frigid Outskirts",
+            "x": 1726,
+            "y": 593,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Lud and Zallen",
+        "access_rules": [],
+        "sections":[
+        {
+          "name":"FrigidOutskirts: Soul of Lud, the King's Pet"
+        },
+        {
+          "name":"FrigidOutskirts: Soul of Zallen, the King's Pet"
+        }],
+        "map_locations": [
+          {
+            "map": "Frigid Outskirts",
+            "x": 1928,
+            "y": 1006,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FrigidOutskirts: Ring of the Living - ledge before boss",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frigid Outskirts",
+            "x": 1724,
+            "y": 940,
+			      "size": 20
+          }
+        ]
+
+      }
+
 	  
     ]
   }

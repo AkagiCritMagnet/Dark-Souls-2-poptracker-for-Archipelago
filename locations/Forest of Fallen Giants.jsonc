@@ -6,25 +6,1473 @@
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [
       {
-        "name": "Test",
+        "name": "Watery Cave Corpse",
+        "access_rules": [""],
+        "sections":[
+        {
+          "name":"FOFG: Homeward Bone - watery cave, corpse"
+        },
+        {
+          "name":"FOFG: Soul of a Lost Undead - watery cave, corpse"
+        }
+      ],
+      "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 576,
+            "y": 1093,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "FOFG: Lifegem - by first bonfire",
+        "visibility_rules":["$hasnot|SotFS"],
         "sections":[{
           "access_rules": []
         }],
         "map_locations": [
           {
             "map": "Forest of Fallen Giants",
-            "x": 50,
-            "y": 50,
+            "x": 798,
+            "y": 1197,
 			      "size": 20
           }
         ]
 
       },
-	  
+      {
+        "name": "Plateau before large circular room",
+        "access_rules": [""],
+        "sections":[
+        {
+          "name":"FOFG: Throwing Knife x10 - on plateau, jump before first fog gate, corpse"
+        },
+        {
+          "name":"FOFG: Soul of a Nameless Soldier - on plateau, jump before first fog gate, corpse"
+        }
+      ],
+      "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 887,
+            "y": 1100,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "FOFG: Soul of a Lost Undead - end of water stream",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 816,
+            "y": 1014,
+			      "size": 20
+          }
+        ]
+
+      },
+            {
+        "name": "FOFG: Broken Straight Sword - circular room before first fog gate, corpse",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 908,
+            "y": 980,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: Soul of a Nameless Soldier - topmost ledge, circular room before first fog",
+        "sections":[{
+        "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 955,
+            "y": 1000,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: Human Effigy - circular room before first fog gate, corpse",
+        "sections":[{
+        "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 903,
+            "y": 951,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Shortsword and Soul of a Lost Undead",
+        "access_rules": [""],
+        "sections":[
+        {
+          "name":"FOFG: Shortsword - upper ledge, circular room before first fog gate"
+        },
+        {
+          "name":"FOFG: Soul of a Lost Undead - upper ledge, circular room before first fog gate"
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 862,
+            "y": 907,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: Wood Bolt x20 - behind shelf, room after first fog gate",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 894,
+            "y": 780,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: Buckler - near rubble before ladder to Cardinal Tower, corpse",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 890,
+            "y": 703,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: Witching Urn x5 - corner outside Cardinal Tower",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 770,
+            "y": 596,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: Lifegem x3 - below Cardinal Tower front, rubbish mound by fire",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 820,
+            "y": 636,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: Soul of a Proud Knight - salamander fireball tunnel, corpse",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 772,
+            "y": 710,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: Longsword - salamander fireball tunnel, metal chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 728,
+            "y": 715,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Turtle Tunnel",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "FOFG: Hollow Soldier Helm - small tunnel outside salamander tunnel, corpse",
+            "visibility_rules":["$hasnot|SotFS"]
+          },
+          {
+            "name": "FOFG: Foot Soldier Shield - small tunnel outside salamander tunnel",
+            "visibility_rules": ["SotFS"]
+          }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 784,
+            "y": 804,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Giant Tree Root, Cardinal Tower front",
+        "access_rules": [],
+        "sections":[
+        {
+          "name":"FOFG: Soul of a Lost Undead - giant tree root, Cardinal Tower front"
+        },
+        {
+          "name":"FOFG: Torch - giant tree root, Cardinal Tower front"
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 846,
+            "y": 845,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: Human Effigy - Cardinal Tower front, ledge near scaffolding",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 872,
+            "y": 782,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "above Cardinal Tower, behind wagon",
+        "access_rules": [],
+        "sections":[
+        {
+          "name":"FOFG: Hand Axe - above Cardinal Tower, behind wagon"
+        },
+        {
+          "name":"FOFG: Radiant Lifegem - above Cardinal Tower, behind wagon"
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 654,
+            "y": 489,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Wooden Chest above Cardinal Tower",
+        "access_rules": [],
+        "sections":[
+        {
+          "name":"FOFG: Small Leather Shield - above second bonfire, wooden chest"
+        },
+        {
+          "name":"FOFG: Repair Powder - above second bonfire, wooden chest"
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 629,
+            "y": 504,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Metal chest above Cardinal Tower",
+        "access_rules": [],
+        "sections":[
+        {
+          "name":"FOFG: Small White Sign Soapstone - above second bonfire, metal chest"
+          
+        },
+        {
+          "name":"FOFG: Estus Flask Shard - above second bonfire, metal chest",
+          "visibility_rules":["$hasnot|SotFS"]
+          
+        },
+        {
+          "name":"FOFG: Radiant Lifegem x2 - above second bonfire, metal chest",
+          "visibility_rules": ["SotFS"]
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 628,
+            "y": 524,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: Divine Blessing - above second bonfire, tree branch",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 659,
+            "y": 548,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: Green Blossom - behind stairs outside ballista trap room, corpse",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 857,
+            "y": 475,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: Light Crossbow - wall up ladder by Vammar tree",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 874,
+            "y": 443,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Soul of a Nameless Soldier and Torch",
+        "access_rules": [],
+        "sections":[
+        {
+          "name":"FOFG: Torch - boards above guard room over courtyard, corpse"
+        },
+        {
+          "name":"FOFG: Soul of a Nameless Soldier - boards above guard room over courtyard, corpse"
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 846,
+            "y": 436,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Mail Breaker and Infantry Helm",
+        "access_rules": [],
+        "sections":[
+        {
+          "name":"FOFG: Infantry Helm - Guard room over barrel courtyard, metal chest"
+        },
+        {
+          "name":"FOFG: Mail Breaker - Guard room over barrel courtyard, metal chest"
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 841,
+            "y": 400,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: Large Soul of a Lost Undead - middle courtyard, behind Vammar tree",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 1034,
+            "y": 421,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Lifegem and Homeward Bone",
+        "access_rules": [],
+        "sections":[
+        {
+          "name":"FOFG: Lifegem - above door leading to second boss"
+        },
+        {
+          "name":"FOFG: Homeward Bone - above door leading to second boss"
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 898,
+            "y": 330,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: Amber Herb x2 - seashore hall near giant sword, corpse",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 744,
+            "y": 344,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Halberd and Soul of a Nameless Solider",
+        "access_rules": [],
+        "sections":[
+        {
+          "name":"FOFG: Halberd - seashore hall on huge sword"
+        },
+        {
+          "name":"FOFG: Soul of a Nameless Soldier - seashore hall on huge sword"
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 765,
+            "y": 236,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Soul of a Nameless Solider and Lifegem x3",
+        "access_rules": ["Soldier Key"],
+        "sections":[
+        {
+          "name":"FOFG: Lifegem x3 - before second boss"
+        },
+        {
+          "name":"FOFG: Soul of a Nameless Soldier - before second boss"
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 899,
+            "y": 77,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Large Leather Shield and Lifegem",
+        "access_rules": [],
+        "sections":[
+        {
+          "name":"FOFG: Lifegem - stairs bottom near seaside fog gate and boss elevator"
+        },
+        {
+          "name":"FOFG: Large Leather Shield - stairs bottom near seaside fog gate and boss elevator"
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 428,
+            "y": 459,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: Fire Arrow x10 - ledge by elevator upper level",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 506,
+            "y": 542,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: Soul of a Lost Undead - across bridge, down ladder in Cardinal Tower",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 464,
+            "y": 671,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: Human Effigy - before Cale boulder path",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 1152,
+            "y": 675,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: Amber Herb - by Cale",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 1057,
+            "y": 598,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Gate Trap Illusory Wall",
+        "access_rules": [],
+        "sections":[
+        {
+          "name":"FOFG: Sorcerer's Staff - gate trap, illusory wall"
+        },
+        {
+          "name":"FOFG: Amber Herb - gate trap, illusory wall"
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 1123,
+            "y": 548,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Middle of Ballista Room",
+        "access_rules": [],
+        "sections":[
+        {
+          "name":"FOFG: Great Soul Arrow - middle of ballista room"
+        },
+        {
+          "name":"FOFG: Large Soul of a Lost Undead - middle of ballista room"
+        },
+        {
+          "name":"FOFG: Blue Wooden Shield - middle of ballista room"
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 1216,
+            "y": 490,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: Titanite Shard - under ballista room, chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 1189,
+            "y": 412,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Side room under ballista room - hit to knock",
+        "access_rules": [],
+        "sections":[
+        {
+          "name":"FOFG: Life Ring - side room under ballista room"
+        },
+        {
+          "name":"FOFG: Large Titanite Shard - side room under ballista room"
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 1260,
+            "y": 406,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: Chloranthy Ring - contraption under ballista room",
+        "sections":[{
+          "access_rules": ["Master Lockstone"]
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 1162,
+            "y": 352,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: Titanite Slab - contraption under ballista room",
+        "sections":[{
+          "access_rules": ["Master Lockstone"]
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 1183,
+            "y": 348,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Last Giant Drops",
+         "access_rules": [],
+        "sections":[
+        {
+          "name":"FOFG: Soul of the Last Giant"
+        },
+        {
+          "name":"FOFG: Soldier Key - first boss drop"
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 50,
+            "y": 577,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: White Sign Soapstone - Pate after escaping gate trap",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 954,
+            "y": 494,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: House Key - Cale",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 1130,
+            "y": 593,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: Human Effigy - from Majula, under bridge",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 573,
+            "y": 1059,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: Aromatic Ooze x3 - corridor after gate trap",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 1096,
+            "y": 574,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: Torch - tunnel to Soldier's Rest, second corpse",
+        "sections":[{
+          "access_rules": ["Soldier Key"]
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 569,
+            "y": 932,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: Lifegem - circular room before first fog gate, corpse",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 928,
+            "y": 955,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: Torch - round tower under tree root by Cardinal Tower shortcut",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 1008,
+            "y": 605,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: Grand Lance - by king's door",
+        "visibility_rules": ["SotFS"],
+        "sections":[{
+          "access_rules": ["Soldier Key"]
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 394,
+            "y": 592,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: Lifegem - hole in the wall, before Cardinal Tower",
+        "visibility_rules": ["SotFS"],
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 873,
+            "y": 674,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: Hollow Soldier Helm - Cardinal Tower upper floor, behind table",
+        "visibility_rules": ["SotFS"],
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 656,
+            "y": 466,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "The Pursuer Drops",
+         "access_rules": [],
+        "sections":[
+        {
+          "name":"FOFG: Soul of the Pursuer - boss on platform near Cardinal Tower, drop"
+        },
+        {
+          "name":"FOFG: Ring of Blades - boss on platform near Cardinal Tower, drop"
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 943,
+            "y": 530,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: Green Blossom - circular room before first fog gate, corpse",
+        "visibility_rules": ["SotFS"],
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 857,
+            "y": 998,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: Prism Stone x4 - tree above small tunnel near salamander tunnel",
+        "visibility_rules": ["SotFS"],
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 809,
+            "y": 770,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: Broken Straight Sword - circular room before first fog gate, corpse #2",
+        "visibility_rules": ["SotFS"],
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 912,
+            "y": 927,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Pursuer early encounter platform Corpse #1",
+        "visibility_rules": ["SotFS"],
+        "access_rules": [],
+        "sections":[
+        {
+          "name":"FOFG: Human Effigy - Pursuer early encounter platform"
+        },
+        {
+          "name":"FOFG: Lifegem x2 - Pursuer early encounter platform"
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 963,
+            "y": 545,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: Torch - Pursuer early encounter platform",
+        "visibility_rules": ["SotFS"],
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 961,
+            "y": 512,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: Estus Flask Shard - Pursuer early encounter platform",
+        "visibility_rules": ["SotFS"],
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 913,
+            "y": 523,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: Repair Powder - Pursuer early encounter platform",
+        "visibility_rules": ["SotFS"],
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 892,
+            "y": 554,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "The Pursuer Drops",
+         "access_rules": ["Soldier Key"],
+        "sections":[
+        {
+          "name":"FOFG: Soul of the Pursuer"
+        },
+        {
+          "name":"FOFG: Ring of Blades - second boss drop"
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 800,
+            "y": 162,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Ring of Restoration and Torch",
+        "access_rules": ["Soldier Key"],
+        "sections":[
+        {
+          "name":"FOFG: Ring of Restoration - side corridor towards king's door, chest"
+        },
+        {
+          "name":"FOFG: Torch x3 - side corridor towards king's door, chest"
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 457,
+            "y": 514,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Hunter's Set and Large Soul of Proud Knight",
+        "access_rules": ["Soldier Key"],
+        "sections":[
+        {
+          "name":"FOFG: Large Soul of a Proud Knight - by Soldier's Rest bonfire, chest"
+        },
+        {
+          "name":"FOFG: Hunter's Hat - by Soldier's Rest bonfire, chest"
+        },
+        {
+          "name":"FOFG: Leather Armor - by Soldier's Rest bonfire, chest"
+        },
+        {
+          "name":"FOFG: Leather Gloves - by Soldier's Rest bonfire, chest"
+        },
+        {
+          "name":"FOFG: Leather Boots - by Soldier's Rest bonfire, chest"
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 934,
+            "y": 742,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: Amber Herb x2 - by king's door, chest",
+        "visibility_rules": ["SotFS"],
+        "sections":[{
+          "access_rules": ["Soldier Key"]
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 342,
+            "y": 602,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Amber Herb and Green Blossom",
+        "access_rules": ["Soldier Key"],
+        "sections":[
+        {
+          "name":"FOFG: Amber Herb - portcullis near Soldier's Rest, corpse"
+        },
+        {
+          "name":"FOFG: Green Blossom - portcullis near Soldier's Rest, corpse"
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 986,
+            "y": 711,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "stone house across Soldier's Rest gap",
+        "access_rules": ["Soldier Key"],
+        "sections":[
+        {
+          "name":"FOFG: Bastard Sword - stone house across Soldier's Rest gap, corpse",
+          "visibility_rules":["$hasnot|SotFS"]
+        },
+        {
+          "name":"FOFG: Human Effigy - stone house across Soldier's Rest gap, corpse",
+          "visibility_rules": ["SotFS"]
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 998,
+            "y": 828,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: Seed of a Tree of Giants - by Solider's Rest bonfire, on tree",
+        "sections":[{
+          "access_rules": ["Soldier Key"]
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 946,
+            "y": 808,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Soul of a Nameless Solier and Cracked Red Eye Orbs",
+        "access_rules": ["Soldier Key"],
+        "sections":[
+        {
+          "name":"FOFG: Soul of a Nameless Soldier - up ladder across Soldier's Rest gap, corpse"
+        },
+        {
+          "name":"FOFG: Cracked Red Eye Orb x3 - up ladder across Soldier's Rest gap, corpse"
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 1087,
+            "y": 790,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: Whip - by Solider's Rest bonfire, on rooftop",
+        "visibility_rules": ["SotFS"],
+        "sections":[{
+          "access_rules": ["Soldier Key"]
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 1063,
+            "y": 851,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: Human Effigy - by Solider's Rest bonfire, on rooftop",
+        "visibility_rules": ["SotFS"],
+        "sections":[{
+          "access_rules": ["Soldier Key"]
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 1095,
+            "y": 831,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: Bastard Sword - by Solider's Rest bonfire, on rooftop",
+        "visibility_rules": ["SotFS"],
+        "sections":[{
+          "access_rules": ["Soldier Key"]
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 1074,
+            "y": 819,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "After King's Gate",
+        "access_rules": ["Soldier Key, King's Ring"],
+        "sections":[
+        {
+          "name":"FOFG: Twinkling Titanite x2 - after king's gate",
+          "visibility_rules":["$hasnot|SotFS"]
+        },
+        {
+          "name":"FOFG: Fragrant Branch of Yore - after king's gate",
+          "visibility_rules": ["SotFS"]
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 464,
+            "y": 774,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Black Firebomb x3 and Homeward Bone",
+        "access_rules": ["Soldier Key"],
+        "sections":[
+        {
+          "name":"FOFG: Black Firebomb x3 - tunnel to Soldier's Rest, first corpse"
+        },
+        {
+          "name":"FOFG: Homeward Bone - tunnel to Soldier's Rest, first corpse"
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 581,
+            "y": 789,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: Titanite Shard - portcullis near ruined house below Cale, corpse",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 992,
+            "y": 688,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Drangleic Set",
+        "access_rules": ["Soldier Key"],
+        "sections":[
+        {
+          "name":"FOFG: Drangleic Sword - crevasse after second boss"
+        },
+        {
+          "name":"FOFG: Drangleic Shield - crevasse after second boss"
+        },
+        {
+          "name":"FOFG: Drangleic Mail - crevasse after second boss"
+        },
+        {
+          "name":"FOFG: Drangleic Gauntlets - crevasse after second boss"
+        },
+        {
+          "name":"FOFG: Drangleic Leggings - crevasse after second boss"
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 684,
+            "y": 261,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: Hawk Ring - upper fire area, second corpse",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 226,
+            "y": 706,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: Firedrake Stone - upper fire area, first corpse",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 265,
+            "y": 676,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: Large Soul of a Proud Knight - upper fire area, third corpse",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 230,
+            "y": 641,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: Flame Quartz Ring+1 - fire pit, upper level, chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 218,
+            "y": 613,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Rebel Greatshield and Heavy Iron Key",
+        "access_rules": [],
+        "sections":[
+        {
+          "name":"FOFG: Rebel's Greatshield - lower fire area, second corpse"
+        },
+        {
+          "name":"FOFG: Heavy Iron Key - lower fire area, second corpse",
+          "visibility_rules": ["SotFS"]
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 164,
+            "y": 858,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "FOFG: Cracked Red Eye Orb x2 - lower fire area, first corpse",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 153,
+            "y": 763,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Melentia Shop",
+        "access_rules": [],
+        "sections":[
+        {
+          "name":"FOFG: Broken Straight Sword - Melentia shop"
+        },
+        {
+          "name":"FOFG: Hand Axe - Melentia shop"
+        },
+        {
+          "name":"FOFG: Club - Melentia shop"
+        },
+        {
+          "name":"FOFG: Caestus - Melentia shop"
+        },
+        {
+          "name":"FOFG: Traveling Merchant Hat - Melentia shop"
+        },
+        {
+          "name":"FOFG: Traveling Merchant Coat - Melentia shop"
+        },
+        {
+          "name":"FOFG: Traveling Merchant Gloves - Melentia shop"
+        },
+        {
+          "name":"FOFG: Traveling Merchant Boots - Melentia shop"
+        },
+        {
+          "name":"FOFG: Soul Arrow - Melentia shop"
+        },
+        {
+          "name":"FOFG: Heal - Melentia shop"
+        }, 
+        {
+          "name":"FOFG: Lenigrast's Key - Melentia shop"
+        }, 
+        {
+          "name":"FOFG: Pharros' Lockstone - Melentia shop"
+        }, 
+        {
+          "name":"FOFG: Fragrant Branch of Yore - Melentia shop",
+          "visibility_rules": ["SotFS"]
+        }                                                        
+      ],
+        "map_locations": [
+          {
+            "map": "Forest of Fallen Giants",
+            "x": 796,
+            "y": 552,
+			      "size": 20
+          }
+        ]
+      }
     ]
   }
-  
-  
-  
- 
 ]

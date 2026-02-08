@@ -40,6 +40,8 @@ Tracker:AddLocations("locations/Iron Passage.jsonc")
 Tracker:AddLocations("locations/Brume Tower.jsonc")
 Tracker:AddLocations("locations/Cave of the Dead.jsonc")
 Tracker:AddLocations("locations/Dragons Sanctum.jsonc")
+Tracker:AddLocations("locations/Dragons Rest.jsonc")
 Tracker:AddLocations("locations/Frozen Eleum Loyce.jsonc")
 Tracker:AddLocations("locations/Frigid Outskirts.jsonc")
+Tracker:AddLocations("locations/Grand Cathedral.jsonc")
 

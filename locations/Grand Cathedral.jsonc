@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Grand Cathedral",
+    "access_rules": ["Frozen Flower"],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "children": [
+      {
+        "name": "Ivory King Drops",
+        "access_rules": [],
+        "sections":[
+        {
+          "name":"EleumLoyce: Soul of the Ivory King"
+        },
+        {
+          "name":"EleumLoyce: Crown of the Ivory King - after second boss"
+        }],
+        "map_locations": [
+          {
+            "map": "Grand Cathedral",
+            "x": 315,
+            "y": 35,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Vessel Shield - after Grand Cathedral bonfire, frozen metal chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Grand Cathedral",
+            "x": 222,
+            "y": 251,
+			      "size": 5
+          }
+        ]
+
+      }
+	  
+    ]
+  }
+  
+  
+  
+ 
+]

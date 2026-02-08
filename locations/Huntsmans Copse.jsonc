@@ -1,30 +1,457 @@
 [
   {
     "name": "Huntsmans Copse",
-    "access_rules": [],
+    "access_rules": ["Rotunda Lockstone"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [
       {
-        "name": "Test",
+        "name": "Lifegem and Soul of a Nameless Soldier",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Copse: Lifegem - first house, lower level, circular hole"
+          },
+          {
+            "name": "Copse: Soul of a Nameless Soldier - first house, lower level, circular hole"
+          }],
+        "map_locations": [
+          {
+            "map": "Huntsmans Copse",
+            "x": 410,
+            "y": 297,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Copse: Bandit's Knife - first house, lower level, corner",
         "sections":[{
           "access_rules": []
         }],
         "map_locations": [
           {
             "map": "Huntsmans Copse",
-            "x": 50,
-            "y": 50,
+            "x": 395,
+            "y": 358,
 			      "size": 20
           }
         ]
 
       },
-	  
+      {
+        "name": "Poison Moss and Lifegem",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Copse: Poison Moss - first house, roof, ledge"
+          },
+          {
+            "name": "Copse: Lifegem - first house, roof, ledge"
+          }],
+        "map_locations": [
+          {
+            "map": "Huntsmans Copse",
+            "x": 600,
+            "y": 324,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Monastery Charm and Large Soul of a Proud Knight",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Copse: Monastery Charm - first cave, lower stone bridge"
+          },
+          {
+            "name": "Copse: Soul of a Proud Knight - first cave, lower stone bridge"
+          }],
+        "map_locations": [
+          {
+            "map": "Huntsmans Copse",
+            "x": 247,
+            "y": 230,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Copse: Ricard's Rapier - in first cave, metal chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Huntsmans Copse",
+            "x": 121,
+            "y": 246,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Copse: Large Soul of a Nameless Soldier - first cave, hidden passage to cage elevator",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Huntsmans Copse",
+            "x": 125,
+            "y": 371,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Pharros Lockstone and Token of Fidelity",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Copse: Pharros' Lockstone - on pillar under bridge to Undead Purgatory"
+          },
+          {
+            "name": "Copse: Token of Fidelity - on pillar under bridge to Undead Purgatory"
+          }],
+        "map_locations": [
+          {
+            "map": "Huntsmans Copse",
+            "x": 501,
+            "y": 442,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Copse: Cracked Red Eye Orb - ledge, above Bridge Approach bonfire",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Huntsmans Copse",
+            "x": 460,
+            "y": 445,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Large Soul of a Lost Undead and Small Orange Burr",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Copse: Large Soul of a Lost Undead - left, before first stone bridge"
+          },
+          {
+            "name": "Copse: Small Orange Burr - left, before first stone bridge"
+          }],
+        "map_locations": [
+          {
+            "map": "Huntsmans Copse",
+            "x": 453,
+            "y": 569,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Copse: Notched Whip - ledge, on route to Undead Purgatory",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Huntsmans Copse",
+            "x": 361,
+            "y": 444,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Copse: Lifegem - left, area after first stone bridge",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Huntsmans Copse",
+            "x": 454,
+            "y": 700,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Copse: Aromatic Ooze - left, area after first stone bridge, guarded by enemy",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Huntsmans Copse",
+            "x": 479,
+            "y": 757,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Large Soul of a Nameless Soldier and Morning Star",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Copse: Large Soul of a Nameless Soldier - round hut, area after first stone bridge"
+          },
+          {
+            "name": "Copse: Morning Star - round hut, area after first stone bridge"
+          }],
+        "map_locations": [
+          {
+            "map": "Huntsmans Copse",
+            "x": 383,
+            "y": 834,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Right Side Round Hut",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Copse: Poison Moss x2 - right side round hut, after first stone bridge"
+          },
+          {
+            "name": "Copse: Green Blossom - right side round hut, after first stone bridge"
+          },
+          {
+            "name": "Copse: Soul Spear - right side round hut, after first stone bridge"
+          },
+          {
+            "name": "Copse: Sublime Bone Dust - right side round hut, after first stone bridge, metal chest",
+            "visibility_rules": ["SotFS"]
+          }],
+        "map_locations": [
+          {
+            "map": "Huntsmans Copse",
+            "x": 285,
+            "y": 716,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Mace and Titanite Shard",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Copse: Mace - first Necromancer cave"
+          },
+          {
+            "name": "Copse: Titanite Shard - first Necromancer cave"
+          }],
+        "map_locations": [
+          {
+            "map": "Huntsmans Copse",
+            "x": 830,
+            "y": 1004,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Combustion and Titanite Shard x3",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Copse: Combustion - Necromancer cave, ledge overlooking canyone"
+          },
+          {
+            "name": "Copse: Titanite Shard x3 - Necromancer cave, ledge overlooking canyon"
+          }],
+        "map_locations": [
+          {
+            "map": "Huntsmans Copse",
+            "x": 602,
+            "y": 1132,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Necromancer cave, by shortcut portcullis",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Copse: Flame Butterfly x3 - Necromancer cave, by shortcut portcullis",
+            "visibility_rules":["$hasnot|SotFS"]
+          },
+          {
+            "name": "Copse: Estus Flask Shard - Necromancer cave, by shortcut portcullis",
+            "visibility_rules": ["SotFS"]
+          }],
+        "map_locations": [
+          {
+            "map": "Huntsmans Copse",
+            "x": 632,
+            "y": 1003,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "small ledge, dropdown from Merciless Roenna invasion",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Copse: Poison Moss x3 - small ledge, dropdown from Merciless Roenna invasion",
+            "visibility_rules":["$hasnot|SotFS"]
+          },
+          {
+            "name": "Copse: Flamberge - small ledge, dropdown from Merciless Roenna invasion",
+            "visibility_rules": ["SotFS"]
+          }],
+        "map_locations": [
+          {
+            "map": "Huntsmans Copse",
+            "x": 696,
+            "y": 1178,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "where Merciless Roenna invades",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Copse: Poison Throwing Knife x10 - where Merciless Roenna invades",
+            "visibility_rules":["$hasnot|SotFS"]
+          },
+          {
+            "name": "Copse: Undead Lockaway Key - where Merciless Roenna invades",
+            "visibility_rules": ["SotFS"]
+          }],
+        "map_locations": [
+          {
+            "map": "Huntsmans Copse",
+            "x": 696,
+            "y": 1231,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "round hut, canyon before boss",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Copse: Undead Lockaway Key - round hut, canyon before boss",
+            "visibility_rules":["$hasnot|SotFS"]
+          },
+          {
+            "name": "Copse: Flame Butterfly x2 - round hut, canyon before boss",
+            "visibility_rules": ["SotFS"]
+          }],
+        "map_locations": [
+          {
+            "map": "Huntsmans Copse",
+            "x": 744,
+            "y": 1213,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "ledge, before Undead Purgatory Boss (requires jump)",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Copse: Sublime Bone Dust - ledge, before Undead Purgatory Boss (requires jump)",
+            "visibility_rules":["$hasnot|SotFS"]
+          },
+          {
+            "name": "Copse: Fire Seed - ledge, before Undead Purgatory Boss (requires jump)"
+          }],
+        "map_locations": [
+          {
+            "map": "Huntsmans Copse",
+            "x": 766,
+            "y": 555,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Copse: Human Effigy - Necromancer cave, stone pillar (requires jump)",
+        "visibility_rules": ["SotFS"],
+        "sections":[{
+        "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Huntsmans Copse",
+            "x": 559,
+            "y": 1059,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Copse: Rouge Water - corridor, after rotating rotunda",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Huntsmans Copse",
+            "x": 537,
+            "y": 34,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Copse: Skeleton Lord's Soul",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Huntsmans Copse",
+            "x": 272,
+            "y": 1119,
+			      "size": 20
+          }
+        ]
+
+      }    
     ]
-  }
-  
-  
-  
- 
+  }    
 ]

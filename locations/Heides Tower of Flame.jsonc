@@ -89,7 +89,7 @@
       {
         "name": "Heides: Ring of Binding - before boss, chest",
         "sections":[{
-          "access_rules": ["SotFS"]
+          "visibility_rules": ["SotFS"]
         }],
         "map_locations": [
           {
@@ -104,7 +104,7 @@
       {
         "name": "Heides: Green Blossom x3 - before boss, chest",
         "sections":[{
-          "access_rules": ["$hasnot|SotFS"]
+          "visibility_rules": ["$hasnot|SotFS"]
         }],
         "map_locations": [
           {

@@ -6,21 +6,362 @@
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [
       {
-        "name": "Test",
+        "name": "Shulva: Dragon Charm x3 - left corpse, corridor to Sanctum Walk",
         "sections":[{
           "access_rules": []
         }],
         "map_locations": [
           {
             "map": "Shulva Sanctum City",
-            "x": 50,
-            "y": 50,
+            "x": 1100,
+            "y": 684,
 			      "size": 20
           }
         ]
-
       },
-	  
+	    {
+        "name": "Shulva: Old Growth Balm x3 - ledge, below Sanctum Walk bonfire",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shulva Sanctum City",
+            "x": 691,
+            "y": 604,
+			      "size": 20
+          }
+        ]
+      },
+	    {
+        "name": "Shulva: Poisonbite Ring+1 - atop building next to shortcut tower",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shulva Sanctum City",
+            "x": 700,
+            "y": 536,
+			      "size": 20
+          }
+        ]
+      },
+	    {
+        "name": "Shulva: Lifegem x5 - ledge, next to first two raising towers",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shulva Sanctum City",
+            "x": 657,
+            "y": 323,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Shulva: Dark Quartz Ring+3 - atop a stationary tower in first raising tower area",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shulva Sanctum City",
+            "x": 720,
+            "y": 294,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Shulva: Poison Stone - ledge, below first raising towers",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shulva Sanctum City",
+            "x": 596,
+            "y": 270,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Shulva: Long Bow - atop a raising tower, first area",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shulva Sanctum City",
+            "x": 613,
+            "y": 321,
+			      "size": 20
+          },
+          {
+            "map": "Shulva Sanctum City",
+            "x": 784,
+            "y": 167,
+			      "size": 20
+          } 
+        ]
+      },
+      {
+        "name": "Shulva: Goldenfruit Balm x3 - in first corrosive bug room",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shulva Sanctum City",
+            "x": 528,
+            "y": 459,
+			      "size": 20
+          }
+        ]
+      }, 
+      {
+        "name": "Shulva: Old Growth Balm x3 - ledge, outside first corrosive bug room, drop down",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shulva Sanctum City",
+            "x": 535,
+            "y": 474,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Shulva: Lightning Urn x5 - by stairs after first corrosive bug room",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shulva Sanctum City",
+            "x": 538,
+            "y": 369,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Shulva: Elizabeth Mushroom - ledge, second corrosive bug room",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shulva Sanctum City",
+            "x": 275,
+            "y": 460,
+			      "size": 20
+          }
+        ]
+      }, 
+      {
+        "name": "Shulva: Throwing Knife x20 - corner with first poison statues",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shulva Sanctum City",
+            "x": 516,
+            "y": 490,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Shulva: Cracked Red Eye Orb x5 - corner with first poison statues",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shulva Sanctum City",
+            "x": 492,
+            "y": 504,
+			      "size": 20
+          }
+         
+        ]
+      },
+      {
+        "name": "Shulva: Magic Bolt x30 - ledge, base of the Tower of Prayer tower",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shulva Sanctum City",
+            "x": 402,
+            "y": 547,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Shulva: Lloyd's Talisman x3 - by pillar, second raising towers area",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shulva Sanctum City",
+            "x": 258,
+            "y": 574,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Shulva: Twinkling Titanite x3 - pillar, second raising towers area",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shulva Sanctum City",
+            "x": 225,
+            "y": 646,
+			      "size": 20
+          }
+        ]
+      }, 
+      {
+        "name": "Shulva: Torch x5 - mid-level of Pagan Tree raising tower",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shulva Sanctum City",
+            "x": 204,
+            "y": 679,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Shulva: Notched Whip - next to Pagan tree",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shulva Sanctum City",
+            "x": 76,
+            "y": 694,
+			      "size": 20
+          }
+        ]
+      },   
+      {
+        "name": "Shulva: Promised Walk of Peace - next to Pagan tree",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shulva Sanctum City",
+            "x": 58,
+            "y": 709,
+			      "size": 20
+          }
+        ]
+      },  
+      {
+        "name": "Shulva: Thunder Quartz Ring+3 - middle level, raising tower by Tower of Prayer",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shulva Sanctum City",
+            "x": 318,
+            "y": 706,
+			      "size": 20
+          }
+        ]
+      }, 
+      {
+        "name": "Shulva: Darknight Stone x2 - middle level, raising tower by Tower of Prayer",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shulva Sanctum City",
+            "x": 366,
+            "y": 667,
+			      "size": 20
+          }
+        ]
+      },  
+      {
+        "name": "Shulva: Rusted Coin x10 - elevator room before Dragon Sanctum bridge",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shulva Sanctum City",
+            "x": 277,
+            "y": 844,
+			      "size": 20
+          }
+        ]
+      }, 
+       {
+        "name": "Shulva: Focus Souls - pathway behind urns before Dragon Sanctum bridge",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shulva Sanctum City",
+            "x": 319,
+            "y": 883,
+			      "size": 20
+          }
+        ]
+      },           
+      {
+        "name": "Shulva: Dried Root - ledge, Tower of Prayer bonfire",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shulva Sanctum City",
+            "x": 564,
+            "y": 730,
+			      "size": 20
+          }
+        ]
+      },      
+      {
+        "name": "Shulva: Sanctum Mace - stationary tower next to Tower of Prayer bonfire",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shulva Sanctum City",
+            "x": 546,
+            "y": 604,
+			      "size": 20
+          }
+        ]
+      }                                        
     ]
   }
   

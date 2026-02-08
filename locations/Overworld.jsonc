@@ -778,7 +778,7 @@
 		"map_locations": [
 		  {
 			"map": "Overworld",
-			"x": 1645,
+			"x": 1630,
 			"y": 67,
 			"size": 15
 		  }
@@ -831,7 +831,7 @@
 		"map_locations": [
 		  {
 			"map": "Overworld",
-			"x": 1675,
+			"x": 1660,
 			"y": 67,
 			"size": 15
 		  }
@@ -884,7 +884,56 @@
 		"map_locations": [
 		  {
 			"map": "Overworld",
-			"x": 1705,
+			"x": 1690,
+			"y": 67,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Magerold Shop - Raime and Alonne Set",    
+		"sections": [
+			  {
+				"ref": "Iron Keep/Raime and Alonne Set/IronKeep: Raime's Helm - Magerold shop after killing last BrumeTower boss",
+				"name": "IronKeep: Raime's Helm - Magerold shop after killing last BrumeTower boss"
+			  },
+			  {
+				"ref": "Iron Keep/Raime and Alonne Set/IronKeep: Raime's Armor - Magerold shop after killing last BrumeTower boss",
+				"name": "IronKeep: Raime's Armor - Magerold shop after killing last BrumeTower boss"
+			  },
+			  {
+				"ref": "Iron Keep/Raime and Alonne Set/IronKeep: Raime's Gauntlets - Magerold shop after killing last BrumeTower boss",
+				"name": "IronKeep: Raime's Gauntlets - Magerold shop after killing last BrumeTower boss"
+			  },
+			  {
+				"ref": "Iron Keep/Raime and Alonne Set/IronKeep: Raime's Leggings - Magerold shop after killing last BrumeTower boss",
+				"name": "IronKeep: Raime's Leggings - Magerold shop after killing last BrumeTower boss"
+			  },
+			  {
+				"ref": "Iron Keep/Raime and Alonne Set/IronKeep: Alonne's Helm - Magerold shop after killing Alonne boss",
+				"name": "IronKeep: Alonne's Helm - Magerold shop after killing Alonne boss"
+			  },
+			  {
+				"ref": "Iron Keep/Raime and Alonne Set/IronKeep: Alonne's Armor - Magerold shop after killing Alonne boss",
+				"name": "IronKeep: Alonne's Armor - Magerold shop after killing Alonne boss"
+			  },
+			  {
+				"ref": "Iron Keep/Raime and Alonne Set/IronKeep: Alonne's Gauntlets - Magerold shop after killing Alonne boss",
+				"name": "IronKeep: Alonne's Gauntlets - Magerold shop after killing Alonne boss"
+			  },
+			  {
+				"ref": "Iron Keep/Raime and Alonne Set/IronKeep: Alonne's Leggings - Magerold shop after killing Alonne boss",
+				"name": "IronKeep: Alonne's Leggings - Magerold shop after killing Alonne boss"
+			  }		  
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1720,
 			"y": 67,
 			"size": 15
 		  }
@@ -1833,8 +1882,1821 @@
 			"size": 15
 		  }
 		]
-	  }
+	  },
 
+	  {
+		"name": "Shulva Sanctum City first half",    
+		"sections": [
+			  {
+				"ref": "Shulva Sanctum City/Shulva: Dragon Charm x3 - left corpse, corridor to Sanctum Walk/",
+				"name": "Shulva: Dragon Charm x3 - left corpse, corridor to Sanctum Walk"
+			  },
+			  {
+				"ref": "Shulva Sanctum City/Shulva: Old Growth Balm x3 - ledge, below Sanctum Walk bonfire/",
+				"name": "Shulva: Old Growth Balm x3 - ledge, below Sanctum Walk bonfire"
+			  },
+			  {
+				"ref": "Shulva Sanctum City/Shulva: Poisonbite Ring+1 - atop building next to shortcut tower/",
+				"name": "Shulva: Poisonbite Ring+1 - atop building next to shortcut tower"
+			  },
+			  {
+				"ref": "Shulva Sanctum City/Shulva: Lifegem x5 - ledge, next to first two raising towers/",
+				"name": "Shulva: Lifegem x5 - ledge, next to first two raising towers"
+			  },
+			  {
+				"ref": "Shulva Sanctum City/Shulva: Dark Quartz Ring+3 - atop a stationary tower in first raising tower area/",
+				"name": "Shulva: Dark Quartz Ring+3 - atop a stationary tower in first raising tower area"
+			  },
+			  {
+				"ref": "Shulva Sanctum City/Shulva: Poison Stone - ledge, below first raising towers/",
+				"name": "Shulva: Poison Stone - ledge, below first raising towers"
+			  },
+			  {
+				"ref": "Shulva Sanctum City/Shulva: Long Bow - atop a raising tower, first area/",
+				"name": "Shulva: Long Bow - atop a raising tower, first area"
+			  },
+			  {
+				"ref": "Shulva Sanctum City/Shulva: Goldenfruit Balm x3 - in first corrosive bug room/",
+				"name": "Shulva: Goldenfruit Balm x3 - in first corrosive bug room"
+			  },
+			  {
+				"ref": "Shulva Sanctum City/Shulva: Old Growth Balm x3 - ledge, outside first corrosive bug room, drop down/",
+				"name": "Shulva: Old Growth Balm x3 - ledge, outside first corrosive bug room, drop down"
+			  },
+			  {
+				"ref": "Shulva Sanctum City/Shulva: Lightning Urn x5 - by stairs after first corrosive bug room/",
+				"name": "Shulva: Lightning Urn x5 - by stairs after first corrosive bug room"
+			  },
+			  {
+				"ref": "Shulva Sanctum City/Shulva: Elizabeth Mushroom - ledge, second corrosive bug room/",
+				"name": "Shulva: Elizabeth Mushroom - ledge, second corrosive bug room"
+			  }
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 935,
+            "y": 1008,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Shulva Sanctum City second half",    
+		"sections": [
+			  {
+				"ref": "Shulva Sanctum City/Shulva: Throwing Knife x20 - corner with first poison statues/",
+				"name": "Shulva: Throwing Knife x20 - corner with first poison statues"
+			  },
+			  {
+				"ref": "Shulva Sanctum City/Shulva: Cracked Red Eye Orb x5 - corner with first poison statues/",
+				"name": "Shulva: Cracked Red Eye Orb x5 - corner with first poison statues"
+			  },
+			  {
+				"ref": "Shulva Sanctum City/Shulva: Magic Bolt x30 - ledge, base of the Tower of Prayer tower/",
+				"name": "Shulva: Magic Bolt x30 - ledge, base of the Tower of Prayer tower"
+			  },
+			  {
+				"ref": "Shulva Sanctum City/Shulva: Lloyd's Talisman x3 - by pillar, second raising towers area/",
+				"name": "Shulva: Lloyd's Talisman x3 - by pillar, second raising towers area"
+			  },
+			  {
+				"ref": "Shulva Sanctum City/Shulva: Twinkling Titanite x3 - pillar, second raising towers area/",
+				"name": "Shulva: Twinkling Titanite x3 - pillar, second raising towers area"
+			  },
+			  {
+				"ref": "Shulva Sanctum City/Shulva: Torch x5 - mid-level of Pagan Tree raising tower/",
+				"name": "Shulva: Torch x5 - mid-level of Pagan Tree raising tower"
+			  },
+			  {
+				"ref": "Shulva Sanctum City/Shulva: Notched Whip - next to Pagan tree/",
+				"name": "Shulva: Notched Whip - next to Pagan tree"
+			  },
+			  {
+				"ref": "Shulva Sanctum City/Shulva: Promised Walk of Peace - next to Pagan tree/",
+				"name": "Shulva: Promised Walk of Peace - next to Pagan tree"
+			  },
+			  {
+				"ref": "Shulva Sanctum City/Shulva: Thunder Quartz Ring+3 - middle level, raising tower by Tower of Prayer/",
+				"name": "Shulva: Thunder Quartz Ring+3 - middle level, raising tower by Tower of Prayer"
+			  },
+			  {
+				"ref": "Shulva Sanctum City/Shulva: Darknight Stone x2 - middle level, raising tower by Tower of Prayer/",
+				"name": "Shulva: Darknight Stone x2 - middle level, raising tower by Tower of Prayer"
+			  },
+			  {
+				"ref": "Shulva Sanctum City/Shulva: Rusted Coin x10 - elevator room before Dragon Sanctum bridge/",
+				"name": "Shulva: Rusted Coin x10 - elevator room before Dragon Sanctum bridge"
+			  },
+			  {
+				"ref": "Shulva Sanctum City/Shulva: Focus Souls - pathway behind urns before Dragon Sanctum bridge/",
+				"name": "Shulva: Focus Souls - pathway behind urns before Dragon Sanctum bridge"
+			  },
+			  {
+				"ref": "Shulva Sanctum City/Shulva: Dried Root - ledge, Tower of Prayer bonfire/",
+				"name": "Shulva: Dried Root - ledge, Tower of Prayer bonfire"
+			  },
+			  {
+				"ref": "Shulva Sanctum City/Shulva: Sanctum Mace - stationary tower next to Tower of Prayer bonfire/",
+				"name": "Shulva: Sanctum Mace - stationary tower next to Tower of Prayer bonfire"
+			  }
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 953,
+            "y": 1008,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Dragons Sanctum part 1",    
+		"sections": [
+			  {
+				"ref": "Dragons Sanctum/DragonsSanctum: Human Effigy - just before Elana's bridge/",
+				"name": "DragonsSanctum: Human Effigy - just before Elana's bridge"
+			  },
+			  {
+				"ref": "Dragons Sanctum/DragonsSanctum: Bonfire Ascetic x2 - room behind Eternal Sanctum key door , Metal chest/",
+				"name": "DragonsSanctum: Bonfire Ascetic x2 - room behind Eternal Sanctum key door , Metal chest"
+			  },
+			  {
+				"ref": "Dragons Sanctum/DragonsSanctum: Lightning Clutch Ring - room behind Eternal Sanctum key door , Metal chest/",
+				"name": "DragonsSanctum: Lightning Clutch Ring - room behind Eternal Sanctum key door , Metal chest"
+			  },
+			  {
+				"ref": "Dragons Sanctum/DragonsSanctum: Dried Root x5 - room behind Eternal Sanctum key door , Metal chest/",
+				"name": "DragonsSanctum: Dried Root x5 - room behind Eternal Sanctum key door , Metal chest"
+			  },
+			  {
+				"ref": "Dragons Sanctum/DragonsSanctum: Second metal chest behind Eternal Sanctum key door/DragonsSanctum: Dried Root x2 - room behind Eternal Sanctum key door , Metal chest",
+				"name": "DragonsSanctum: Dried Root x2 - room behind Eternal Sanctum key door , Metal chest"
+			  },
+			  {
+				"ref": "Dragons Sanctum/DragonsSanctum: Second metal chest behind Eternal Sanctum key door/DragonsSanctum: Bonfire Ascetic x2 - room behind Eternal Sanctum key door , Metal chest",
+				"name": "DragonsSanctum: Bonfire Ascetic x2 - room behind Eternal Sanctum key door , 2nd Metal chest"
+			  },
+			  {
+				"ref": "Dragons Sanctum/DragonsSanctum: Dried Root - room behind Eternal Sanctum key door , Metal chest/",
+				"name": "DragonsSanctum: Dried Root - room behind Eternal Sanctum key door , Metal chest"
+			  },
+			  {
+				"ref": "Dragons Sanctum/DragonsSanctum: Soul of a Great Hero - button room, second room of Dragon Sanctum/",
+				"name": "DragonsSanctum: Soul of a Great Hero - button room, second room of Dragon Sanctum"
+			  },
+			  {
+				"ref": "Dragons Sanctum/DragonsSanctum: Destructive Greatarrow x50 - room with two ghosts, metal chest/",
+				"name": "DragonsSanctum: Destructive Greatarrow x50 - room with two ghosts, metal chest"
+			  },
+			  {
+				"ref": "Dragons Sanctum/DragonsSanctum: Catarina Helm - room with two ghosts, metal chest/",
+				"name": "DragonsSanctum: Catarina Helm - room with two ghosts, metal chest"
+			  },
+			  {
+				"ref": "Dragons Sanctum/DragonsSanctum: Soul Vessel - room with two ghosts, metal chest/",
+				"name": "DragonsSanctum: Soul Vessel - room with two ghosts, metal chest"
+			  },
+			  {
+				"ref": "Dragons Sanctum/DragonsSanctum: Old Growth Balm x5 - room with two ghosts, metal chest/",
+				"name": "DragonsSanctum: Old Growth Balm x5 - room with two ghosts, metal chest"
+			  },
+			  {
+				"ref": "Dragons Sanctum/DragonsSanctum: Titanite Slab - room with two ghosts, metal chest/",
+				"name": "DragonsSanctum: Titanite Slab - room with two ghosts, metal chest"
+			  },
+			  {
+				"ref": "Dragons Sanctum/DragonsSanctum: Human Effigy - room with the first rotating door/",
+				"name": "DragonsSanctum: Human Effigy - room with the first rotating door"
+			  }
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 993,
+            "y": 1008,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Dragons Sanctum part 2",    
+		"sections": [
+			  {
+				"ref": "Dragons Sanctum/platform above first rotating door, trapped chest/",
+				"name": "DragonsSanctum: Bonfire Ascetic - platform above first rotating door, trapped chest"
+			  },
+			  {
+				"ref": "Dragons Sanctum/platform above first rotating door, trapped chest/",
+				"name": "DragonsSanctum: Dried Root x3 - platform above first rotating door, trapped chest"
+			  },
+			  {
+				"ref": "Dragons Sanctum/Metal Chest behind button door/DragonsSanctum: Twinkling Titanite x5 - button room, platform above first rotating door, metal chest",
+				"name": "DragonsSanctum: Twinkling Titanite x5 - button room, platform above first rotating door, metal chest"
+			  },
+			  {
+				"ref": "Dragons Sanctum/Metal Chest behind button door/DragonsSanctum: Petrified Dragon Bone x3 - button room, platform above first rotating door, metal chest",
+				"name": "DragonsSanctum: Petrified Dragon Bone x3 - button room, platform above first rotating door, metal chest"
+			  },
+			  {
+				"ref": "Dragons Sanctum/DragonsSanctum: Repair Powder - left corridor after first rotating door/",
+				"name": "DragonsSanctum: Repair Powder - left corridor after first rotating door"
+			  },
+			  {
+				"ref": "Dragons Sanctum/DragonsSanctum: Flynn's Ring - above the bug room, metal chest/",
+				"name": "DragonsSanctum: Flynn's Ring - above the bug room, metal chest"
+			  },
+			  {
+				"ref": "Dragons Sanctum/DragonsSanctum: Soul of a Hero - spike trapped stairs/",
+				"name": "DragonsSanctum: Soul of a Hero - spike trapped stairs"
+			  },
+			  {
+				"ref": "Dragons Sanctum/DragonsSanctum: Human Effigy - spike trapped stairs/",
+				"name": "DragonsSanctum: Human Effigy - spike trapped stairs"
+			  },
+			  {
+				"ref": "Dragons Sanctum/Chest at the bottom of Spike Trapped Stairs/DragonsSanctum: Twinkling Titanite x3 - after spike trapped stairs, chest",
+				"name": "DragonsSanctum: Twinkling Titanite x3 - after spike trapped stairs, chest"
+			  },
+			  {
+				"ref": "Dragons Sanctum/Chest at the bottom of Spike Trapped Stairs/DragonsSanctum: Petrified Dragon Bone x3 - after spike trapped stairs, chest",
+				"name": "DragonsSanctum: Petrified Dragon Bone x3 - after spike trapped stairs, chest"
+			  },
+			  {
+				"ref": "Dragons Sanctum/Chest at the bottom of Spike Trapped Stairs(2)/DragonsSanctum: Boltstone x3 - after spike trapped stairs, chest",
+				"name": "DragonsSanctum: Boltstone x3 - after spike trapped stairs, chest"
+			  },
+			  {
+				"ref": "Dragons Sanctum/Chest at the bottom of Spike Trapped Stairs(2)/DragonsSanctum: Boltstone x3 - after spike trapped stairs, chest",
+				"name": "DragonsSanctum: Bleed Stones x3 - after spike trapped stairs, chest"
+			  },
+			  {
+				"ref": "Dragons Sanctum/DragonsSanctum: Puzzling Stone Sword - after the spike trapped stairs, metal chest/",
+				"name": "DragonsSanctum: Puzzling Stone Sword - after the spike trapped stairs, metal chest"
+			  },
+			  {
+				"ref": "Dragons Sanctum/DragonsSanctum: Sanctum Shield - room atop tower opposite Priestess' Chamber bonfire, metal chest/",
+				"name": "DragonsSanctum: Sanctum Shield - room atop tower opposite Priestess' Chamber bonfire, metal chest"
+			  }
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1011,
+            "y": 1008,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Dragons Sanctum part 3",    
+		"sections": [
+			  {
+				"ref": "Dragons Sanctum/DragonsSanctum: Lloyd's Talisman x5 - above spiky fields room, trapped chest/",
+				"name": "DragonsSanctum: Lloyd's Talisman x5 - above spiky fields room, trapped chest"
+			  },
+			  {
+				"ref": "Dragons Sanctum/DragonsSanctum: Bloodbite Ring+1 - above spiky fields room, metal chest/",
+				"name": "DragonsSanctum: Bloodbite Ring+1 - above spiky fields room, metal chest"
+			  },
+			  {
+				"ref": "Dragons Sanctum/DragonsSanctum: Eternal Sanctum Key - ghost armor room with pits/",
+				"name": "DragonsSanctum: Eternal Sanctum Key - ghost armor room with pits"
+			  },
+			  {
+				"ref": "Dragons Sanctum/DragonsSanctum: Sanctum Knight Helm - ghost armor room with pits/",
+				"name": "DragonsSanctum: Sanctum Knight Helm - ghost armor room with pits"
+			  },
+			  {
+				"ref": "Dragons Sanctum/DragonsSanctum: Dragon Stone - opened by button between spiky fields, metal chest/",
+				"name": "DragonsSanctum: Dragon Stone - opened by button between spiky fields, metal chest"
+			  },
+			  {
+				"ref": "Dragons Sanctum/DragonsSanctum: Holy Water Urn x5 - spiky field near Dragon Stone/",
+				"name": "DragonsSanctum: Holy Water Urn x5 - spiky field near Dragon Stone"
+			  },
+			  {
+				"ref": "Dragons Sanctum/DragonsSanctum: Twinkling Titanite x3 - spiky field near Dragon Stone/",
+				"name": "DragonsSanctum: Twinkling Titanite x3 - spiky field near Dragon Stone"
+			  },
+			  {
+				"ref": "Dragons Sanctum/DragonsSanctum: Torch x3 - spiky field near Dragon Stone/",
+				"name": "DragonsSanctum: Torch x3 - spiky field near Dragon Stone"
+			  },
+			  {
+				"ref": "Dragons Sanctum/DragonsSanctum: Dung Pie x10 - bug room before Flynn's Ring",
+				"name": "DragonsSanctum: Dung Pie x10 - bug room before Flynn's Ring"
+			  },
+			  {
+				"ref": "Dragons Sanctum/DragonsSanctum: Old Growth Balm - bug room before Flynn's Ring/",
+				"name": "DragonsSanctum: Old Growth Balm - bug room before Flynn's Ring"
+			  },
+			  {
+				"ref": "Dragons Sanctum/DragonsSanctum: Lifegem x5 - bug room before Flynn's Ring/",
+				"name": "DragonsSanctum: Lifegem x5 - bug room before Flynn's Ring"
+			  },
+			  {
+				"ref": "Dragons Sanctum/DragonsSanctum: Poison Throwing Knife x20 - stairs in the bug room before Flynn's Ring/",
+				"name": "DragonsSanctum: Poison Throwing Knife x20 - stairs in the bug room before Flynn's Ring"
+			  },
+			  {
+				"ref": "Dragons Sanctum/DragonsSanctum: Denial - behind second rotating door, spiky field room, metal chest/",
+				"name": "DragonsSanctum: Denial - behind second rotating door, spiky field room, metal chest"
+			  },
+			  {
+				"ref": "Dragons Sanctum/DragonsSanctum: Sanctum Crossbow - by Hidden Sanctum Chamber bonfire/",
+				"name": "DragonsSanctum: Sanctum Crossbow - by Hidden Sanctum Chamber bonfire"
+			  },
+			  {
+				"ref": "Dragons Sanctum/DragonsSanctum: Old Growth Balm - stairs before Jester Thomas invasion/",
+				"name": "DragonsSanctum: Old Growth Balm - stairs before Jester Thomas invasion"
+			  }
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1029,
+            "y": 1008,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Dragons Sanctum part 4",    
+		"sections": [
+			  {
+				"ref": "Dragons Sanctum/Drakeblood Set/DragonsSanctum: Drakeblood Helm - room with many opened chests one level below Sanctum Interior bonfire",
+				"name": "DragonsSanctum: Drakeblood Helm - room with many opened chests one level below Sanctum Interior bonfire"
+			  },
+			  {
+				"ref": "Dragons Sanctum/Drakeblood Set/DragonsSanctum: Drakeblood Armor - room with many opened chests one level below Sanctum Interior bonfire",
+				"name": "DragonsSanctum: Drakeblood Armor - room with many opened chests one level below Sanctum Interior bonfire"
+			  },
+			  {
+				"ref": "Dragons Sanctum/Drakeblood Set/DragonsSanctum: Drakeblood Gauntlets - room with many opened chests one level below Sanctum Interior bonfire",
+				"name": "DragonsSanctum: Drakeblood Gauntlets - room with many opened chests one level below Sanctum Interior bonfire"
+			  },
+			  {
+				"ref": "Dragons Sanctum/Drakeblood Set/DragonsSanctum: Drakeblood Leggings - room with many opened chests one level below Sanctum Interior bonfire",
+				"name": "DragonsSanctum: Drakeblood Leggings - room with many opened chests one level below Sanctum Interior bonfire"
+			  },
+			  {
+				"ref": "Dragons Sanctum/DragonsSanctum: Vine Balm x3 - corridor one level above Dragon's rest/",
+				"name": "DragonsSanctum: Vine Balm x3 - corridor one level above Dragon's rest"
+			  },
+			  {
+				"ref": "Dragons Sanctum/DragonsSanctum: Twinkling Titanite x3 - corridor one level above Dragon's rest/",
+				"name": "DragonsSanctum: Twinkling Titanite x3 - corridor one level above Dragon's rest"
+			  },
+			  {
+				"ref": "Dragons Sanctum/DragonsSanctum: Large Soul of a Brave Warrior - corridor one level above Dragon/",
+				"name": "DragonsSanctum: Large Soul of a Brave Warrior - corridor one level above Dragon"
+			  },
+			  {
+				"ref": "Dragons Sanctum/DragonsSanctum: Twinkling Titanite x3 - corridor one level above Dragon's rest(2)/",
+				"name": "DragonsSanctum: Twinkling Titanite x3 - corridor one level above Dragon's rest(2)"
+			  },
+			  {
+				"ref": "Dragons Sanctum/DragonsSanctum: Small Smooth & Silky Stone x5 - corridor one level above Dragon's rest/",
+				"name": "DragonsSanctum: Small Smooth & Silky Stone x5 - corridor one level above Dragon's rest"
+			  },
+			  {
+				"ref": "Dragons Sanctum/DragonsSanctum: Dried Root x2 - water area with The Imperfect/",
+				"name": "DragonsSanctum: Dried Root x2 - water area with The Imperfect"
+			  },
+			  {
+				"ref": "Dragons Sanctum/DragonsSanctum: Human Effigy x3 - water area with The Imperfect/",
+				"name": "DragonsSanctum: Human Effigy x3 - water area with The Imperfect"
+			  },
+			  {
+				"ref": "Dragons Sanctum/DragonsSanctum: Petrified Dragon Bone x3 - water area with The Imperfect/",
+				"name": "DragonsSanctum: Petrified Dragon Bone x3 - water area with The Imperfect"
+			  },
+			  {
+				"ref": "Dragons Sanctum/DragonsSanctum: Soul of a Great Hero - water area with The Imperfect/",
+				"name": "DragonsSanctum: Soul of a Great Hero - water area with The Imperfect"
+			  },
+			  {
+				"ref": "Dragons Sanctum/DragonsSanctum: Hexing Urn x10 - corridor one level above Sanctum Interior bonfire/",
+				"name": "DragonsSanctum: Hexing Urn x10 - corridor one level above Sanctum Interior bonfire"
+			  }
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1047,
+            "y": 1008,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Dragons Rest",    
+		"sections": [
+			  {
+				"ref": "Dragons Rest/DragonsSanctum: Yorgh's Ring - Sinh's arena/",
+				"name": "DragonsSanctum: Yorgh's Ring - Sinh's arena"
+			  },
+			  {
+				"ref": "Dragons Rest/DragonsSanctum: Crown of the Sunken King - Sinh's arena after defeating boss/",
+				"name": "DragonsSanctum: Crown of the Sunken King - Sinh's arena after defeating boss"
+			  },
+			  {
+				"ref": "Dragons Rest/DragonsSanctum: Soul of Elana, Squalid Queen/",
+				"name": "DragonsSanctum: Soul of Elana, Squalid Queen"
+			  },
+			  {
+				"ref": "Dragons Rest/DragonsSanctum: Soul of Sinh, the Slumbering Dragon/",
+				"name": "DragonsSanctum: Soul of Sinh, the Slumbering Dragon"
+			  }
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1087,
+            "y": 1008,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Cave of the Dead",    
+		"sections": [
+			  {
+				"ref": "Cave of the Dead/CaveOfTheDead: Petrified Something x3 - second room, chest/",
+				"name": "CaveOfTheDead: Petrified Something x3 - second room, chest"
+			  },
+			  {
+				"ref": "Cave of the Dead/CaveOfTheDead: Brightbug x2 - second room/",
+				"name": "CaveOfTheDead: Brightbug x2 - second room"
+			  },
+			  {
+				"ref": "Cave of the Dead/CaveOfTheDead: Bonfire Ascetic x3 - second room/",
+				"name": "CaveOfTheDead: Bonfire Ascetic x3 - second room"
+			  },
+			  {
+				"ref": "Cave of the Dead/CaveOfTheDead: Alluring Skull x3 - before boss, right side/",
+				"name": "CaveOfTheDead: Alluring Skull x3 - before boss, right side"
+			  },
+			  {
+				"ref": "Cave of the Dead/CaveOfTheDead: Blackweed Balm x3 - after boss, on corpse/",
+				"name": "CaveOfTheDead: Blackweed Balm x3 - after boss, on corpse"
+			  },
+			  {
+				"ref": "Cave of the Dead/CaveOfTheDead: Flower Skirt - after boss, chest/",
+				"name": "CaveOfTheDead: Flower Skirt - after boss, chest"
+			  },
+			  {
+				"ref": "Cave of the Dead/CaveOfTheDead: Dark Greatsword - middle of elevator, chest/",
+				"name": "CaveOfTheDead: Dark Greatsword - middle of elevator, chest"
+			  },
+			  {
+				"ref": "Cave of the Dead/CaveOfTheDead: Torch x5 - middle of elevator, on ledge/",
+				"name": "CaveOfTheDead: Torch x5 - middle of elevator, on ledge"
+			  },
+			  {
+				"ref": "Cave of the Dead/Area Boss Drop/CaveOfTheDead: Twinkling Titanite x3 - boss drop",
+				"name": "CaveOfTheDead: Twinkling Titanite x3 - boss drop"
+			  },
+			  {
+				"ref": "Cave of the Dead/Area Boss Drop/CaveOfTheDead: Petrified Dragon Bone x3 - boss drop",
+				"name": "CaveOfTheDead: Petrified Dragon Bone x3 - boss drop"
+			  },
+			  {
+				"ref": "Cave of the Dead/Area Boss Drop/CaveOfTheDead: Titanite Slab - boss drop",
+				"name": "CaveOfTheDead: Titanite Slab - boss drop"
+			  }
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1127,
+            "y": 1008,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Brume Tower part 1",    
+		"sections": [
+			  {
+				"ref": "Brume Tower/BrumeTower: Smelter Wedge x6 - before first bridge/",
+				"name": "BrumeTower: Smelter Wedge x6 - before first bridge"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Dexterity Ring - stairs behind first Ashen Idol/",
+				"name": "BrumeTower: Dexterity Ring - stairs behind first Ashen Idol"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Old Growth Balm x2 - topmost platform of pillar below Throne Floor bonfire/",
+				"name": "BrumeTower: Old Growth Balm x2 - topmost platform of pillar below Throne Floor bonfire"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Large Soul of a Proud Knight - first ash field, ash statue/",
+				"name": "BrumeTower: Large Soul of a Proud Knight - first ash field, ash statue"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Twilight Herb x2 - first ash field, on corpse/",
+				"name": "BrumeTower: Twilight Herb x2 - first ash field, on corpse"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Rouge Water - first ash field, by iron bars/",
+				"name": "BrumeTower: Rouge Water - first ash field, by iron bars"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Blackweed Balm - after first ash field, on platform/",
+				"name": "BrumeTower: Blackweed Balm - after first ash field, on platform"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Scythe - after first ash field, on platform/",
+				"name": "BrumeTower: Scythe - after first ash field, on platform"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Prism Stone x10 - second Ashen Idol, up the ladder/",
+				"name": "BrumeTower: Prism Stone x10 - second Ashen Idol, up the ladder"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Titanite Slab - second Ashen Idol, chest up the ladder/",
+				"name": "BrumeTower: Titanite Slab - second Ashen Idol, chest up the ladder"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Baneful Bird Ring - by first bonfire, on railing/",
+				"name": "BrumeTower: Baneful Bird Ring - by first bonfire, on railing"
+			  },
+			  {
+				"ref": "Brume Tower/Chest above second Ashen Idol/BrumeTower: Bonfire Ascetic - above second Ashen Idol, chest",
+				"name": "BrumeTower: Bonfire Ascetic - above second Ashen Idol, chest"
+			  },
+			  {
+				"ref": "Brume Tower/Chest above second Ashen Idol/BrumeTower: Human Effigy x2 - above second Ashen Idol, chest",
+				"name": "BrumeTower: Human Effigy x2 - above second Ashen Idol, chest"
+			  }
+			  
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1770,
+            "y": 250,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Brume Tower part 2",    
+		"sections": [
+			  {
+				"ref": "Brume Tower/BrumeTower: Lloyd's Talisman x5 - after second Ashen Idol, on corpse/",
+				"name": "BrumeTower: Lloyd's Talisman x5 - after second Ashen Idol, on corpse"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Old Mundane Stone x2 - after second Ashen Idol, ash statue/",
+				"name": "BrumeTower: Old Mundane Stone x2 - after second Ashen Idol, ash statue"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Soul Vessel x2 - after second Ashen Idol, illusory wall/",
+				"name": "BrumeTower: Soul Vessel x2 - after second Ashen Idol, illusory wall"
+			  },
+			  {
+				"ref": "Brume Tower/Illusory Wall/BrumeTower: Old Radiant Lifegem x4 - after second Ashen Idol, illusory wall",
+				"name": "BrumeTower: Old Radiant Lifegem x4 - after second Ashen Idol, illusory wall"
+			  },
+			  {
+				"ref": "Brume Tower/Illusory Wall/BrumeTower: Wilted Dusk Herb x4 - after second Ashen Idol, illusory wall",
+				"name": "BrumeTower: Wilted Dusk Herb x4 - after second Ashen Idol, illusory wall"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Goldenfruit Balm x2 - first area with fiery bulls/",
+				"name": "BrumeTower: Goldenfruit Balm x2 - first area with fiery bulls"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Dance of Fire - room by second Ashen Idol/",
+				"name": "BrumeTower: Dance of Fire - room by second Ashen Idol"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Caestus - before second bonfire, chest/",
+				"name": "BrumeTower: Caestus - before second bonfire, chest"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Twinkling Titanite x3 - corridor by second bonfire, chest/",
+				"name": "BrumeTower: Twinkling Titanite x3 - corridor by second bonfire, chest"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Flame Quartz Ring+3 - lever room/",
+				"name": "BrumeTower: Flame Quartz Ring+3 - lever room"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Radiant Lifegem x3 - lever room, up the ladder/",
+				"name": "BrumeTower: Radiant Lifegem x3 - lever room, up the ladder"
+			  },
+			  {
+				"ref": "Brume Tower/After Lever Room/BrumeTower: Dried Root - after lever room",
+				"name": "BrumeTower: Dried Root - after lever room"
+			  },
+			  {
+				"ref": "Brume Tower/After Lever Room/BrumeTower: Large Titanite Shard x5 - after lever room",
+				"name": "BrumeTower: Large Titanite Shard x5 - after lever room"
+			  },
+			  {
+				"ref": "Brume Tower/After Lever Room/BrumeTower: Twinkling Titanite x2 - after lever room",
+				"name": "BrumeTower: Twinkling Titanite x2 - after lever room"
+			  },
+			  {
+				"ref": "Brume Tower/After Lever Room/BrumeTower: Human Effigy - after lever room",
+				"name": "BrumeTower: Human Effigy - after lever room"
+			  }
+			  
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1788,
+            "y": 250,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Brume Tower part 3",    
+		"sections": [
+			  {
+				"ref": "Brume Tower/BrumeTower: Human Effigy - above big ash field/",
+				"name": "BrumeTower: Human Effigy - above big ash field"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Large Soul of a Proud Knight - big ash field, ash statue/",
+				"name": "BrumeTower: Large Soul of a Proud Knight - big ash field, ash statue"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Soul of a Hero - big ash field, ash statue/",
+				"name": "BrumeTower: Soul of a Hero - big ash field, ash statue"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Soul of a Great Hero - big ash field, ash statue/",
+				"name": "BrumeTower: Soul of a Great Hero - big ash field, ash statue"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Raw Stone - before bridge to first side tower/",
+				"name": "BrumeTower: Raw Stone - before bridge to first side tower"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Bonfire Ascetic x2 - top of first side tower, chest/",
+				"name": "BrumeTower: Bonfire Ascetic x2 - top of first side tower, chest"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Alonne Greatbow - first side tower, center platform/",
+				"name": "BrumeTower: Alonne Greatbow - first side tower, center platform"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Silver Talisman x5 - first side tower, on stairs/",
+				"name": "BrumeTower: Silver Talisman x5 - first side tower, on stairs"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Palestone x2 - first side tower, ash statue/",
+				"name": "BrumeTower: Palestone x2 - first side tower, ash statue"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Majestic Greatsword - bottom of first side tower, chest/",
+				"name": "BrumeTower: Majestic Greatsword - bottom of first side tower, chest"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Large Titanite Shard x5 - cursed area, on altar/",
+				"name": "BrumeTower: Large Titanite Shard x5 - cursed area, on altar"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Fire Snake - cursed area, chest on right/",
+				"name": "BrumeTower: Fire Snake - cursed area, chest on right"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Old Radiant Lifegem x3 - cursed area, chest on left/",
+				"name": "BrumeTower: Old Radiant Lifegem x3 - cursed area, chest on left"
+			  }
+			  
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1806,
+            "y": 250,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Brume Tower part 4",    
+		"sections": [
+			  {
+				"ref": "Brume Tower/BrumeTower: Magic Stone x2 - after third bonfire/",
+				"name": "BrumeTower: Magic Stone x2 - after third bonfire"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Spell Quartz Ring+3 - by third bonfire/",
+				"name": "BrumeTower: Spell Quartz Ring+3 - by third bonfire"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Petrified Dragon Bone x8 - moving heads room, explodable wall/",
+				"name": "BrumeTower: Petrified Dragon Bone x8 - moving heads room, explodable wall"
+			  },
+			  {
+				"ref": "Brume Tower/Behind Explodable Wall/BrumeTower: Catarina Gauntlets - moving heads room, explodable wall",
+				"name": "BrumeTower: Catarina Gauntlets - moving heads room, explodable wall"
+			  },
+			  {
+				"ref": "Brume Tower/Behind Explodable Wall/BrumeTower: Catarina Leggings - moving heads room, explodable wall",
+				"name": "BrumeTower: Catarina Leggings - moving heads room, explodable wall"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Dried Root - in shortcut to second side tower/",
+				"name": "BrumeTower: Dried Root - in shortcut to second side tower"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Dried Root - second side tower, besides ladder/",
+				"name": "BrumeTower: Dried Root - second side tower, besides ladder"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Petrified Dragon Bone x2 - second side tower, first corridor/",
+				"name": "BrumeTower: Petrified Dragon Bone x2 - second side tower, first corridor"
+			  },
+			  {
+				"ref": "Brume Tower/Twinkling Titanite and Recollection/BrumeTower: Twinkling Titanite x2 - second side tower, behind door",
+				"name": "BrumeTower: Twinkling Titanite x2 - second side tower, behind door"
+			  },
+			  {
+				"ref": "Brume Tower/Twinkling Titanite and Recollection/BrumeTower: Recollection - second side tower, behind door",
+				"name": "BrumeTower: Recollection - second side tower, behind door"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Scorching Iron Scepter - bottom of second side tower/",
+				"name": "BrumeTower: Scorching Iron Scepter - bottom of second side tower"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Soul of Nadalia, Bride of Ash - by first bonfire, Ashen Idol/",
+				"name": "BrumeTower: Soul of Nadalia, Bride of Ash - by first bonfire, Ashen Idol"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Soul of Nadalia, Bride of Ash - second Ashen Idol/",
+				"name": "BrumeTower: Soul of Nadalia, Bride of Ash - second Ashen Idol"
+			  }
+			  
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1824,
+            "y": 250,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Brume Tower part 5",    
+		"sections": [
+			  {
+				"ref": "Brume Tower/BrumeTower: Soul of Nadalia, Bride of Ash - lever room, Ashen Idol/",
+				"name": "BrumeTower: Soul of Nadalia, Bride of Ash - lever room, Ashen Idol"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Soul of Nadalia, Bride of Ash - first side tower, Ashen Idol/",
+				"name": "BrumeTower: Soul of Nadalia, Bride of Ash - first side tower, Ashen Idol"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Soul of Nadalia, Bride of Ash - cursed area, Ashen Idol/",
+				"name": "BrumeTower: Soul of Nadalia, Bride of Ash - cursed area, Ashen Idol"
+			  },
+			  {
+				"ref": "Brume Tower/Fume Knight Drops/BrumeTower: Soul of the Fume Knight",
+				"name": "BrumeTower: Soul of the Fume Knight"
+			  },
+			  {
+				"ref": "Brume Tower/Fume Knight Drops/BrumeTower: Soul of Nadalia, Bride of Ash - end boss drop",
+				"name": "BrumeTower: Soul of Nadalia, Bride of Ash - end boss drop"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Life Ring+3 - room opposite of second bonfire, chest/",
+				"name": "BrumeTower: Life Ring+3 - room opposite of second bonfire, chest"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Pilgrim's Spontoon - jump from elevator by second bonfire/",
+				"name": "BrumeTower: Pilgrim's Spontoon - jump from elevator by second bonfire"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Sorcery Clutch Ring - before end boss elevator, chest/",
+				"name": "BrumeTower: Sorcery Clutch Ring - before end boss elevator, chest"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Brightbug x2 - jump from elevator going up from third bonfire/",
+				"name": "BrumeTower: Brightbug x2 - jump from elevator going up from third bonfire"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Smelter Wedge x4 - opposite way of Alonne, upper floor/",
+				"name": "BrumeTower: Smelter Wedge x4 - opposite way of Alonne, upper floor"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Dispelling Ring+1 - opposite way of Alonne, explodable wall/",
+				"name": "BrumeTower: Dispelling Ring+1 - opposite way of Alonne, explodable wall"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Lacerating Knife x15 - opposite way of Alonne, lower floor/",
+				"name": "BrumeTower: Lacerating Knife x15 - opposite way of Alonne, lower floor"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Strength Ring - towards end boss, multi level room/",
+				"name": "BrumeTower: Strength Ring - towards end boss, multi level room"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Partizan - towards end boss, above lever room/",
+				"name": "BrumeTower: Partizan - towards end boss, above lever room"
+			  }
+			  
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1842,
+            "y": 250,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Brume Tower part 6",    
+		"sections": [
+			  {
+				"ref": "Brume Tower/BrumeTower: Hollow Skin - elevator towards Alonne, illusory wall/",
+				"name": "BrumeTower: Hollow Skin - elevator towards Alonne, illusory wall"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Simpleton's Ring - room by second bonfire, outside/",
+				"name": "BrumeTower: Simpleton's Ring - room by second bonfire, outside"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Tower Key - ash field below third bonfire/",
+				"name": "BrumeTower: Tower Key - ash field below third bonfire"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Skeptic's Spice - ash field below third bonfire/",
+				"name": "BrumeTower: Skeptic's Spice - ash field below third bonfire"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Human Effigy x2 - ash field below third bonfire/",
+				"name": "BrumeTower: Human Effigy x2 - ash field below third bonfire"
+			  },
+			  {
+				"ref": "Brume Tower/CPR and Twinkling Titanite/BrumeTower: Twinkling Titanite x2 - ash field below third bonfire",
+				"name": "BrumeTower: Twinkling Titanite x2 - ash field below third bonfire"
+			  },
+			  {
+				"ref": "Brume Tower/CPR and Twinkling Titanite/BrumeTower: Charcoal Pine Resin x5 - ash field below third bonfire",
+				"name": "BrumeTower: Charcoal Pine Resin x5 - ash field below third bonfire"
+			  },
+			  {
+				"ref": "Brume Tower/Titanite Chunk and Wilted Dusk Herb/BrumeTower: Wilted Dusk Herb x2 - ash field below third bonfire",
+				"name": "BrumeTower: Wilted Dusk Herb x2 - ash field below third bonfire"
+			  },
+			  {
+				"ref": "Brume Tower/Titanite Chunk and Wilted Dusk Herb/BrumeTower: Titanite Chunk x2 - ash field below third bonfire",
+				"name": "BrumeTower: Titanite Chunk x2 - ash field below third bonfire"
+			  },
+			  {
+				"ref": "Brume Tower/Titanite Shards, Petrified Something and Broadsword/BrumeTower: Broadsword - doors room",
+				"name": "BrumeTower: Broadsword - doors room"
+			  },
+			  {
+				"ref": "Brume Tower/Titanite Shards, Petrified Something and Broadsword/BrumeTower: Petrified Something - doors room",
+				"name": "BrumeTower: Petrified Something - doors room"
+			  },
+			  {
+				"ref": "Brume Tower/Titanite Shards, Petrified Something and Broadsword/BrumeTower: Titanite Shard x10 - doors room",
+				"name": "BrumeTower: Titanite Shard x10 - doors room"
+			  },
+			  {
+				"ref": "Brume Tower/Flame Butterflies, Titanite Slab and 3 Titanite Chunks/BrumeTower: Flame Butterfly x5 - doors room",
+				"name": "BrumeTower: Flame Butterfly x5 - doors room"
+			  },
+			  {
+				"ref": "Brume Tower/Flame Butterflies, Titanite Slab and 3 Titanite Chunks/BrumeTower: Titanite Slab - doors room",
+				"name": "BrumeTower: Titanite Slab - doors room"
+			  },
+			  {
+				"ref": "Brume Tower/Flame Butterflies, Titanite Slab and 3 Titanite Chunks/BrumeTower: Titanite Chunk x3 - doors room",
+				"name": "BrumeTower: Titanite Chunk x3 - doors room"
+			  }
+			  
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1860,
+            "y": 250,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Brume Tower part 7",    
+		"sections": [
+			  {
+				"ref": "Brume Tower/BrumeTower: Old Radiant Lifegem x4 - room by second bonfire, under fiery bull/",
+				"name": "BrumeTower: Old Radiant Lifegem x4 - room by second bonfire, under fiery bull"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Soul of a Brave Warrior - left side before end boss, ash statue/",
+				"name": "BrumeTower: Soul of a Brave Warrior - left side before end boss, ash statue"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Titanite Chunk x3 - right side before end boss, ash statue/",
+				"name": "BrumeTower: Titanite Chunk x3 - right side before end boss, ash statue"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Crown of the Old Iron King - after end boss/",
+				"name": "BrumeTower: Crown of the Old Iron King - after end boss"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Large Soul of a Nameless Soldier - ash field below third bonfire, ash statue/",
+				"name": "BrumeTower: Large Soul of a Nameless Soldier - ash field below third bonfire, ash statue"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Soul of Nadalia, Bride of Ash - left side before end boss, Ashen Idol/",
+				"name": "BrumeTower: Soul of Nadalia, Bride of Ash - left side before end boss, Ashen Idol"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Soul of Nadalia, Bride of Ash - left side before end boss, Ashen Idol #2/",
+				"name": "BrumeTower: Soul of Nadalia, Bride of Ash - left side before end boss, Ashen Idol #2"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Soul of Nadalia, Bride of Ash - right side before end boss, Ashen Idol/",
+				"name": "BrumeTower: Soul of Nadalia, Bride of Ash - right side before end boss, Ashen Idol"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Soul of Nadalia, Bride of Ash - right side before end boss, Ashen Idol #2/",
+				"name": "BrumeTower: Soul of Nadalia, Bride of Ash - right side before end boss, Ashen Idol #2"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Soul of Nadalia, Bride of Ash - towards Alonne, Ashen Idol/",
+				"name": "BrumeTower: Soul of Nadalia, Bride of Ash - towards Alonne, Ashen Idol"
+			  },
+			  {
+				"ref": "Brume Tower/BrumeTower: Soul of Nadalia, Bride of Ash - doors room, Ashen Idol/",
+				"name": "BrumeTower: Soul of Nadalia, Bride of Ash - doors room, Ashen Idol"
+			  }
+			  
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1878,
+            "y": 250,
+			"size": 15
+		  }
+		]
+	  },
+
+
+	  {
+		"name": "Iron Passage",    
+		"sections": [
+			  {
+				"ref": "Iron Passage/IronPassage: Twilight Herb x2 - elevator up from bonfire/",
+				"name": "IronPassage: Twilight Herb x2 - elevator up from bonfire"
+			  },
+			  {
+				"ref": "Iron Passage/IronPassage: Large Titanite Shard x7 - right side cell, opened by first lever/",
+				"name": "IronPassage: Large Titanite Shard x7 - right side cell, opened by first lever"
+			  },
+			  {
+				"ref": "Iron Passage/IronPassage: Crimson Water x2 - upper ledge, first large room/",
+				"name": "IronPassage: Crimson Water x2 - upper ledge, first large room"
+			  },
+			  {
+				"ref": "Iron Passage/IronPassage: Simpleton's Spice - right side cell, opened by second lever/",
+				"name": "IronPassage: Simpleton's Spice - right side cell, opened by second lever"
+			  },
+			  {
+				"ref": "Iron Passage/IronPassage: Torch x5 - left side cell, opened by second lever/",
+				"name": "IronPassage: Torch x5 - left side cell, opened by second lever"
+			  },
+			  {
+				"ref": "Iron Passage/IronPassage: Wilted Dusk Herb x2 - upper ledge, second large room/",
+				"name": "IronPassage: Wilted Dusk Herb x2 - upper ledge, second large room"
+			  },
+			  {
+				"ref": "Iron Passage/IronPassage: Dried Root - lower level, third large room before boss/",
+				"name": "IronPassage: Dried Root - lower level, third large room before boss"
+			  },
+			  {
+				"ref": "Iron Passage/Cracked Red Eye Orbs and Old Growth Balm/IronPassage: Old Growth Balm x3 - upper ledge, third large room",
+				"name": "IronPassage: Old Growth Balm x3 - upper ledge, third large room"
+			  },
+			  {
+				"ref": "Iron Passage/Cracked Red Eye Orbs and Old Growth Balm/IronPassage: Cracked Red Eye Orb x3 - upper ledge, third large room",
+				"name": "IronPassage: Cracked Red Eye Orb x3 - upper ledge, third large room"
+			  },
+			  {
+				"ref": "Iron Passage/IronPassage: Pharros Mask - past boss arena, corpse/",
+				"name": "IronPassage: Pharros Mask - past boss arena, corpse"
+			  },
+			  {
+				"ref": "Iron Passage/IronPassage: Smelter Demon Soul/",
+				"name": "IronPassage: Smelter Demon Soul"
+			  }
+			  
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1790,
+            "y": 290,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Memory of Old Iron King",    
+		"sections": [
+			  {
+				"ref": "Memory of Old Iron King/Smooth and Silky Stone x5, Human Effigy x3, Skeptics Spice/Alonne: Skeptic's Spice - middle of first hall",
+				"name": "Alonne: Skeptic's Spice - middle of first hall"
+			  },
+			  {
+				"ref": "Memory of Old Iron King/Smooth and Silky Stone x5, Human Effigy x3, Skeptics Spice/Alonne: Human Effigy x3 - middle of first hall",
+				"name": "Alonne: Human Effigy x3 - middle of first hall"
+			  },
+			  {
+				"ref": "Memory of Old Iron King/Smooth and Silky Stone x5, Human Effigy x3, Skeptics Spice/Alonne: Smooth & Silky Stone x5 - middle of first hall",
+				"name": "Alonne: Smooth & Silky Stone x5 - middle of first hall"
+			  },
+			  {
+				"ref": "Memory of Old Iron King/Alonne: Rusted Coin x3 - left side of first hall/",
+				"name": "Alonne: Rusted Coin x3 - left side of first hall"
+			  },
+			  {
+				"ref": "Memory of Old Iron King/Alonne: Repair Powder x3 - middle of second hall/",
+				"name": "Alonne: Repair Powder x3 - middle of second hall"
+			  },
+			  {
+				"ref": "Memory of Old Iron King/Alonne: Radiant Lifegem x5 - middle of second hall/",
+				"name": "Alonne: Radiant Lifegem x5 - middle of second hall"
+			  },
+			  {
+				"ref": "Memory of Old Iron King/Alonne: Twinblade - below second hall, right side/",
+				"name": "Alonne: Twinblade - below second hall, right side"
+			  },
+			  {
+				"ref": "Memory of Old Iron King/Alonne: Soul of Sir Alonne/",
+				"name": "Alonne: Soul of Sir Alonne"
+			  },
+			  {
+				"ref": "Memory of Old Iron King/Alonne: Smelter Wedge - throne after boss/",
+				"name": "Alonne: Smelter Wedge - throne after boss"
+			  }
+			  
+	  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1850,
+            "y": 290,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Memory of Jeigh",    
+		"sections": [
+			  {
+				"ref": "Memory of Jeigh/Jeigh: Bonfire Ascetic - up first stairs/",
+				"name": "Jeigh: Bonfire Ascetic - up first stairs"
+			  },
+			  {
+				"ref": "Memory of Jeigh/Jeigh: Old Radiant Lifegem - right side before boss/",
+				"name": "Jeigh: Old Radiant Lifegem - right side before boss"
+			  },
+			  {
+				"ref": "Memory of Jeigh/Jeigh: Fire Seed - up second stairs/",
+				"name": "Jeigh: Fire Seed - up second stairs"
+			  },
+			  {
+				"ref": "Memory of Jeigh/Jeigh: Giant Lord/Jeigh: Giant Lord Soul",
+				"name": "Jeigh: Giant Lord Soul"
+			  },
+			  {
+				"ref": "Memory of Jeigh/Jeigh: Giant Lord/Jeigh: Giant's Kinship - boss drop",
+				"name": "Jeigh: Giant's Kinship - boss drop"
+			  }	
+	  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 327,
+            "y": 960,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Memory of Orro first half",    
+		"sections": [
+			  {
+				"ref": "Memory of Orro/Orro: Fading Soul - second floor/",
+				"name": "Orro: Fading Soul - second floor"
+			  },
+			  {
+				"ref": "Memory of Orro/Orro: Soul of a Hero x3 - behind contraption/",
+				"name": "Orro: Soul of a Hero x3 - behind contraption"
+			  },
+			  {
+				"ref": "Memory of Orro/Orro: Fire Seed - behind contraption, illusory wall/",
+				"name": "Orro: Fire Seed - behind contraption, illusory wall"
+			  },
+			  {
+				"ref": "Memory of Orro/Orro: Steel Set/Orro: Steel Helm - behind contraption, illusory wall",
+				"name": "Orro: Steel Helm - behind contraption, illusory wall"
+			  },
+			  {
+				"ref": "Memory of Orro/Orro: Steel Set/Orro: Steel Armor - behind contraption, illusory wall",
+				"name": "Orro: Steel Armor - behind contraption, illusory wall"
+			  },
+			  {
+				"ref": "Memory of Orro/Orro: Steel Set/Orro: Steel Gauntlets - behind contraption, illusory wall",
+				"name": "Orro: Steel Gauntlets - behind contraption, illusory wall"
+			  },
+			  {
+				"ref": "Memory of Orro/Orro: Steel Set/Orro: Steel Leggings - behind contraption, illusory wall",
+				"name": "Orro: Steel Leggings - behind contraption, illusory wall"
+			  },
+			  {
+				"ref": "Memory of Orro/Orro: Wilted Dusk Herb x3 - roof right of cortyard/",
+				"name": "Orro: Wilted Dusk Herb x3 - roof right of cortyard"
+			  },
+			  {
+				"ref": "Memory of Orro/Orro: Soul of a Brave Warrior - bridge above courtyard/",
+				"name": "Orro: Soul of a Brave Warrior - bridge above courtyard"
+			  }
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 135,
+            "y": 862,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Memory of Orro second half",    
+		"sections": [
+			  {
+				"ref": "Memory of Orro/Orro: Large Soul of a Proud Knight - center of courtyard/",
+				"name": "Orro: Large Soul of a Proud Knight - center of courtyard"
+			  },
+			  {
+				"ref": "Memory of Orro/Courtyard right corner/Orro: Soul of a Great Hero - right corner of courtyard",
+				"name": "Orro: Soul of a Great Hero - right corner of courtyard"
+			  },
+			  {
+				"ref": "Memory of Orro/Courtyard right corner/Orro: Soul Vessel - right corner of courtyard",
+				"name": "Orro: Soul Vessel - right corner of courtyard"
+			  },
+			  {
+				"ref": "Memory of Orro/Orro: Soul of a Proud Knight - scaffolding left of cortyard/",
+				"name": "Orro: Soul of a Proud Knight - scaffolding left of cortyard"
+			  },
+			  {
+				"ref": "Memory of Orro/Orro: Bonfire Ascetic x3 - room after dropping the crane/",
+				"name": "Orro: Bonfire Ascetic x3 - room after dropping the crane"
+			  },
+			  {
+				"ref": "Memory of Orro/Room after dropping the crane/Orro: Grand Lance - room after dropping the crane",
+				"name": "Orro: Grand Lance - room after dropping the crane"
+			  },
+			  {
+				"ref": "Memory of Orro/Room after dropping the crane/Orro: Simpleton's Spice - room after dropping the crane",
+				"name": "Orro: Simpleton's Spice - room after dropping the crane"
+			  },
+			  {
+				"ref": "Memory of Orro/Room after dropping the crane/Orro: Skeptic's Spice - room after dropping the crane",
+				"name": "Orro: Skeptic's Spice - room after dropping the crane"
+			  }
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 175,
+            "y": 862,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Memory of Vammaar",    
+		"sections": [
+			  {
+				"ref": "Memory of Vammaar/Vammar: Smooth & Silky Stone x5 - room by Drummond, chest/",
+				"name": "Vammar: Smooth & Silky Stone x5 - room by Drummond, chest"
+			  },
+			  {
+				"ref": "Memory of Vammaar/Vammar: Fire Seed - first corridor, corpse at the end/",
+				"name": "Vammar: Fire Seed - first corridor, corpse at the end"
+			  },
+			  {
+				"ref": "Memory of Vammaar/Vammar: Large Soul of a Nameless Soldier - before battlefield area, house on left side/",
+				"name": "Vammar: Large Soul of a Nameless Soldier - before battlefield area, house on left side"
+			  },
+			  {
+				"ref": "Memory of Vammaar/Vammar: Giant Warrior Club - battlefield area, far right cornor/",
+				"name": "Vammar: Giant Warrior Club - battlefield area, far right cornor"
+			  },
+			  {
+				"ref": "Memory of Vammaar/Battlefield left corner/Vammar: Petrified Something - battlefield area, far left cornor",
+				"name": "Vammar: Petrified Something - battlefield area, far left cornor"
+			  },
+			  {
+				"ref": "Memory of Vammaar/Battlefield left corner/Vammar: Blossom Kite Shield - battlefield area, far left cornor",
+				"name": "Vammar: Blossom Kite Shield - battlefield area, far left cornor"
+			  },
+			  {
+				"ref": "Memory of Vammaar/Vammar: Rouge Water - left side before final stairs/",
+				"name": "Vammar: Rouge Water - left side before final stairs"
+			  },
+			  {
+				"ref": "Memory of Vammaar/Vammar: Old Radiant Lifegem - top of final stairs/",
+				"name": "Vammar: Old Radiant Lifegem - top of final stairs"
+			  },
+			  {
+				"ref": "Memory of Vammaar/Corner after final stairs/Vammar: Soul of a Great Hero - corner after final stairs",
+				"name": "Vammar: Soul of a Great Hero - corner after final stairs"
+			  },
+			  {
+				"ref": "Memory of Vammaar/Corner after final stairs/Vammar: Torch - corner after final stairs",
+				"name": "Vammar: Torch - corner after final stairs"
+			  }		  
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 155,
+            "y": 961,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Frozen Eleum Loyce part 1",    
+		"sections": [
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Radiant Lifegem x4 - first room after Outer Wall bonfire/",
+				"name": "EleumLoyce: Radiant Lifegem x4 - first room after Outer Wall bonfire"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Goldenfruit Balm x2 - narrow corridor before town/",
+				"name": "EleumLoyce: Goldenfruit Balm x2 - narrow corridor before town"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/Behind ice before fountain square/EleumLoyce: Goldenfruit Balm x2 - behind ice before square with fountain",
+				"name": "EleumLoyce: Goldenfruit Balm x2 - behind ice before square with fountain"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/Behind ice before fountain square/EleumLoyce: Retainer Staff - behind ice before fountain square",
+				"name": "EleumLoyce: Retainer Staff - behind ice before fountain square"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/Behind ice before fountain square/EleumLoyce: Dried Root - behind ice before square with fountain",
+				"name": "EleumLoyce: Dried Root - behind ice before square with fountain"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Torch x5 - under stairs before fountain square/",
+				"name": "EleumLoyce: Torch x5 - under stairs before fountain square"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Winged Spear - open area before town/",
+				"name": "EleumLoyce: Winged Spear - open area before town"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Ring of the Embedded - snow ledge, narrow gap after Abandoned Dwelling bonfire/",
+				"name": "EleumLoyce: Ring of the Embedded - snow ledge, narrow gap after Abandoned Dwelling bonfire"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Repair Powder x3 - under ice in fountain square/",
+				"name": "EleumLoyce: Repair Powder x3 - under ice in fountain square"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Small Blue Burr x5 - small room after fountain square/",
+				"name": "EleumLoyce: Small Blue Burr x5 - small room after fountain square"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Dark Clutch Ring - by tree, drop down from 3 chest roof, fountain square/",
+				"name": "EleumLoyce: Dark Clutch Ring - by tree, drop down from 3 chest roof, fountain square"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Lloyd's Talisman x3 - open area after Abandoned Dwelling bonfire/",
+				"name": "EleumLoyce: Lloyd's Talisman x3 - open area after Abandoned Dwelling bonfire"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Dark Dance - upper snow bank, open area after Abandoned Dwelling/",
+				"name": ""
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/Metal chests atop town house/EleumLoyce: Sorcerer's Twinblade - roof, house after square with fountain, frozen metal chest",
+				"name": "EleumLoyce: Sorcerer's Twinblade - roof, house after square with fountain, frozen metal chest"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/Metal chests atop town house/leumLoyce: Divine Blessing x2 - roof, house after square with fountain, frozen metal chest",
+				"name": "leumLoyce: Divine Blessing x2 - roof, house after square with fountain, frozen metal chest"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/Metal chests atop town house/EleumLoyce: Soul Vessel - roof, house after square with fountain, frozen metal chest",
+				"name": "EleumLoyce: Soul Vessel - roof, house after square with fountain, frozen metal chest"
+			  }
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 250,
+            "y": 471,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Frozen Eleum Loyce part 2",    
+		"sections": [
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Monastery Charm x3 - drop down from 3 chest roof, fountain square/",
+				"name": "EleumLoyce: Monastery Charm x3 - drop down from 3 chest roof, fountain square"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Elizabeth Mushroom x2 - outer wall shortcut door/",
+				"name": "EleumLoyce: Elizabeth Mushroom x2 - outer wall shortcut door"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Radiant Lifegem x5 - by the lever to Outer Wall/",
+				"name": "EleumLoyce: Radiant Lifegem x5 - by the lever to Outer Wall"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Soul Flash - behind elevator full of coffins, metal chest/",
+				"name": "EleumLoyce: Soul Flash - behind elevator full of coffins, metal chest"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/Invisible ladder chest/EleumLoyce: Northwarder Hood - behind elevator full of coffins, invisible ladder",
+				"name": "EleumLoyce: Northwarder Hood - behind elevator full of coffins, invisible ladder"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/Invisible ladder chest/EleumLoyce: Northwarder Robe - behind elevator full of coffins, invisible ladder",
+				"name": "EleumLoyce: Northwarder Robe - behind elevator full of coffins, invisible ladder"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/Invisible ladder chest/EleumLoyce: Northwarder Manchettes - behind elevator full of coffins, invisible ladder",
+				"name": "EleumLoyce: Northwarder Manchettes - behind elevator full of coffins, invisible ladder"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/Invisible ladder chest/EleumLoyce: Northwarder Trousers - behind elevator full of coffins, invisible ladder",
+				"name": "EleumLoyce: Northwarder Trousers - behind elevator full of coffins, invisible ladder"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Brightbug x2 - tower opposite Expulsion Chamber bonfire, metal chest/",
+				"name": "EleumLoyce: Brightbug x2 - tower opposite Expulsion Chamber bonfire, metal chest"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Bonfire Ascetic x3 - tower opposite Expulsion Chamber bonfire, metal chest/",
+				"name": "EleumLoyce: Bonfire Ascetic x3 - tower opposite Expulsion Chamber bonfire, metal chest"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Old Radiant Lifegem x7 - tower opposite Expulsion Chamber bonfire, metal chest/",
+				"name": "EleumLoyce: Old Radiant Lifegem x7 - tower opposite Expulsion Chamber bonfire, metal chest"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Titanite Slab - tower opposite Expulsion Chamber bonfire, metal chest/",
+				"name": "EleumLoyce: Titanite Slab - tower opposite Expulsion Chamber bonfire, metal chest"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Splintering Lightning Spear - top floor, invisible ladder tower, metal chest/",
+				"name": "EleumLoyce: Splintering Lightning Spear - top floor, invisible ladder tower, metal chest"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Human Effigy - lower floor, invisible ladder tower/",
+				"name": "EleumLoyce: Human Effigy - lower floor, invisible ladder tower"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Soul of a Great Hero - balcony, invisible ladder tower/",
+				"name": "EleumLoyce: Soul of a Great Hero - balcony, invisible ladder tower"
+			  }
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 278,
+            "y": 471,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Frozen Eleum Loyce part 3",    
+		"sections": [
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Crimson Water - small room, stairs to the Eye of the Priestess/",
+				"name": "EleumLoyce: Crimson Water - small room, stairs to the Eye of the Priestess"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Green Blossom x8 - near invisible ladder tower/",
+				"name": "EleumLoyce: Green Blossom x8 - near invisible ladder tower"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Elizabeth Mushroom x3 - end of main ballista bridge, frozen metal chest/",
+				"name": "EleumLoyce: Elizabeth Mushroom x3 - end of main ballista bridge, frozen metal chest"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Eye of the Priestess - on altar/",
+				"name": "EleumLoyce: Eye of the Priestess - on altar"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Prism Stone x15 - main ballista bridge/",
+				"name": "EleumLoyce: Prism Stone x15 - main ballista bridge"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/Large Soul of a Brave Warrior and Goldenfruit Balm/EleumLoyce: Large Soul of a Brave Warrior - main ballista bridge",
+				"name": "EleumLoyce: Large Soul of a Brave Warrior - main ballista bridge"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/Large Soul of a Brave Warrior and Goldenfruit Balm/EleumLoyce: Goldenfruit Balm x2 - main ballista bridge",
+				"name": "EleumLoyce: Goldenfruit Balm x2 - main ballista bridge"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Durgo's Hat - ballista bridge Pharros contraption, metal chest/",
+				"name": "EleumLoyce: Durgo's Hat - ballista bridge Pharros contraption, metal chest"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Priest's Chime - balcony, multi level wooden area/",
+				"name": "EleumLoyce: Priest's Chime - balcony, multi level wooden area"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Ring of Resistance+1 - lower balcony, multi level wooden area/",
+				"name": "EleumLoyce: Ring of Resistance+1 - lower balcony, multi level wooden area"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Wilted Dusk Herb x3 - bottom floor, multi level wooden area, chest/",
+				"name": "EleumLoyce: Wilted Dusk Herb x3 - bottom floor, multi level wooden area, chest"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Human Effigy x2 - right side, cave opened by lighting torches/",
+				"name": "EleumLoyce: Human Effigy x2 - right side, cave opened by lighting torches"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Bone Fist - left side, cave opened by lighting torches/",
+				"name": "EleumLoyce: Bone Fist - left side, cave opened by lighting torches"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Garrison Ward Key - in cave opened by lighting torches/",
+				"name": "EleumLoyce: Garrison Ward Key - in cave opened by lighting torches"
+			  }
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 306,
+            "y": 471,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Frozen Eleum Loyce part 4",    
+		"sections": [
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Old Bell Helm - ledge, end of the path before Abandoned Dwelling bonfire/",
+				"name": "EleumLoyce: Old Bell Helm - ledge, end of the path before Abandoned Dwelling bonfire"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Magic Stone x2 - ledge outside Lower Garrison bonfire/",
+				"name": "EleumLoyce: Magic Stone x2 - ledge outside Lower Garrison bonfire"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/Goldenfruit Balm and Monastery Charm/EleumLoyce: Monastery Charm x2 - outside Lower Garrison elevator",
+				"name": "EleumLoyce: Monastery Charm x2 - outside Lower Garrison elevator"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/Goldenfruit Balm and Monastery Charm/EleumLoyce: Goldenfruit Balm x2 - outside Lower Garrison elevator",
+				"name": "EleumLoyce: Goldenfruit Balm x2 - outside Lower Garrison elevator"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Twilight Herb x2 - before Hexer Nicolai invades behind a pillar/",
+				"name": "EleumLoyce: Twilight Herb x2 - before Hexer Nicolai invades behind a pillar"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Old Growth Balm x2 - where Hexer Nicolai invades, behind pillar/",
+				"name": "EleumLoyce: Old Growth Balm x2 - where Hexer Nicolai invades, behind pillar"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Amber Herb x5 - by Lower Garrison shortcut door/",
+				"name": "EleumLoyce: Amber Herb x5 - by Lower Garrison shortcut door"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/Cave behind Lower Garrison lever gate/EleumLoyce: Crimson Water - cave behind Lower Garrison lever gate",
+				"name": "EleumLoyce: Crimson Water - cave behind Lower Garrison lever gate"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/Cave behind Lower Garrison lever gate/EleumLoyce: Smooth & Silky Stone x3 - cave behind Lower Garrison lever gate",
+				"name": "EleumLoyce: Smooth & Silky Stone x3 - cave behind Lower Garrison lever gate"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Twinkling Titanite x2 - cave behind Lower Garrison lever gate/",
+				"name": "EleumLoyce: Twinkling Titanite x2 - cave behind Lower Garrison lever gate"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Large Club - cave behind Lower Garrison lever gate/",
+				"name": "EleumLoyce: Large Club - cave behind Lower Garrison lever gate"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Dried Root - cave behind Lower Garrison lever gate/",
+				"name": "EleumLoyce: Dried Root - cave behind Lower Garrison lever gate"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Dried Root - cave behind Lower Garrison lever gate #2/",
+				"name": "EleumLoyce: Dried Root - cave behind Lower Garrison lever gate #2"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Charcoal Pine Resin x5 - by bridge after Lower Garrison cave/",
+				"name": "EleumLoyce: Charcoal Pine Resin x5 - by bridge after Lower Garrison cave"
+			  }
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 334,
+            "y": 471,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Frozen Eleum Loyce part 5",    
+		"sections": [
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Pharros' Lockstone - by bridge after Lower Garrison cave/",
+				"name": "EleumLoyce: Pharros' Lockstone - by bridge after Lower Garrison cave"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/Where Snowball Finishes/EleumLoyce: Azal's Staff - broken bridge, where snowball finishes",
+				"name": "EleumLoyce: Azal's Staff - broken bridge, where snowball finishes"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/Where Snowball Finishes/EleumLoyce: Radiant Lifegem x4 - broken bridge, where snowball finishes",
+				"name": "EleumLoyce: Radiant Lifegem x4 - broken bridge, where snowball finishes"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/Where Snowball Finishes/EleumLoyce: Cracked Red Eye Orb x3 - broken bridge, where snowball finishes",
+				"name": "EleumLoyce: Cracked Red Eye Orb x3 - broken bridge, where snowball finishes"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Vine Balm x3 - behind snowball Eleum Knight tower/",
+				"name": "EleumLoyce: Vine Balm x3 - behind snowball Eleum Knight tower"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Soul of Aava, the King's Pet/",
+				"name": "EleumLoyce: Soul of Aava, the King's Pet"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Silver Talisman x10 - corridor where Holy Knight Aurheim invades, metal chest/",
+				"name": "EleumLoyce: Silver Talisman x10 - corridor where Holy Knight Aurheim invades, metal chest"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Curved Nil Greatsword - upper floor of Inner Wall, frozen metal chest/",
+				"name": "EleumLoyce: Curved Nil Greatsword - upper floor of Inner Wall, frozen metal chest"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Fire Clutch Ring - Inner Wall illusory wall, up stairs, metal chest/",
+				"name": "EleumLoyce: Fire Clutch Ring - Inner Wall illusory wall, up stairs, metal chest"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Flame Butterfly x3 - dead end corridor, Inner Wall near Eleum Knight/",
+				"name": "EleumLoyce: Flame Butterfly x3 - dead end corridor, Inner Wall near Eleum Knight"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Dried Root x2 - second room of Inner Wall/",
+				"name": "EleumLoyce: Dried Root x2 - second room of Inner Wall"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/Twinkling and Petrified Dragon Bone chest/EleumLoyce: Twinkling Titanite x3 - first room of Inner Wall, frozen metal chest",
+				"name": "EleumLoyce: Twinkling Titanite x3 - first room of Inner Wall, frozen metal chest"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/Twinkling and Petrified Dragon Bone chest/EleumLoyce: Petrified Dragon Bone x3 - first room of Inner Wall, frozen metal chest",
+				"name": "EleumLoyce: Petrified Dragon Bone x3 - first room of Inner Wall, frozen metal chest"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Twin-headed Greatbow - Inner Wall illusory wall, metal chest/",
+				"name": "EleumLoyce: Twin-headed Greatbow - Inner Wall illusory wall, metal chest"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/Skeptics Spice and Alluring Skulls/EleumLoyce: Alluring Skull x5 - before fog gate to Inner Wall bonfire",
+				"name": "EleumLoyce: Alluring Skull x5 - before fog gate to Inner Wall bonfire"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/Skeptics Spice and Alluring Skulls/EleumLoyce: Skeptic's Spice - before fog gate to Inner Wall bonfire",
+				"name": "EleumLoyce: Skeptic's Spice - before fog gate to Inner Wall bonfire"
+			  },
+			  {
+				"ref": "Frozen Eleum Loyce/EleumLoyce: Boltstone x3 - upper level, Lower Garrison courtyard, metal chest/",
+				"name": "EleumLoyce: Boltstone x3 - upper level, Lower Garrison courtyard, metal chest"
+			  }
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 362,
+            "y": 471,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Grand Cathedral",    
+		"sections": [
+			  {
+				"ref": "Grand Cathedral/Ivory King Drops/EleumLoyce: Soul of the Ivory King",
+				"name": "EleumLoyce: Soul of the Ivory King"
+			  },
+			  {
+				"ref": "Grand Cathedral/Ivory King Drops/EleumLoyce: Crown of the Ivory King - after second boss",
+				"name": "EleumLoyce: Crown of the Ivory King - after second boss"
+			  },
+			  {
+				"ref": "Grand Cathedral/EleumLoyce: Vessel Shield - after Grand Cathedral bonfire, frozen metal chest/",
+				"name": "EleumLoyce: Vessel Shield - after Grand Cathedral bonfire, frozen metal chest"
+			  }
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 280,
+            "y": 510,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Frigid Outskirts",    
+		"sections": [
+			  {
+				"ref": "Frigid Outskirts/FrigidOutskirts: Blackweed Balm x2 - inside furthest coffin after ride/",
+				"name": "FrigidOutskirts: Blackweed Balm x2 - inside furthest coffin after ride"
+			  },
+			  {
+				"ref": "Frigid Outskirts/FrigidOutskirts: Wilted Dusk Herb x2 - under coffin after ride/",
+				"name": "FrigidOutskirts: Wilted Dusk Herb x2 - under coffin after ride"
+			  },
+			  {
+				"ref": "Frigid Outskirts/FrigidOutskirts: Mirrah Hat - outside first house/",
+				"name": "FrigidOutskirts: Mirrah Hat - outside first house"
+			  },
+			  {
+				"ref": "Frigid Outskirts/FrigidOutskirts: Dried Root - inside first house/",
+				"name": "FrigidOutskirts: Dried Root - inside first house"
+			  },
+			  {
+				"ref": "Frigid Outskirts/FrigidOutskirts: Lacerating Knife x20 - between first and second house/",
+				"name": "FrigidOutskirts: Lacerating Knife x20 - between first and second house"
+			  },
+			  {
+				"ref": "Frigid Outskirts/FrigidOutskirts: Twinkling Titanite x2 - between second and third house/",
+				"name": "FrigidOutskirts: Twinkling Titanite x2 - between second and third house"
+			  },
+			  {
+				"ref": "Frigid Outskirts/FrigidOutskirts: Human Effigy x2 - inside third house/",
+				"name": "FrigidOutskirts: Human Effigy x2 - inside third house"
+			  },
+			  {
+				"ref": "Frigid Outskirts/Lud and Zallen/FrigidOutskirts: Soul of Lud, the King's Pet",
+				"name": "FrigidOutskirts: Soul of Lud, the King's Pet"
+			  },
+			  {
+				"ref": "Frigid Outskirts/Lud and Zallen/FrigidOutskirts: Soul of Zallen, the King's Pet",
+				"name": "FrigidOutskirts: Soul of Zallen, the King's Pet"
+			  },
+			  {
+				"ref": "Frigid Outskirts/FrigidOutskirts: Ring of the Living - ledge before boss/",
+				"name": "FrigidOutskirts: Ring of the Living - ledge before boss"
+			  }
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 330,
+            "y": 510,
+			"size": 15
+		  }
+		]
+	  },
+
+	  
 	  
 	  
 

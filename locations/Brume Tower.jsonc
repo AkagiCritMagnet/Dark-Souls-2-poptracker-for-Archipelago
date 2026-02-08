@@ -6,25 +6,1274 @@
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [
       {
-        "name": "Test",
+        "name": "BrumeTower: Smelter Wedge x6 - before first bridge",
         "sections":[{
           "access_rules": []
         }],
         "map_locations": [
           {
             "map": "Brume Tower",
-            "x": 50,
-            "y": 50,
-			      "size": 20
+            "x": 165,
+            "y": 401,
+			      "size": 5
           }
         ]
 
       },
-	  
+      {
+        "name": "BrumeTower: Dexterity Ring - stairs behind first Ashen Idol",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 44,
+            "y": 53,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Old Growth Balm x2 - topmost platform of pillar below Throne Floor bonfire",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 72,
+            "y": 169,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Large Soul of a Proud Knight - first ash field, ash statue",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 201,
+            "y": 195,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Twilight Herb x2 - first ash field, on corpse",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 220,
+            "y": 208,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Rouge Water - first ash field, by iron bars",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 193,
+            "y": 187,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Blackweed Balm - after first ash field, on platform",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 183,
+            "y": 163,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Scythe - after first ash field, on platform",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 184,
+            "y": 149,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Prism Stone x10 - second Ashen Idol, up the ladder",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 167,
+            "y": 127,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Titanite Slab - second Ashen Idol, chest up the ladder",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 184,
+            "y": 89,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Baneful Bird Ring - by first bonfire, on railing",
+        "sections":[{
+          "access_rules": ["Scorching Iron Scepter"]
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 76,
+            "y": 192,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "Chest above second Ashen Idol",
+        "access_rules": [],
+        "sections":[
+        {
+          "name":"BrumeTower: Bonfire Ascetic - above second Ashen Idol, chest"
+        },
+        {
+          "name":"BrumeTower: Human Effigy x2 - above second Ashen Idol, chest"
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 261,
+            "y": 166,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Lloyd's Talisman x5 - after second Ashen Idol, on corpse",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 381,
+            "y": 93,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Old Mundane Stone x2 - after second Ashen Idol, ash statue",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 341,
+            "y": 79,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Soul Vessel x2 - after second Ashen Idol, illusory wall",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 305,
+            "y": 45,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "Illusory Wall",
+        "access_rules": [],
+        "sections":[
+        {
+          "name":"BrumeTower: Old Radiant Lifegem x4 - after second Ashen Idol, illusory wall"
+        },
+        {
+          "name":"BrumeTower: Wilted Dusk Herb x4 - after second Ashen Idol, illusory wall"
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 315,
+            "y": 58,
+			      "size": 5
+          }
+        ]
+      },
+
+      {
+        "name": "BrumeTower: Goldenfruit Balm x2 - first area with fiery bulls",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 368,
+            "y": 230,
+			      "size": 5
+          }
+        ]
+      },
+      {
+        "name": "BrumeTower: Dance of Fire - room by second Ashen Idol",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 289,
+            "y": 131,
+			      "size": 5
+          }
+        ]
+      },
+      {
+        "name": "BrumeTower: Caestus - before second bonfire, chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 400,
+            "y": 324,
+			      "size": 5
+          }
+        ]
+      },
+      {
+        "name": "BrumeTower: Twinkling Titanite x3 - corridor by second bonfire, chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 350,
+            "y": 320,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Flame Quartz Ring+3 - lever room",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 359,
+            "y": 480,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Radiant Lifegem x3 - lever room, up the ladder",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 370,
+            "y": 471,
+			      "size": 5
+          }
+        ]
+
+      },
+     {
+        "name": "After Lever Room",
+        "access_rules": [],
+        "sections":[
+        {
+          "name":"BrumeTower: Dried Root - after lever room"
+        },
+        {
+          "name":"BrumeTower: Large Titanite Shard x5 - after lever room"
+        },
+        {
+          "name":"BrumeTower: Twinkling Titanite x2 - after lever room"
+        },
+        {
+          "name":"BrumeTower: Human Effigy - after lever room"
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 419,
+            "y": 521,
+			      "size": 5
+          }
+        ]
+      },
+      {
+        "name": "BrumeTower: Human Effigy - above big ash field",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 313,
+            "y": 524,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Large Soul of a Proud Knight - big ash field, ash statue",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 688,
+            "y": 435,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Soul of a Hero - big ash field, ash statue",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 696,
+            "y": 460,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Soul of a Great Hero - big ash field, ash statue",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 745,
+            "y": 446,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Raw Stone - before bridge to first side tower",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 656,
+            "y": 414,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Bonfire Ascetic x2 - top of first side tower, chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 484,
+            "y": 478,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Alonne Greatbow - first side tower, center platform",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 503,
+            "y": 533,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Silver Talisman x5 - first side tower, on stairs",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 517,
+            "y": 544,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Palestone x2 - first side tower, ash statue",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 669,
+            "y": 511,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Majestic Greatsword - bottom of first side tower, chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 676,
+            "y": 512,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Large Titanite Shard x5 - cursed area, on altar",
+        "sections":[{
+          "access_rules": ["Tower Key"]
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 581,
+            "y": 359,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Fire Snake - cursed area, chest on right",
+        "sections":[{
+          "access_rules": ["Tower Key"]
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 525,
+            "y": 331,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Old Radiant Lifegem x3 - cursed area, chest on left",
+        "sections":[{
+          "access_rules": ["Tower Key"]
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 578,
+            "y": 323,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Magic Stone x2 - after third bonfire",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 762,
+            "y": 406,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Spell Quartz Ring+3 - by third bonfire",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 743,
+            "y": 395,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Petrified Dragon Bone x8 - moving heads room, explodable wall",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 807,
+            "y": 449,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "Behind Explodable Wall",
+        "access_rules": [],
+        "sections":[
+        {
+          "name":"BrumeTower: Catarina Gauntlets - moving heads room, explodable wall"
+        },
+        {
+          "name":"BrumeTower: Catarina Leggings - moving heads room, explodable wall"
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 838,
+            "y": 415,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Dried Root - in shortcut to second side tower",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 779,
+            "y": 385,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Dried Root - second side tower, besides ladder",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 947,
+            "y": 233,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Petrified Dragon Bone x2 - second side tower, first corridor",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 891,
+            "y": 234,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "Twinkling Titanite and Recollection",
+        "access_rules": [],
+        "sections":[
+        {
+          "name":"BrumeTower: Twinkling Titanite x2 - second side tower, behind door"
+        },
+        {
+          "name":"BrumeTower: Recollection - second side tower, behind door"
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 799,
+            "y": 223,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Scorching Iron Scepter - bottom of second side tower",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 704,
+            "y": 250,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Soul of Nadalia, Bride of Ash - by first bonfire, Ashen Idol",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 46,
+            "y": 97,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Soul of Nadalia, Bride of Ash - second Ashen Idol",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 192,
+            "y": 113,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Soul of Nadalia, Bride of Ash - lever room, Ashen Idol",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 327,
+            "y": 489,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Soul of Nadalia, Bride of Ash - first side tower, Ashen Idol",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 593,
+            "y": 503,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Soul of Nadalia, Bride of Ash - cursed area, Ashen Idol",
+        "sections":[{
+          "access_rules": ["Tower Key"]
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 569,
+            "y": 345,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "Fume Knight Drops",
+        "access_rules": ["Scorching Iron Scepter"],
+        "sections":[
+        {
+          "name":"BrumeTower: Soul of the Fume Knight"
+        },
+        {
+          "name":"BrumeTower: Soul of Nadalia, Bride of Ash - end boss drop"
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 84,
+            "y": 669,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Life Ring+3 - room opposite of second bonfire, chest",
+        "sections":[{
+          "access_rules": ["Scorching Iron Scepter"]
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 312,
+            "y": 302,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Pilgrim's Spontoon - jump from elevator by second bonfire",
+        "sections":[{
+          "access_rules": ["Scorching Iron Scepter"]
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 276,
+            "y": 361,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Sorcery Clutch Ring - before end boss elevator, chest",
+        "sections":[{
+          "access_rules": ["Scorching Iron Scepter"]
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 679,
+            "y": 656,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Brightbug x2 - jump from elevator going up from third bonfire",
+        "sections":[{
+          "access_rules": ["Scorching Iron Scepter"]
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 260,
+            "y": 459,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Smelter Wedge x4 - opposite way of Alonne, upper floor",
+        "sections":[{
+          "access_rules": ["Scorching Iron Scepter"]
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 528,
+            "y": 125,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Dispelling Ring+1 - opposite way of Alonne, explodable wall",
+        "sections":[{
+          "access_rules": ["Scorching Iron Scepter"]
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 570,
+            "y": 177,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Lacerating Knife x15 - opposite way of Alonne, lower floor",
+        "sections":[{
+          "access_rules": ["Scorching Iron Scepter"]
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 449,
+            "y": 163,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Strength Ring - towards end boss, multi level room",
+        "sections":[{
+          "access_rules": ["Scorching Iron Scepter"]
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 299,
+            "y": 665,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Partizan - towards end boss, above lever room",
+        "sections":[{
+          "access_rules": ["Scorching Iron Scepter"]
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 467,
+            "y": 760,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Hollow Skin - elevator towards Alonne, illusory wall",
+        "sections":[{
+          "access_rules": ["Scorching Iron Scepter"]
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 301,
+            "y": 380,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Simpleton's Ring - room by second bonfire, outside",
+        "sections":[{
+          "access_rules": ["Scorching Iron Scepter"]
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 373,
+            "y": 281,
+			      "size": 5
+          }
+        ]
+
+      },      
+      {
+        "name": "BrumeTower: Tower Key - ash field below third bonfire",
+        "sections":[{
+          "access_rules": ["Scorching Iron Scepter"]
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 865,
+            "y": 559,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Skeptic's Spice - ash field below third bonfire",
+        "sections":[{
+          "access_rules": ["Scorching Iron Scepter"]
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 820,
+            "y": 564,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Human Effigy x2 - ash field below third bonfire",
+        "sections":[{
+          "access_rules": ["Scorching Iron Scepter"]
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 823,
+            "y": 620,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "CPR and Twinkling Titanite",
+        "access_rules": ["Scorching Iron Scepter"],
+        "sections":[
+        {
+          "name":"BrumeTower: Twinkling Titanite x2 - ash field below third bonfire"
+        },
+        {
+          "name":"BrumeTower: Charcoal Pine Resin x5 - ash field below third bonfire"
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 825,
+            "y": 598,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "Titanite Chunk and Wilted Dusk Herb",
+        "access_rules": ["Scorching Iron Scepter"],
+        "sections":[
+        {
+          "name":"BrumeTower: Wilted Dusk Herb x2 - ash field below third bonfire"
+        },
+        {
+          "name":"BrumeTower: Titanite Chunk x2 - ash field below third bonfire"
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 831,
+            "y": 572,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "Titanite Shards, Petrified Something and Broadsword",
+        "access_rules": ["Scorching Iron Scepter"],
+        "sections":[
+        {
+          "name":"BrumeTower: Broadsword - doors room"
+        },
+        {
+          "name":"BrumeTower: Petrified Something - doors room"
+        },
+        {
+          "name":"BrumeTower: Titanite Shard x10 - doors room"
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 278,
+            "y": 314,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "Flame Butterflies, Titanite Slab and 3 Titanite Chunks",
+        "access_rules": ["Scorching Iron Scepter"],
+        "sections":[
+        {
+          "name":"BrumeTower: Flame Butterfly x5 - doors room"
+        },
+        {
+          "name":"BrumeTower: Titanite Slab - doors room"
+        },
+        {
+          "name":"BrumeTower: Titanite Chunk x3 - doors room"
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 278,
+            "y": 314,
+			      "size": 5
+          }
+        ]
+
+      },            
+      {
+        "name": "BrumeTower: Old Radiant Lifegem x4 - room by second bonfire, under fiery bull",
+        "sections":[{
+          "access_rules": ["Scorching Iron Scepter"]
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 352,
+            "y": 305,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Soul of a Brave Warrior - left side before end boss, ash statue",
+        "sections":[{
+          "access_rules": ["Scorching Iron Scepter"]
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 99,
+            "y": 731,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Titanite Chunk x3 - right side before end boss, ash statue",
+        "sections":[{
+          "access_rules": ["Scorching Iron Scepter"]
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 98,
+            "y": 588,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Crown of the Old Iron King - after end boss",
+        "sections":[{
+          "access_rules": ["Scorching Iron Scepter"]
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 22,
+            "y": 689,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Large Soul of a Nameless Soldier - ash field below third bonfire, ash statue",
+        "sections":[{
+          "access_rules": ["Scorching Iron Scepter"]
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 798,
+            "y": 560,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Soul of Nadalia, Bride of Ash - left side before end boss, Ashen Idol",
+        "sections":[{
+          "access_rules": ["Scorching Iron Scepter"]
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 152,
+            "y": 682,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Soul of Nadalia, Bride of Ash - left side before end boss, Ashen Idol #2",
+        "sections":[{
+          "access_rules": ["Scorching Iron Scepter"]
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 116,
+            "y": 713,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Soul of Nadalia, Bride of Ash - right side before end boss, Ashen Idol",
+        "sections":[{
+          "access_rules": ["Scorching Iron Scepter"]
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 117,
+            "y": 613,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "BrumeTower: Soul of Nadalia, Bride of Ash - right side before end boss, Ashen Idol #2",
+        "sections":[{
+          "access_rules": ["Scorching Iron Scepter"]
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 79,
+            "y": 617,
+			      "size": 5
+          }
+        ]
+
+      },  
+      {
+        "name": "BrumeTower: Soul of Nadalia, Bride of Ash - towards Alonne, Ashen Idol",
+        "sections":[{
+          "access_rules": ["Scorching Iron Scepter","Tower Key"]
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 671,
+            "y": 171,
+			      "size": 5
+          }
+        ]
+
+      }, 
+      {
+        "name": "BrumeTower: Soul of Nadalia, Bride of Ash - doors room, Ashen Idol",
+        "sections":[{
+          "access_rules": ["Scorching Iron Scepter"]
+        }],
+        "map_locations": [
+          {
+            "map": "Brume Tower",
+            "x": 283,
+            "y": 301,
+			      "size": 5
+          }
+        ]
+
+      }                                                         
+          
     ]
-  }
-  
-  
-  
- 
+  }  
 ]

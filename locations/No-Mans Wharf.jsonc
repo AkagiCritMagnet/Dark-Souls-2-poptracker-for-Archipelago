@@ -6,25 +6,413 @@
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [
       {
-        "name": "Test",
+        "name": "Wharf: Flexile Sentry Soul",
         "sections":[{
           "access_rules": []
         }],
         "map_locations": [
           {
             "map": "No-Man's Wharf",
-            "x": 50,
-            "y": 50,
+            "x": 670,
+            "y": 214,
 			      "size": 20
           }
         ]
 
       },
-	  
+      {
+        "name": "Wharf: Soul of a Proud Knight - balcony, upstairs first building",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "No-Man's Wharf",
+            "x": 672,
+            "y": 1078,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Wharf: Titanite Shard - upstairs in first house, chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "No-Man's Wharf",
+            "x": 672,
+            "y": 1129,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Large Soul of a Lost Undead and Lifegem",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Wharf: Large Soul of a Lost Undead - shallow water, first open area"            
+          },
+          {
+            "name": "Wharf: Lifegem - shallow water, first open area"
+          }],
+        "map_locations": [
+          {
+            "map": "No-Man's Wharf",
+            "x": 608,
+            "y": 948,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Wharf: Iron Arrow x10 - house, under Pharros' contraption",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "No-Man's Wharf",
+            "x": 458,
+            "y": 766,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Large Soul of a Proud Knight and Small Smooth & Silky Stone x3",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Wharf: Large Soul of a Proud Knight - roof, house under the Pharros' contraption"            
+          },
+          {
+            "name": "Wharf: Small Smooth & Silky Stone x3 - roof, house under the Pharros' contraption"
+          }],
+        "map_locations": [
+          {
+            "map": "No-Man's Wharf",
+            "x": 498,
+            "y": 858,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Wharf: Iron Arrow x10 - house, under Pharros' contraption",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "No-Man's Wharf",
+            "x": 538,
+            "y": 1186,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Wharf: Dark Pine Resin x3 - left house, first open area",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "No-Man's Wharf",
+            "x": 631,
+            "y": 1214,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "behind shelf, house with Lucatiel",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Wharf: Ring of Life Protection - behind shelf, house with Lucatiel",
+            "visibility_rules":["$hasnot|SotFS"]       
+          },
+          {
+            "name": "Wharf: Human Effigy x3 - behind shelf, house with Lucatiel",
+            "visibility_rules": ["SotFS"] 
+          }],
+        "map_locations": [
+          {
+            "map": "No-Man's Wharf",
+            "x": 500,
+            "y": 1106,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Brigand's Set and Bandit Axe",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Wharf: Bandit Axe - house next to central courtyard, metal chest"
+          },
+          {
+            "name": "Wharf: Brigand Hood - house next to central courtyard, metal chest"
+          },
+          {
+            "name": "Wharf: Brigand Armor - house next to central courtyard, metal chest"      
+          },
+          {
+            "name": "Wharf: Brigand Gauntlets - house next to central courtyard, metal chest"     
+          },
+          {
+            "name": "Wharf: Brigand Trousers - house next to central courtyard, metal chest"     
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "No-Man's Wharf",
+            "x": 190,
+            "y": 1110,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Repair Powder and Titanite Shard",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Wharf: Repair Powder - upstairs, house next to central courtyard, chest"
+          },
+          {
+            "name": "Wharf: Titanite Shard - upstairs, house next to central courtyard, chest"
+          }],
+        "map_locations": [
+          {
+            "map": "No-Man's Wharf",
+            "x": 46,
+            "y": 1052,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Wharf: Firebomb x3 - behind illusory wall, underneath Gavlan, chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "No-Man's Wharf",
+            "x": 146,
+            "y": 901,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Wharf: Large Titanite Shard - behind illusory wall, underneath Gavlan, metal chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "No-Man's Wharf",
+            "x": 160,
+            "y": 880,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Emit force and Large Soul of a Lost Undead",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Wharf: Emit Force - high cliff ledge"
+          },
+          {
+            "name": "Wharf: Large Soul of a Lost Undead - high cliff ledge"
+          }],
+        "map_locations": [
+          {
+            "map": "No-Man's Wharf",
+            "x": 369,
+            "y": 804,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Wharf: Greatsword - cliffside dark stalkers house, metal chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "No-Man's Wharf",
+            "x": 180,
+            "y": 647,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Wharf: Silver Talisman x2 - cliffside dark stalkers house, trapped chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "No-Man's Wharf",
+            "x": 198,
+            "y": 630,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Wharf: Fire Arrow x10 - staircase, house after ship-calling bell",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "No-Man's Wharf",
+            "x": 146,
+            "y": 263,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "poison jar room, behind breakable wall, metal chest",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Wharf: Royal Soldier's Ring - poison jar room, behind breakable wall, metal chest"
+          },
+          {
+            "name": "Wharf: Large Soul of a Nameless Soldier - poison jar room, behind breakable wall"
+          },
+          {
+            "name": "Wharf: Fading Soul - poison jar room, behind breakable wall"
+          },
+          {
+            "name": "Wharf: Soul of a Nameless Soldier - poison jar room, behind breakable wall"
+          },
+          {
+            "name": "Wharf: Lifegem x3 - poison jar room, behind breakable wall"
+          }       
+        ],
+        "map_locations": [
+          {
+            "map": "No-Man's Wharf",
+            "x": 410,
+            "y": 386,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "poison jar room, metal chest",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Wharf: Estus Flask Shard - poison jar room, metal chest",
+            "visibility_rules":["$hasnot|SotFS"]
+          },
+          {
+            "name": "Wharf: Fragrant Branch of Yore - poison jar room, metal chest",
+            "visibility_rules": ["SotFS"]
+          }],
+        "map_locations": [
+          {
+            "map": "No-Man's Wharf",
+            "x": 456,
+            "y": 417,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Throwing Knife x7 and Flame Butterfly",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Wharf: Throwing Knife x7 - poison jar room, alcove behind jars"
+          },
+          {
+            "name": "Wharf: Flame Butterfly - poison jar room, alcove behind jars"
+          }],
+        "map_locations": [
+          {
+            "map": "No-Man's Wharf",
+            "x": 406,
+            "y": 472,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Lifegem x2 and Homeward Bone",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Wharf: Lifegem x2 - rooftop, after ship-calling bell"
+          },
+          {
+            "name": "Wharf: Homeward Bone - rooftop, after ship-calling bell"
+          }],
+        "map_locations": [
+          {
+            "map": "No-Man's Wharf",
+            "x": 478,
+            "y": 570,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Pyromancy Flame and Fireball",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Wharf: Pyromancy Flame - after boss, metal chest"
+          },
+          {
+            "name": "Wharf: Fireball - after boss, metal chest"
+          }],
+        "map_locations": [
+          {
+            "map": "No-Man's Wharf",
+            "x": 476,
+            "y": 74,
+			      "size": 20
+          }
+        ]
+      }     
     ]
-  }
-  
-  
-  
- 
+  }       
 ]

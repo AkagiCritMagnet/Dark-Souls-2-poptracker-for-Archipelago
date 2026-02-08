@@ -1,25 +1,124 @@
 [
   {
     "name": "Memory of Old Iron King",
-    "access_rules": [],
+    "access_rules": ["Tower Key"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [
       {
-        "name": "Test",
+        "name": "Smooth and Silky Stone x5, Human Effigy x3, Skeptics Spice",
+        "access_rules": [],
+        "sections":[
+        {
+          "name":"Alonne: Skeptic's Spice - middle of first hall"
+        },
+        {
+          "name":"Alonne: Human Effigy x3 - middle of first hall"
+        },
+        {
+          "name":"Alonne: Smooth & Silky Stone x5 - middle of first hall"
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "Memory of Old Iron King",
+            "x": 123,
+            "y": 164,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "Alonne: Rusted Coin x3 - left side of first hall",
         "sections":[{
           "access_rules": []
         }],
         "map_locations": [
           {
             "map": "Memory of Old Iron King",
-            "x": 50,
-            "y": 50,
-			      "size": 20
+            "x": 83,
+            "y": 147,
+			      "size": 5
           }
         ]
 
       },
+      {
+        "name": "Alonne: Repair Powder x3 - middle of second hall",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Memory of Old Iron King",
+            "x": 267,
+            "y": 231,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "Alonne: Radiant Lifegem x5 - middle of second hall",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Memory of Old Iron King",
+            "x": 285,
+            "y": 210,
+			      "size": 5
+          }
+        ]
+
+      },
+      {            
+        "name": "Alonne: Twinblade - below second hall, right side",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Memory of Old Iron King",
+            "x": 415,
+            "y": 232,
+			      "size": 5
+          }
+        ]
+
+      },
+      {            
+        "name": "Alonne: Soul of Sir Alonne",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Memory of Old Iron King",
+            "x": 270,
+            "y": 48,
+			      "size": 5
+          }
+        ]
+
+      },
+      {            
+        "name": "Alonne: Smelter Wedge - throne after boss",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Memory of Old Iron King",
+            "x": 344,
+            "y": 26,
+			      "size": 5
+          }
+        ]
+
+      }
 	  
     ]
   }

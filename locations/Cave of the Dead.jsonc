@@ -6,20 +6,161 @@
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [
       {
-        "name": "Test",
+        "name": "CaveOfTheDead: Petrified Something x3 - second room, chest",
         "sections":[{
           "access_rules": []
         }],
         "map_locations": [
           {
             "map": "Cave of the Dead",
-            "x": 50,
-            "y": 50,
-			      "size": 20
+            "x": 151,
+            "y": 205,
+			      "size": 5
           }
         ]
 
       },
+      {
+        "name": "CaveOfTheDead: Brightbug x2 - second room",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Cave of the Dead",
+            "x": 192,
+            "y": 135,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "CaveOfTheDead: Bonfire Ascetic x3 - second room",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Cave of the Dead",
+            "x": 130,
+            "y": 113,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "CaveOfTheDead: Alluring Skull x3 - before boss, right side",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Cave of the Dead",
+            "x": 107,
+            "y": 78,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "CaveOfTheDead: Blackweed Balm x3 - after boss, on corpse",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Cave of the Dead",
+            "x": 258,
+            "y": 72,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "CaveOfTheDead: Flower Skirt - after boss, chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Cave of the Dead",
+            "x": 270,
+            "y": 90,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "CaveOfTheDead: Dark Greatsword - middle of elevator, chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shulva Sanctum City",
+            "x": 278,
+            "y": 994,
+			      "size": 20
+          },
+          {
+            "map": "Cave of the Dead",
+            "x": 308,
+            "y": 107,
+			      "size": 5
+          }
+        ]
+
+      },   
+      {
+        "name": "CaveOfTheDead: Torch x5 - middle of elevator, on ledge",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shulva Sanctum City",
+            "x": 235,
+            "y": 994,
+			      "size": 20
+          },
+          {
+            "map": "Cave of the Dead",
+            "x": 290,
+            "y": 82,
+			      "size": 5
+          }
+        ]
+
+      },                       
+      {
+        "name": "Area Boss Drop",
+        "access_rules": [],
+        "sections":[
+        {
+          "name":"CaveOfTheDead: Twinkling Titanite x3 - boss drop"
+        },
+        {
+          "name":"CaveOfTheDead: Petrified Dragon Bone x3 - boss drop"
+        },
+        {
+          "name":"CaveOfTheDead: Titanite Slab - boss drop"
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "Cave of the Dead",
+            "x": 148,
+            "y": 51,
+			      "size": 5
+          }
+        ]
+
+      }
 	  
     ]
   }

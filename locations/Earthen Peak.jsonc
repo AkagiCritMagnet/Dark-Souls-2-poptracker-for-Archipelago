@@ -6,20 +6,455 @@
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [
       {
-        "name": "Test",
+        "name": "EarthenPeak: Covetous Demon Soul",
         "sections":[{
           "access_rules": []
         }],
         "map_locations": [
           {
             "map": "Earthen Peak",
-            "x": 50,
-            "y": 50,
+            "x": 164,
+            "y": 237,
 			      "size": 20
           }
         ]
 
       },
+      {
+        "name": "EarthenPeak: Mytha, the Baneful Queen Soul",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Earthen Peak",
+            "x": 334,
+            "y": 1227,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "poison filled corridor, lowest level",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "EarthenPeak: Estus Flask Shard - poison filled corridor, lowest level",
+            "visibility_rules": ["SotFS"]            
+          },
+          {
+            "name": "EarthenPeak: Repair Powder x2 - poison filled corridor, lowest level",
+            "visibility_rules":["$hasnot|SotFS"]
+          }],
+        "map_locations": [
+          {
+            "map": "Earthen Peak",
+            "x": 529,
+            "y": 37,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Poisonbite Ring and Soul of a Proud Knight",
+        "access_rules": ["Master Lockstone"],
+        "sections":[
+          {
+            "name": "EarthenPeak: Poisonbite Ring - behind Pharros contraption by Lucatiel, metal chest"            
+          },
+          {
+            "name": "EarthenPeak: Soul of a Proud Knight - behind Pharros contraption by Lucatiel, metal chest"
+          }],
+        "map_locations": [
+          {
+            "map": "Earthen Peak",
+            "x": 581,
+            "y": 62,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "EarthenPeak: Skeptic's Spice - narrow passage, before first boss",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Earthen Peak",
+            "x": 423,
+            "y": 202,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "EarthenPeak: Torch - side room before first boss, trapped chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Earthen Peak",
+            "x": 306,
+            "y": 126,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Soul of a Nameless Soldier and Titanite Shard x3",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "EarthenPeak: Soul of a Nameless Soldier - after jump before first boss"            
+          },
+          {
+            "name": "EarthenPeak: Titanite Shard x3 - after jump before first boss"
+          }],
+        "map_locations": [
+          {
+            "map": "Earthen Peak",
+            "x": 332,
+            "y": 34,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Heavy Crossbow and Heavy Bolt x15",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "EarthenPeak: Heavy Crossbow - after jump before first boss, metal chest"            
+          },
+          {
+            "name": "EarthenPeak: Heavy Bolt x15 - after jump before first boss, metal chest"
+          }],
+        "map_locations": [
+          {
+            "map": "Earthen Peak",
+            "x": 290,
+            "y": 62,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "EarthenPeak: Radiant Lifegem - corner, first room after Lower Earthen Peak",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Earthen Peak",
+            "x": 350,
+            "y": 460,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Broadsword and Human Effigy",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "EarthenPeak: Broadsword - broken bridge in machinery room, jump required"            
+          },
+          {
+            "name": "EarthenPeak: Human Effigy - broken bridge in machinery room, jump required"
+          }],
+        "map_locations": [
+          {
+            "map": "Earthen Peak",
+            "x": 373,
+            "y": 404,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "EarthenPeak: Pike - lower machinery room, chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Earthen Peak",
+            "x": 372,
+            "y": 460,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "EarthenPeak: Black Firebomb x3 - one floor up from Central Earthen Peak",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Earthen Peak",
+            "x": 700,
+            "y": 669,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "EarthenPeak: Manikin Mask - corner, one floor up from Central Earthen Peak",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Earthen Peak",
+            "x": 678,
+            "y": 796,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "EarthenPeak: Simpleton's Spice - ledge through wooden breakable railing, behind windmill",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Earthen Peak",
+            "x": 750,
+            "y": 798,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Pharros Lockstone and Twinkling Titanite",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "EarthenPeak: Pharros' Lockstone - ledge down Gilligan's ladder"            
+          },
+          {
+            "name": "EarthenPeak: Twinkling Titanite - ledge down Gilligan's ladder"
+          }],
+        "map_locations": [
+          {
+            "map": "Earthen Peak",
+            "x": 756,
+            "y": 620,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Soul of a Proud Knight and Divine Blessing",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "EarthenPeak: Large Soul of a Proud Knight - under raisable wooden platform"            
+          },
+          {
+            "name": "EarthenPeak: Divine Blessing - under raisable wooden platform"
+          }],
+        "map_locations": [
+          {
+            "map": "Earthen Peak",
+            "x": 651,
+            "y": 827,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "EarthenPeak: Great Heavy Soul Arrow - side room after Pate's door, metal chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Earthen Peak",
+            "x": 470,
+            "y": 743,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "EarthenPeak: Radiant Lifegem - upper jumpable gap, machinery room",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Earthen Peak",
+            "x": 487,
+            "y": 723,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Soul of a Brave Warrior and Crimson Water",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "EarthenPeak: Soul of a Brave Warrior - upper jumpable gap, machinery room, metal chest"            
+          },
+          {
+            "name": "EarthenPeak: Crimson Water - upper jumpable gap, machinery room, metal chest"
+          }],
+        "map_locations": [
+          {
+            "map": "Earthen Peak",
+            "x": 486,
+            "y": 649,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "EarthenPeak: Lightning Spear - machinery room after Pate's door, metal chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Earthen Peak",
+            "x": 816,
+            "y": 442,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "EarthenPeak: Pharros' Lockstone - poison jars room near rotating blade, trapped chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Earthen Peak",
+            "x": 776,
+            "y": 1372,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "EarthenPeak: Mirrah Shield - above raisable platform, metal chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Earthen Peak",
+            "x": 879,
+            "y": 1400,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "EarthenPeak: Flame Butterfly - poison corridor, before rotating blade room",
+        "visibility_rules": ["SotFS"],
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Earthen Peak",
+            "x": 932,
+            "y": 1373,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "EarthenPeak: Spell Quartz Ring+1 - left-side corridor illusory wall, after dart trap ladder",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Earthen Peak",
+            "x": 982,
+            "y": 1138,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "EarthenPeak: Small Smooth & Silky Stone - next to mimic, downstairs from Upper Earthen Peak",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Earthen Peak",
+            "x": 604,
+            "y": 1058,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "EarthenPeak: Petrified Something - illusory wall above second boss, chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Earthen Peak",
+            "x": 630,
+            "y": 1201,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "EarthenPeak: Poison Stone - poison pool before second boss",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Earthen Peak",
+            "x": 714,
+            "y": 1263,
+			      "size": 20
+          }
+        ]
+
+      }
+      
+      
 	  
     ]
   }

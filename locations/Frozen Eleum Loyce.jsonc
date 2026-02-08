@@ -1,30 +1,1005 @@
 [
   {
     "name": "Frozen Eleum Loyce",
-    "access_rules": [],
+    "access_rules": ["Frozen Flower"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [
       {
-        "name": "Test",
+        "name": "EleumLoyce: Radiant Lifegem x4 - first room after Outer Wall bonfire",
         "sections":[{
           "access_rules": []
         }],
         "map_locations": [
           {
             "map": "Frozen Eleum Loyce",
-            "x": 50,
-            "y": 50,
-			      "size": 20
+            "x": 423,
+            "y": 651,
+			      "size": 5
           }
         ]
 
       },
-	  
+      {
+        "name": "EleumLoyce: Goldenfruit Balm x2 - narrow corridor before town",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 461,
+            "y": 602,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "Behind ice before fountain square",
+        "access_rules": [],
+        "sections":[
+        {
+          "name":"EleumLoyce: Goldenfruit Balm x2 - behind ice before square with fountain"
+        },
+        {
+          "name":"EleumLoyce: Retainer Staff - behind ice before fountain square"
+        },
+        {
+          "name":"EleumLoyce: Dried Root - behind ice before square with fountain"
+        }
+        ],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 559,
+            "y": 550,
+			      "size": 5
+          }]
+      },
+      {
+        "name": "EleumLoyce: Torch x5 - under stairs before fountain square",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 522,
+            "y": 527,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Winged Spear - open area before town",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 492,
+            "y": 588,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Ring of the Embedded - snow ledge, narrow gap after Abandoned Dwelling bonfire",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 588,
+            "y": 604,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Repair Powder x3 - under ice in fountain square",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 646,
+            "y": 503,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Small Blue Burr x5 - small room after fountain square",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 660,
+            "y": 450,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Dark Clutch Ring - by tree, drop down from 3 chest roof, fountain square",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 612,
+            "y": 419,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Lloyd's Talisman x3 - open area after Abandoned Dwelling bonfire",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 655,
+            "y": 609,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Dark Dance - upper snow bank, open area after Abandoned Dwelling",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 683,
+            "y": 594,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "Metal chests atop town house",
+        "access_rules": [],
+        "sections":[
+        {
+          "name":"EleumLoyce: Sorcerer's Twinblade - roof, house after square with fountain, frozen metal chest"
+        },
+        {
+          "name":"EleumLoyce: Divine Blessing x2 - roof, house after square with fountain, frozen metal chest"
+        },
+        {
+          "name":"EleumLoyce: Soul Vessel - roof, house after square with fountain, frozen metal chest"
+        }
+        ],
+        "map_locations":
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 514,
+            "y": 258,
+			      "size": 5
+          }
+      },      
+      {
+        "name": "EleumLoyce: Monastery Charm x3 - drop down from 3 chest roof, fountain square",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 588,
+            "y": 466,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Elizabeth Mushroom x2 - outer wall shortcut door",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 589,
+            "y": 628,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Radiant Lifegem x5 - by the lever to Outer Wall",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 588,
+            "y": 658,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Soul Flash - behind elevator full of coffins, metal chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 503,
+            "y": 655,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "Invisible ladder chest",
+        "access_rules": [],
+        "sections":[
+        {
+          "name":"EleumLoyce: Northwarder Hood - behind elevator full of coffins, invisible ladder"
+        },
+        {
+          "name":"EleumLoyce: Northwarder Robe - behind elevator full of coffins, invisible ladder"
+        },
+        {
+          "name":"EleumLoyce: Northwarder Manchettes - behind elevator full of coffins, invisible ladder"
+        },
+        {
+          "name":"EleumLoyce: Northwarder Trousers - behind elevator full of coffins, invisible ladder"
+        }      
+      ],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 477,
+            "y": 663,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Brightbug x2 - tower opposite Expulsion Chamber bonfire, metal chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 531,
+            "y": 679,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Bonfire Ascetic x3 - tower opposite Expulsion Chamber bonfire, metal chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 521,
+            "y": 673,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Old Radiant Lifegem x7 - tower opposite Expulsion Chamber bonfire, metal chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 515,
+            "y": 662,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Titanite Slab - tower opposite Expulsion Chamber bonfire, metal chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 519,
+            "y": 650,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Splintering Lightning Spear - top floor, invisible ladder tower, metal chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 660,
+            "y": 893,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Human Effigy - lower floor, invisible ladder tower",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 720,
+            "y": 884,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Soul of a Great Hero - balcony, invisible ladder tower",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 740,
+            "y": 867,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Crimson Water - small room, stairs to the Eye of the Priestess",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 740,
+            "y": 953,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Green Blossom x8 - near invisible ladder tower",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 814,
+            "y": 915,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Elizabeth Mushroom x3 - end of main ballista bridge, frozen metal chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 772,
+            "y": 844,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Eye of the Priestess - on altar",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 784,
+            "y": 768,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Prism Stone x15 - main ballista bridge",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 873,
+            "y": 846,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "Large Soul of a Brave Warrior and Goldenfruit Balm",
+        "access_rules": [],
+        "sections":[
+        {
+          "name":"EleumLoyce: Large Soul of a Brave Warrior - main ballista bridge"
+        },
+        {
+          "name":"EleumLoyce: Goldenfruit Balm x2 - main ballista bridge"
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 942,
+            "y": 857,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Durgo's Hat - ballista bridge Pharros contraption, metal chest",
+        "sections":[{
+          "access_rules": ["Master Lockstone"]
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 980,
+            "y": 879,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Priest's Chime - balcony, multi level wooden area",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 1083,
+            "y": 748,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Ring of Resistance+1 - lower balcony, multi level wooden area",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 1120,
+            "y": 688,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Wilted Dusk Herb x3 - bottom floor, multi level wooden area, chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 1160,
+            "y": 645,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Human Effigy x2 - right side, cave opened by lighting torches",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 927,
+            "y": 594,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Bone Fist - left side, cave opened by lighting torches",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 953,
+            "y": 563,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Garrison Ward Key - in cave opened by lighting torches",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 973,
+            "y": 554,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Old Bell Helm - ledge, end of the path before Abandoned Dwelling bonfire",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 891,
+            "y": 466,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Magic Stone x2 - ledge outside Lower Garrison bonfire",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 778,
+            "y": 367,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "Goldenfruit Balm and Monastery Charm",
+        "access_rules": [],
+        "sections":[
+        {
+          "name":"EleumLoyce: Monastery Charm x2 - outside Lower Garrison elevator"
+        },
+        {
+          "name":"EleumLoyce: Goldenfruit Balm x2 - outside Lower Garrison elevator"
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 881,
+            "y": 431,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Twilight Herb x2 - before Hexer Nicolai invades behind a pillar",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 937,
+            "y": 397,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Old Growth Balm x2 - where Hexer Nicolai invades, behind pillar",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 995,
+            "y": 373,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Amber Herb x5 - by Lower Garrison shortcut door",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 959,
+            "y": 315,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "Cave behind Lower Garrison lever gate",
+        "access_rules": [],
+        "sections":[
+        {
+          "name":"EleumLoyce: Crimson Water - cave behind Lower Garrison lever gate"
+        },
+        {
+          "name":"EleumLoyce: Smooth & Silky Stone x3 - cave behind Lower Garrison lever gate"
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 1105,
+            "y": 263,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Twinkling Titanite x2 - cave behind Lower Garrison lever gate",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 1122,
+            "y": 246,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Large Club - cave behind Lower Garrison lever gate",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 1142,
+            "y": 258,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Dried Root - cave behind Lower Garrison lever gate",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 1143,
+            "y": 213,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Dried Root - cave behind Lower Garrison lever gate #2",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 1086,
+            "y": 241,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Charcoal Pine Resin x5 - by bridge after Lower Garrison cave",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 857,
+            "y": 248,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Pharros' Lockstone - by bridge after Lower Garrison cave",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 865,
+            "y": 201,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "Where Snowball Finishes",
+        "access_rules": [],
+        "sections":[
+        {
+          "name":"EleumLoyce: Azal's Staff - broken bridge, where snowball finishes"
+        },
+        {
+          "name":"EleumLoyce: Radiant Lifegem x4 - broken bridge, where snowball finishes"
+        },
+        {
+          "name":"EleumLoyce: Cracked Red Eye Orb x3 - broken bridge, where snowball finishes"
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 709,
+            "y": 282,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Vine Balm x3 - behind snowball Eleum Knight tower",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 744,
+            "y": 14,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Soul of Aava, the King's Pet",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 264,
+            "y": 389,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Silver Talisman x10 - corridor where Holy Knight Aurheim invades, metal chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 251,
+            "y": 819,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Curved Nil Greatsword - upper floor of Inner Wall, frozen metal chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 187,
+            "y": 748,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Fire Clutch Ring - Inner Wall illusory wall, up stairs, metal chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 172,
+            "y": 770,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Flame Butterfly x3 - dead end corridor, Inner Wall near Eleum Knight",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 186,
+            "y": 688,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Dried Root x2 - second room of Inner Wall",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 84,
+            "y": 567,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "Twinkling and Petrified Dragon Bone chest",
+        "access_rules": [],
+        "sections":[
+        {
+          "name":"EleumLoyce: Twinkling Titanite x3 - first room of Inner Wall, frozen metal chest"
+        },
+        {
+          "name":"EleumLoyce: Petrified Dragon Bone x3 - first room of Inner Wall, frozen metal chest"
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 198,
+            "y": 429,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Twin-headed Greatbow - Inner Wall illusory wall, metal chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 187,
+            "y": 247,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "Skeptics Spice and Alluring Skulls",
+        "access_rules": [],
+        "sections":[
+        {
+          "name":"EleumLoyce: Alluring Skull x5 - before fog gate to Inner Wall bonfire"
+        },
+        {
+          "name":"EleumLoyce: Skeptic's Spice - before fog gate to Inner Wall bonfire"
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 285,
+            "y": 519,
+			      "size": 5
+          }
+        ]
+
+      },
+      {
+        "name": "EleumLoyce: Boltstone x3 - upper level, Lower Garrison courtyard, metal chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Frozen Eleum Loyce",
+            "x": 881,
+            "y": 320,
+			      "size": 5
+          }
+        ]
+
+      }
     ]
   }
+]
   
   
   
  
-]

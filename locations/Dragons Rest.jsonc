@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Dragons Rest",
+    "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "children": [
+      {
+        "name": "DragonsSanctum: Yorgh's Ring - Sinh's arena",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Dragon's Rest",
+            "x": 118,
+            "y": 490,
+			      "size": 10
+          }
+        ]
+
+      },
+      {
+        "name": "DragonsSanctum: Crown of the Sunken King - Sinh's arena after defeating boss",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Dragon's Rest",
+            "x": 88,
+            "y": 471,
+			      "size": 10
+          }
+        ]
+
+      },
+      {
+        "name": "DragonsSanctum: Soul of Elana, Squalid Queen",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Dragon's Rest",
+            "x": 151,
+            "y": 195,
+			      "size": 10
+          }
+        ]
+
+      },
+      {
+        "name": "DragonsSanctum: Soul of Sinh, the Slumbering Dragon",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Dragon's Rest",
+            "x": 94,
+            "y": 441,
+			      "size": 10
+          }
+        ]
+
+      }
+    ]
+  }
+  
+  
+  
+ 
+]

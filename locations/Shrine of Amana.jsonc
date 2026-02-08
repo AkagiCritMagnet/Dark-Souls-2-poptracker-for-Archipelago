@@ -6,25 +6,562 @@
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [
       {
-        "name": "Test",
+        "name": "Amana: Green Blossom - behind roots before Tower of Prayer",
         "sections":[{
           "access_rules": []
         }],
         "map_locations": [
           {
             "map": "Shrine of Amana",
-            "x": 50,
-            "y": 50,
+            "x": 1245,
+            "y": 122,
 			      "size": 20
           }
         ]
-
       },
-	  
+      {
+        "name": "Wilted Dusk Herb x2 and Skeptic's Spice",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Amana: Wilted Dusk Herb x2 - cliffside path, door below Tower of Prayer, chest"     
+          },
+          {
+            "name": "Amana: Skeptic's Spice - cliffside path, door below Tower of Prayer, chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Shrine of Amana",
+            "x": 1334,
+            "y": 244,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Amana: Large Soul of a Nameless Soldier - under stairs, below Tower of Prayer",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shrine of Amana",
+            "x": 1271,
+            "y": 1356,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Flame Butterfly and Twinkling Titanite",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Amana: Flame Butterfly - cliffside path, door below Tower of Prayer"     
+          },
+          {
+            "name": "Amana: Twinkling Titanite - cliffside path, door below Tower of Prayer"
+          }],
+        "map_locations": [
+          {
+            "map": "Shrine of Amana",
+            "x": 1279,
+            "y": 1276,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Amana: Elizabeth Mushroom - immediately left after first tower, submerged chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shrine of Amana",
+            "x": 1191,
+            "y": 1336,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Amana: Human Effigy x2 - small island before first hut",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shrine of Amana",
+            "x": 1131,
+            "y": 1335,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Amana: Crimson Water x3 - behind the first hut, chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shrine of Amana",
+            "x": 1086,
+            "y": 1160,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Soul of a Lost Undead and Skeptic's Spice",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Amana: Soul of a Lost Undead - island before first fog gate"     
+          },
+          {
+            "name": "Amana: Skeptic's Spice - island before first fog gate"
+          }],
+        "map_locations": [
+          {
+            "map": "Shrine of Amana",
+            "x": 884,
+            "y": 1262,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Torch x3 and Soul of a Lost Undead",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Amana: Torch x3 - island before first fog gate"     
+          },
+          {
+            "name": "Amana: Soul of a Lost Undead - island before first fog gate #2"
+          }],
+        "map_locations": [
+          {
+            "map": "Shrine of Amana",
+            "x": 904,
+            "y": 1295,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Amana: Large Soul of a Proud Knight - island before first fog gate",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shrine of Amana",
+            "x": 874,
+            "y": 1290,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Amana: Dragon Charm - left of first fog gate, submerged chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shrine of Amana",
+            "x": 808,
+            "y": 1416,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Smooth & Silky Stone x3 and Twinkling Titanite",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Amana: Twinkling Titanite - cave before first fog gate, metal chest"     
+          },
+          {
+            "name": "Amana: Smooth & Silky Stone x3 - cave before first fog gate, metal chest"
+          }],
+        "map_locations": [
+          {
+            "map": "Shrine of Amana",
+            "x": 700,
+            "y": 1458,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Amana: Helix Halberd - submerged Pharros contraption after Crumbled Ruins bonfire, metal chest",
+        "sections":[{
+        "access_rules": ["Master Lockstone"]
+        }],
+        "map_locations": [
+          {
+            "map": "Shrine of Amana",
+            "x": 307,
+            "y": 1336,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Amana: Fire Seed - half circle structure after Crumbled Ruins bonfire",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shrine of Amana",
+            "x": 359,
+            "y": 1134,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "King's Set",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Amana: King's Crown - behind door, opens after defeating Vendrick, metal chest"     
+          },
+          {
+            "name": "Amana: King's Armor - behind door, opens after defeating Vendrick, metal chest"     
+          },
+          {
+            "name": "Amana: King's Gauntlets - behind door, opens after defeating Vendrick, metal chest"     
+          },
+          {
+            "name": "Amana: King's Leggings - behind door, opens after defeating Vendrick, metal chest"
+          }],
+        "map_locations": [
+          {
+            "map": "Shrine of Amana",
+            "x": 46,
+            "y": 1220,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Amana: Soul of the King - throne behind door, opens after defeating Vendrick",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shrine of Amana",
+            "x": 46,
+            "y": 1137,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Test",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Amana: Old Radiant Lifegem - in the second hut"     
+          },
+          {
+            "name": "Amana: Large Soul of a Proud Knight - in the second hut"     
+          },
+          {
+            "name": "Amana: Smooth & Silky Stone - in the second hut",
+            "visibility_rules": ["SotFS"]
+          }],
+        "map_locations": [
+          {
+            "map": "Shrine of Amana",
+            "x": 432,
+            "y": 926,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Amana: Estus Flask Shard - underwater walkway, right side after Crumbled Ruins bonfire",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shrine of Amana",
+            "x": 724,
+            "y": 1048,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Amana: Sunlight Blade - underwater walkway, right side after Crumbled Ruins bonfire, metal chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shrine of Amana",
+            "x": 740,
+            "y": 1032,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Amana: Fire Tempest - water's edge near second hut, submerged metal chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shrine of Amana",
+            "x": 602,
+            "y": 855,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Life Ring+2 and Singer's Dress",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Amana: Singer's Dress - cave behind roots, left after second hut"     
+          },
+          {
+            "name": "Amana: Life Ring+2 - cave behind roots, left after second hut"
+          }],
+        "map_locations": [
+          {
+            "map": "Shrine of Amana",
+            "x": 159,
+            "y": 860,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Amana: Alluring Skull x3 - rising-beam, left of second fog gate",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shrine of Amana",
+            "x": 357,
+            "y": 631,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Soul of a Hero and Divine Blessing",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Amana: Soul of a Hero - walkway right of second fog gate"     
+          },
+          {
+            "name": "Amana: Divine Blessing - walkway right of second fog gate"
+          }],
+        "map_locations": [
+          {
+            "map": "Shrine of Amana",
+            "x": 464,
+            "y": 672,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Amana: Skeptic's Spice - middle of pillars after Rhoy's Resting Place bonfire",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shrine of Amana",
+            "x": 600,
+            "y": 573,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Red Iron Twinblade and Soul of a Proud Knight",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Amana: Red Iron Twinblade - middle of pillars after Rhoy's Resting Place bonfire"     
+          },
+          {
+            "name": "Amana: Soul of a Proud Knight - middle of pillars after Rhoy's Resting Place bonfire"
+          }],
+        "map_locations": [
+          {
+            "map": "Shrine of Amana",
+            "x": 667,
+            "y": 564,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Soul of a Brave Warrior and Petrified Dragon Bone",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Amana: Soul of a Brave Warrior - middle of pillars after Rhoy's Resting Place bonfire"     
+          },
+          {
+            "name": "Amana: Petrified Dragon Bone - middle of pillars after Rhoy's Resting Place bonfire"
+          }],
+        "map_locations": [
+          {
+            "map": "Shrine of Amana",
+            "x": 638,
+            "y": 626,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Amana: Homing Crystal Soulmass - fallen pilar, circle of pillars after Rhoy's Resting Place bonfire",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shrine of Amana",
+            "x": 720,
+            "y": 530,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Large Soul of a Proud Knight and Green Blossom",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Amana: Large Soul of a Proud Knight - walkway, right side after Rhoy's Resting Place bonfire"     
+          },
+          {
+            "name": "Amana: Green Blossom - walkway, right side after Rhoy's Resting Place bonfire"
+          }],
+        "map_locations": [
+          {
+            "map": "Shrine of Amana",
+            "x": 464,
+            "y": 597,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Test",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Amana: Large Soul of a Proud Knight - torch before boss"     
+          },
+          {
+            "name": "Amana: Green Blossom - torch before boss"
+          }],
+        "map_locations": [
+          {
+            "map": "Shrine of Amana",
+            "x": 597,
+            "y": 377,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Demon of Song drops",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Amana: Demon of Song Soul - boss drop"     
+          },
+          {
+            "name": "Amana: Key to the Embedded - boss drop"
+          }],
+        "map_locations": [
+          {
+            "map": "Shrine of Amana",
+            "x": 400,
+            "y": 258,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Amana: Magic Arrow x20 - outside Rise of the Dead bonfire, submerged chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shrine of Amana",
+            "x": 771,
+            "y": 205,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Amana: Fire Seed - in cave, under stairs, tower with praying Milfanito",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shrine of Amana",
+            "x": 976,
+            "y": 367,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Amana: Bonfire Ascetic - outside tower with praying Milfanito, metal chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shrine of Amana",
+            "x": 962,
+            "y": 384,
+			      "size": 20
+          }
+        ]
+      },
+      {
+        "name": "Amana: Manslayer - outside tower with praying Milfanito, submerged metal chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Shrine of Amana",
+            "x": 953,
+            "y": 440,
+			      "size": 20
+          }
+        ]
+      }      	  
     ]
-  }
-  
-  
-  
- 
+  }     
 ]

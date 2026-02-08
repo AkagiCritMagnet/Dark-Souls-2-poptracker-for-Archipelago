@@ -1,12 +1,187 @@
 [
   {
-    "name": "Memories",
+    "name": "Memory of Jeigh",
     "access_rules": [],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [
       {
-        "name": "Test",
+        "name": "Jeigh: Bonfire Ascetic - up first stairs",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Memories",
+            "x": 795,
+            "y": 132,
+			      "size": 18
+          }
+        ]
+      },
+      {
+        "name": "Jeigh: Old Radiant Lifegem - right side before boss",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Memories",
+            "x": 1019,
+            "y": 227,
+			      "size": 18
+          }
+        ]
+      },
+      {
+        "name": "Jeigh: Fire Seed - up second stairs",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Memories",
+            "x": 1089,
+            "y": 176,
+			      "size": 18
+          }
+        ]
+      },
+      {
+        "name": "Jeigh: Giant Lord",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Jeigh: Giant Lord Soul"
+          },
+          {
+            "name": "Jeigh: Giant's Kinship - boss drop"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Memories",
+            "x": 1153,
+            "y": 185,
+			      "size": 18
+          }
+
+        ]
+      }
+	  
+    ]
+  },
+
+  {
+    "name": "Memory of Orro",
+    "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "children": [
+      {
+        "name": "Orro: Fading Soul - second floor",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Memories",
+            "x": 169,
+            "y": 801,
+			      "size": 18
+          }
+        ]
+      },
+      {
+        "name": "Orro: Soul of a Hero x3 - behind contraption",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Memories",
+            "x": 145,
+            "y": 833,
+			      "size": 18
+          }
+        ]
+      },
+      {
+        "name": "Orro: Fire Seed - behind contraption, illusory wall",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Memories",
+            "x": 144,
+            "y": 873,
+			      "size": 18
+          }
+        ]
+      },
+      {
+        "name": "Orro: Steel Set",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Orro: Steel Helm - behind contraption, illusory wall"
+          },
+          {
+            "name": "Orro: Steel Armor - behind contraption, illusory wall"
+          },
+          {
+            "name": "Orro: Steel Gauntlets - behind contraption, illusory wall"
+          },
+          {
+            "name": "Orro: Steel Leggings - behind contraption, illusory wall"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Memories",
+            "x": 165,
+            "y": 874,
+			      "size": 18
+          }
+        ]
+      },
+      {
+        "name": "Orro: Wilted Dusk Herb x3 - roof right of cortyard",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Memories",
+            "x": 289,
+            "y": 1025,
+			      "size": 18
+          },
+          {
+            "map": "Memories",
+            "x": 312,
+            "y": 804,
+			      "size": 18
+          }
+        ]
+      },
+      {
+        "name": "Orro: Soul of a Brave Warrior - bridge above courtyard",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Memories",
+            "x": 363,
+            "y": 747,
+			      "size": 18
+          }
+        ]
+      },
+      {
+        "name": "Orro: Large Soul of a Proud Knight - center of courtyard",
         "sections":[{
           "access_rules": []
         }],
@@ -15,11 +190,220 @@
             "map": "Memories",
             "x": 50,
             "y": 50,
-			      "size": 20
+			      "size": 18
           }
         ]
-
       },
+      {
+        "name": "Courtyard right corner",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Orro: Soul of a Great Hero - right corner of courtyard"
+          },
+          {
+            "name": "Orro: Soul Vessel - right corner of courtyard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Memories",
+            "x": 272,
+            "y": 1028,
+			      "size": 18
+          }
+        ]
+      },
+      {
+        "name": "Orro: Soul of a Proud Knight - scaffolding left of cortyard",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Memories",
+            "x": 333,
+            "y": 718,
+			      "size": 18
+          }
+        ]
+      },
+      {
+        "name": "Orro: Bonfire Ascetic x3 - room after dropping the crane",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Memories",
+            "x": 362,
+            "y": 1041,
+			      "size": 18
+          }
+        ]
+      },
+      {
+        "name": "Room after dropping the crane",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Orro: Grand Lance - room after dropping the crane",
+            "visibility_rules": "$hasnot|SotFS"
+          },
+          {
+            "name": "Orro: Simpleton's Spice - room after dropping the crane",
+            "visibility_rules": "SotFS"
+          },
+          {
+            "name": "Orro: Skeptic's Spice - room after dropping the crane",
+            "visibility_rules": "SotFS"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Memories",
+            "x": 438,
+            "y": 1020,
+			      "size": 18
+          }
+        ]
+      }
+	  
+    ]
+  },
+
+  {
+    "name": "Memory of Vammaar",
+    "access_rules": [],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "children": [
+      {
+        "name": "Vammar: Smooth & Silky Stone x5 - room by Drummond, chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Memories",
+            "x": 983,
+            "y": 953,
+			      "size": 18
+          }
+        ]
+      },
+      {
+        "name": "Vammar: Fire Seed - first corridor, corpse at the end",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Memories",
+            "x": 1112,
+            "y": 894,
+			      "size": 18
+          }
+        ]
+      },
+      {
+        "name": "Vammar: Large Soul of a Nameless Soldier - before battlefield area, house on left side",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Memories",
+            "x": 1024,
+            "y": 709,
+			      "size": 18
+          }
+        ]
+      },
+      {
+        "name": "Vammar: Giant Warrior Club - battlefield area, far right cornor",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Memories",
+            "x": 972,
+            "y": 578,
+			      "size": 18
+          }
+        ]
+      },
+      {
+        "name": "Battlefield left corner",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Vammar: Petrified Something - battlefield area, far left cornor",
+            "visibility_rules": "SotFS"
+          },
+          {
+            "name": "Vammar: Blossom Kite Shield - battlefield area, far left cornor",
+            "visibility_rules": "$hasnot|SotFS"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Memories",
+            "x": 946,
+            "y": 660,
+			      "size": 18
+          }
+        ]
+      },
+      {
+        "name": "Vammar: Rouge Water - left side before final stairs",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Memories",
+            "x": 925,
+            "y": 653,
+			      "size": 18
+          }
+        ]
+      },
+      {
+        "name": "Vammar: Old Radiant Lifegem - top of final stairs",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Memories",
+            "x": 935,
+            "y": 678,
+			      "size": 18
+          }
+        ]
+      },
+      {
+        "name": "Corner after final stairs",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Vammar: Soul of a Great Hero - corner after final stairs"
+          },
+          {
+            "name": "Vammar: Torch - corner after final stairs"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Memories",
+            "x": 874,
+            "y": 671,
+			      "size": 18
+          }
+        ]
+      }
 	  
     ]
   }

@@ -6,21 +6,738 @@
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [
       {
-        "name": "Test",
-        "sections":[{
-          "access_rules": []
-        }],
+        "name": "HarvestValley: Torch x2 - first poison area",
+        "visibility_rules": ["SotFS"],
+        "access_rules": [],
+        "sections":[
+          {
+
+          }
+        ],
         "map_locations": [
           {
             "map": "Harvest Valley",
-            "x": 50,
-            "y": 50,
+            "x": 629,
+            "y": 181,
 			      "size": 20
           }
         ]
 
       },
-	  
+      {
+        "name": "Small Smooth and Silky Stone and Titanite Shard",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "HarvestValley: Small Smooth & Silky Stone - first poison area"
+          },
+          {
+            "name": "HarvestValley: Titanite Shard - first poison area"
+          }],
+        "map_locations": [
+          {
+            "map": "Harvest Valley",
+            "x": 626,
+            "y": 224,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Small Smooth and Silky Stone and Fading Soul",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "HarvestValley: Fading Soul - first poison area"
+          },
+          {
+            "name": "HarvestValley: Small Smooth & Silky Stone - first poison area #2"
+          }],
+        "map_locations": [
+          {
+            "map": "Harvest Valley",
+            "x": 624,
+            "y": 152,
+			      "size": 20
+          }
+        ]
+
+      },
+	    {
+        "name": "First poison area corpse cluster",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "HarvestValley: Fading Soul - first poison area #3"
+          },
+          {
+            "name": "HarvestValley: Titanite Shard - first poison area #6",
+            "visibility_rules": ["SotFS"]
+          },
+          {
+            "name": "HarvestValley: Fading Soul - first poison area #7",
+            "visibility_rules": ["SotFS"]
+          },
+          {
+            "name": "HarvestValley: Titanite Chunk - first poison area"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Harvest Valley",
+            "x": 583,
+            "y": 79,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "First poison area corpse cluster #2",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "HarvestValley: Fading Soul - first poison area #2"
+          },
+          {
+            "name": "HarvestValley: Fading Soul - first poison area #6",
+            "visibility_rules": ["SotFS"]
+          },
+          {
+            "name": "HarvestValley: Titanite Shard - first poison area #3",
+            "visibility_rules": ["SotFS"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Harvest Valley",
+            "x": 547,
+            "y": 144,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "HarvestValley: Poison Throwing Knife x10 - first poison area",
+        "access_rules": [],
+        "sections":[
+          {
+
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Harvest Valley",
+            "x": 512,
+            "y": 182,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "First poison area corpse cluster #2",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "HarvestValley: Fading Soul - first poison area #2"
+          },
+          {
+            "name": "HarvestValley: Fading Soul - first poison area #6",
+            "visibility_rules": ["SotFS"]
+          },
+          {
+            "name": "HarvestValley: Titanite Shard - first poison area #3",
+            "visibility_rules": ["SotFS"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Harvest Valley",
+            "x": 547,
+            "y": 144,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "HarvestValley: Fading Soul - first poison area #4",
+        "access_rules": [],
+        "sections":[
+          {
+
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Harvest Valley",
+            "x": 583,
+            "y": 246,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "HarvestValley: Lifegem - ledge, before first poison area",
+        "access_rules": [],
+        "sections":[
+          {
+
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Harvest Valley",
+            "x": 546,
+            "y": 310,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "First poison area corpse cluster #3",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "HarvestValley: Fading Soul - first poison area #5"
+          },
+          {
+            "name": "HarvestValley: Titanite Shard - first poison area #2"
+          },
+          {
+            "name": "HarvestValley: Titanite Shard - first poison area #5",
+            "visibility_rules": ["SotFS"]
+          },
+          {
+            "name": "HarvestValley: Titanite Shard - first poison area #4",
+            "visibility_rules": ["SotFS"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Harvest Valley",
+            "x": 489,
+            "y": 283,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "HarvestValley: Titanite Chunk - first poison area #2",
+        "visibility_rules": ["SotFS"],
+        "access_rules": [],
+        "sections":[
+          {
+
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Harvest Valley",
+            "x": 456,
+            "y": 237,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "HarvestValley: Torch - ledge, after first poison area",
+        "access_rules": [],
+        "sections":[
+          {
+
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Harvest Valley",
+            "x": 443,
+            "y": 248,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Fire Seed and Divine Blessing, metal chest",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "HarvestValley: Fire Seed - poison area in Gavlan's cave, metal chest"
+          },
+          {
+            "name": "HarvestValley: Divine Blessing - poison area in Gavlan's cave, metal chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Harvest Valley",
+            "x": 447,
+            "y": 150,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Fragrant Branch and Torch",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "HarvestValley: Fragrant Branch of Yore - inside Gavlan's cave"
+          },
+          {
+            "name": "HarvestValley: Torch - inside Gavlan's cave"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Harvest Valley",
+            "x": 405,
+            "y": 157,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "HarvestValley: Raw Stone - inside Gavlan's cave, chest",
+        "access_rules": [],
+        "sections":[
+          {
+
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Harvest Valley",
+            "x": 390,
+            "y": 215,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "HarvestValley: Hexing Urn x10 - first ladder before lever gate",
+        "access_rules": [],
+        "sections":[
+          {
+
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Harvest Valley",
+            "x": 241,
+            "y": 169,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Behind large breakable plank wall corpse cluster",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "HarvestValley: Radiant Lifegem - large breakable plank wall, after The Mines bonfire"
+          },
+          {
+            "name": "HarvestValley: Smooth & Silky Stone - large breakable plank wall, after The Mines bonfire"
+          },
+          {
+            "name": "HarvestValley: Torch - large breakable plank wall, after The Mines bonfire"
+          },
+          {
+            "name": "HarvestValley: Soul of a Lost Undead - large breakable plank wall, after The Mines bonfire"
+          },
+          {
+            "name": "HarvestValley: Old Knight Pike - large breakable plank wall, after The Mines bonfire"
+          },
+          {
+            "name": "HarvestValley: Old Knight Greatshield - large breakable plank wall, after The Mines bonfire"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Harvest Valley",
+            "x": 913,
+            "y": 1129,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Poison Stone and Rotten Pine Resin",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "HarvestValley: Poison Stone - ladder to poison filled tunnel, metal chest"
+          },
+          {
+            "name": "HarvestValley: Rotten Pine Resin x3 - ladder to poison filled tunnel, metal chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Harvest Valley",
+            "x": 881,
+            "y": 1001,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "HarvestValley: Soul of a Nameless Soldier - poison filled tunnel, ladder after The Mines bonfire",
+        "access_rules": [],
+        "sections":[
+          {
+
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Harvest Valley",
+            "x": 850,
+            "y": 954,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "HarvestValley: Fading Soul - poison filled tunnel, hole after The Mines bonfire",
+        "access_rules": [],
+        "sections":[
+          {
+
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Harvest Valley",
+            "x": 650,
+            "y": 840,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "HarvestValley: Simpleton's Spice - poison filled tunnel, hole after The Mines bonfire",
+        "access_rules": [],
+        "sections":[
+          {
+
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Harvest Valley",
+            "x": 544,
+            "y": 893,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Human Effigy and Large Titanite Shard",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "HarvestValley: Human Effigy - small cave in second poison area"
+          },
+          {
+            "name": "HarvestValley: Large Titanite Shard - small cave in second poison area"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Harvest Valley",
+            "x": 401,
+            "y": 861,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "HarvestValley: Titanite Slab - poison area before EarthenPeak",
+        "visibility_rules": ["SotFS"],
+        "access_rules": [],
+        "sections":[
+          {
+
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Harvest Valley",
+            "x": 504,
+            "y": 654,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "HarvestValley: Titanite Shard - poison area before EarthenPeak #2",
+        "visibility_rules": ["SotFS"],        
+        "access_rules": [],
+        "sections":[
+          {
+
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Harvest Valley",
+            "x": 517,
+            "y": 742,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "HarvestValley: Titanite Shard - poison area before EarthenPeak",
+        "access_rules": [],
+        "sections":[
+          {
+
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Harvest Valley",
+            "x": 544,
+            "y": 794,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Poison area before Earthen Peak corpse cluster",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "HarvestValley: Dragon Charm - poison area before EarthenPeak",
+            "visibility_rules": ["SotFS"]
+          },
+          {
+            "name": "HarvestValley: Washing Pole - poison area before EarthenPeak",
+            "visibility_rules": ["SotFS"]
+          },
+          {
+            "name": "HarvestValley: Titanite Shard - poison area before EarthenPeak #3",
+            "visibility_rules": ["SotFS"]
+          },
+          {
+            "name": "HarvestValley: Chameleon - poison area before EarthenPeak"
+          },
+          {
+            "name": "HarvestValley: Soul of a Brave Warrior - poison area before EarthenPeak"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Harvest Valley",
+            "x": 604,
+            "y": 654,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "HarvestValley: Green Blossom x3 - middle of plank wall area, after The Mines bonfire",
+        "access_rules": [],
+        "sections":[
+          {
+
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Harvest Valley",
+            "x": 753,
+            "y": 1091,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "HarvestValley: Simpleton's Spice - behind plank wall, after The Mines bonfire",
+        "access_rules": [],
+        "sections":[
+          {
+
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Harvest Valley",
+            "x": 798,
+            "y": 1130,
+			      "size": 15
+          }
+        ]
+
+      },
+      {
+        "name": "HarvestValley: Large Titanite Shard - behind plank wall, after The Mines bonfire",
+        "access_rules": [],
+        "sections":[
+          {
+
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Harvest Valley",
+            "x": 810,
+            "y": 1116,
+			      "size": 15
+          }
+        ]
+
+      },
+      {
+        "name": "Large Soul of a Brave Warrior and Radiant Lifegem",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "HarvestValley: Large Soul of a Brave Warrior - behind plank wall, after The Mines bonfire"
+          },
+          {
+            "name": "HarvestValley: Radiant Lifegem - behind plank wall, after The Mines bonfire"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Harvest Valley",
+            "x": 681,
+            "y": 1118,
+			      "size": 15
+          }
+        ]
+
+      },
+      {
+        "name": "HarvestValley: Lifegem x5 - behind plank wall, after The Mines bonfire",
+        "access_rules": [],
+        "sections":[
+          {
+
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Harvest Valley",
+            "x": 664,
+            "y": 1101,
+			      "size": 15
+          }
+        ]
+
+      },
+      {
+        "name": "HarvestValley: Titanite Shard - behind plank wall, after The Mines bonfire",
+        "access_rules": [],
+        "sections":[
+          {
+
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Harvest Valley",
+            "x": 658,
+            "y": 1054,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "HarvestValley: Skeptic's Spice - behind plank wall, after The Mines bonfire",
+        "access_rules": [],
+        "sections":[
+          {
+
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Harvest Valley",
+            "x": 698,
+            "y": 1008,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "ledge, overlooking area after The Mines",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "HarvestValley: Fragrant Branch of Yore - ledge, overlooking area after The Mines",
+            "visibility_rules":["$hasnot|SotFS"]
+          },
+          {
+            "name": "HarvestValley: Petrified Something - ledge, overlooking area after The Mines",
+            "visibility_rules": ["SotFS"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Harvest Valley",
+            "x": 670,
+            "y": 996,
+			      "size": 20
+          }
+        ]
+        
+
+      },
+      {
+        "name": "Chloanne Shop",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "HarvestValley: Soul Appease - Chloanne shop"
+          },
+          {
+            "name": "HarvestValley: Dead Again - Chloanne shop"
+          },
+          {
+            "name": "HarvestValley: Bonfire Ascetic - Chloanne shop"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Harvest Valley",
+            "x": 658,
+            "y": 184,
+			      "size": 15
+          }
+        ]
+
+      }
     ]
   }
   

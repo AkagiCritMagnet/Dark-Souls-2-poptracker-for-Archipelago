@@ -6,6 +6,670 @@
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [
       {
+        "name": "Drangleic: Holy Water Urn x2 - behind rock towards castle",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 1028,
+            "y": 255,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Great Combustion and Fire Seed",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Drangleic: Great Combustion - right side of castle gate, chest"     
+          },
+          {
+            "name": "Drangleic: Fire Seed - right side of castle gate, chest"
+          }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 1032,
+            "y": 854,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Drangleic: Sublime Bone Dust - left side behind Wellager, chest",
+        "visibility_rules": ["SotFS"],
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 1231,
+            "y": 1044,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Drangleic: Dark Arrow x15 - after multi-door room, chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 897,
+            "y": 1034,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Drangleic: Royal Soldier's Ring+1 - multi-door room, right side third door",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 853,
+            "y": 963,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Drangleic: Mastodon Greatsword - multi-door room, right side second door",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 853,
+            "y": 992,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Drangleic: Pharros' Lockstone - multi-door room, left side second door",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 696,
+            "y": 984,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Drangleic: Faraam Helm - cave by Grandahl"     
+          },
+          {
+            "name": "Drangleic: Faraam Armor - cave by Grandahl"
+          },
+          {
+            "name": "Drangleic: Faraam Gauntlets - cave by Grandahl"     
+          },
+          {
+            "name": "Drangleic: Faraam Boots - cave by Grandahl"
+          }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 643,
+            "y": 1017,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Soul of a Hero, Old Radiant Lifegem x3 and Monastery Charm",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Drangleic: Soul of a Hero - after multi-door room, below stairs"     
+          },
+          {
+            "name": "Drangleic: Old Radiant Lifegem x3 - after multi-door room, below stairs"
+          },
+          {
+            "name": "Drangleic: Monastery Charm - after multi-door room, below stairs"
+          }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 920,
+            "y": 1068,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Drangleic: Frozen Flower - after multi-door room",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 866,
+            "y": 1058,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Drangleic: Elizabeth Mushroom - acid pool",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 830,
+            "y": 820,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Drangleic: Corrosive Urn x3 - acid pool, chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 781,
+            "y": 831,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Hunter's Blackbow and Iron Arrow x20",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Drangleic: Hunter's Blackbow - go down from hidden bonfire, chest"     
+          },
+          {
+            "name": "Drangleic: Iron Arrow x20 - go down from hidden bonfire, chest"
+          }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 849,
+            "y": 792,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Drangleic: Soul of a Brave Warrior - by hidden bonfire",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 836,
+            "y": 844,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Dart Trap Room Chest",
+        "visibility_rules": ["SotFS"],
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Drangleic: Large Soul of a Brave Warrior - dart trap room, chest"     
+          },
+          {
+            "name": "Drangleic: Twinkling Titanite - dart trap room, chest"
+          }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 752,
+            "y": 813,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Dart Trap Room",
+        "visibility_rules":["$hasnot|SotFS"],
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Drangleic: Large Soul of a Brave Warrior - dart trap room"     
+          },
+          {
+            "name": "Drangleic: Twinkling Titanite - dart trap room"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 753,
+            "y": 814,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Drangleic: Dragonrider Soul",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 462,
+            "y": 646,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Cursed Painting Room",
+        "visibility_rules": ["SotFS"],
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Drangleic: Fire Greatarrow x10 - cursed painting room"     
+          },
+          {
+            "name": "Drangleic: Destructive Greatarrow x10 - cursed painting room"
+          },
+          {
+            "name": "Drangleic: Petrified Dragon Bone - cursed painting room"     
+          },
+          {
+            "name": "Drangleic: Torch x3 - cursed painting room"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 801,
+            "y": 560,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Flame Butterfly x10 and Repair Powder x5",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Drangleic: Repair Powder x5 - rooftop shortcut room/armory"     
+          },
+          {
+            "name": "Drangleic: Flame Butterfly x10 - rooftop shortcut room/armory"
+          }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 317,
+            "y": 550,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Drangleic: Estus Flask Shard - rooftop shortcut room/armory, metal chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 350,
+            "y": 516,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Drangleic: Firestorm - large hall after elevator golem, metal chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 200,
+            "y": 876,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Caitha's Chime and Soul Greatsword",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Drangleic: Caitha's Chime - room after elevator golem, chest"     
+          },
+          {
+            "name": "Drangleic: Soul Greatsword - room after elevator golem, chest"
+          }
+],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 338,
+            "y": 809,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Drangleic: Old Knight Hammer - room after elevator golem, chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 338,
+            "y": 832,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Soul Vessel and Fire Seed",
+        "access_rules":[],
+        "sections":[
+          {
+            "name": "Drangleic: Soul Vessel - embedded room, chest"     
+          },
+          {
+            "name": "Drangleic: Fire Seed - embedded room, chest"
+          }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 556,
+            "y": 892,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Drangleic: Key to King's Passage - embedded room, chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 578,
+            "y": 866,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Drangleic: Strong Magic Shield - embedded room, chest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 534,
+            "y": 866,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Drangleic: Ring of the Dead - release locked Milfanito",
+        "sections":[{
+          "access_rules": ["Key to the Embedded"]
+        }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 556,
+            "y": 866,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Drangleic: Alluring Skull x3 - before second boss",
+        "sections":[{
+          "access_rules": ["Key to King's Passage"]
+        }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 450,
+            "y": 973,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Drangleic: Lifegem - before second boss",
+        "sections":[{
+          "access_rules": ["Key to King's Passage"]
+        }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 480,
+            "y": 1096,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Soul of a Proud Knight and Twinkling Titanite",
+        "access_rules": ["Key to King's Passage"],
+        "sections":[
+          {
+            "name": "Drangleic: Soul of a Proud Knight - before second boss"
+          },
+          {
+            "name": "Drangleic: Twinkling Titanite - before second boss"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 452,
+            "y": 1164,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Drangleic: Petrified Something - before second boss",
+        "sections":[{
+          "access_rules": ["Key to King's Passage"]
+        }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 482,
+            "y": 1194,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Test",
+        "access_rules": ["Key to King's Passage"],
+        "sections":[
+          {
+            "name": "Drangleic: Soul Bolt - after second boss, chest"     
+          },
+          {
+            "name": "Drangleic: Spell Quartz Ring+2 - after second boss, chest"     
+          },
+          {
+            "name": "Drangleic: Bonfire Ascetic x3 - after second boss, chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 499,
+            "y": 1443,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Drangleic: Looking Glass Knight Soul",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 464,
+            "y": 1353,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Test",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Drangleic: Flamberge - Wellager shop"     
+          },
+          {
+            "name": "Drangleic: Lucerne - Wellager shop"     
+          },
+          {
+            "name": "Drangleic: Black Flamestone Dagger - Wellager shop after killing second Drangleic boss"     
+          },
+          {
+            "name": "Drangleic: Yellow Quartz Longsword - Wellager shop after killing second Drangleic boss"     
+          },
+          {
+            "name": "Drangleic: Bound Hand Axe - Wellager shop after killing second Drangleic boss"     
+          },
+          {
+            "name": "Drangleic: Homunculus Mace - Wellager shop after killing second Drangleic boss"     
+          },
+          {
+            "name": "Drangleic: Transgressor's Staff - Wellager shop after killing second Drangleic boss"     
+          },
+          {
+            "name": "Drangleic: Black Flamestone Parma - Wellager shop after killing second Drangleic boss"     
+          },
+          {
+            "name": "Drangleic: Yellow Quartz Shield - Wellager shop after killing second Drangleic boss"     
+          },
+          {
+            "name": "Drangleic: Bound Wooden Shield - Wellager shop after killing second Drangleic boss"     
+          },
+          {
+            "name": "Drangleic: Homunculus Wooden Shield - Wellager shop after killing second Drangleic boss"     
+          },
+          {
+            "name": "Drangleic: Great Magic Barrier - Wellager shop"     
+          },
+          {
+            "name": "Drangleic: Bracing Knuckle Ring+1 - Wellager shop"     
+          },
+          {
+            "name": "Drangleic: Transgressor's Leather Shield - Wellager shop after killing second Drangleic boss"
+          }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 1135,
+            "y": 954,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Maughlin After LGK",
+        "access_rules": ["Key to King's Passage"],
+        "sections":[
+          {
+            "name": "Majula: Looking Glass Mask - Maughlin shop after killing second Drangleic boss"     
+          },
+          {
+            "name": "Majula: Looking Glass Armor - Maughlin shop after killing second Drangleic boss"     
+          },
+          {
+            "name": "Majula: Looking Glass Gauntlets - Maughlin shop after killing second Drangleic boss"     
+          },
+          {
+            "name": "Majula: Looking Glass Leggings - Maughlin shop after killing second Drangleic boss"
+          }],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 1019,
+            "y": 677,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
         "name": "Test",
         "sections":[{
           "access_rules": []
@@ -20,6 +684,292 @@
         ]
 
       },
+      {
+        "name": "Test",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 50,
+            "y": 50,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Test",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 50,
+            "y": 50,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Test",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 50,
+            "y": 50,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Test",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 50,
+            "y": 50,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Test",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 50,
+            "y": 50,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Test",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 50,
+            "y": 50,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Test",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 50,
+            "y": 50,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Test",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 50,
+            "y": 50,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Test",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 50,
+            "y": 50,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Test",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 50,
+            "y": 50,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Test",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 50,
+            "y": 50,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Test",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 50,
+            "y": 50,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Test",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 50,
+            "y": 50,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Test",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 50,
+            "y": 50,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Test",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 50,
+            "y": 50,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Test",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 50,
+            "y": 50,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Test",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 50,
+            "y": 50,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Test",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 50,
+            "y": 50,
+			      "size": 20
+          }
+        ]
+
+      },
+      {
+        "name": "Test",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 50,
+            "y": 50,
+			      "size": 20
+          }
+        ]
+
+      },
+      
 	  
     ]
   }
