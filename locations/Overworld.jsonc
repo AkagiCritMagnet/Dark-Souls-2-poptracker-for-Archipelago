@@ -3696,9 +3696,1117 @@
 		]
 	  },
 
-	  
-	  
-	  
+	  {
+		"name": "Forest of Fallen Giants part 1",    
+		"sections": [
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Human Effigy - from Majula, under bridge/",
+				"name": "FOFG: Human Effigy - from Majula, under bridge"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Watery Cave Corpse/FOFG: Homeward Bone - watery cave, corpse",
+				"name": "FOFG: Homeward Bone - watery cave, corpse"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Watery Cave Corpse/FOFG: Soul of a Lost Undead - watery cave, corpse",
+				"name": "FOFG: Soul of a Lost Undead - watery cave, corpse"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Lifegem - by first bonfire/",
+				"name": "FOFG: Lifegem - by first bonfire"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Plateau before large circular room/FOFG: Throwing Knife x10 - on plateau, jump before first fog gate, corpse",
+				"name": "FOFG: Throwing Knife x10 - on plateau, jump before first fog gate, corpse"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Plateau before large circular room/FOFG: Soul of a Nameless Soldier - on plateau, jump before first fog gate, corpse",
+				"name": "FOFG: Soul of a Nameless Soldier - on plateau, jump before first fog gate, corpse"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Soul of a Lost Undead - end of water stream/",
+				"name": "FOFG: Soul of a Lost Undead - end of water stream"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Broken Straight Sword - circular room before first fog gate, corpse/",
+				"name": "FOFG: Broken Straight Sword - circular room before first fog gate, corpse"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Soul of a Nameless Soldier - topmost ledge, circular room before first fog/",
+				"name": "FOFG: Soul of a Nameless Soldier - topmost ledge, circular room before first fog"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Human Effigy - circular room before first fog gate, corpse/",
+				"name": "FOFG: Human Effigy - circular room before first fog gate, corpse"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Shortsword and Soul of a Lost Undead/FOFG: Shortsword - upper ledge, circular room before first fog gate",
+				"name": "FOFG: Shortsword - upper ledge, circular room before first fog gate"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Shortsword and Soul of a Lost Undead/FOFG: Soul of a Lost Undead - upper ledge, circular room before first fog gate",
+				"name": "FOFG: Soul of a Lost Undead - upper ledge, circular room before first fog gate"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Wood Bolt x20 - behind shelf, room after first fog gate/",
+				"name": "FOFG: Wood Bolt x20 - behind shelf, room after first fog gate"
+			  }
+			  
+			  
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 280,
+            "y": 720,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Forest of Fallen Giants part 2",    
+		"sections": [
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Buckler - near rubble before ladder to Cardinal Tower, corpse/",
+				"name": "FOFG: Buckler - near rubble before ladder to Cardinal Tower, corpse"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Witching Urn x5 - corner outside Cardinal Tower/",
+				"name": "FOFG: Witching Urn x5 - corner outside Cardinal Tower"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Lifegem x3 - below Cardinal Tower front, rubbish mound by fire/",
+				"name": "FOFG: Lifegem x3 - below Cardinal Tower front, rubbish mound by fire"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Soul of a Proud Knight - salamander fireball tunnel, corpse/",
+				"name": "FOFG: Soul of a Proud Knight - salamander fireball tunnel, corpse"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Longsword - salamander fireball tunnel, metal chest/",
+				"name": "FOFG: Longsword - salamander fireball tunnel, metal chest"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Turtle Tunnel/FOFG: Hollow Soldier Helm - small tunnel outside salamander tunnel, corpse",
+				"name": "FOFG: Hollow Soldier Helm - small tunnel outside salamander tunnel, corpse"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Turtle Tunnel/FOFG: Foot Soldier Shield - small tunnel outside salamander tunnel",
+				"name": "FOFG: Foot Soldier Shield - small tunnel outside salamander tunnel"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Giant Tree Root, Cardinal Tower front/FOFG: Soul of a Lost Undead - giant tree root, Cardinal Tower front",
+				"name": "FOFG: Soul of a Lost Undead - giant tree root, Cardinal Tower front"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Giant Tree Root, Cardinal Tower front/FOFG: Torch - giant tree root, Cardinal Tower front",
+				"name": "FOFG: Torch - giant tree root, Cardinal Tower front"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Human Effigy - Cardinal Tower front, ledge near scaffolding/",
+				"name": "FOFG: Human Effigy - Cardinal Tower front, ledge near scaffolding"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/above Cardinal Tower, behind wagon/FOFG: Hand Axe - above Cardinal Tower, behind wagon",
+				"name": "FOFG: Hand Axe - above Cardinal Tower, behind wagon"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/above Cardinal Tower, behind wagon/FOFG: Radiant Lifegem - above Cardinal Tower, behind wagon",
+				"name": "FOFG: Radiant Lifegem - above Cardinal Tower, behind wagon"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Wooden Chest above Cardinal Tower/FOFG: Small Leather Shield - above second bonfire, wooden chest",
+				"name": "FOFG: Small Leather Shield - above second bonfire, wooden chest"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Wooden Chest above Cardinal Tower/FOFG: Repair Powder - above second bonfire, wooden chest",
+				"name": "FOFG: Repair Powder - above second bonfire, wooden chest"
+			  }
+			  
+			  
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 307,
+            "y": 720,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Forest of Fallen Giants part 3",    
+		"sections": [
+			  {
+				"ref": "Forest of Fallen Giants/Metal chest above Cardinal Tower/FOFG: Small White Sign Soapstone - above second bonfire, metal chest",
+				"name": "FOFG: Small White Sign Soapstone - above second bonfire, metal chest"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Metal chest above Cardinal Tower/FOFG: Estus Flask Shard - above second bonfire, metal chest",
+				"name": "FOFG: Estus Flask Shard - above second bonfire, metal chest"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Metal chest above Cardinal Tower/FOFG: Radiant Lifegem x2 - above second bonfire, metal chest",
+				"name": "FOFG: Radiant Lifegem x2 - above second bonfire, metal chest"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Divine Blessing - above second bonfire, tree branch/",
+				"name": "FOFG: Divine Blessing - above second bonfire, tree branch"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Green Blossom - behind stairs outside ballista trap room, corpse/",
+				"name": "FOFG: Green Blossom - behind stairs outside ballista trap room, corpse"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Light Crossbow - wall up ladder by Vammar tree/",
+				"name": "FOFG: Light Crossbow - wall up ladder by Vammar tree"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Soul of a Nameless Soldier and Torch/FOFG: Torch - boards above guard room over courtyard, corpse",
+				"name": "FOFG: Torch - boards above guard room over courtyard, corpse"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Soul of a Nameless Soldier and Torch/FOFG: Soul of a Nameless Soldier - boards above guard room over courtyard, corpse",
+				"name": "FOFG: Soul of a Nameless Soldier - boards above guard room over courtyard, corpse"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Mail Breaker and Infantry Helm/FOFG: Infantry Helm - Guard room over barrel courtyard, metal chest",
+				"name": "FOFG: Infantry Helm - Guard room over barrel courtyard, metal chest"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Mail Breaker and Infantry Helm/FOFG: Mail Breaker - Guard room over barrel courtyard, metal chest",
+				"name": "FOFG: Mail Breaker - Guard room over barrel courtyard, metal chest"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Large Soul of a Lost Undead - middle courtyard, behind Vammar tree/",
+				"name": "FOFG: Large Soul of a Lost Undead - middle courtyard, behind Vammar tree"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Lifegem and Homeward Bone/FOFG: Lifegem - above door leading to second boss",
+				"name": "FOFG: Lifegem - above door leading to second boss"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Lifegem and Homeward Bone/FOFG: Homeward Bone - above door leading to second boss",
+				"name": "FOFG: Homeward Bone - above door leading to second boss"
+			  }
+			  
+			  
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 334,
+            "y": 720,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Forest of Fallen Giants part 4",    
+		"sections": [
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Amber Herb x2 - seashore hall near giant sword, corpse/",
+				"name": "FOFG: Amber Herb x2 - seashore hall near giant sword, corpse"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Halberd and Soul of a Nameless Solider/FOFG: Halberd - seashore hall on huge sword",
+				"name": "FOFG: Halberd - seashore hall on huge sword"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Halberd and Soul of a Nameless Solider/FOFG: Soul of a Nameless Soldier - seashore hall on huge sword",
+				"name": "FOFG: Soul of a Nameless Soldier - seashore hall on huge sword"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Soul of a Nameless Solider and Lifegem x3/FOFG: Lifegem x3 - before second boss",
+				"name": "FOFG: Lifegem x3 - before second boss"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Soul of a Nameless Solider and Lifegem x3/FOFG: Soul of a Nameless Soldier - before second boss",
+				"name": "FOFG: Soul of a Nameless Soldier - before second boss"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Large Leather Shield and Lifegem/FOFG: Lifegem - stairs bottom near seaside fog gate and boss elevator",
+				"name": "FOFG: Lifegem - stairs bottom near seaside fog gate and boss elevator"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Large Leather Shield and Lifegem/FOFG: Large Leather Shield - stairs bottom near seaside fog gate and boss elevator",
+				"name": "FOFG: Large Leather Shield - stairs bottom near seaside fog gate and boss elevator"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Fire Arrow x10 - ledge by elevator upper level/",
+				"name": "FOFG: Fire Arrow x10 - ledge by elevator upper level"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Soul of a Lost Undead - across bridge, down ladder in Cardinal Tower/",
+				"name": "FOFG: Soul of a Lost Undead - across bridge, down ladder in Cardinal Tower"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Human Effigy - before Cale boulder path/",
+				"name": "FOFG: Human Effigy - before Cale boulder path"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Amber Herb - by Cale/",
+				"name": "FOFG: Amber Herb - by Cale"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Gate Trap Illusory Wall/FOFG: Sorcerer's Staff - gate trap, illusory wall",
+				"name": "FOFG: Sorcerer's Staff - gate trap, illusory wall"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Gate Trap Illusory Wall/FOFG: Amber Herb - gate trap, illusory wall",
+				"name": "FOFG: Amber Herb - gate trap, illusory wall"
+			  }
+			  
+			  
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 361,
+            "y": 720,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Forest of Fallen Giants part 5",    
+		"sections": [
+			  {
+				"ref": "Forest of Fallen Giants/Middle of Ballista Room/FOFG: Great Soul Arrow - middle of ballista room",
+				"name": "FOFG: Great Soul Arrow - middle of ballista room"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Middle of Ballista Room/FOFG: Large Soul of a Lost Undead - middle of ballista room",
+				"name": "FOFG: Large Soul of a Lost Undead - middle of ballista room"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Middle of Ballista Room/FOFG: Blue Wooden Shield - middle of ballista room",
+				"name": "FOFG: Blue Wooden Shield - middle of ballista room"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Titanite Shard - under ballista room, chest/",
+				"name": "FOFG: Titanite Shard - under ballista room, chest"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Side room under ballista room - hit to knock/FOFG: Life Ring - side room under ballista room",
+				"name": "FOFG: Life Ring - side room under ballista room"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Side room under ballista room - hit to knock/FOFG: Large Titanite Shard - side room under ballista room",
+				"name": "FOFG: Large Titanite Shard - side room under ballista room"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Chloranthy Ring - contraption under ballista room/",
+				"name": "FOFG: Chloranthy Ring - contraption under ballista room"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Titanite Slab - contraption under ballista room/",
+				"name": "FOFG: Titanite Slab - contraption under ballista room"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Last Giant Drops/FOFG: Soul of the Last Giant",
+				"name": "FOFG: Soul of the Last Giant"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Last Giant Drops/FOFG: Soldier Key - first boss drop",
+				"name": "FOFG: Soldier Key - first boss drop"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: White Sign Soapstone - Pate after escaping gate trap/",
+				"name": "FOFG: White Sign Soapstone - Pate after escaping gate trap"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: House Key - Cale/",
+				"name": "FOFG: House Key - Cale"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Aromatic Ooze x3 - corridor after gate trap/",
+				"name": "FOFG: Aromatic Ooze x3 - corridor after gate trap"
+			  }
+			  
+			  
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 388,
+            "y": 720,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Forest of Fallen Giants part 6",    
+		"sections": [
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Torch - tunnel to Soldier's Rest, second corpse/",
+				"name": "FOFG: Torch - tunnel to Soldier's Rest, second corpse"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Lifegem - circular room before first fog gate, corpse/",
+				"name": "FOFG: Lifegem - circular room before first fog gate, corpse"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Torch - round tower under tree root by Cardinal Tower shortcut/",
+				"name": "FOFG: Torch - round tower under tree root by Cardinal Tower shortcut"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Grand Lance - by king's door/",
+				"name": "FOFG: Grand Lance - by king's door"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Lifegem - hole in the wall, before Cardinal Tower/",
+				"name": "FOFG: Lifegem - hole in the wall, before Cardinal Tower"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Hollow Soldier Helm - Cardinal Tower upper floor, behind table/",
+				"name": "FOFG: Hollow Soldier Helm - Cardinal Tower upper floor, behind table"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/The Pursuer Drops/FOFG: Soul of the Pursuer - boss on platform near Cardinal Tower, drop",
+				"name": "FOFG: Soul of the Pursuer - boss on platform near Cardinal Tower, drop"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/The Pursuer Drops/FOFG: Ring of Blades - boss on platform near Cardinal Tower, drop",
+				"name": "FOFG: Ring of Blades - boss on platform near Cardinal Tower, drop"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Green Blossom - circular room before first fog gate, corpse/",
+				"name": "FOFG: Green Blossom - circular room before first fog gate, corpse"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Prism Stone x4 - tree above small tunnel near salamander tunnel/",
+				"name": "FOFG: Prism Stone x4 - tree above small tunnel near salamander tunnel"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Broken Straight Sword - circular room before first fog gate, corpse #2/",
+				"name": "FOFG: Broken Straight Sword - circular room before first fog gate, corpse #2"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Pursuer early encounter platform Corpse #1/FOFG: Human Effigy - Pursuer early encounter platform",
+				"name": "FOFG: Human Effigy - Pursuer early encounter platform"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Pursuer early encounter platform Corpse #1/FOFG: Lifegem x2 - Pursuer early encounter platform",
+				"name": "FOFG: Lifegem x2 - Pursuer early encounter platform"
+			  }
+			  
+			  
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 280,
+            "y": 772,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Forest of Fallen Giants part 7",    
+		"sections": [
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Torch - Pursuer early encounter platform/",
+				"name": "FOFG: Torch - Pursuer early encounter platform"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Estus Flask Shard - Pursuer early encounter platform/",
+				"name": "FOFG: Estus Flask Shard - Pursuer early encounter platform"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Repair Powder - Pursuer early encounter platform/",
+				"name": "FOFG: Repair Powder - Pursuer early encounter platform"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/The Pursuer Drops/FOFG: Soul of the Pursuer",
+				"name": "FOFG: Soul of the Pursuer"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/The Pursuer Drops/FOFG: Ring of Blades - second boss drop",
+				"name": "FOFG: Ring of Blades - second boss drop"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Ring of Restoration and Torch/FOFG: Ring of Restoration - side corridor towards king's door, chest",
+				"name": "FOFG: Ring of Restoration - side corridor towards king's door, chest"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Ring of Restoration and Torch/FOFG: Torch x3 - side corridor towards king's door, chest",
+				"name": "FOFG: Torch x3 - side corridor towards king's door, chest"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Hunter's Set and Large Soul of Proud Knight/FOFG: Large Soul of a Proud Knight - by Soldier's Rest bonfire, chest",
+				"name": "FOFG: Large Soul of a Proud Knight - by Soldier's Rest bonfire, chest"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Hunter's Set and Large Soul of Proud Knight/FOFG: Hunter's Hat - by Soldier's Rest bonfire, chest",
+				"name": "FOFG: Hunter's Hat - by Soldier's Rest bonfire, chest"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Hunter's Set and Large Soul of Proud Knight/FOFG: Leather Armor - by Soldier's Rest bonfire, chest",
+				"name": "FOFG: Leather Armor - by Soldier's Rest bonfire, chest"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Hunter's Set and Large Soul of Proud Knight/FOFG: Leather Gloves - by Soldier's Rest bonfire, chest",
+				"name": "FOFG: Leather Gloves - by Soldier's Rest bonfire, chest"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Hunter's Set and Large Soul of Proud Knight/FOFG: Leather Boots - by Soldier's Rest bonfire, chest",
+				"name": "FOFG: Leather Boots - by Soldier's Rest bonfire, chest"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Amber Herb x2 - by king's door, chest/",
+				"name": "FOFG: Amber Herb x2 - by king's door, chest"
+			  }
+			  
+			  
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 307,
+            "y": 772,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Forest of Fallen Giants part 8",    
+		"sections": [
+			  {
+				"ref": "Forest of Fallen Giants/Amber Herb and Green Blossom/FOFG: Amber Herb - portcullis near Soldier's Rest, corpse",
+				"name": "FOFG: Amber Herb - portcullis near Soldier's Rest, corpse"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Amber Herb and Green Blossom/FOFG: Green Blossom - portcullis near Soldier's Rest, corpse",
+				"name": "FOFG: Green Blossom - portcullis near Soldier's Rest, corpse"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/stone house across Soldier's Rest gap/FOFG: Bastard Sword - stone house across Soldier's Rest gap, corpse",
+				"name": "FOFG: Bastard Sword - stone house across Soldier's Rest gap, corpse"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/stone house across Soldier's Rest gap/FOFG: Human Effigy - stone house across Soldier's Rest gap, corpse",
+				"name": "FOFG: Human Effigy - stone house across Soldier's Rest gap, corpse"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Seed of a Tree of Giants - by Solider's Rest bonfire, on tree/",
+				"name": "FOFG: Seed of a Tree of Giants - by Solider's Rest bonfire, on tree"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Soul of a Nameless Solier and Cracked Red Eye Orbs/FOFG: Soul of a Nameless Soldier - up ladder across Soldier's Rest gap, corpse",
+				"name": "FOFG: Soul of a Nameless Soldier - up ladder across Soldier's Rest gap, corpse"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Soul of a Nameless Solier and Cracked Red Eye Orbs/FOFG: Cracked Red Eye Orb x3 - up ladder across Soldier's Rest gap, corpse",
+				"name": "FOFG: Cracked Red Eye Orb x3 - up ladder across Soldier's Rest gap, corpse"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Whip - by Solider's Rest bonfire, on rooftop/",
+				"name": "FOFG: Whip - by Solider's Rest bonfire, on rooftop"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Human Effigy - by Solider's Rest bonfire, on rooftop/",
+				"name": "FOFG: Human Effigy - by Solider's Rest bonfire, on rooftop"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Bastard Sword - by Solider's Rest bonfire, on rooftop/",
+				"name": "FOFG: Bastard Sword - by Solider's Rest bonfire, on rooftop"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/After King's Gate/FOFG: Twinkling Titanite x2 - after king's gate",
+				"name": "FOFG: Twinkling Titanite x2 - after king's gate"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/After King's Gate/FOFG: Fragrant Branch of Yore - after king's gate",
+				"name": "FOFG: Fragrant Branch of Yore - after king's gate"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Black Firebomb x3 and Homeward Bone/FOFG: Black Firebomb x3 - tunnel to Soldier's Rest, first corpse",
+				"name": "FOFG: Black Firebomb x3 - tunnel to Soldier's Rest, first corpse"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Black Firebomb x3 and Homeward Bone/FOFG: Homeward Bone - tunnel to Soldier's Rest, first corpse",
+				"name": "FOFG: Homeward Bone - tunnel to Soldier's Rest, first corpse"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Titanite Shard - portcullis near ruined house below Cale, corpse/",
+				"name": "FOFG: Titanite Shard - portcullis near ruined house below Cale, corpse"
+			  }
+			  
+			  
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 334,
+            "y": 772,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Forest of Fallen Giants part 9",    
+		"sections": [
+			  {
+				"ref": "Forest of Fallen Giants/Drangleic Set/FOFG: Drangleic Sword - crevasse after second boss",
+				"name": "FOFG: Drangleic Sword - crevasse after second boss"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Drangleic Set/FOFG: Drangleic Shield - crevasse after second boss",
+				"name": "FOFG: Drangleic Shield - crevasse after second boss"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Drangleic Set/FOFG: Drangleic Mail - crevasse after second boss",
+				"name": "FOFG: Drangleic Mail - crevasse after second boss"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Drangleic Set/FOFG: Drangleic Gauntlets - crevasse after second boss",
+				"name": "FOFG: Drangleic Gauntlets - crevasse after second boss"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Drangleic Set/FOFG: Drangleic Leggings - crevasse after second boss",
+				"name": "FOFG: Drangleic Leggings - crevasse after second boss"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Hawk Ring - upper fire area, second corpse/",
+				"name": "FOFG: Hawk Ring - upper fire area, second corpse"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Firedrake Stone - upper fire area, first corpse/",
+				"name": "FOFG: Firedrake Stone - upper fire area, first corpse"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Large Soul of a Proud Knight - upper fire area, third corpse/",
+				"name": "FOFG: Large Soul of a Proud Knight - upper fire area, third corpse"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Flame Quartz Ring+1 - fire pit, upper level, chest/",
+				"name": "FOFG: Flame Quartz Ring+1 - fire pit, upper level, chest"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Rebel Greatshield and Heavy Iron Key/FOFG: Rebel's Greatshield - lower fire area, second corpse",
+				"name": "FOFG: Rebel's Greatshield - lower fire area, second corpse"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Rebel Greatshield and Heavy Iron Key/FOFG: Heavy Iron Key - lower fire area, second corpse",
+				"name": "FOFG: Heavy Iron Key - lower fire area, second corpse"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/FOFG: Cracked Red Eye Orb x2 - lower fire area, first corpse/",
+				"name": "FOFG: Cracked Red Eye Orb x2 - lower fire area, first corpse"
+			  }
+			  
+			  
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 361,
+            "y": 772,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Melentia Shop",    
+		"sections": [
+			  {
+				"ref": "Forest of Fallen Giants/Melentia Shop/FOFG: Broken Straight Sword - Melentia shop/",
+				"name": "FOFG: Broken Straight Sword - Melentia shop"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Melentia Shop/FOFG: Hand Axe - Melentia shop/",
+				"name": "FOFG: Hand Axe - Melentia shop"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Melentia Shop/FOFG: Club - Melentia shop/",
+				"name": "FOFG: Club - Melentia shop"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Melentia Shop/FOFG: Caestus - Melentia shop/",
+				"name": "FOFG: Caestus - Melentia shop"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Melentia Shop/FOFG: Traveling Merchant Hat - Melentia shop",
+				"name": "FOFG: Traveling Merchant Hat - Melentia shop"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Melentia Shop/FOFG: Traveling Merchant Coat - Melentia shop",
+				"name": "FOFG: Traveling Merchant Coat - Melentia shop"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Melentia Shop/FOFG: Traveling Merchant Gloves - Melentia shop",
+				"name": "FOFG: Traveling Merchant Gloves - Melentia shop"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Melentia Shop/FOFG: Traveling Merchant Boots - Melentia shop",
+				"name": "FOFG: Traveling Merchant Boots - Melentia shop"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Melentia Shop/FOFG: Soul Arrow - Melentia shop",
+				"name": "FOFG: Soul Arrow - Melentia shop"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Melentia Shop/FOFG: Heal - Melentia shop",
+				"name": "FOFG: Heal - Melentia shop"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Melentia Shop/FOFG: Lenigrast's Key - Melentia shop",
+				"name": "FOFG: Lenigrast's Key - Melentia shop"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Melentia Shop/FOFG: Pharros' Lockstone - Melentia shop",
+				"name": "FOFG: Pharros' Lockstone - Melentia shop"
+			  },
+			  {
+				"ref": "Forest of Fallen Giants/Melentia Shop/FOFG: Fragrant Branch of Yore - Melentia shop",
+				"name": "FOFG: Fragrant Branch of Yore - Melentia shop"
+			  }
+			  
+			  
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 388,
+            "y": 772,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Shaded Woods part 1",    
+		"sections": [
+			  {
+				"ref": "Shaded Woods/ShadedWoods: Estus Flask Shard - room opposite of first bonfire/",
+				"name": "ShadedWoods: Estus Flask Shard - room opposite of first bonfire"
+			  },
+			  {
+				"ref": "Shaded Woods/ShadedWoods Above Old Akelarre bonfire/ShadedWoods: Soul of a Proud Knight - room above first bonfire",
+				"name": "ShadedWoods: Soul of a Proud Knight - room above first bonfire"
+			  },
+			  {
+				"ref": "Shaded Woods/ShadedWoods Above Old Akelarre bonfire/ShadedWoods: Human Effigy - room above first bonfire",
+				"name": "ShadedWoods: Human Effigy - room above first bonfire"
+			  },
+			  {
+				"ref": "Shaded Woods/ShadedWoods: Red Tearstone Ring - in mud, forward from Ruined Fork Road/",
+				"name": "ShadedWoods: Red Tearstone Ring - in mud, forward from Ruined Fork Road"
+			  },
+			  {
+				"ref": "Shaded Woods/ShadedWoods: Fading Soul - path to Ruined Fork Road bonfire/",
+				"name": "ShadedWoods: Fading Soul - path to Ruined Fork Road bonfire"
+			  },
+			  {
+				"ref": "Shaded Woods/ShadedWoods: Pharros' Lockstone - left ledge, path to Ruined Fork Road/",
+				"name": "ShadedWoods: Pharros' Lockstone - left ledge, path to Ruined Fork Road"
+			  },
+			  {
+				"ref": "Shaded Woods/ledge, left side of path to Shrine of Winter/ShadedWoods: Large Soul of a Proud Knight - ledge, left side of path to Shrine of Winter",
+				"name": "ShadedWoods: Large Soul of a Proud Knight - ledge, left side of path to Shrine of Winter"
+			  },
+			  {
+				"ref": "Shaded Woods/ledge, left side of path to Shrine of Winter/ShadedWoods: Ring of Life Protection - ledge, left side of path to Shrine of Winter",
+				"name": "ShadedWoods: Ring of Life Protection - ledge, left side of path to Shrine of Winter"
+			  },
+			  {
+				"ref": "Shaded Woods/ledge, left side of path to Shrine of Winter/ShadedWoods: Human Effigy - ledge, left side of path to Shrine of Winter",
+				"name": "ShadedWoods: Human Effigy - ledge, left side of path to Shrine of Winter"
+			  },
+			  {
+				"ref": "Shaded Woods/ledge, left side of path to Shrine of Winter/ShadedWoods: Twinkling Titanite x2 - ledge, left side of path to Shrine of Winter",
+				"name": "ShadedWoods: Twinkling Titanite x2 - ledge, left side of path to Shrine of Winter"
+			  },
+			  {
+				"ref": "Shaded Woods/Soul of a Proud Knight and Human Effigy/ShadedWoods: Soul of a Proud Knight - corpse just before Ruined Fork Road bonfire",
+				"name": "ShadedWoods: Soul of a Proud Knight - corpse just before Ruined Fork Road bonfire"
+			  },
+			  {
+				"ref": "Shaded Woods/Soul of a Proud Knight and Human Effigy/ShadedWoods: Human Effigy - corpse just before Ruined Fork Road bonfire",
+				"name": "ShadedWoods: Human Effigy - corpse just before Ruined Fork Road bonfire"
+			  },
+			  {
+				"ref": "Shaded Woods/ShadedWoods: Fire Seed - behind Head of Vengarl's stone circle/",
+				"name": "ShadedWoods: Fire Seed - behind Head of Vengarl's stone circle"
+			  }
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 449,
+            "y": 541,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Shaded Woods part 2",    
+		"sections": [
+			  {
+				"ref": "Shaded Woods/ShadedWoods: Lloyd's Talisman x2 - right side fog area/",
+				"name": "ShadedWoods: Lloyd's Talisman x2 - right side fog area"
+			  },
+			  {
+				"ref": "Shaded Woods/Soul of a Nameless Soldier and Radiant Lifegem/ShadedWoods: Soul of a Nameless Soldier - corpse by tree, across from Head of Vengarl's path",
+				"name": "ShadedWoods: Soul of a Nameless Soldier - corpse by tree, across from Head of Vengarl's path"
+			  },
+			  {
+				"ref": "Shaded Woods/Soul of a Nameless Soldier and Radiant Lifegem/ShadedWoods: Radiant Lifegem - corpse by tree, across from Head of Vengarl's path",
+				"name": "ShadedWoods: Radiant Lifegem - corpse by tree, across from Head of Vengarl's path"
+			  },
+			  {
+				"ref": "Shaded Woods/ShadedWoods: Large Soul of a Nameless Soldier - left fog area, large tree - right/",
+				"name": "ShadedWoods: Large Soul of a Nameless Soldier - left fog area, large tree - right"
+			  },
+			  {
+				"ref": "Shaded Woods/ShadedWoods: Chloranthy Ring+1 - fog area, far side chest/",
+				"name": "ShadedWoods: Chloranthy Ring+1 - fog area, far side chest"
+			  },
+			  {
+				"ref": "Shaded Woods/ShadedWoods: Amber Herb x3 - middle of fog area, near curse urn/",
+				"name": "ShadedWoods: Amber Herb x3 - middle of fog area, near curse urn"
+			  },
+			  {
+				"ref": "Shaded Woods/ShadedWoods: Clear Bluestone Ring+1 - fog area, middle chest by big tree/",
+				"name": "ShadedWoods: Clear Bluestone Ring+1 - fog area, middle chest by big tree"
+			  },
+			  {
+				"ref": "Shaded Woods/ShadedWoods: Old Sun Ring - fog area, right side chest/",
+				"name": "ShadedWoods: Old Sun Ring - fog area, right side chest"
+			  },
+			  {
+				"ref": "Shaded Woods/Soul of a Proud Knight and Human Effigy/ShadedWoods: Soul of a Proud Knight - corpse, before Head of Vengarl's stone circle",
+				"name": "ShadedWoods: Soul of a Proud Knight - corpse, before Head of Vengarl's stone circle"
+			  },
+			  {
+				"ref": "Shaded Woods/Soul of a Proud Knight and Human Effigy/ShadedWoods: Human Effigy - corpse, before Head of Vengarl's stone circle",
+				"name": "ShadedWoods: Human Effigy - corpse, before Head of Vengarl's stone circle"
+			  },
+			  {
+				"ref": "Shaded Woods/ShadedWoods: Homing Soulmass - chest by Grandahl/",
+				"name": "ShadedWoods: Homing Soulmass - chest by Grandahl"
+			  },
+			  {
+				"ref": "Shaded Woods/ShadedWoods: Twinkling Titanite - cave, right of door to Ornifex/",
+				"name": "ShadedWoods: Twinkling Titanite - cave, right of door to Ornifex"
+			  },
+			  {
+				"ref": "Shaded Woods/room where Ornifex is locked/ShadedWoods: Fragrant Branch of Yore - room where Ornifex is locked",
+				"name": "ShadedWoods: Fragrant Branch of Yore - room where Ornifex is locked"
+			  },
+			  {
+				"ref": "Shaded Woods/room where Ornifex is locked/ShadedWoods: Estus Flask Shard - room where Ornifex is locked",
+				"name": "ShadedWoods: Estus Flask Shard - room where Ornifex is locked"
+			  }
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 479,
+            "y": 541,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Head of Vengarl",    
+		"sections": [
+			  {
+				"ref": "Shaded Woods/Head of Vengarl/ShadedWoods: Claymore - Vengarl shop",
+				"name": "ShadedWoods: Claymore - Vengarl shop"
+			  },
+			  {
+				"ref": "Shaded Woods/Head of Vengarl/ShadedWoods: Greatsword - Vengarl shop",
+				"name": "ShadedWoods: Greatsword - Vengarl shop"
+			  },
+			  {
+				"ref": "Shaded Woods/Head of Vengarl/ShadedWoods: Red Rust Sword - Vengarl shop",
+				"name": "ShadedWoods: Red Rust Sword - Vengarl shop"
+			  },
+			  {
+				"ref": "Shaded Woods/Head of Vengarl/ShadedWoods: Red Rust Scimitar - Vengarl shop",
+				"name": "ShadedWoods: Red Rust Scimitar - Vengarl shop"
+			  },
+			  {
+				"ref": "Shaded Woods/Head of Vengarl/ShadedWoods: Red Rust Shield - Vengarl shop",
+				"name": "ShadedWoods: Red Rust Shield - Vengarl shop"
+			  },
+			  {
+				"ref": "Shaded Woods/Head of Vengarl/ShadedWoods: Magic Barrier - Vengarl shop",
+				"name": "ShadedWoods: Magic Barrier - Vengarl shop"
+			  },
+			  {
+				"ref": "Shaded Woods/Head of Vengarl/ShadedWoods: Vengarl's Helm - talk with Vengarl",
+				"name": "ShadedWoods: Vengarl's Helm - talk with Vengarl"
+			  }
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 509,
+            "y": 500,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Shaded Woods part 3",    
+		"sections": [
+			  {
+				"ref": "Shaded Woods/Soul of a Brave Warrior and Firebomb x3/ShadedWoods: Soul of a Brave Warrior - outside ledge, near corrosive puddles area exit",
+				"name": "ShadedWoods: Soul of a Brave Warrior - outside ledge, near corrosive puddles area exit"
+			  },
+			  {
+				"ref": "Shaded Woods/Soul of a Brave Warrior and Firebomb x3/ShadedWoods: Firebomb x3 - outside ledge, near corrosive puddles area exit",
+				"name": "ShadedWoods: Firebomb x3 - outside ledge, near corrosive puddles area exit"
+			  },
+			  {
+				"ref": "Shaded Woods/ShadedWoods: Radiant Lifegem - above Shaded Ruins bonfire/",
+				"name": "ShadedWoods: Radiant Lifegem - above Shaded Ruins bonfire"
+			  },
+			  {
+				"ref": "Shaded Woods/Collapsed stairs/ShadedWoods: Soul of a Brave Warrior - collapsed stairs in right tower before boss",
+				"name": "ShadedWoods: Soul of a Brave Warrior - collapsed stairs in right tower before boss"
+			  },
+			  {
+				"ref": "Shaded Woods/Collapsed stairs/ShadedWoods: Skeptic's Spice - collapsed stairs in right tower before boss",
+				"name": "ShadedWoods: Skeptic's Spice - collapsed stairs in right tower before boss"
+			  },
+			  {
+				"ref": "Shaded Woods/ShadedWoods: Lifegem - near big collapsing floor, corpse/",
+				"name": "ShadedWoods: Lifegem - near big collapsing floor, corpse"
+			  },
+			  {
+				"ref": "Shaded Woods/Soul of a Brave Warrior and Pharros' Lockstone/ShadedWoods: Soul of a Brave Warrior - lower floor, building leading to Manscorpion Tark",
+				"name": "ShadedWoods: Soul of a Brave Warrior - lower floor, building leading to Manscorpion Tark"
+			  },
+			  {
+				"ref": "Shaded Woods/Soul of a Brave Warrior and Pharros' Lockstone/ShadedWoods: Pharros' Lockstone - lower floor, building leading to Manscorpion Tark",
+				"name": "ShadedWoods: Pharros' Lockstone - lower floor, building leading to Manscorpion Tark"
+			  },
+			  {
+				"ref": "Shaded Woods/Pharros' Lockstone and Soul of a Brave Warrior/ShadedWoods: Soul of a Brave Warrior - 2nd floor, building forward from bonfire bridge",
+				"name": "ShadedWoods: Soul of a Brave Warrior - 2nd floor, building forward from bonfire bridge"
+			  },
+			  {
+				"ref": "Shaded Woods/Pharros' Lockstone and Soul of a Brave Warrior/ShadedWoods: Pharros' Lockstone - 2nd floor, building forward from bonfire bridge",
+				"name": "ShadedWoods: Pharros' Lockstone - 2nd floor, building forward from bonfire bridge"
+			  },
+			  {
+				"ref": "Shaded Woods/statue-blocked metal chest, left from bonfire bridge/ShadedWoods: Repair - statue-blocked metal chest, left from bonfire bridge",
+				"name": "ShadedWoods: Repair - statue-blocked metal chest, left from bonfire bridge"
+			  },
+			  {
+				"ref": "Shaded Woods/statue-blocked metal chest, left from bonfire bridge/ShadedWoods: Human Effigy x3 - statue-blocked metal chest, left from bonfire bridge",
+				"name": "ShadedWoods: Human Effigy x3 - statue-blocked metal chest, left from bonfire bridge"
+			  },
+			  {
+				"ref": "Shaded Woods/statue-blocked metal chest, left from bonfire bridge/ShadedWoods: Bleeding Serum x3 - statue-blocked metal chest, left from bonfire bridge",
+				"name": "ShadedWoods: Bleeding Serum x3 - statue-blocked metal chest, left from bonfire bridge"
+			  }
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 509,
+            "y": 541,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Shaded Woods part 4",    
+		"sections": [
+			  {
+				"ref": "Shaded Woods/chest, left from bonfire bridge/ShadedWoods: Human Effigy x3 - chest, left from bonfire bridge",
+				"name": "ShadedWoods: Human Effigy x3 - chest, left from bonfire bridge"
+			  },
+			  {
+				"ref": "Shaded Woods/chest, left from bonfire bridge/ShadedWoods: Bleeding Serum x3 - chest, left from bonfire bridge",
+				"name": "ShadedWoods: Bleeding Serum x3 - chest, left from bonfire bridge"
+			  },
+			  {
+				"ref": "Shaded Woods/Lion Mage Set and Fragrant Branch/ShadedWoods: Fragrant Branch of Yore - metal chest blocked by statue near boss path",
+				"name": "ShadedWoods: Fragrant Branch of Yore - metal chest blocked by statue near boss path"
+			  },
+			  {
+				"ref": "Shaded Woods/Lion Mage Set and Fragrant Branch/ShadedWoods: Lion Mage Robe - metal chest blocked by statue near boss path",
+				"name": "ShadedWoods: Lion Mage Robe - metal chest blocked by statue near boss path"
+			  },
+			  {
+				"ref": "Shaded Woods/Lion Mage Set and Fragrant Branch/ShadedWoods: Lion Mage Cuffs - metal chest blocked by statue near boss path",
+				"name": "ShadedWoods: Lion Mage Cuffs - metal chest blocked by statue near boss path"
+			  },
+			  {
+				"ref": "Shaded Woods/Lion Mage Set and Fragrant Branch/ShadedWoods: Lion Mage Skirt - metal chest blocked by statue near boss path",
+				"name": "ShadedWoods: Lion Mage Skirt - metal chest blocked by statue near boss path"
+			  },
+			  {
+				"ref": "Shaded Woods/Petrified Dragon Bone and Titanite Chunk/ShadedWoods: Titanite Chunk - after third bonfire, chest above",
+				"name": "ShadedWoods: Titanite Chunk - after third bonfire, chest above"
+			  },
+			  {
+				"ref": "Shaded Woods/Petrified Dragon Bone and Titanite Chunk/ShadedWoods: Petrified Dragon Bone - after third bonfire, chest above",
+				"name": "ShadedWoods: Petrified Dragon Bone - after third bonfire, chest above"
+			  },
+			  {
+				"ref": "Shaded Woods/ShadedWoods: Magic Bolt x10 - after third bonfire, chest below/",
+				"name": "ShadedWoods: Magic Bolt x10 - after third bonfire, chest below"
+			  },
+			  {
+				"ref": "Shaded Woods/ShadedWoods: Black Knight Halberd - metal chest under Shaded Ruins bonfire/",
+				"name": "ShadedWoods: Black Knight Halberd - metal chest under Shaded Ruins bonfire"
+			  },
+			  {
+				"ref": "Shaded Woods/ruined building near statue, jump out window by bonfire/ShadedWoods: Soul of a Brave Warrior - ruined building near statue, jump out window by bonfire",
+				"name": "ShadedWoods: Soul of a Brave Warrior - ruined building near statue, jump out window by bonfire"
+			  },
+			  {
+				"ref": "Shaded Woods/ruined building near statue, jump out window by bonfire/ShadedWoods: Twilight Herb - ruined building near statue, jump out window by bonfire",
+				"name": "ShadedWoods: Twilight Herb - ruined building near statue, jump out window by bonfire"
+			  },
+			  {
+				"ref": "Shaded Woods/ruined building near statue, jump out window by bonfire/ShadedWoods: Sublime Bone Dust - ruined building near statue, jump out window by bonfire",
+				"name": "ShadedWoods: Sublime Bone Dust - ruined building near statue, jump out window by bonfire"
+			  }
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 539,
+            "y": 541,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Shaded Woods part 5",    
+		"sections": [
+			  {
+				"ref": "Shaded Woods/ShadedWoods: Flame Butterfly - on tree in boss arena/",
+				"name": "ShadedWoods: Flame Butterfly - on tree in boss arena"
+			  },
+			  {
+				"ref": "Shaded Woods/ShadedWoods: Fang Key - petrified enemy by Shaded Ruins bonfire, drop/",
+				"name": "ShadedWoods: Fang Key - petrified enemy by Shaded Ruins bonfire, drop"
+			  },
+			  {
+				"ref": "Shaded Woods/ShadedWoods: Torch - passage past Manscorpion Tark/",
+				"name": "ShadedWoods: Torch - passage past Manscorpion Tark"
+			  },
+			  {
+				"ref": "Shaded Woods/Flame Butterfly and Torch x3/ShadedWoods: Flame Butterfly - left of building leading to Manscorpion Tark",
+				"name": "ShadedWoods: Flame Butterfly - left of building leading to Manscorpion Tark"
+			  },
+			  {
+				"ref": "Shaded Woods/Flame Butterfly and Torch x3/ShadedWoods: Torch x3 - left of building leading to Manscorpion Tark",
+				"name": "ShadedWoods: Torch x3 - left of building leading to Manscorpion Tark"
+			  },
+			  {
+				"ref": "Shaded Woods/ShadedWoods: Fragrant Branch of Yore - Tark after killing zone boss/",
+				"name": "ShadedWoods: Fragrant Branch of Yore - Tark after killing zone boss"
+			  },
+			  {
+				"ref": "Shaded Woods/ShadedWoods: Scythe - chest above Tark/",
+				"name": "ShadedWoods: Scythe - chest above Tark"
+			  },
+			  {
+				"ref": "Shaded Woods/ShadedWoods: Scorpioness Najka Soul/",
+				"name": "ShadedWoods: Scorpioness Najka Soul"
+			  },
+			  {
+				"ref": "Shaded Woods/Dragonslayer's Crescent Axe and Golden Falcon Shield/ShadedWoods: Dragonslayer's Crescent Axe - ruined gate just before Shrine of Winter",
+				"name": "ShadedWoods: Dragonslayer's Crescent Axe - ruined gate just before Shrine of Winter"
+			  },
+			  {
+				"ref": "Shaded Woods/Dragonslayer's Crescent Axe and Golden Falcon Shield/ShadedWoods: Golden Falcon Shield - ruined gate just before Shrine of Winter",
+				"name": "ShadedWoods: Golden Falcon Shield - ruined gate just before Shrine of Winter"
+			  },
+			  {
+				"ref": "Shaded Woods/behind ruined gate, right after Shrine of Winter/ShadedWoods: Repair - behind ruined gate, right after Shrine of Winter",
+				"name": "ShadedWoods: Repair - behind ruined gate, right after Shrine of Winter"
+			  },
+			  {
+				"ref": "Shaded Woods/behind ruined gate, right after Shrine of Winter/ShadedWoods: Soul of a Hero - behind ruined gate, right after Shrine of Winter",
+				"name": "ShadedWoods: Soul of a Hero - behind ruined gate, right after Shrine of Winter"
+			  },
+			  {
+				"ref": "Shaded Woods/behind ruined gate, right after Shrine of Winter/ShadedWoods: Large Soul of a Lost Undead - behind ruined gate, right after Shrine of Winter",
+				"name": "ShadedWoods: Large Soul of a Lost Undead - behind ruined gate, right after Shrine of Winter"
+			  },
+			  {
+				"ref": "Shaded Woods/ShadedWoods: Divine Blessing - path after Shrine of Winter/",
+				"name": "ShadedWoods: Divine Blessing - path after Shrine of Winter"
+			  },
+			  {
+				"ref": "Shaded Woods/Large Soul of a Nameless Soldier and Human Effigy/ShadedWoods: Large Soul of a Nameless Soldier - wall along path after Shrine of Winter",
+				"name": "ShadedWoods: Large Soul of a Nameless Soldier - wall along path after Shrine of Winter"
+			  },
+			  {
+				"ref": "Shaded Woods/Large Soul of a Nameless Soldier and Human Effigy/ShadedWoods: Human Effigy - wall along path after Shrine of Winter",
+				"name": "ShadedWoods: Human Effigy - wall along path after Shrine of Winter"
+			  }
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 569,
+            "y": 541,
+			"size": 15
+		  }
+		]
+	  },
 
 	  
 	]

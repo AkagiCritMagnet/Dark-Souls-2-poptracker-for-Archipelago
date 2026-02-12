@@ -123,7 +123,7 @@
 
       },
       {
-        "name": "Soul of a Proud Knight and Human Effigy",
+        "name": "Corpse before Ruined Fork Road bonfire",
         "visibility_rules":["SotFS"],
         "access_rules": [],
         "sections":[
@@ -269,7 +269,7 @@
 
       },
       {
-        "name": "Soul of a Proud Knight and Human Effigy",
+        "name": "Corpse before Head of Vengarl",
         "access_rules": [],
         "sections":[
           {
@@ -411,7 +411,7 @@
 
       },
       {
-        "name": "",
+        "name": "Collapsed stairs",
         "access_rules": [],
         "sections":[
           {

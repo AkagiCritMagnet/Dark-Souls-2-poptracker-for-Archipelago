@@ -138,32 +138,6 @@
 
       },
       {
-        "name": "First poison area corpse cluster #2",
-        "access_rules": [],
-        "sections":[
-          {
-            "name": "HarvestValley: Fading Soul - first poison area #2"
-          },
-          {
-            "name": "HarvestValley: Fading Soul - first poison area #6",
-            "visibility_rules": ["SotFS"]
-          },
-          {
-            "name": "HarvestValley: Titanite Shard - first poison area #3",
-            "visibility_rules": ["SotFS"]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Harvest Valley",
-            "x": 547,
-            "y": 144,
-			      "size": 20
-          }
-        ]
-
-      },
-      {
         "name": "HarvestValley: Fading Soul - first poison area #4",
         "access_rules": [],
         "sections":[

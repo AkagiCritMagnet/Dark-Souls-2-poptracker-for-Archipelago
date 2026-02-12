@@ -22,6 +22,12 @@
             "x": 576,
             "y": 1093,
 			      "size": 20
+          },
+          {
+            "map": "Majula",
+            "x": 1217,
+            "y": 1430,
+			      "size": 20
           }
         ]
       },
@@ -779,6 +785,12 @@
             "x": 573,
             "y": 1059,
 			      "size": 20
+          },
+          {
+            "map": "Majula",
+            "x": 1227,
+            "y": 1370,
+			      "size": 20
           }
         ]
 
@@ -892,7 +904,7 @@
 
       },
       {
-        "name": "The Pursuer Drops",
+        "name": "The Pursuer Drops on platform",
          "access_rules": [],
         "sections":[
         {
