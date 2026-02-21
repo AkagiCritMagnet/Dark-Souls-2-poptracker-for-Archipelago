@@ -1,7 +1,7 @@
 [
   {
     "name": "Grave of Saints",
-    "access_rules": [],
+    "access_rules": ["@The Pit"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [

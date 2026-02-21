@@ -1,4 +1,23 @@
 [
+
+  {
+    "name": "Estus Flask Shards",
+    "type": "consumable",
+    "img": "images/items/EstusFlaskShard.png",
+    "codes": "Estus Flask Shards",
+	  "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "max_quantity": 12
+  },
+  {
+    "name": "Sublime Bone Dusts",
+    "type": "consumable",
+    "img": "images/items/SublimeBoneDust.png",
+    "codes": "Sublime Bone Dusts",
+	  "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "max_quantity": 5
+  },
   {
     "name": "Flying Feline Boots",
     "type": "toggle",
@@ -96,6 +115,12 @@
     "codes": "Tseldora Den Key"
   },
   {
+    "name": "Key to the Embedded",
+    "type": "toggle",
+	  "img": "images/items/KeytotheEmbedded.png",
+    "codes": "Key to the Embedded"
+  },
+  {
     "name": "Undead Lockaway Key",
     "type": "toggle",
     "img": "images/items/UndeadLockawayKey.png",
@@ -157,9 +182,12 @@
   },
   {
     "name": "Soul of a Giant",
-    "type": "toggle",
+    "type": "consumable",
     "img": "images/items/SoulofaGiant.png",
-    "codes": "Soul of a Giant"
+    "codes": "Soul of a Giant",
+	  "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "max_quantity": 5
   },
   {
     "name": "Ladder Miniature",
@@ -207,10 +235,10 @@
     "max_quantity": 11
   },
   {
-    "name": "Eye of the Priestress",
+    "name": "Eye of the Priestess",
     "type": "toggle",
 	  "img": "images/items/EyeofthePriestress.png",
-    "codes": "Eye of the Priestress"
+    "codes": "Eye of the Priestess"
   },
   {
     "name": "Token of Fidelity",
@@ -273,28 +301,28 @@
     "codes": "Statue near Black Knight Halberd"
   },
   {
-    "name": "Statue Blocking the Chest in SR",
+    "name": "Statue Blocking the Chest in Shaded Ruins",
     "type": "toggle",
 	  "img": "images/items/FragrantBranchofYore.png",
-    "codes": "Statue Blocking the Chest in SR"
+    "codes": "Statue Blocking the Chest in Shaded Ruins"
   },
   {
-    "name": "Lion Mage Set Statue in SR",
+    "name": "Lion Mage Set Statue in Shaded Ruins",
     "type": "toggle",
 	  "img": "images/items/FragrantBranchofYore.png",
-    "codes": "Lion Mage Set Statue in SR"
+    "codes": "Lion Mage Set Statue in Shaded Ruins"
   },
   {
-    "name": "Fang Key Statue in SR",
+    "name": "Fang Key Statue in Shaded Ruins",
     "type": "toggle",
 	  "img": "images/items/FragrantBranchofYore.png",
-    "codes": "Fang Key Statue in SR"
+    "codes": "Fang Key Statue in Shaded Ruins"
   },
   {
-    "name": "Warlock Mask Statue in SR",
+    "name": "Warlock Mask Statue in Shaded Ruins",
     "type": "toggle",
 	  "img": "images/items/FragrantBranchofYore.png",
-    "codes": "Warlock Mask Statue in SR"
+    "codes": "Warlock Mask Statue in Shaded Ruins"
   },
   {
     "name": "Milfanito Entrance Statue",

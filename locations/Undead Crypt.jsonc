@@ -1,7 +1,7 @@
 [
   {
     "name": "Undead Crypt",
-    "access_rules": [],
+    "access_rules": ["@Shrine of Amana"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [
@@ -245,7 +245,7 @@
       },
       {
         "name": "Pharro behind illusory wall",
-        "access_rules": [],
+        "access_rules": ["Master Lockstone"],
         "sections":[
           {
             "name": "Crypt: Olenford's Staff - Pharros contraption behind illusory wall, third graveyard room, metal chest"     
@@ -517,16 +517,20 @@
         "access_rules": [],
         "sections":[
           {
-            "name": "Crypt: Darkdrift - Agdayne after King's Ring"     
+            "name": "Crypt: Darkdrift - Agdayne after King's Ring",
+            "access_rules": ["King's Ring"]    
           },
           {
-            "name": "Crypt: Agdayne's Black Robe - Agdayne after King's Ring"     
+            "name": "Crypt: Agdayne's Black Robe - Agdayne after King's Ring",
+            "access_rules": ["King's Ring"]     
           },
           {
-            "name": "Crypt: Agdayne's Cuffs - Agdayne after King's Ring"     
+            "name": "Crypt: Agdayne's Cuffs - Agdayne after King's Ring",
+            "access_rules": ["King's Ring"]     
           },
           {
-            "name": "Crypt: Agdayne's Kilt - Agdayne after King's Ring"     
+            "name": "Crypt: Agdayne's Kilt - Agdayne after King's Ring",
+            "access_rules": ["King's Ring"]     
           },
           {
             "name": "Crypt: Soul Spear - Agdayne shop"     

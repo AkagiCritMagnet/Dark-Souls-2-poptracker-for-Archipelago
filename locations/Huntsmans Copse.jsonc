@@ -1,7 +1,7 @@
 [
   {
     "name": "Huntsmans Copse",
-    "access_rules": ["Rotunda Lockstone"],
+    "access_rules": ["@Majula, Rotunda Lockstone"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [
@@ -439,8 +439,8 @@
       },
       {
         "name": "Copse: Skeleton Lord's Soul",
+        "access_rules": ["Undead Lockaway Key, ^$canFightSkeletonLords"],
         "sections":[{
-          "access_rules": []
         }],
         "map_locations": [
           {

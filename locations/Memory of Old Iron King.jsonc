@@ -1,7 +1,8 @@
 [
   {
     "name": "Memory of Old Iron King",
-    "access_rules": ["Tower Key"],
+    "access_rules": ["@Brume Tower, Ashen Mist Heart, Tower Key"],
+    "visibility_rules": ["DLC 2"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [

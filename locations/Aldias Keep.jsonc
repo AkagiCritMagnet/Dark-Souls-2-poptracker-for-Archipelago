@@ -1,14 +1,14 @@
 [
   {
     "name": "Aldia's Keep",
-    "access_rules": [],
+    "access_rules": ["@Shaded Woods, King's Ring, ^$canFightAldiasKeep"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [
       {
         "name": "AldiasKeep: Fragrant Branch of Yore - locked side room, enemy drop",
         "sections":[{
-          "access_rules": [],
+          "access_rules": ["Aldia Key"],
           "visibility_rules": ["SotFS"]
         }],
         "map_locations": [
@@ -166,7 +166,7 @@
       {
         "name": "AldiasKeep: Large Soul of a Brave Warrior - locked side room, behind barrel",
         "sections":[{
-          "access_rules": [],
+          "access_rules": ["Aldia Key"],
           "visibility_rules": ["SotFS"]
         }],
         "map_locations": [
@@ -316,7 +316,7 @@
       {
         "name": "AldiasKeep: Soul of a Proud Knight - locked side room, on table",
         "sections":[{
-          "access_rules": []
+          "access_rules": ["Aldia Key"]
         }],
         "map_locations": [
           {

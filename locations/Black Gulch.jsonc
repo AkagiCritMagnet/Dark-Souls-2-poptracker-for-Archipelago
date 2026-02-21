@@ -1,7 +1,7 @@
 [
   {
     "name": "Black Gulch",
-    "access_rules": [],
+    "access_rules": ["@The Gutter"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [
@@ -134,7 +134,7 @@
       {
         "name": "Gulch: Pharros' Lockstone - by second bonfire",
         "sections":[{
-          "access_rules": []
+          "access_rules": ["Statue in Black Gulch"]
         }],
         "map_locations": [
           {

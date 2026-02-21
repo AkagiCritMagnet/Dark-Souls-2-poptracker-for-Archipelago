@@ -1,7 +1,7 @@
 [
   {
     "name": "Brightstone Cove Tseldora",
-    "access_rules": [],
+    "access_rules": ["@Doors of Pharros, ^$canFightTseldora"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [
@@ -319,9 +319,6 @@
           },
           {
             "name": "Tseldora: Cursebite Ring - Cromwell shop"
-          },
-          {
-            "name": "Tseldora: White Priest Skirt - Cromwell shop"         
           }],
         "map_locations": [
           {
@@ -555,7 +552,7 @@
 
       },
       {
-        "name": "Test",
+        "name": "Ornifex shop",
         "access_rules": ["Fang Key"],
         "sections":[
           {
@@ -961,7 +958,7 @@
       },
       {
         "name": "ShadedWoods: Second Dragon Ring - Tark after killing last Tseldora boss",  
-        "visibility_rules":["$hasnot|SotFS"], 
+        "visibility_rules":["$hasnot|SotFS, Ring of Whispers"], 
         "sections":[{
           "access_rules": ["@Brightstone Cove Tseldora/Tseldora: Soul of the Duke's Dear Freja, Ring of Whispers"]
         }],

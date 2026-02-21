@@ -1,7 +1,7 @@
 [
   {
     "name": "Shrine of Amana",
-    "access_rules": [],
+    "access_rules": ["@Drangleic Castle, Key to King's Passage"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [
@@ -229,7 +229,7 @@
       },
       {
         "name": "King's Set",
-        "access_rules": [],
+        "access_rules": ["$has|Soul of a Giant|5"],
         "sections":[
           {
             "name": "Amana: King's Crown - behind door, opens after defeating Vendrick, metal chest"     
@@ -255,7 +255,7 @@
       {
         "name": "Amana: Soul of the King - throne behind door, opens after defeating Vendrick",
         "sections":[{
-          "access_rules": []
+          "access_rules": ["$has|Soul of a Giant|5"]
         }],
         "map_locations": [
           {

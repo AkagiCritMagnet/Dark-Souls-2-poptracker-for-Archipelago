@@ -1,7 +1,7 @@
 [
   {
     "name": "Lost Bastille",
-  "access_rules": [],
+  "access_rules": ["@No-Man's Wharf, ^$canFightLostBatille", "@Forest of Fallen Giants/The Pursuer Drops, ^$canFightLostBatille"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [
@@ -300,7 +300,7 @@
       {
         "name": "Bastille: Large Soul of a Nameless Soldier - opposite roof after Servants' Quarters lower path",
         "sections":[{
-        "access_rules": ["SotFS, Statue in LB","$hasnot|SotFS","$hasnot|SotFS"]
+        "access_rules": ["SotFS, Statue in LB","$hasnot|SotFS"]
         }],
         "map_locations": [
           {
@@ -312,9 +312,9 @@
         ]
       },
       {
-        "name": "Bastille: Parrying Dagger - Pharros/elevator room, metal chest",
+        "name": "Bastille: Parrying Dagger - Pharros - elevator room, metal chest",
         "sections":[{
-        "access_rules": ["SotFS, SotFS, Statue in LB","SotFS, Antiquated Key","$hasnot|SotFS"]
+        "access_rules": ["SotFS, Statue in LB","SotFS, Antiquated Key","$hasnot|SotFS"]
         }],
         "map_locations": [
           {
@@ -326,9 +326,9 @@
         ]
       },
       {
-        "name": "Bastille: Twinblade - Pharros/elevator room, metal chest",
+        "name": "Bastille: Twinblade - Pharros - elevator room, metal chest",
         "sections":[{
-        "access_rules": ["SotFS, SotFS, Statue in LB","SotFS, Antiquated Key","$hasnot|SotFS"]
+        "access_rules": ["SotFS, Statue in LB","SotFS, Antiquated Key","$hasnot|SotFS"]
         }],
         "map_locations": [
           {
@@ -340,7 +340,7 @@
         ]
       },
       {
-        "name": "Bastille: Soul Vessel - behind Pharros' contraption, Pharros/elevator room, chest",
+        "name": "Bastille: Soul Vessel - behind Pharros' contraption, Pharros - elevator room, chest",
         "sections":[{
         "access_rules": ["Antiquated Key, Master Lockstone", "SotFS, Statue in LB, Master Lockstone","$hasnot|SotFS, Master Lockstone"]
         }],
@@ -354,11 +354,9 @@
         ]
       },
       {
-        "name": "Bastille: Wilted Dusk Herb - next to elevator, Pharros/elevator room, metal chest",
-        "access_rules": [],
+        "name": "Bastille: Wilted Dusk Herb - next to elevator, Pharros - elevator room, metal chest",
         "sections":[
           {
-            "name": "Bastille: Wilted Dusk Herb - next to elevator, Pharros/elevator room, metal chest",
             "access_rules":["SotFS, Statue in LB","SotFS, Antiquated Key", "$hasnot|SotFS, Master Lockstone"]
           }
         ],
@@ -372,7 +370,7 @@
         ]
       },
       {
-        "name": "Bastille: Bone Staff - Pharros/elevator room, metal chest",
+        "name": "Bastille: Bone Staff - Pharros - elevator room, metal chest",
         "sections":[{
         "access_rules": ["SotFS, Statue in LB","SotFS, Antiquated Key","$hasnot|SotFS"]
         }],
@@ -390,10 +388,10 @@
         "access_rules": ["SotFS, Statue in LB","SotFS, Antiquated Key","$hasnot|SotFS"],
         "sections":[
           {
-            "name": "Bastille: Large Soul of a Nameless Soldier - up ladder overlooking Pharros/elevator room"
+            "name": "Bastille: Large Soul of a Nameless Soldier - up ladder overlooking Pharros - elevator room"
           },
           {
-            "name": "Bastille: Green Blossom - up ladder overlooking Pharros/elevator room"
+            "name": "Bastille: Green Blossom - up ladder overlooking Pharros - elevator room"
           }],
         "map_locations": [
           {
@@ -409,10 +407,10 @@
         "access_rules": ["SotFS, Statue in LB","SotFS, Antiquated Key","$hasnot|SotFS"],
         "sections":[
           {
-            "name": "Bastille: Archdrake Robes - explodable wall before Pharros/elevator room"
+            "name": "Bastille: Archdrake Robes - explodable wall before Pharros - elevator room"
           },
           {
-            "name": "Bastille: Archdrake Shield - explodable wall before Pharros/elevator room"
+            "name": "Bastille: Archdrake Shield - explodable wall before Pharros - elevator room"
           }],
         "map_locations": [
           {
@@ -429,16 +427,16 @@
        "visibility_rules": ["SotFS"],
         "sections":[
           {
-            "name": "Bastille: Wanderer Hood - well outside Pharros/elevator room"
+            "name": "Bastille: Wanderer Hood - well outside Pharros - elevator room"
           },
           {
-            "name": "Bastille: Wanderer Coat - well outside Pharros/elevator room"
+            "name": "Bastille: Wanderer Coat - well outside Pharros - elevator room"
           },
           {
-            "name": "Bastille: Wanderer Manchettes - well outside Pharros/elevator room"
+            "name": "Bastille: Wanderer Manchettes - well outside Pharros - elevator room"
           },
           {
-            "name": "Bastille: Wanderer Boots - well outside Pharros/elevator room"
+            "name": "Bastille: Wanderer Boots - well outside Pharros - elevator room"
           }
         ],
         "map_locations": [

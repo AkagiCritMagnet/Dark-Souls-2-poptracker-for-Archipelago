@@ -1,7 +1,7 @@
 [
   {
     "name": "Shaded Woods",
-    "access_rules": ["Rosabeth of Melfia"],
+    "access_rules": ["@Majula, Rosabeth of Melfia"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [
@@ -299,13 +299,16 @@
             "name": "ShadedWoods: Greatsword - Vengarl shop"
           },
           {
-            "name": "ShadedWoods: Red Rust Sword - Vengarl shop"     
+            "name": "ShadedWoods: Red Rust Sword - Vengarl shop",
+            "access_rules": ["Statue near Manscorpion Tark"]     
           },
           {
-            "name": "ShadedWoods: Red Rust Scimitar - Vengarl shop"
+            "name": "ShadedWoods: Red Rust Scimitar - Vengarl shop",
+            "access_rules": ["Statue near Manscorpion Tark"]
           },
           {
-            "name": "ShadedWoods: Red Rust Shield - Vengarl shop"     
+            "name": "ShadedWoods: Red Rust Shield - Vengarl shop",
+            "access_rules": ["Statue near Manscorpion Tark"]     
           },
           {
             "name": "ShadedWoods: Magic Barrier - Vengarl shop"
@@ -486,7 +489,7 @@
       },
       {
         "name": "statue-blocked metal chest, left from bonfire bridge",
-        "access_rules": ["Statue Blocking the Chest in SR"],
+        "access_rules": ["Statue Blocking the Chest in Shaded Ruins"],
         "visibility_rules": ["SotFS"],
         "sections":[
           {
@@ -533,7 +536,7 @@
       },
       {
         "name": "Lion Mage Set and Fragrant Branch",
-        "access_rules": ["Lion Mage Set Statue in SR"],
+        "access_rules": ["Lion Mage Set Statue in Shaded Ruins"],
         "sections":[
           {
             "name": "ShadedWoods: Fragrant Branch of Yore - metal chest blocked by statue near boss path"     
@@ -609,7 +612,7 @@
       },
       {
         "name": "ruined building near statue, jump out window by bonfire",
-        "access_rules": [],
+        "access_rules": ["Statue near Manscorpion Tark"],
         "sections":[
           {
             "name": "ShadedWoods: Soul of a Brave Warrior - ruined building near statue, jump out window by bonfire"     
@@ -650,7 +653,7 @@
       {
         "name": "ShadedWoods: Fang Key - petrified enemy by Shaded Ruins bonfire, drop",
         "sections":[{
-          "access_rules": []
+          "access_rules": ["Fang Key Statue in Shaded Ruins"]
         }],
         "map_locations": [
           {
@@ -665,7 +668,7 @@
       {
         "name": "ShadedWoods: Torch - passage past Manscorpion Tark",
         "sections":[{
-          "access_rules": []
+          "access_rules": ["Statue near Manscorpion Tark"]
         }],
         "map_locations": [
           {

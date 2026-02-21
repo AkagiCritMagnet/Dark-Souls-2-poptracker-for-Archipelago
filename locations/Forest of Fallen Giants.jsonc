@@ -905,7 +905,7 @@
       },
       {
         "name": "The Pursuer Drops on platform",
-         "access_rules": [],
+         "access_rules": ["Soldier Key"],
         "sections":[
         {
           "name":"FOFG: Soul of the Pursuer - boss on platform near Cardinal Tower, drop"
@@ -1042,7 +1042,7 @@
       },
       {
         "name": "The Pursuer Drops",
-         "access_rules": ["Soldier Key"],
+         "access_rules": [],
         "sections":[
         {
           "name":"FOFG: Soul of the Pursuer"
@@ -1295,7 +1295,7 @@
       {
         "name": "FOFG: Titanite Shard - portcullis near ruined house below Cale, corpse",
         "sections":[{
-          "access_rules": []
+          "access_rules": ["Soldier Key"]
         }],
         "map_locations": [
           {
@@ -1339,7 +1339,7 @@
       {
         "name": "FOFG: Hawk Ring - upper fire area, second corpse",
         "sections":[{
-          "access_rules": []
+          "access_rules": ["Iron Key, ^$canFightSalamanderPit"]
         }],
         "map_locations": [
           {
@@ -1354,7 +1354,7 @@
       {
         "name": "FOFG: Firedrake Stone - upper fire area, first corpse",
         "sections":[{
-          "access_rules": []
+          "access_rules": ["Iron Key, ^$canFightSalamanderPit"]
         }],
         "map_locations": [
           {
@@ -1369,7 +1369,7 @@
       {
         "name": "FOFG: Large Soul of a Proud Knight - upper fire area, third corpse",
         "sections":[{
-          "access_rules": []
+          "access_rules": ["Iron Key, ^$canFightSalamanderPit"]
         }],
         "map_locations": [
           {
@@ -1384,7 +1384,7 @@
       {
         "name": "FOFG: Flame Quartz Ring+1 - fire pit, upper level, chest",
         "sections":[{
-          "access_rules": []
+          "access_rules": ["Iron Key, ^$canFightSalamanderPit"]
         }],
         "map_locations": [
           {
@@ -1398,7 +1398,7 @@
       },
       {
         "name": "Rebel Greatshield and Heavy Iron Key",
-        "access_rules": [],
+        "access_rules": ["Iron Key, ^$canFightSalamanderPit"],
         "sections":[
         {
           "name":"FOFG: Rebel's Greatshield - lower fire area, second corpse"
@@ -1420,7 +1420,7 @@
       {
         "name": "FOFG: Cracked Red Eye Orb x2 - lower fire area, first corpse",
         "sections":[{
-          "access_rules": []
+          "access_rules": ["Iron Key, ^$canFightSalamanderPit"]
         }],
         "map_locations": [
           {

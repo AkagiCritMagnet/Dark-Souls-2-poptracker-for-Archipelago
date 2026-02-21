@@ -1,7 +1,8 @@
 [
   {
     "name": "Dragons Sanctum",
-    "access_rules": [],
+    "access_rules": ["@Shulva Sanctum City"],
+    "visibility_rules": ["DLC 1"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [
@@ -372,7 +373,7 @@
        {
         "name": "DragonsSanctum: Sanctum Shield - room atop tower opposite Priestess' Chamber bonfire, metal chest",
         "sections":[{
-          "access_rules": []
+          "access_rules": ["Eternal Sanctum Key"]
         }],
         "map_locations": [
           {

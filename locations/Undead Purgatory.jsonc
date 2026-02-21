@@ -1,7 +1,7 @@
 [
   {
     "name": "Undead Purgatory",
-    "access_rules": [],
+    "access_rules": ["@Huntsmans Copse, ^$canFightChariot"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [
@@ -78,7 +78,7 @@
       {
         "name": "Chariot: Executioner's Chariot Soul",
         "sections":[{
-          "access_rules": []
+          "access_rules": ["^$canFightChariot"]
         }],
         "map_locations": [
           {
@@ -105,8 +105,11 @@
       },
       {
         "name": "Gren Shop",
-        "access_rules": ["Token of Spite"],
+        "access_rules": ["Token of Spite, @Undead Purgatory/Chariot: Executioner's Chariot Soul/"],
         "sections":[
+          {
+            "name": "Chariot: Crest of Blood - join Brotherhood of Blood"
+          },
           {
             "name": "Chariot: Great Scythe - Gren shop"
           },
@@ -158,7 +161,7 @@
       },
       {
         "name": "Gren Shop after Shrine of Winter",
-        "access_rules": ["Token of Spite"], //+Shrine of Winter
+        "access_rules": ["@Undead Purgatory/Chariot: Executioner's Chariot Soul/, Token of Spite, @Sinner's Rise/SinnersRise: Soul of the Lost Sinner, @Black Gulch/Gulch: Soul of the Rotten, @Iron Keep/IronKeep: Old Iron King Soul, @Brightstone Cove Tseldora/Tseldora: Soul of the Duke's Dear Freja"], //+Shrine of Winter
         "sections":[
           {
             "name": "Chariot: Executioner Helm - Gren shop after Shrine of Winter"

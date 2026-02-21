@@ -1,6 +1,12 @@
 {
 	"versions": [
 		{
+			"package_version": "0.5",
+			"download_url": "https://github.com/AkagiCritMagnet/Dark-Souls-2-poptracker-for-Archipelago/releases/download/v0.5/Dark.Souls.2.pack.zip",
+			"sha256": "31bf6d244bba8c51f4dc49f9a7ae7d959f9c134606e99833104818176c69f5c8",
+			"changelog": ["Logic implemented"]
+		},
+		{
 			"package_version": "0.4",
 			"download_url": "https://github.com/AkagiCritMagnet/Dark-Souls-2-poptracker-for-Archipelago/releases/download/v0.4/DS2.pack.zip",
 			"sha256": "16293d839dfec853e947e432a261363186ab8b04c3aa2f96909b570e4a7905ed",

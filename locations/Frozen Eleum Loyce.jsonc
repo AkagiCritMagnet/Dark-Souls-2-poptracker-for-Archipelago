@@ -1,7 +1,8 @@
 [
   {
     "name": "Frozen Eleum Loyce",
-    "access_rules": ["Frozen Flower"],
+    "access_rules": ["@Drangleic Castle, Frozen Flower, ^$canFightEleumLoyce"],
+    "visibility_rules": ["DLC 3"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [
@@ -181,23 +182,24 @@
         "name": "Metal chests atop town house",
         "access_rules": [],
         "sections":[
-        {
-          "name":"EleumLoyce: Sorcerer's Twinblade - roof, house after square with fountain, frozen metal chest"
-        },
-        {
-          "name":"EleumLoyce: Divine Blessing x2 - roof, house after square with fountain, frozen metal chest"
-        },
-        {
-          "name":"EleumLoyce: Soul Vessel - roof, house after square with fountain, frozen metal chest"
-        }
+          {
+            "name":"EleumLoyce: Sorcerer's Twinblade - roof, house after square with fountain, frozen metal chest"
+          },
+          {
+            "name":"EleumLoyce: Divine Blessing x2 - roof, house after square with fountain, frozen metal chest"
+          },
+          {
+            "name":"EleumLoyce: Soul Vessel - roof, house after square with fountain, frozen metal chest"
+          }
         ],
-        "map_locations":
+        "map_locations":[
           {
             "map": "Frozen Eleum Loyce",
             "x": 514,
             "y": 258,
 			      "size": 5
           }
+        ]
       },      
       {
         "name": "EleumLoyce: Monastery Charm x3 - drop down from 3 chest roof, fountain square",
@@ -837,7 +839,7 @@
       {
         "name": "EleumLoyce: Soul of Aava, the King's Pet",
         "sections":[{
-          "access_rules": []
+          "access_rules": ["Eye of the Priestess"]
         }],
         "map_locations": [
           {

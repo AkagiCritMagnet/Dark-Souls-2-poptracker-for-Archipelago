@@ -3172,6 +3172,10 @@
 				"name": "Vammar: Smooth & Silky Stone x5 - room by Drummond, chest"
 			  },
 			  {
+				"ref": "Memory of Vammaar/Vammar: Drangleic Helm - Drummond after defeating Giant Lord/",
+				"name": "Vammar: Drangleic Helm - Drummond after defeating Giant Lord"
+			  },
+			  {
 				"ref": "Memory of Vammaar/Vammar: Fire Seed - first corridor, corpse at the end/",
 				"name": "Vammar: Fire Seed - first corridor, corpse at the end"
 			  },
@@ -4807,6 +4811,3133 @@
 		  }
 		]
 	  },
+
+	  {
+		"name": "Things Betwixt",
+		"sections": [
+			  {
+				"ref": "Things Betwixt/Betwixt: Human Effigy - attic/",
+				"name": "Betwixt: Human Effigy - attic"
+			  },
+			  {
+				"ref": "Things Betwixt/Betwixt: Rusted Coin - right of grass field before bridge/",
+				"name": "Betwixt: Rusted Coin - right of grass field before bridge"
+			  },
+			  {
+				"ref": "Things Betwixt/Betwixt: Gold Pine Resin - left path before bridge/",
+				"name": "Betwixt: Gold Pine Resin - left path before bridge"
+			  },
+			  {
+				"ref": "Things Betwixt/Betwixt: Small Smooth & Silky Stone - under waterfall/",
+				"name": "Betwixt: Small Smooth & Silky Stone - under waterfall"
+			  },
+			  {
+				"ref": "Things Betwixt/Betwixt: Soul of a Nameless Soldier - below crow nest/",
+				"name": "Betwixt: Soul of a Nameless Soldier - below crow nest"
+			  },
+			  {
+				"ref": "Things Betwixt/By bonefire/Betwixt: Soul of a Lost Undead - by bonfire",
+				"name": "Betwixt: Soul of a Lost Undead - by bonfire"
+			  },
+			  {
+				"ref": "Things Betwixt/By bonefire/Betwixt: Torch - by bonfire",
+				"name": "Betwixt: Torch - by bonfire"
+			  },
+			  {
+				"ref": "Things Betwixt/Betwixt: Cracked Red Eye Orb - 2nd tutorial, alcove behind door/",
+				"name": "Betwixt: Cracked Red Eye Orb - 2nd tutorial, alcove behind door"
+			  },
+			  {
+				"ref": "Things Betwixt/Betwixt: Dagger - 1st tutorial, halfway/",
+				"name": "Betwixt: Dagger - 1st tutorial, halfway"
+			  },
+			  {
+				"ref": "Things Betwixt/Betwixt: Lifegem - 1st tutorial, end/",
+				"name": "Betwixt: Lifegem - 1st tutorial, end"
+			  },
+			  {
+				"ref": "Things Betwixt/Betwixt: Amber Herb x2 - 2nd tutorial, jumpable gap/",
+				"name": "Betwixt: Amber Herb x2 - 2nd tutorial, jumpable gap"
+			  },
+			  {
+				"ref": "Things Betwixt/Betwixt: Estus Flask Shard - pit after petrified statue/",
+				"name": "Betwixt: Estus Flask Shard - pit after petrified statue"
+			  },
+			  {
+				"ref": "Things Betwixt/Betwixt: Twinkling Titanite - by coffin, enemy drop/",
+				"name": "Betwixt: Twinkling Titanite - by coffin, enemy drop"
+			  }
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 361,
+            "y": 642,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "The Gutter part 1",
+		"sections": [
+			  {
+				"ref": "The Gutter/Gutter: Dung Pie x2 - urn near upper bonfire/",
+				"name": "Gutter: Dung Pie x2 - urn near upper bonfire"
+			  },
+			  {
+				"ref": "The Gutter/Gutter: Soul of a Nameless Soldier - top level from path nearby forgotten door, urn/",
+				"name": "Gutter: Soul of a Nameless Soldier - top level from path nearby forgotten door, urn"
+			  },
+			  {
+				"ref": "The Gutter/Gutter: Large Soul of a Nameless Soldier - urn before upper bonfire catwalk return/",
+				"name": "Gutter: Large Soul of a Nameless Soldier - urn before upper bonfire catwalk return"
+			  },
+			  {
+				"ref": "The Gutter/Gutter: Lifegem - urn on upper bonfire catwalk return/",
+				"name": "Gutter: Lifegem - urn on upper bonfire catwalk return"
+			  },
+			  {
+				"ref": "The Gutter/Gutter: Ring of Soul Protection - near npc invasion, metal chest/",
+				"name": "Gutter: Ring of Soul Protection - near npc invasion, metal chest"
+			  },
+			  {
+				"ref": "The Gutter/Gutter: Titanite Chunk - urn on floor halfway down drop to zipline ladder/",
+				"name": "Gutter: Titanite Chunk - urn on floor halfway down drop to zipline ladder"
+			  },
+			  {
+				"ref": "The Gutter/Tattered Cloth Set/Gutter: Tattered Cloth Hood - Urn near hanging poison statue, path to zipline ladder",
+				"name": "Gutter: Tattered Cloth Hood - Urn near hanging poison statue, path to zipline ladder"
+			  },
+			  {
+				"ref": "The Gutter/Tattered Cloth Set/Gutter: Tattered Cloth Robe - Urn near hanging poison statue, path to zipline ladder",
+				"name": "Gutter: Tattered Cloth Robe - Urn near hanging poison statue, path to zipline ladder"
+			  },
+			  {
+				"ref": "The Gutter/Tattered Cloth Set/Gutter: Tattered Cloth Manchettes - Urn near hanging poison statue, path to zipline ladder",
+				"name": "Gutter: Tattered Cloth Manchettes - Urn near hanging poison statue, path to zipline ladder"
+			  },
+			  {
+				"ref": "The Gutter/Tattered Cloth Set/Gutter: Heavy Boots - Urn near hanging poison statue, path to zipline ladder",
+				"name": "Gutter: Heavy Boots - Urn near hanging poison statue, path to zipline ladder"
+			  },
+			  {
+				"ref": "The Gutter/Aurous Set/Gutter: Ring of the Evil Eye - next to zipline ladder, metal chest",
+				"name": "Gutter: Ring of the Evil Eye - next to zipline ladder, metal chest"
+			  },
+			  {
+				"ref": "The Gutter/Aurous Set/Gutter: Helm of Aurous - next to zipline ladder, metal chest",
+				"name": "Gutter: Helm of Aurous - next to zipline ladder, metal chest"
+			  },
+			  {
+				"ref": "The Gutter/Aurous Set/Gutter: Armor of Aurous - next to zipline ladder, metal chest",
+				"name": "Gutter: Armor of Aurous - next to zipline ladder, metal chest"
+			  },
+			  {
+				"ref": "The Gutter/Aurous Set/Gutter: Gauntlets of Aurous - next to zipline ladder, metal chest",
+				"name": "Gutter: Gauntlets of Aurous - next to zipline ladder, metal chest"
+			  },
+			  {
+				"ref": "The Gutter/Aurous Set/Gutter: Leggings of Aurous - next to zipline ladder, metal chest",
+				"name": "Gutter: Leggings of Aurous - next to zipline ladder, metal chest"
+			  } 
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1025,
+            "y": 877,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "The Gutter part 2",
+		"sections": [
+			  {
+				"ref": "The Gutter/Gutter: Estus Flask Shard - top of zipline tower, corpse/",
+				"name": "Gutter: Estus Flask Shard - top of zipline tower, corpse"
+			  },
+			  {
+				"ref": "The Gutter/Gutter: Soul of a Proud Knight - top of zipline tower, urn/",
+				"name": "Gutter: Soul of a Proud Knight - top of zipline tower, urn"
+			  },
+			  {
+				"ref": "The Gutter/Gutter: Flame Butterfly x2 - tight corner, zipline tower middle level, urn/",
+				"name": "Gutter: Flame Butterfly x2 - tight corner, zipline tower middle level, urn"
+			  },
+			  {
+				"ref": "The Gutter/Items visible close to the second bridge/Gutter: Human Effigy - corpse, top level, visible from second bridge",
+				"name": "Gutter: Human Effigy - corpse, top level, visible from second bridge"
+			  },
+			  {
+				"ref": "The Gutter/Items visible close to the second bridge/Gutter: Smooth & Silky Stone - corpse, top level, visible from second bridge",
+				"name": "Gutter: Smooth & Silky Stone - corpse, top level, visible from second bridge"
+			  },
+			  {
+				"ref": "The Gutter/Items visible close to the second bridge/Gutter: Twinkling Titanite - corpse, top level, visible from second bridge",
+				"name": "Gutter: Twinkling Titanite - corpse, top level, visible from second bridge"
+			  },
+			  {
+				"ref": "The Gutter/Items visible close to the second bridge/Gutter: Smooth & Silky Stone - corpse, top level, visible from second bridge #2",
+				"name": "Gutter: Smooth & Silky Stone - corpse, top level, visible from second bridge #2"
+			  },
+			  {
+				"ref": "The Gutter/Items visible close to the second bridge/Gutter: Fragrant Branch of Yore - corpse, top level, visible from second bridge",
+				"name": "Gutter: Fragrant Branch of Yore - corpse, top level, visible from second bridge"
+			  },
+			  {
+				"ref": "The Gutter/Gutter: Black Firebomb x3 - small structure top at first long bridge end, chest/",
+				"name": "Gutter: Black Firebomb x3 - small structure top at first long bridge end, chest"
+			  },
+			  {
+				"ref": "The Gutter/Twinkling Titanite and Small Smooth & Silky Stone x3/Gutter: Twinkling Titanite - tower middle floor near npc invasion, chest",
+				"name": "Gutter: Twinkling Titanite - tower middle floor near npc invasion, chest"
+			  },
+			  {
+				"ref": "The Gutter/Twinkling Titanite and Small Smooth & Silky Stone x3/Gutter: Small Smooth & Silky Stone x3 - tower middle floor near npc invasion, chest",
+				"name": "Gutter: Small Smooth & Silky Stone x3 - tower middle floor near npc invasion, chest"
+			  },
+			  {
+				"ref": "The Gutter/Dark Pyromancy Flame and Rotten Pine Resin x3/Gutter: Dark Pyromancy Flame - urn on lower floor near forgotten door",
+				"name": "Gutter: Dark Pyromancy Flame - urn on lower floor near forgotten door"
+			  },
+			  {
+				"ref": "The Gutter/Dark Pyromancy Flame and Rotten Pine Resin x3/Gutter: Rotten Pine Resin x3 - urn on lower floor near forgotten door",
+				"name": "Gutter: Rotten Pine Resin x3 - urn on lower floor near forgotten door"
+			  }
+			  
+
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1055,
+            "y": 877,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "The Gutter part 3",
+		"sections": [
+			  {
+				"ref": "The Gutter/Havel's Set/Gutter: Havel's Greatshield - urn behind forgotten door",
+				"name": "Gutter: Havel's Greatshield - urn behind forgotten door"
+			  },
+			  {
+				"ref": "The Gutter/Havel's Set/Gutter: Havel's Helm - urn behind forgotten door",
+				"name": "Gutter: Havel's Helm - urn behind forgotten door"
+			  },
+			  {
+				"ref": "The Gutter/Havel's Set/Gutter: Havel's Armor - urn behind forgotten door",
+				"name": "Gutter: Havel's Armor - urn behind forgotten door"
+			  },
+			  {
+				"ref": "The Gutter/Havel's Set/Gutter: Havel's Gauntlets - urn behind forgotten door",
+				"name": "Gutter: Havel's Gauntlets - urn behind forgotten door"
+			  },
+			  {
+				"ref": "The Gutter/Havel's Set/Gutter: Havel's Leggings - urn behind forgotten door",
+				"name": "Gutter: Havel's Leggings - urn behind forgotten door"
+			  },
+			  {
+				"ref": "The Gutter/Gutter: Bandit Greataxe - small structure, top of zipline tower, urn/",
+				"name": "Gutter: Bandit Greataxe - small structure, top of zipline tower, urn"
+			  },
+			  {
+				"ref": "The Gutter/Gutter: Great Club - lower ledge, second bonfire ladder area, chest/",
+				"name": "Gutter: Great Club - lower ledge, second bonfire ladder area, chest"
+			  },
+			  {
+				"ref": "The Gutter/Gutter: Lifegem x20 - bottom area, first urn/",
+				"name": "Gutter: Lifegem x20 - bottom area, first urn"
+			  },
+			  {
+				"ref": "The Gutter/Gutter: Rotten Pine Resin x3 - wooden ledge, second bonfire ladder area, urn/",
+				"name": "Gutter: Rotten Pine Resin x3 - wooden ledge, second bonfire ladder area, urn"
+			  },
+			  {
+				"ref": "The Gutter/Gutter: Wicked Eye Greatshield - cave above fog door, metal chest/",
+				"name": "Gutter: Wicked Eye Greatshield - cave above fog door, metal chest"
+			  }
+			  
+
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1085,
+            "y": 877,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "The Gutter part 4",
+		"sections": [
+			  {
+				"ref": "The Gutter/Cave by fog gate/Gutter: Poison Moss - cave across from fog door, first urn",
+				"name": "Gutter: Poison Moss - cave across from fog door, first urn"
+			  },
+			  {
+				"ref": "The Gutter/Cave by fog gate/Gutter: Poison Moss x3 - cave across from fog door, second urn",
+				"name": "Gutter: Poison Moss x3 - cave across from fog door, second urn"
+			  },
+			  {
+				"ref": "The Gutter/Gutter: Poison Arrow x20 - urn by fog door/",
+				"name": "Gutter: Poison Arrow x20 - urn by fog door"
+			  },
+			  {
+				"ref": "The Gutter/Gutter: Dung Pie x3 - urn by second bonfire ladder area/",
+				"name": "Gutter: Dung Pie x3 - urn by second bonfire ladder area"
+			  },
+			  {
+				"ref": "The Gutter/Gutter: Black Firebomb x2 - inside structure at end of second long bridge, urn/",
+				"name": "Gutter: Black Firebomb x2 - inside structure at end of second long bridge, urn"
+			  },
+			  {
+				"ref": "The Gutter/Dark Fog and Torch/Gutter: Dark Fog - bottom area, second urn",
+				"name": "Gutter: Dark Fog - bottom area, second urn"
+			  },
+			  {
+				"ref": "The Gutter/Dark Fog and Torch/Gutter: Torch - bottom area, second urn",
+				"name": "Gutter: Torch - bottom area, second urn"
+			  },
+			  {
+				"ref": "The Gutter/Gutter: Fragrant Branch of Yore - before Black Gulch entrance/",
+				"name": "Gutter: Fragrant Branch of Yore - before Black Gulch entrance"
+			  }			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1115,
+            "y": 877,
+			"size": 15
+		  }
+		]
+	  },
+
+
+
+	  {
+		"name": "No-Man's Wharf part 1",
+		"sections": [
+			  {
+				"ref": "No-Man's Wharf/Wharf: Flexile Sentry Soul/",
+				"name": "Wharf: Flexile Sentry Soul"
+			  },
+			  {
+				"ref": "No-Man's Wharf/Wharf: Soul of a Proud Knight - balcony, upstairs first building/",
+				"name": "Wharf: Soul of a Proud Knight - balcony, upstairs first building"
+			  },
+			  {
+				"ref": "No-Man's Wharf/Wharf: Titanite Shard - upstairs in first house, chest/",
+				"name": "Wharf: Titanite Shard - upstairs in first house, chest"
+			  },
+			  {
+				"ref": "No-Man's Wharf/Large Soul of a Lost Undead and Lifegem/Wharf: Large Soul of a Lost Undead - shallow water, first open area",
+				"name": "Wharf: Large Soul of a Lost Undead - shallow water, first open area"
+			  },
+			  {
+				"ref": "No-Man's Wharf/Large Soul of a Lost Undead and Lifegem/Wharf: Lifegem - shallow water, first open area",
+				"name": "Wharf: Lifegem - shallow water, first open area"
+			  },
+			  {
+				"ref": "No-Man's Wharf/Wharf: Human Effigy and Lifegem - On tipped boat in water/",
+				"name": "Wharf: Human Effigy and Lifegem - On tipped boat in water"
+			  },
+			  {
+				"ref": "No-Man's Wharf/Large Soul of a Proud Knight and Small Smooth & Silky Stone x3/Wharf: Large Soul of a Proud Knight - roof, house under the Pharros' contraption",
+				"name": "Wharf: Large Soul of a Proud Knight - roof, house under the Pharros' contraption"
+			  },
+			  {
+				"ref": "No-Man's Wharf/Large Soul of a Proud Knight and Small Smooth & Silky Stone x3/Wharf: Small Smooth & Silky Stone x3 - roof, house under the Pharros' contraption",
+				"name": "Wharf: Small Smooth & Silky Stone x3 - roof, house under the Pharros' contraption"
+			  },
+			  {
+				"ref": "No-Man's Wharf/Wharf: Iron Arrow x10 - house, under Pharros' contraption/",
+				"name": "Wharf: Iron Arrow x10 - house, under Pharros' contraption"
+			  },
+			  {
+				"ref": "No-Man's Wharf/Wharf: Dark Pine Resin x3 - left house, first open area/",
+				"name": "Wharf: Dark Pine Resin x3 - left house, first open area"
+			  },
+			  {
+				"ref": "No-Man's Wharf/behind shelf, house with Lucatiel/Wharf: Ring of Life Protection - behind shelf, house with Lucatiel",
+				"name": "Wharf: Ring of Life Protection - behind shelf, house with Lucatiel"
+			  },
+			  {
+				"ref": "No-Man's Wharf/behind shelf, house with Lucatiel/Wharf: Human Effigy x3 - behind shelf, house with Lucatiel",
+				"name": "Wharf: Human Effigy x3 - behind shelf, house with Lucatiel"
+			  }
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1347,
+            "y": 430,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "No-Man's Wharf part 2",
+		"sections": [
+			  {
+				"ref": "No-Man's Wharf/Brigand's Set and Bandit Axe/Wharf: Bandit Axe - house next to central courtyard, metal chest",
+				"name": "Wharf: Bandit Axe - house next to central courtyard, metal chest"
+			  },
+			  {
+				"ref": "No-Man's Wharf/Brigand's Set and Bandit Axe/Wharf: Brigand Hood - house next to central courtyard, metal chest",
+				"name": "Wharf: Brigand Hood - house next to central courtyard, metal chest"
+			  },
+			  {
+				"ref": "No-Man's Wharf/Brigand's Set and Bandit Axe/Wharf: Brigand Armor - house next to central courtyard, metal chest",
+				"name": "Wharf: Brigand Armor - house next to central courtyard, metal chest"
+			  },
+			  {
+				"ref": "No-Man's Wharf/Brigand's Set and Bandit Axe/Wharf: Brigand Gauntlets - house next to central courtyard, metal chest",
+				"name": "Wharf: Brigand Gauntlets - house next to central courtyard, metal chest"
+			  },
+			  {
+				"ref": "No-Man's Wharf/Brigand's Set and Bandit Axe/Wharf: Brigand Trousers - house next to central courtyard, metal chest",
+				"name": "Wharf: Brigand Trousers - house next to central courtyard, metal chest"
+			  },
+			  {
+				"ref": "No-Man's Wharf/Repair Powder and Titanite Shard/Wharf: Repair Powder - upstairs, house next to central courtyard, chest",
+				"name": "Wharf: Repair Powder - upstairs, house next to central courtyard, chest"
+			  },
+			  {
+				"ref": "No-Man's Wharf/Repair Powder and Titanite Shard/Wharf: Titanite Shard - upstairs, house next to central courtyard, chest",
+				"name": "Wharf: Titanite Shard - upstairs, house next to central courtyard, chest"
+			  },
+			  {
+				"ref": "No-Man's Wharf/Wharf: Firebomb x3 - behind illusory wall, underneath Gavlan, chest/",
+				"name": "Wharf: Firebomb x3 - behind illusory wall, underneath Gavlan, chest"
+			  },
+			  {
+				"ref": "No-Man's Wharf/Wharf: Large Titanite Shard - behind illusory wall, underneath Gavlan, metal chest/",
+				"name": "Wharf: Large Titanite Shard - behind illusory wall, underneath Gavlan, metal chest"
+			  },
+			  {
+				"ref": "No-Man's Wharf/Emit force and Large Soul of a Lost Undead/Wharf: Emit Force - high cliff ledge",
+				"name": "Wharf: Emit Force - high cliff ledge"
+			  },
+			  {
+				"ref": "No-Man's Wharf/Emit force and Large Soul of a Lost Undead/Wharf: Large Soul of a Lost Undead - high cliff ledge",
+				"name": "Wharf: Large Soul of a Lost Undead - high cliff ledge"
+			  },
+			  {
+				"ref": "No-Man's Wharf/Wharf: Greatsword - cliffside dark stalkers house, metal chest/",
+				"name": "Wharf: Greatsword - cliffside dark stalkers house, metal chest"
+			  },
+			  {
+				"ref": "No-Man's Wharf/Wharf: Silver Talisman x2 - cliffside dark stalkers house, trapped chest/",
+				"name": "Wharf: Silver Talisman x2 - cliffside dark stalkers house, trapped chest"
+			  },
+			  {
+				"ref": "No-Man's Wharf/Wharf: Fire Arrow x10 - staircase, house after ship-calling bell/",
+				"name": "Wharf: Fire Arrow x10 - staircase, house after ship-calling bell"
+			  }
+			  
+
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1377,
+            "y": 430,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "No-Man's Wharf part 3",
+		"sections": [
+			  {
+				"ref": "No-Man's Wharf/poison jar room, behind breakable wall, metal chest/Wharf: Royal Soldier's Ring - poison jar room, behind breakable wall, metal chest",
+				"name": "Wharf: Royal Soldier's Ring - poison jar room, behind breakable wall, metal chest"
+			  },
+			  {
+				"ref": "No-Man's Wharf/poison jar room, behind breakable wall, metal chest/Wharf: Large Soul of a Nameless Soldier - poison jar room, behind breakable wall",
+				"name": "Wharf: Large Soul of a Nameless Soldier - poison jar room, behind breakable wall"
+			  },
+			  {
+				"ref": "No-Man's Wharf/poison jar room, behind breakable wall, metal chest/Wharf: Fading Soul - poison jar room, behind breakable wall",
+				"name": "Wharf: Fading Soul - poison jar room, behind breakable wall"
+			  },
+			  {
+				"ref": "No-Man's Wharf/poison jar room, behind breakable wall, metal chest/Wharf: Soul of a Nameless Soldier - poison jar room, behind breakable wall",
+				"name": "Wharf: Soul of a Nameless Soldier - poison jar room, behind breakable wall"
+			  },
+			  {
+				"ref": "No-Man's Wharf/poison jar room, behind breakable wall, metal chest/Wharf: Lifegem x3 - poison jar room, behind breakable wall",
+				"name": "Wharf: Lifegem x3 - poison jar room, behind breakable wall"
+			  },
+			  {
+				"ref": "No-Man's Wharf/poison jar room, metal chest/Wharf: Estus Flask Shard - poison jar room, metal chest",
+				"name": "Wharf: Estus Flask Shard - poison jar room, metal chest"
+			  },
+			  {
+				"ref": "No-Man's Wharf/poison jar room, metal chest/Wharf: Fragrant Branch of Yore - poison jar room, metal chest",
+				"name": "Wharf: Fragrant Branch of Yore - poison jar room, metal chest"
+			  },
+			  {
+				"ref": "No-Man's Wharf/Throwing Knife x7 and Flame Butterfly/Wharf: Throwing Knife x7 - poison jar room, alcove behind jars",
+				"name": "Wharf: Throwing Knife x7 - poison jar room, alcove behind jars"
+			  },
+			  {
+				"ref": "No-Man's Wharf/Throwing Knife x7 and Flame Butterfly/Wharf: Flame Butterfly - poison jar room, alcove behind jars",
+				"name": "Wharf: Flame Butterfly - poison jar room, alcove behind jars"
+			  },
+			  {
+				"ref": "No-Man's Wharf/Lifegem x2 and Homeward Bone/Wharf: Lifegem x2 - rooftop, after ship-calling bell",
+				"name": "Wharf: Lifegem x2 - rooftop, after ship-calling bell"
+			  },
+			  {
+				"ref": "No-Man's Wharf/Lifegem x2 and Homeward Bone/Wharf: Homeward Bone - rooftop, after ship-calling bell",
+				"name": "Wharf: Homeward Bone - rooftop, after ship-calling bell"
+			  },
+			  {
+				"ref": "No-Man's Wharf/Pyromancy Flame and Fireball/Wharf: Pyromancy Flame - after boss, metal chest",
+				"name": "Wharf: Pyromancy Flame - after boss, metal chest"
+			  },
+			  {
+				"ref": "No-Man's Wharf/Pyromancy Flame and Fireball/Wharf: Fireball - after boss, metal chest",
+				"name": "Wharf: Fireball - after boss, metal chest"
+			  }
+			  
+
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1407,
+            "y": 430,
+			"size": 15
+		  }
+		]
+	  },
+
+
+
+	  {
+		"name": "Lost Bastille part 1",
+		"sections": [
+			  {
+				"ref": "Lost Bastille/Radiant Lifegem and Large Titanite Shard/Bastille: Radiant Lifegem - ledge near Tower Apart bonfire",
+				"name": "Bastille: Radiant Lifegem - ledge near Tower Apart bonfire"
+			  },
+			  {
+				"ref": "Lost Bastille/Radiant Lifegem and Large Titanite Shard/Bastille: Large Titanite Shard - ledge near Tower Apart bonfire",
+				"name": "Bastille: Large Titanite Shard - ledge near Tower Apart bonfire"
+			  },
+			  {
+				"ref": "Lost Bastille/Bastille: Human Effigy x2 - metal chest next to Tower Apart bonfire/",
+				"name": "Bastille: Human Effigy x2 - metal chest next to Tower Apart bonfire"
+			  },
+			  {
+				"ref": "Lost Bastille/Metal chest after explosive room/Bastille: Covetous Silver Serpent Ring - near Tower Apart after explosive room, metal chest",
+				"name": "Bastille: Covetous Silver Serpent Ring - near Tower Apart after explosive room, metal chest"
+			  },
+			  {
+				"ref": "Lost Bastille/Metal chest after explosive room/Bastille: Antiquated Key - near Tower Apart after explosive room, metal chest",
+				"name": "Bastille: Antiquated Key - near Tower Apart after explosive room, metal chest"
+			  },
+			  {
+				"ref": "Lost Bastille/Metal chest after explosive room/Bastille: Human Effigy - near Tower Apart after explosive room, metal chest",
+				"name": "Bastille: Human Effigy - near Tower Apart after explosive room, metal chest"
+			  },
+			  {
+				"ref": "Lost Bastille/Metal chest after explosive room/Bastille: Fragrant Branch of Yore - near Tower Apart after explosive room, metal chest",
+				"name": "Bastille: Fragrant Branch of Yore - near Tower Apart after explosive room, metal chest"
+			  },
+			  {
+				"ref": "Lost Bastille/Bastille: Dull Ember - metal chest near Tower Apart bonfire/",
+				"name": "Bastille: Dull Ember - metal chest near Tower Apart bonfire"
+			  },
+			  {
+				"ref": "Lost Bastille/Bastille: Ruin Sentinel Soul/",
+				"name": "Bastille: Ruin Sentinel Soul"
+			  },
+			  {
+				"ref": "Lost Bastille/Bastille: Rouge Water - illusory wall, stairs after boss, chest/",
+				"name": "Bastille: Rouge Water - illusory wall, stairs after boss, chest"
+			  },
+			  {
+				"ref": "Lost Bastille/Bastille: Target Shield - illusory wall from boss room, chest/",
+				"name": "Bastille: Target Shield - illusory wall from boss room, chest"
+			  },
+			  {
+				"ref": "Lost Bastille/Bastille: Hush - illusory wall in boss room, metal chest/",
+				"name": "Bastille: Hush - illusory wall in boss room, metal chest"
+			  },
+			  {
+				"ref": "Lost Bastille/Bastille: Homeward Bone x3 - upper ledge, boss room/",
+				"name": "Bastille: Homeward Bone x3 - upper ledge, boss room"
+			  },
+			  {
+				"ref": "Lost Bastille/Bastille: Rusted Coin - illusory wall in boss room, corpse/",
+				"name": "Bastille: Rusted Coin - illusory wall in boss room, corpse"
+			  }
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1505,
+            "y": 430,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Lost Bastille part 2",
+		"sections": [
+			  {
+				"ref": "Lost Bastille/Bastille: Soul of a Nameless Soldier - cell in narrow corridor after boss/",
+				"name": "Bastille: Soul of a Nameless Soldier - cell in narrow corridor after boss"
+			  },
+			  {
+				"ref": "Lost Bastille/Bastille: Priest's Chime - under Servants' Quarters bonfire, metal chest/",
+				"name": "Bastille: Priest's Chime - under Servants' Quarters bonfire, metal chest"
+			  },
+			  {
+				"ref": "Lost Bastille/Bastille: Large Club - room under Servants' Quarters bonfire/",
+				"name": "Bastille: Large Club - room under Servants' Quarters bonfire"
+			  },
+			  {
+				"ref": "Lost Bastille/Bastille: Soul of a Nameless Soldier - behind door after Servants' Quarters/",
+				"name": "Bastille: Soul of a Nameless Soldier - behind door after Servants' Quarters"
+			  },
+			  {
+				"ref": "Lost Bastille/Bones on ledge, left after Servant's Quarters/Bastille: Bastille Key - boxes on ledge, left after Servants' Quarters",
+				"name": "Bastille: Bastille Key - boxes on ledge, left after Servants' Quarters"
+			  },
+			  {
+				"ref": "Lost Bastille/Bones on ledge, left after Servant's Quarters/Bastille: Human Effigy - boxes on ledge, left after Servants' Quarters",
+				"name": "Bastille: Human Effigy - boxes on ledge, left after Servants' Quarters"
+			  },
+			  {
+				"ref": "Lost Bastille/Soul of a Proud Knight and Human Effigy/Bastille: Soul of a Proud Knight - ladder bottom before boss",
+				"name": "Bastille: Soul of a Proud Knight - ladder bottom before boss"
+			  },
+			  {
+				"ref": "Lost Bastille/Soul of a Proud Knight and Human Effigy/Bastille: Human Effigy - ladder bottom before boss",
+				"name": "Bastille: Human Effigy - ladder bottom before boss"
+			  },
+			  {
+				"ref": "Lost Bastille/Bastille: Radiant Lifegem x2 - cell before boss/",
+				"name": "Bastille: Radiant Lifegem x2 - cell before boss"
+			  },
+			  {
+				"ref": "Lost Bastille/Bastille: Flame Butterfly x3 - roof after Servants' Quarters/",
+				"name": "Bastille: Flame Butterfly x3 - roof after Servants' Quarters"
+			  },
+			  {
+				"ref": "Lost Bastille/Bastille: Large Soul of a Nameless Soldier - opposite roof after Servants' Quarters lower path/",
+				"name": "Bastille: Large Soul of a Nameless Soldier - opposite roof after Servants' Quarters lower path"
+			  },
+			  {
+				"ref": "Lost Bastille/Bastille: Parrying Dagger - Pharros/elevator room, metal chest/",
+				"name": "Bastille: Parrying Dagger - Pharros/elevator room, metal chest"
+			  },
+			  {
+				"ref": "Lost Bastille/Bastille: Twinblade - Pharros/elevator room, metal chest/",
+				"name": "Bastille: Twinblade - Pharros/elevator room, metal chest"
+			  },
+			  {
+				"ref": "Lost Bastille/Bastille: Soul Vessel - behind Pharros' contraption, Pharros/elevator room, chest/",
+				"name": "Bastille: Soul Vessel - behind Pharros' contraption, Pharros/elevator room, chest"
+			  }
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1535,
+            "y": 430,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Lost Bastille part 3",
+		"sections": [
+			  {
+				"ref": "Lost Bastille/Bastille: Wilted Dusk Herb - next to elevator, Pharros/elevator room, metal chest/",
+				"name": "Bastille: Wilted Dusk Herb - next to elevator, Pharros/elevator room, metal chest"
+			  },
+			  {
+				"ref": "Lost Bastille/Bastille: Bone Staff - Pharros/elevator room, metal chest/",
+				"name": "Bastille: Bone Staff - Pharros/elevator room, metal chest"
+			  },
+			  {
+				"ref": "Lost Bastille/Large Soul of a Nameless Soldier and Green Blossom/",
+				"name": "Large Soul of a Nameless Soldier and Green Blossom"
+			  },
+			  {
+				"ref": "Lost Bastille/Large Soul of a Nameless Soldier and Green Blossom/Bastille: Large Soul of a Nameless Soldier - up ladder overlooking Pharros - elevator room",
+				"name": "Bastille: Large Soul of a Nameless Soldier - up ladder overlooking Pharros - elevator room"
+			  },
+			  {
+				"ref": "Lost Bastille/Large Soul of a Nameless Soldier and Green Blossom/Bastille: Green Blossom - up ladder overlooking Pharros - elevator room",
+				"name": "Bastille: Green Blossom - up ladder overlooking Pharros - elevator room"
+			  },
+			  {
+				"ref": "Lost Bastille/Archdrake Robes and Shield/Bastille: Archdrake Robes - explodable wall before Pharros/elevator room",
+				"name": "Bastille: Archdrake Robes - explodable wall before Pharros - elevator room"
+			  },
+			  {
+				"ref": "Lost Bastille/Archdrake Robes and Shield/Bastille: Archdrake Shield - explodable wall before Pharros/elevator room",
+				"name": "Bastille: Archdrake Shield - explodable wall before Pharros - elevator room"
+			  },
+			  {
+				"ref": "Lost Bastille/Wanderers Set SotFs/Bastille: Wanderer Hood - well outside Pharros - elevator room",
+				"name": "Bastille: Wanderer Hood - well outside Pharros - elevator room"
+			  },
+			  {
+				"ref": "Lost Bastille/Wanderers Set SotFs/Bastille: Wanderer Coat - well outside Pharros - elevator room",
+				"name": "Bastille: Wanderer Coat - well outside Pharros - elevator room"
+			  },
+			  {
+				"ref": "Lost Bastille/Wanderers Set SotFs/Bastille: Wanderer Manchettes - well outside Pharros - elevator room",
+				"name": "Bastille: Wanderer Manchettes - well outside Pharros - elevator room"
+			  },
+			  {
+				"ref": "Lost Bastille/Wanderers Set SotFs/Bastille: Wanderer Boots - well outside Pharros - elevator room",
+				"name": "Bastille: Wanderer Boots - well outside Pharros - elevator room"
+			  },
+			  {
+				"ref": "Lost Bastille/McDuff Metal Chest/Bastille: Craftsman's Hammer - McDuff's workshop, metal chest",
+				"name": "Bastille: Craftsman's Hammer - McDuff's workshop, metal chest"
+			  },
+			  {
+				"ref": "Lost Bastille/McDuff Metal Chest/Bastille: Twinkling Titanite - McDuff's workshop, metal chest",
+				"name": "Bastille: Twinkling Titanite - McDuff's workshop, metal chest"
+			  },
+			  {
+				"ref": "Lost Bastille/Bastille: Heavy Bolt x10 - McDuff's workshop, fourth chest/",
+				"name": "Bastille: Heavy Bolt x10 - McDuff's workshop, fourth chest"
+			  }
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1565,
+            "y": 430,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Lost Bastille part 4",
+		"sections": [
+			  {
+				"ref": "Lost Bastille/Bastille: Titanite Shard x5 - McDuff's workshop, second chest/",
+				"name": "Bastille: Titanite Shard x5 - McDuff's workshop, second chest"
+			  },
+			  {
+				"ref": "Lost Bastille/Bastille: Iron Arrow x10 - McDuff's workshop, third chest/",
+				"name": "Bastille: Iron Arrow x10 - McDuff's workshop, third chest"
+			  },
+			  {
+				"ref": "Lost Bastille/Bastille: Large Titanite Shard x2 - McDuff's workshop, first chest/",
+				"name": "Bastille: Large Titanite Shard x2 - McDuff's workshop, first chest"
+			  },
+			  {
+				"ref": "Lost Bastille/Bastille: Antiquated Key - metal chest next to Lucatiel/",
+				"name": "Bastille: Antiquated Key - metal chest next to Lucatiel"
+			  },
+			  {
+				"ref": "Lost Bastille/Bastille: Large Titanite Shard - Lucatiel tower upper floor/",
+				"name": "Bastille: Large Titanite Shard - Lucatiel tower upper floor"
+			  },
+			  {
+				"ref": "Lost Bastille/Bastille: Gold Pine Resin - near stairs up from McDuff's/",
+				"name": "Bastille: Gold Pine Resin - near stairs up from McDuff's"
+			  },
+			  {
+				"ref": "Lost Bastille/Soul of a Brave Warrior and Golden Wing Shield/Bastille: Soul of a Brave Warrior - end of path above Mcduff's workshop",
+				"name": "Bastille: Soul of a Brave Warrior - end of path above Mcduff's workshop"
+			  },
+			  {
+				"ref": "Lost Bastille/Soul of a Brave Warrior and Golden Wing Shield/Bastille: Golden Wing Shield - end of path above Mcduff's workshop",
+				"name": "Bastille: Golden Wing Shield - end of path above Mcduff's workshop"
+			  },
+			  {
+				"ref": "Lost Bastille/Bastille: Skeptic's Spice - top of cage elevator, corpse/",
+				"name": "Bastille: Skeptic's Spice - top of cage elevator, corpse"
+			  },
+			  {
+				"ref": "Lost Bastille/Bastille: Lifegem x8 - beginning of bridge to Sinner's Rise/",
+				"name": "Bastille: Lifegem x8 - beginning of bridge to Sinner's Rise"
+			  },
+			  {
+				"ref": "Lost Bastille/Bastille: Bracing Knuckle Ring - after double illusory wall, end of path/",
+				"name": "Bastille: Bracing Knuckle Ring - after double illusory wall, end of path"
+			  },
+			  {
+				"ref": "Lost Bastille/after double illusory wall, jump gap/Bastille: Flame Butterfly - after double illusory wall, jump gap",
+				"name": "Bastille: Flame Butterfly - after double illusory wall, jump gap"
+			  },
+			  {
+				"ref": "Lost Bastille/after double illusory wall, jump gap/Bastille: Torch x3 - after double illusory wall, jump gap",
+				"name": "Bastille: Torch x3 - after double illusory wall, jump gap"
+			  }
+			  
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1595,
+            "y": 430,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "McDuff shop",
+		"sections": [
+			  {
+				"ref": "Lost Bastille/McDuff Shop/Bastille: Uchigatana - McDuff shop",
+				"name": "Bastille: Uchigatana - McDuff shop"
+			  },
+			  {
+				"ref": "Lost Bastille/McDuff Shop/Bastille: Bastard Sword - McDuff shop",
+				"name": "Bastille: Bastard Sword - McDuff shop"
+			  },
+			  {
+				"ref": "Lost Bastille/McDuff Shop/Bastille: Greataxe - McDuff shop",
+				"name": "Bastille: Greataxe - McDuff shop"
+			  },
+			  {
+				"ref": "Lost Bastille/McDuff Shop/Bastille: Winged Spear - McDuff shop",
+				"name": "Bastille: Winged Spear - McDuff shop"
+			  },
+			  {
+				"ref": "Lost Bastille/McDuff Shop/Bastille: Scythe - McDuff shop",
+				"name": "Bastille: Scythe - McDuff shop"
+			  },
+			  {
+				"ref": "Lost Bastille/McDuff Shop/Bastille: Royal Kite Shield - McDuff shop",
+				"name": "Bastille: Royal Kite Shield - McDuff shop"
+			  },
+			  {
+				"ref": "Lost Bastille/McDuff Shop/Bastille: Long Bow - McDuff shop",
+				"name": "Bastille: Long Bow - McDuff shop"
+			  },
+			  {
+				"ref": "Lost Bastille/McDuff Shop/Bastille: Light Crossbow - McDuff shop",
+				"name": "Bastille: Light Crossbow - McDuff shop"
+			  },
+			  {
+				"ref": "Lost Bastille/McDuff Shop/Bastille: Repair Powder - McDuff shop",
+				"name": "Bastille: Repair Powder - McDuff shop"
+			  }
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1550,
+            "y": 391,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Lost Bastille part 5",
+		"sections": [
+			  {
+				"ref": "Lost Bastille/Petrified Dragon Bone and Firebomb x3/Bastille: Petrified Dragon Bone - Straid's neighboring cell",
+				"name": "Bastille: Petrified Dragon Bone - Straid's neighboring cell"
+			  },
+			  {
+				"ref": "Lost Bastille/Petrified Dragon Bone and Firebomb x3/Bastille: Firebomb x3 - Straid's neighboring cell",
+				"name": "Bastille: Firebomb x3 - Straid's neighboring cell"
+			  },
+			  {
+				"ref": "Lost Bastille/Bastille: Green Blossom x2 - behind illusory wall - 2 levels below Straid/",
+				"name": "Bastille: Green Blossom x2 - behind illusory wall - 2 levels below Straid"
+			  },
+			  {
+				"ref": "Lost Bastille/Bastille: Bonfire Ascetic - ledge halfway up cage elevator shaft/",
+				"name": "Bastille: Bonfire Ascetic - ledge halfway up cage elevator shaft"
+			  },
+			  {
+				"ref": "Lost Bastille/Estus Shard and Large Titanite Shard/Bastille: Estus Flask Shard - behind dog/Pursuer courtyard, metal chest",
+				"name": "Bastille: Estus Flask Shard - behind dog/Pursuer courtyard, metal chest"
+			  },
+			  {
+				"ref": "Lost Bastille/Estus Shard and Large Titanite Shard/Bastille: Large Titanite Shard - behind dog/Pursuer courtyard, metal chest",
+				"name": "Bastille: Large Titanite Shard - behind dog/Pursuer courtyard, metal chest"
+			  },
+			  {
+				"ref": "Lost Bastille/Bastille: Alluring Skull - top of scaffolding, dog courtyard/",
+				"name": "Bastille: Alluring Skull - top of scaffolding, dog courtyard"
+			  },
+			  {
+				"ref": "Lost Bastille/Soul of a Brave Warrior and Human Effigy/Bastille: Soul of a Brave Warrior - rubble path above Pursuer/dog courtyard (drop down)",
+				"name": "Bastille: Soul of a Brave Warrior - rubble path above Pursuer/dog courtyard (drop down)"
+			  },
+			  {
+				"ref": "Lost Bastille/Soul of a Brave Warrior and Human Effigy/Bastille: Human Effigy - rubble path above Pursuer/dog courtyard (drop down)",
+				"name": "Bastille: Human Effigy - rubble path above Pursuer/dog courtyard (drop down)"
+			  },
+			  {
+				"ref": "Lost Bastille/Bastille: Common Fruit x2 - cell near Exile Holding Cells bonfire/",
+				"name": "Bastille: Common Fruit x2 - cell near Exile Holding Cells bonfire"
+			  },
+			  {
+				"ref": "Lost Bastille/Soul of a Proud Knight and Radiant Lifegem/Bastille: Soul of a Proud Knight - cell, top of post-Wharf elevator ride",
+				"name": "Bastille: Soul of a Proud Knight - cell, top of post-Wharf elevator ride"
+			  },
+			  {
+				"ref": "Lost Bastille/Soul of a Proud Knight and Radiant Lifegem/Bastille: Radiant Lifegem - cell, top of post-Wharf elevator ride",
+				"name": "Bastille: Radiant Lifegem - cell, top of post-Wharf elevator ride"
+			  },
+			  {
+				"ref": "Lost Bastille/Scimitar and Repair Powder/Bastille: Scimitar - tunnel after riding on top of elevator post-Wharf",
+				"name": "Bastille: Scimitar - tunnel after riding on top of elevator post-Wharf"
+			  },
+			  {
+				"ref": "Lost Bastille/Scimitar and Repair Powder/Bastille: Repair Powder - tunnel after riding on top of elevator post-Wharf",
+				"name": "Bastille: Repair Powder - tunnel after riding on top of elevator post-Wharf"
+			  },
+			  {
+				"ref": "Lost Bastille/Bastille: Flame Butterfly x2 - jail cell by Antiquated door/",
+				"name": "Bastille: Flame Butterfly x2 - jail cell by Antiquated door"
+			  }	  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1625,
+            "y": 430,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Straid Shop",
+		"sections": [
+			  {
+				"ref": "Lost Bastille/Straid Shop/Bastille: Homing Soul Arrow - Straid shop",
+				"name": "Bastille: Homing Soul Arrow - Straid shop"
+			  },
+			  {
+				"ref": "Lost Bastille/Straid Shop/Bastille: Resplendent Life - Straid shop",
+				"name": "Bastille: Resplendent Life - Straid shop"
+			  },
+			  {
+				"ref": "Lost Bastille/Straid Shop/Bastille: Great Lightning Spear - Straid of Olaphis after Crypt boss",
+				"name": "Bastille: Great Lightning Spear - Straid of Olaphis after Crypt boss"
+			  },
+			  {
+				"ref": "Lost Bastille/Straid Shop/Bastille: Unveil - Straid shop",
+				"name": "Bastille: Unveil - Straid shop"
+			  },
+			  {
+				"ref": "Lost Bastille/Straid Shop/Bastille: Sunlight Blade - Straid of Olaphis after Crypt boss",
+				"name": "Bastille: Sunlight Blade - Straid of Olaphis after Crypt boss"
+			  },
+			  {
+				"ref": "Lost Bastille/Straid Shop/Bastille: Lingering Flame - Straid shop",
+				"name": "Bastille: Lingering Flame - Straid shop"
+			  },
+			  {
+				"ref": "Lost Bastille/Straid Shop/Bastille: Flame Swathe - Straid shop",
+				"name": "Bastille: Flame Swathe - Straid shop"
+			  },
+			  {
+				"ref": "Lost Bastille/Straid Shop/Bastille: Dark Orb - Straid shop",
+				"name": "Bastille: Dark Orb - Straid shop"
+			  },
+			  {
+				"ref": "Lost Bastille/Straid Shop/Bastille: Dark Hail - Straid shop",
+				"name": "Bastille: Dark Hail - Straid shop"
+			  },
+			  {
+				"ref": "Lost Bastille/Straid Shop/Bastille: Dark Fog - Straid shop",
+				"name": "Bastille: Dark Fog - Straid shop"
+			  },
+			  {
+				"ref": "Lost Bastille/Straid Shop/Bastille: Affinity - Straid shop",
+				"name": "Bastille: Affinity - Straid shop"
+			  },
+			  {
+				"ref": "Lost Bastille/Straid Shop/Bastille: Strong Magic Shield - Straid shop",
+				"name": "Bastille: Strong Magic Shield - Straid shop"
+			  },
+			  {
+				"ref": "Lost Bastille/Straid Shop/Bastille: Cast Light - Straid shop",
+				"name": "Bastille: Cast Light - Straid shop"
+			  },
+			  {
+				"ref": "Lost Bastille/Straid Shop/Bastille: Ring of Knowledge - Straid shop",
+				"name": "Bastille: Ring of Knowledge - Straid shop"
+			  },
+			  {
+				"ref": "Lost Bastille/Straid Shop/Bastille: Lingering Dragoncrest Ring - Straid shop",
+				"name": "Bastille: Lingering Dragoncrest Ring - Straid shop"
+			  },
+			  {
+				"ref": "Lost Bastille/Straid Shop/Bastille: Agape Ring - Straid shop",
+				"name": "Bastille: Agape Ring - Straid shop"
+			  }
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1580,
+            "y": 391,
+			"size": 15
+		  }
+		]
+	  },
+
+
+
+	  {
+		"name": "Huntsmans Copse part 1",
+		"sections": [
+			  {
+				"ref": "Huntsmans Copse/Lifegem and Soul of a Nameless Soldier/Copse: Lifegem - first house, lower level, circular hole",
+				"name": "Copse: Lifegem - first house, lower level, circular hole"
+			  },
+			  {
+				"ref": "Huntsmans Copse/Lifegem and Soul of a Nameless Soldier/Copse: Soul of a Nameless Soldier - first house, lower level, circular hole",
+				"name": "Copse: Soul of a Nameless Soldier - first house, lower level, circular hole"
+			  },
+			  {
+				"ref": "Huntsmans Copse/Copse: Bandit's Knife - first house, lower level, corner/",
+				"name": "Copse: Bandit's Knife - first house, lower level, corner"
+			  },
+			  {
+				"ref": "Huntsmans Copse/Poison Moss and Lifegem/Copse: Poison Moss - first house, roof, ledge",
+				"name": "Copse: Poison Moss - first house, roof, ledge"
+			  },
+			  {
+				"ref": "Huntsmans Copse/Poison Moss and Lifegem/Copse: Lifegem - first house, roof, ledge",
+				"name": "Copse: Lifegem - first house, roof, ledge"
+			  },
+			  {
+				"ref": "Huntsmans Copse/Monastery Charm and Large Soul of a Proud Knight/Copse: Monastery Charm - first cave, lower stone bridge",
+				"name": "Copse: Monastery Charm - first cave, lower stone bridge"
+			  },
+			  {
+				"ref": "Huntsmans Copse/Monastery Charm and Large Soul of a Proud Knight/Copse: Soul of a Proud Knight - first cave, lower stone bridge",
+				"name": "Copse: Soul of a Proud Knight - first cave, lower stone bridge"
+			  },
+			  {
+				"ref": "Huntsmans Copse/Copse: Ricard's Rapier - in first cave, metal chest/",
+				"name": "Copse: Ricard's Rapier - in first cave, metal chest"
+			  },
+			  {
+				"ref": "Huntsmans Copse/Copse: Large Soul of a Nameless Soldier - first cave, hidden passage to cage elevator/",
+				"name": "Copse: Large Soul of a Nameless Soldier - first cave, hidden passage to cage elevator"
+			  },
+			  {
+				"ref": "Huntsmans Copse/Pharros Lockstone and Token of Fidelity/Copse: Pharros' Lockstone - on pillar under bridge to Undead Purgatory",
+				"name": "Copse: Pharros' Lockstone - on pillar under bridge to Undead Purgatory"
+			  },
+			  {
+				"ref": "Huntsmans Copse/Pharros Lockstone and Token of Fidelity/Copse: Token of Fidelity - on pillar under bridge to Undead Purgatory",
+				"name": "Copse: Token of Fidelity - on pillar under bridge to Undead Purgatory"
+			  },
+			  {
+				"ref": "Huntsmans Copse/Copse: Cracked Red Eye Orb - ledge, above Bridge Approach bonfire/",
+				"name": "Copse: Cracked Red Eye Orb - ledge, above Bridge Approach bonfire"
+			  },
+			  {
+				"ref": "Huntsmans Copse/Large Soul of a Lost Undead and Small Orange Burr/Copse: Large Soul of a Lost Undead - left, before first stone bridge",
+				"name": "Copse: Large Soul of a Lost Undead - left, before first stone bridge"
+			  },
+			  {
+				"ref": "Huntsmans Copse/Large Soul of a Lost Undead and Small Orange Burr/Copse: Small Orange Burr - left, before first stone bridge",
+				"name": "Copse: Small Orange Burr - left, before first stone bridge"
+			  }
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1069,
+            "y": 105,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Huntsmans Copse part 2",
+		"sections": [
+			  {
+				"ref": "Huntsmans Copse/Copse: Notched Whip - ledge, on route to Undead Purgatory/",
+				"name": "Copse: Notched Whip - ledge, on route to Undead Purgatory"
+			  },
+			  {
+				"ref": "Huntsmans Copse/Copse: Lifegem - left, area after first stone bridge/",
+				"name": "Copse: Lifegem - left, area after first stone bridge"
+			  },
+			  {
+				"ref": "Huntsmans Copse/Copse: Aromatic Ooze - left, area after first stone bridge, guarded by enemy/",
+				"name": "Copse: Aromatic Ooze - left, area after first stone bridge, guarded by enemy"
+			  },
+			  {
+				"ref": "Huntsmans Copse/Large Soul of a Nameless Soldier and Morning Star/Copse: Large Soul of a Nameless Soldier - round hut, area after first stone bridge",
+				"name": "Copse: Large Soul of a Nameless Soldier - round hut, area after first stone bridge"
+			  },
+			  {
+				"ref": "Huntsmans Copse/Large Soul of a Nameless Soldier and Morning Star/Copse: Morning Star - round hut, area after first stone bridge",
+				"name": "Copse: Morning Star - round hut, area after first stone bridge"
+			  },
+			  {
+				"ref": "Huntsmans Copse/Right Side Round Hut/Copse: Poison Moss x2 - right side round hut, after first stone bridge",
+				"name": "Copse: Poison Moss x2 - right side round hut, after first stone bridge"
+			  },
+			  {
+				"ref": "Huntsmans Copse/Right Side Round Hut/Copse: Green Blossom - right side round hut, after first stone bridge",
+				"name": "Copse: Green Blossom - right side round hut, after first stone bridge"
+			  },
+			  {
+				"ref": "Huntsmans Copse/Right Side Round Hut/Copse: Soul Spear - right side round hut, after first stone bridge",
+				"name": "Copse: Soul Spear - right side round hut, after first stone bridge"
+			  },
+			  {
+				"ref": "Huntsmans Copse/Right Side Round Hut/Copse: Sublime Bone Dust - right side round hut, after first stone bridge, metal chest",
+				"name": "Copse: Sublime Bone Dust - right side round hut, after first stone bridge, metal chest"
+			  },
+			  {
+				"ref": "Huntsmans Copse/Mace and Titanite Shard/Copse: Mace - first Necromancer cave",
+				"name": "Copse: Mace - first Necromancer cave"
+			  },
+			  {
+				"ref": "Huntsmans Copse/Mace and Titanite Shard/Copse: Titanite Shard - first Necromancer cave",
+				"name": "Copse: Titanite Shard - first Necromancer cave"
+			  },
+			  {
+				"ref": "Huntsmans Copse/Combustion and Titanite Shard x3/Copse: Combustion - Necromancer cave, ledge overlooking canyone",
+				"name": "Copse: Combustion - Necromancer cave, ledge overlooking canyone"
+			  },
+			  {
+				"ref": "Huntsmans Copse/Combustion and Titanite Shard x3/Copse: Titanite Shard x3 - Necromancer cave, ledge overlooking canyon",
+				"name": "Copse: Titanite Shard x3 - Necromancer cave, ledge overlooking canyon"
+			  }			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1099,
+            "y": 105,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Huntsmans Copse part 3",
+		"sections": [
+			  {
+				"ref": "Huntsmans Copse/Necromancer cave, by shortcut portcullis/Copse: Flame Butterfly x3 - Necromancer cave, by shortcut portcullis",
+				"name": "Copse: Flame Butterfly x3 - Necromancer cave, by shortcut portcullis"
+			  },
+			  {
+				"ref": "Huntsmans Copse/Necromancer cave, by shortcut portcullis/Copse: Estus Flask Shard - Necromancer cave, by shortcut portcullis",
+				"name": "Copse: Estus Flask Shard - Necromancer cave, by shortcut portcullis"
+			  },
+			  {
+				"ref": "Huntsmans Copse/small ledge, dropdown from Merciless Roenna invasion/Copse: Poison Moss x3 - small ledge, dropdown from Merciless Roenna invasion",
+				"name": "Copse: Poison Moss x3 - small ledge, dropdown from Merciless Roenna invasion"
+			  },
+			  {
+				"ref": "Huntsmans Copse/small ledge, dropdown from Merciless Roenna invasion/Copse: Flamberge - small ledge, dropdown from Merciless Roenna invasion",
+				"name": "Copse: Flamberge - small ledge, dropdown from Merciless Roenna invasion"
+			  },
+			  {
+				"ref": "Huntsmans Copse/where Merciless Roenna invades/Copse: Poison Throwing Knife x10 - where Merciless Roenna invades",
+				"name": "Copse: Poison Throwing Knife x10 - where Merciless Roenna invades"
+			  },
+			  {
+				"ref": "Huntsmans Copse/where Merciless Roenna invades/Copse: Undead Lockaway Key - where Merciless Roenna invades",
+				"name": "Copse: Undead Lockaway Key - where Merciless Roenna invades"
+			  },
+			  {
+				"ref": "Huntsmans Copse/round hut, canyon before boss/Copse: Undead Lockaway Key - round hut, canyon before boss",
+				"name": "Copse: Undead Lockaway Key - round hut, canyon before boss"
+			  },
+			  {
+				"ref": "Huntsmans Copse/round hut, canyon before boss/Copse: Flame Butterfly x2 - round hut, canyon before boss",
+				"name": "Copse: Flame Butterfly x2 - round hut, canyon before boss"
+			  },
+			  {
+				"ref": "Huntsmans Copse/ledge, before Undead Purgatory Boss (requires jump)/Copse: Sublime Bone Dust - ledge, before Undead Purgatory Boss (requires jump)",
+				"name": "Copse: Sublime Bone Dust - ledge, before Undead Purgatory Boss (requires jump)"
+			  },
+			  {
+				"ref": "Huntsmans Copse/ledge, before Undead Purgatory Boss (requires jump)/Copse: Fire Seed - ledge, before Undead Purgatory Boss (requires jump)",
+				"name": "Copse: Fire Seed - ledge, before Undead Purgatory Boss (requires jump)"
+			  },
+			  {
+				"ref": "Huntsmans Copse/Copse: Human Effigy - Necromancer cave, stone pillar (requires jump)/",
+				"name": "Copse: Human Effigy - Necromancer cave, stone pillar (requires jump)"
+			  },
+			  {
+				"ref": "Huntsmans Copse/Copse: Rouge Water - corridor, after rotating rotunda/",
+				"name": "Copse: Rouge Water - corridor, after rotating rotunda"
+			  },
+			  {
+				"ref": "Huntsmans Copse/Copse: Skeleton Lord's Soul/",
+				"name": "Copse: Skeleton Lord's Soul"
+			  }
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1129,
+            "y": 105,
+			"size": 15
+		  }
+		]
+	  },
+
+
+
+	  {
+		"name": "Harvest Valley part 1",
+		"sections": [
+			  {
+				"ref": "Harvest Valley/HarvestValley: Torch x2 - first poison area/",
+				"name": "HarvestValley: Torch x2 - first poison area"
+			  },
+			  {
+				"ref": "Harvest Valley/Small Smooth and Silky Stone and Titanite Shard/HarvestValley: Small Smooth & Silky Stone - first poison area",
+				"name": "HarvestValley: Small Smooth & Silky Stone - first poison area"
+			  },
+			  {
+				"ref": "Harvest Valley/Small Smooth and Silky Stone and Titanite Shard/HarvestValley: Titanite Shard - first poison area",
+				"name": "HarvestValley: Titanite Shard - first poison area"
+			  },
+			  {
+				"ref": "Harvest Valley/Small Smooth and Silky Stone and Fading Soul/HarvestValley: Fading Soul - first poison area",
+				"name": "HarvestValley: Fading Soul - first poison area"
+			  },
+			  {
+				"ref": "Harvest Valley/Small Smooth and Silky Stone and Fading Soul/HarvestValley: Small Smooth & Silky Stone - first poison area #2",
+				"name": "HarvestValley: Small Smooth & Silky Stone - first poison area #2"
+			  },
+			  {
+				"ref": "Harvest Valley/First poison area corpse cluster/HarvestValley: Fading Soul - first poison area #3",
+				"name": "HarvestValley: Fading Soul - first poison area #3"
+			  },
+			  {
+				"ref": "Harvest Valley/First poison area corpse cluster/HarvestValley: Titanite Shard - first poison area #6",
+				"name": "HarvestValley: Titanite Shard - first poison area #6"
+			  },
+			  {
+				"ref": "Harvest Valley/First poison area corpse cluster/HarvestValley: Fading Soul - first poison area #7",
+				"name": "HarvestValley: Fading Soul - first poison area #7"
+			  },
+			  {
+				"ref": "Harvest Valley/First poison area corpse cluster/HarvestValley: Titanite Chunk - first poison area",
+				"name": "HarvestValley: Titanite Chunk - first poison area"
+			  },
+			  {
+				"ref": "Harvest Valley/First poison area corpse cluster #2/HarvestValley: Fading Soul - first poison area #2",
+				"name": "HarvestValley: Fading Soul - first poison area #2"
+			  },
+			  {
+				"ref": "Harvest Valley/First poison area corpse cluster #2/HarvestValley: Fading Soul - first poison area #6",
+				"name": "HarvestValley: Fading Soul - first poison area #6"
+			  },
+			  {
+				"ref": "Harvest Valley/First poison area corpse cluster #2/HarvestValley: Titanite Shard - first poison area #3",
+				"name": "HarvestValley: Titanite Shard - first poison area #3"
+			  },
+			  {
+				"ref": "Harvest Valley/HarvestValley: Poison Throwing Knife x10 - first poison area/",
+				"name": "HarvestValley: Poison Throwing Knife x10 - first poison area"
+			  },
+			  {
+				"ref": "Harvest Valley/HarvestValley: Fading Soul - first poison area #4/",
+				"name": "HarvestValley: Fading Soul - first poison area #4"
+			  }
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1233,
+            "y": 108,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Harvest Valley part 2",
+		"sections": [
+			  {
+				"ref": "Harvest Valley/HarvestValley: Lifegem - ledge, before first poison area/",
+				"name": "HarvestValley: Lifegem - ledge, before first poison area"
+			  },
+			  {
+				"ref": "Harvest Valley/First poison area corpse cluster #3/HarvestValley: Fading Soul - first poison area #5",
+				"name": "HarvestValley: Fading Soul - first poison area #5"
+			  },
+			  {
+				"ref": "Harvest Valley/First poison area corpse cluster #3/HarvestValley: Titanite Shard - first poison area #2",
+				"name": "HarvestValley: Titanite Shard - first poison area #2"
+			  },
+			  {
+				"ref": "Harvest Valley/First poison area corpse cluster #3/HarvestValley: Titanite Shard - first poison area #5",
+				"name": "HarvestValley: Titanite Shard - first poison area #5"
+			  },
+			  {
+				"ref": "Harvest Valley/First poison area corpse cluster #3/HarvestValley: Titanite Shard - first poison area #4",
+				"name": "HarvestValley: Titanite Shard - first poison area #4"
+			  },
+			  {
+				"ref": "Harvest Valley/HarvestValley: Titanite Chunk - first poison area #2/",
+				"name": "HarvestValley: Titanite Chunk - first poison area #2"
+			  },
+			  {
+				"ref": "Harvest Valley/HarvestValley: Torch - ledge, after first poison area/",
+				"name": "HarvestValley: Torch - ledge, after first poison area"
+			  },
+			  {
+				"ref": "Harvest Valley/Fire Seed and Divine Blessing, metal chest/HarvestValley: Fire Seed - poison area in Gavlan's cave, metal chest",
+				"name": "HarvestValley: Fire Seed - poison area in Gavlan's cave, metal chest"
+			  },
+			  {
+				"ref": "Harvest Valley/Fire Seed and Divine Blessing, metal chest/HarvestValley: Divine Blessing - poison area in Gavlan's cave, metal chest",
+				"name": "HarvestValley: Divine Blessing - poison area in Gavlan's cave, metal chest"
+			  },
+			  {
+				"ref": "Harvest Valley/Fragrant Branch and Torch/HarvestValley: Fragrant Branch of Yore - inside Gavlan's cave",
+				"name": "HarvestValley: Fragrant Branch of Yore - inside Gavlan's cave"
+			  },
+			  {
+				"ref": "Harvest Valley/Fragrant Branch and Torch/HarvestValley: Torch - inside Gavlan's cave",
+				"name": "HarvestValley: Torch - inside Gavlan's cave"
+			  },
+			  {
+				"ref": "Harvest Valley/HarvestValley: Raw Stone - inside Gavlan's cave, chest/",
+				"name": "HarvestValley: Raw Stone - inside Gavlan's cave, chest"
+			  },
+			  {
+				"ref": "Harvest Valley/HarvestValley: Hexing Urn x10 - first ladder before lever gate/",
+				"name": "HarvestValley: Hexing Urn x10 - first ladder before lever gate"
+			  }
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1263,
+            "y": 108,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Harvest Valley part 3",
+		"sections": [
+			  {
+				"ref": "Harvest Valley/Behind large breakable plank wall corpse cluster/HarvestValley: Radiant Lifegem - large breakable plank wall, after The Mines bonfire",
+				"name": "HarvestValley: Radiant Lifegem - large breakable plank wall, after The Mines bonfire"
+			  },
+			  {
+				"ref": "Harvest Valley/Behind large breakable plank wall corpse cluster/HarvestValley: Smooth & Silky Stone - large breakable plank wall, after The Mines bonfire",
+				"name": "HarvestValley: Smooth & Silky Stone - large breakable plank wall, after The Mines bonfire"
+			  },
+			  {
+				"ref": "Harvest Valley/Behind large breakable plank wall corpse cluster/HarvestValley: Torch - large breakable plank wall, after The Mines bonfire",
+				"name": "HarvestValley: Torch - large breakable plank wall, after The Mines bonfire"
+			  },
+			  {
+				"ref": "Harvest Valley/Behind large breakable plank wall corpse cluster/HarvestValley: Soul of a Lost Undead - large breakable plank wall, after The Mines bonfire",
+				"name": "HarvestValley: Soul of a Lost Undead - large breakable plank wall, after The Mines bonfire"
+			  },
+			  {
+				"ref": "Harvest Valley/Behind large breakable plank wall corpse cluster/HarvestValley: Old Knight Pike - large breakable plank wall, after The Mines bonfire",
+				"name": "HarvestValley: Old Knight Pike - large breakable plank wall, after The Mines bonfire"
+			  },
+			  {
+				"ref": "Harvest Valley/Behind large breakable plank wall corpse cluster/HarvestValley: Old Knight Greatshield - large breakable plank wall, after The Mines bonfire",
+				"name": "HarvestValley: Old Knight Greatshield - large breakable plank wall, after The Mines bonfire"
+			  },
+			  {
+				"ref": "Harvest Valley/Poison Stone and Rotten Pine Resin/HarvestValley: Poison Stone - ladder to poison filled tunnel, metal chest",
+				"name": "HarvestValley: Poison Stone - ladder to poison filled tunnel, metal chest"
+			  },
+			  {
+				"ref": "Harvest Valley/Poison Stone and Rotten Pine Resin/HarvestValley: Rotten Pine Resin x3 - ladder to poison filled tunnel, metal chest",
+				"name": "HarvestValley: Rotten Pine Resin x3 - ladder to poison filled tunnel, metal chest"
+			  },
+			  {
+				"ref": "Harvest Valley/HarvestValley: Soul of a Nameless Soldier - poison filled tunnel, ladder after The Mines bonfire/",
+				"name": "HarvestValley: Soul of a Nameless Soldier - poison filled tunnel, ladder after The Mines bonfire"
+			  },
+			  {
+				"ref": "Harvest Valley/HarvestValley: Fading Soul - poison filled tunnel, hole after The Mines bonfire/",
+				"name": "HarvestValley: Fading Soul - poison filled tunnel, hole after The Mines bonfire"
+			  },
+			  {
+				"ref": "Harvest Valley/HarvestValley: Simpleton's Spice - poison filled tunnel, hole after The Mines bonfire/",
+				"name": "HarvestValley: Simpleton's Spice - poison filled tunnel, hole after The Mines bonfire"
+			  },
+			  {
+				"ref": "Harvest Valley/Human Effigy and Large Titanite Shard/HarvestValley: Human Effigy - small cave in second poison area",
+				"name": "HarvestValley: Human Effigy - small cave in second poison area"
+			  },
+			  {
+				"ref": "Harvest Valley/Human Effigy and Large Titanite Shard/HarvestValley: Large Titanite Shard - small cave in second poison area",
+				"name": "HarvestValley: Large Titanite Shard - small cave in second poison area"
+			  },
+			  {
+				"ref": "Harvest Valley/HarvestValley: Titanite Slab - poison area before EarthenPeak/",
+				"name": "HarvestValley: Titanite Slab - poison area before EarthenPeak"
+			  }
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1293,
+            "y": 108,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Harvest Valley part 4",
+		"sections": [
+			  {
+				"ref": "Harvest Valley/HarvestValley: Titanite Shard - poison area before EarthenPeak #2/",
+				"name": "HarvestValley: Titanite Shard - poison area before EarthenPeak #2"
+			  },
+			  {
+				"ref": "Harvest Valley/HarvestValley: Titanite Shard - poison area before EarthenPeak/",
+				"name": "HarvestValley: Titanite Shard - poison area before EarthenPeak"
+			  },
+			  {
+				"ref": "Harvest Valley/Poison area before Earthen Peak corpse cluster/HarvestValley: Dragon Charm - poison area before EarthenPeak",
+				"name": "HarvestValley: Dragon Charm - poison area before EarthenPeak"
+			  },
+			  {
+				"ref": "Harvest Valley/Poison area before Earthen Peak corpse cluster/HarvestValley: Washing Pole - poison area before EarthenPeak",
+				"name": "HarvestValley: Washing Pole - poison area before EarthenPeak"
+			  },
+			  {
+				"ref": "Harvest Valley/Poison area before Earthen Peak corpse cluster/HarvestValley: Titanite Shard - poison area before EarthenPeak #3",
+				"name": "HarvestValley: Titanite Shard - poison area before EarthenPeak #3"
+			  },
+			  {
+				"ref": "Harvest Valley/Poison area before Earthen Peak corpse cluster/HarvestValley: Chameleon - poison area before EarthenPeak",
+				"name": "HarvestValley: Chameleon - poison area before EarthenPeak"
+			  },
+			  {
+				"ref": "Harvest Valley/Poison area before Earthen Peak corpse cluster/HarvestValley: Soul of a Brave Warrior - poison area before EarthenPeak",
+				"name": "HarvestValley: Soul of a Brave Warrior - poison area before EarthenPeak"
+			  },
+			  {
+				"ref": "Harvest Valley/HarvestValley: Green Blossom x3 - middle of plank wall area, after The Mines bonfire/",
+				"name": "HarvestValley: Green Blossom x3 - middle of plank wall area, after The Mines bonfire"
+			  },
+			  {
+				"ref": "Harvest Valley/HarvestValley: Simpleton's Spice - behind plank wall, after The Mines bonfire/",
+				"name": "HarvestValley: Simpleton's Spice - behind plank wall, after The Mines bonfire"
+			  },
+			  {
+				"ref": "Harvest Valley/HarvestValley: Large Titanite Shard - behind plank wall, after The Mines bonfire/",
+				"name": "HarvestValley: Large Titanite Shard - behind plank wall, after The Mines bonfire"
+			  },
+			  {
+				"ref": "Harvest Valley/Large Soul of a Brave Warrior and Radiant Lifegem/HarvestValley: Large Soul of a Brave Warrior - behind plank wall, after The Mines bonfire",
+				"name": "HarvestValley: Large Soul of a Brave Warrior - behind plank wall, after The Mines bonfire"
+			  },
+			  {
+				"ref": "Harvest Valley/Large Soul of a Brave Warrior and Radiant Lifegem/HarvestValley: Radiant Lifegem - behind plank wall, after The Mines bonfire",
+				"name": "HarvestValley: Radiant Lifegem - behind plank wall, after The Mines bonfire"
+			  },
+			  {
+				"ref": "Harvest Valley/HarvestValley: Lifegem x5 - behind plank wall, after The Mines bonfire/",
+				"name": "HarvestValley: Lifegem x5 - behind plank wall, after The Mines bonfire"
+			  },
+			  {
+				"ref": "Harvest Valley/HarvestValley: Titanite Shard - behind plank wall, after The Mines bonfire/",
+				"name": "HarvestValley: Titanite Shard - behind plank wall, after The Mines bonfire"
+			  }
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1323,
+            "y": 108,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Harvest Valley part 5",
+		"sections": [
+			  {
+				"ref": "Harvest Valley/HarvestValley: Skeptic's Spice - behind plank wall, after The Mines bonfire/",
+				"name": "HarvestValley: Skeptic's Spice - behind plank wall, after The Mines bonfire"
+			  },
+			  {
+				"ref": "Harvest Valley/ledge, overlooking area after The Mines/HarvestValley: Fragrant Branch of Yore - ledge, overlooking area after The Mines",
+				"name": "HarvestValley: Fragrant Branch of Yore - ledge, overlooking area after The Mines"
+			  },
+			  {
+				"ref": "Harvest Valley/ledge, overlooking area after The Mines/HarvestValley: Petrified Something - ledge, overlooking area after The Mines",
+				"name": "HarvestValley: Petrified Something - ledge, overlooking area after The Mines"
+			  },
+			  {
+				"ref": "Harvest Valley/Chloanne Shop/HarvestValley: Soul Appease - Chloanne shop",
+				"name": "HarvestValley: Soul Appease - Chloanne shop"
+			  },
+			  {
+				"ref": "Harvest Valley/Chloanne Shop/HarvestValley: Dead Again - Chloanne shop",
+				"name": "HarvestValley: Dead Again - Chloanne shop"
+			  },
+			  {
+				"ref": "Harvest Valley/Chloanne Shop/HarvestValley: Bonfire Ascetic - Chloanne shop",
+				"name": "HarvestValley: Bonfire Ascetic - Chloanne shop"
+			  }
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1353,
+            "y": 108,
+			"size": 15
+		  }
+		]
+	  },
+
+
+	  {
+		"name": "Brightstone Cove Tseldora part 1",
+		"sections": [
+			  {
+				"ref": "Brightstone Cove Tseldora/Tseldora: Radiant Lifegem - urn, first room/",
+				"name": "Tseldora: Radiant Lifegem - urn, first room"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Group of corpses at the back of camp/Tseldora: Large Soul of a Proud Knight - corpse at the back of camp",
+				"name": "Tseldora: Large Soul of a Proud Knight - corpse at the back of camp"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Group of corpses at the back of camp/Tseldora: Soul of a Nameless Soldier - corpse at the back of camp",
+				"name": "Tseldora: Soul of a Nameless Soldier - corpse at the back of camp"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Group of corpses at the back of camp/Tseldora: Soul of a Nameless Soldier - corpse at the back of camp #2",
+				"name": "Tseldora: Soul of a Nameless Soldier - corpse at the back of camp #2"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Group of corpses at the back of camp/Tseldora: Soul of a Nameless Soldier - corpse at the back of camp #3",
+				"name": "Tseldora: Soul of a Nameless Soldier - corpse at the back of camp #3"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Tseldora: Lacerating Arrow x15 - atop breakable tower, camp/",
+				"name": "Tseldora: Lacerating Arrow x15 - atop breakable tower, camp"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Tseldora: Large Soul of a Nameless Soldier - urn by ruined house, camp/",
+				"name": "Tseldora: Large Soul of a Nameless Soldier - urn by ruined house, camp"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Well Items/Tseldora: Titanite Shard - hanging on the well, camp",
+				"name": "Tseldora: Titanite Shard - hanging on the well, camp"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Well Items/Tseldora: Holy Water Urn x3 - bottom of well, camp",
+				"name": "Tseldora: Holy Water Urn x3 - bottom of well, camp"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Tseldora: Soul of a Nameless Soldier - on path, under first boulder/",
+				"name": "Tseldora: Soul of a Nameless Soldier - on path, under first boulder"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Tseldora: Soul of a Brave Warrior - under second boulder/",
+				"name": "Tseldora: Soul of a Brave Warrior - under second boulder"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Tseldora: Large Titanite Shard - ledge before first spider-decorated door/",
+				"name": "Tseldora: Large Titanite Shard - ledge before first spider-decorated door"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Tseldora: Heavy Bolt x20 - trapped chest before first boss/",
+				"name": "Tseldora: Heavy Bolt x20 - trapped chest before first boss"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Tseldora: Human Effigy - urn before first boss/",
+				"name": "Tseldora: Human Effigy - urn before first boss"
+			  }
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 683,
+            "y": 127,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Brightstone Cove Tseldora part 2",
+		"sections": [
+			  {
+				"ref": "Brightstone Cove Tseldora/Priestess Set/Tseldora: Priestess Headpiece - window behind illusory wall before first boss",
+				"name": "Tseldora: Priestess Headpiece - window behind illusory wall before first boss"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Priestess Set/Tseldora: Priestess Robe - window behind illusory wall before first boss",
+				"name": "Tseldora: Priestess Robe - window behind illusory wall before first boss"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Priestess Set/Tseldora: Priestess Gloves - window behind illusory wall before first boss",
+				"name": "Tseldora: Priestess Gloves - window behind illusory wall before first boss"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Priestess Set/Tseldora: Priestess Skirt - window behind illusory wall before first boss",
+				"name": "Tseldora: Priestess Skirt - window behind illusory wall before first boss"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Tseldora: Estus Flask Shard - window behind illusory wall before first boss/",
+				"name": "Tseldora: Estus Flask Shard - window behind illusory wall before first boss"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Items By Cromwell/Tseldora: Fading Soul - by Cromwell",
+				"name": "Tseldora: Fading Soul - by Cromwell"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Items By Cromwell/Tseldora: Cleric's Small Shield - by Cromwell",
+				"name": "Tseldora: Cleric's Small Shield - by Cromwell"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Items By Cromwell/Tseldora: Fading Soul - by Cromwell #2",
+				"name": "Tseldora: Fading Soul - by Cromwell #2"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Items By Cromwell/Tseldora: Skeptic's Spice - by Cromwell",
+				"name": "Tseldora: Skeptic's Spice - by Cromwell"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Items By Cromwell/Tseldora: Bonfire Ascetic - by Cromwell",
+				"name": "Tseldora: Bonfire Ascetic - by Cromwell"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Items By Cromwell/Tseldora: Fading Soul - by Cromwell #3",
+				"name": "Tseldora: Fading Soul - by Cromwell #3"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Tseldora: Soul of a Proud Knight - under stairs below Chapel Threshold bonfire/",
+				"name": "Tseldora: Soul of a Proud Knight - under stairs below Chapel Threshold bonfire"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Tseldora: Wilted Dusk Herb x2 - urn, first room below Chapel Threshold bonfire/",
+				"name": "Tseldora: Wilted Dusk Herb x2 - urn, first room below Chapel Threshold bonfire"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Tseldora: Petrified Dragon Bone - by webs, first sand area/",
+				"name": "Tseldora: Petrified Dragon Bone - by webs, first sand area"
+			  }
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 713,
+            "y": 127,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Cromwell Shop",
+		"sections": [
+			  {
+				"ref": "Brightstone Cove Tseldora/Cromwell Shop/Tseldora: White Priest Headpiece - Cromwell shop",
+				"name": "Tseldora: White Priest Headpiece - Cromwell shop"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Cromwell Shop/Tseldora: White Priest Robe - Cromwell shop",
+				"name": "Tseldora: White Priest Robe - Cromwell shop"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Cromwell Shop/Tseldora: White Priest Gloves - Cromwell shop",
+				"name": "Tseldora: White Priest Gloves - Cromwell shop"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Cromwell Shop/Tseldora: White Priest Skirt - Cromwell shop",
+				"name": "Tseldora: White Priest Skirt - Cromwell shop"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Cromwell Shop/Tseldora: Great Heal - Cromwell shop",
+				"name": "Tseldora: Great Heal - Cromwell shop"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Cromwell Shop/Tseldora: Replenishment - Cromwell shop",
+				"name": "Tseldora: Replenishment - Cromwell shop"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Cromwell Shop/Tseldora: Caressing Prayer - Cromwell shop",
+				"name": "Tseldora: Caressing Prayer - Cromwell shop"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Cromwell Shop/Tseldora: Force - Cromwell shop",
+				"name": "Tseldora: Force - Cromwell shop"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Cromwell Shop/Tseldora: Emit Force - Cromwell shop",
+				"name": "Tseldora: Emit Force - Cromwell shop"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Cromwell Shop/Tseldora: Heavenly Thunder - Cromwell shop",
+				"name": "Tseldora: Heavenly Thunder - Cromwell shop"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Cromwell Shop/Tseldora: Perseverance - Cromwell shop",
+				"name": "Tseldora: Perseverance - Cromwell shop"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Cromwell Shop/Tseldora: Scraps of Life - Cromwell shop",
+				"name": "Tseldora: Scraps of Life - Cromwell shop"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Cromwell Shop 2/Tseldora: Poisonbite Ring - Cromwell shop",
+				"name": "Tseldora: Poisonbite Ring - Cromwell shop"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Cromwell Shop 2/Tseldora: Bloodbite Ring - Cromwell shop",
+				"name": "Tseldora: Bloodbite Ring - Cromwell shop"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Cromwell Shop 2/Tseldora: Cursebite Ring - Cromwell shop",
+				"name": "Tseldora: Cursebite Ring - Cromwell shop"
+			  }
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 760,
+            "y": 85,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Brightstone Cove Tseldora part 3",
+		"sections": [
+			  {
+				"ref": "Brightstone Cove Tseldora/Tseldora: Estus Flask Shard - raised house by sand whirlpool/",
+				"name": "Tseldora: Estus Flask Shard - raised house by sand whirlpool"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Tseldora: Large Titanite Shard - roof, raised house by sand whirlpool/",
+				"name": "Tseldora: Large Titanite Shard - roof, raised house by sand whirlpool"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Tseldora: Charcoal Pine Resin x3 - urn, room with Pate/Creighton fight/",
+				"name": "Tseldora: Charcoal Pine Resin x3 - urn, room with Pate/Creighton fight"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Tseldora: Torch - mini staircase, room after Pate/Creighton fight/",
+				"name": "Tseldora: Torch - mini staircase, room after Pate/Creighton fight"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Tseldora: Southern Ritual Band+1 - lowerable platform, metal chest/",
+				"name": "Tseldora: Southern Ritual Band+1 - lowerable platform, metal chest"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Titanite Chunk and Twinkling Titanite/Tseldora: Titanite Chunk - ledge above sand whirlpool",
+				"name": "Tseldora: Titanite Chunk - ledge above sand whirlpool"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Titanite Chunk and Twinkling Titanite/Tseldora: Twinkling Titanite - ledge above sand whirlpool",
+				"name": "Tseldora: Twinkling Titanite - ledge above sand whirlpool"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Tseldora: Large Titanite Shard - house, cliffside above sand whirlpool/",
+				"name": "Tseldora: Large Titanite Shard - house, cliffside above sand whirlpool"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Tseldora: Pharros' Lockstone - urn, Ornifex's Tseldora room/",
+				"name": "Tseldora: Pharros' Lockstone - urn, Ornifex's Tseldora room"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Tseldora: Flame Butterfly - behind shelf, Ornifex's Tseldora room/",
+				"name": "Tseldora: Flame Butterfly - behind shelf, Ornifex's Tseldora room"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Crescent Axe and Soul Vortex/Tseldora: Crescent Axe - double-door house, by sand whirlpool, metal chest",
+				"name": "Tseldora: Crescent Axe - double-door house, by sand whirlpool, metal chest"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Crescent Axe and Soul Vortex/Tseldora: Soul Vortex - double-door house, by sand whirlpool, metal chest",
+				"name": "Tseldora: Soul Vortex - double-door house, by sand whirlpool, metal chest"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Tseldora: Titanite Chunk - back room full of sand, second sand area/",
+				"name": "Tseldora: Titanite Chunk - back room full of sand, second sand area"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Tseldora Den/Tseldora: Rusted Coin x10 - Tseldora Den, trapped chest",
+				"name": "Tseldora: Rusted Coin x10 - Tseldora Den, trapped chest"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Tseldora Den/Tseldora: Engraved Gauntlets - Tseldora Den, metal chest",
+				"name": "Tseldora: Engraved Gauntlets - Tseldora Den, metal chest"
+			  }
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 743,
+            "y": 127,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Ornifex shop",
+		"sections": [
+			  {
+				"ref": "Brightstone Cove Tseldora/Ornifex shop/Tseldora: Murakumo - Ornifex shop",
+				"name": "Tseldora: Murakumo - Ornifex shop"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Ornifex shop/Tseldora: Twinblade - Ornifex shop",
+				"name": "Tseldora: Twinblade - Ornifex shop"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Ornifex shop/Tseldora: Partizan - Ornifex shop",
+				"name": "Tseldora: Partizan - Ornifex shop"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Ornifex shop/Tseldora: Composite Bow - Ornifex shop",
+				"name": "Tseldora: Composite Bow - Ornifex shop"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Ornifex shop/Tseldora: Heavy Crossbow - Ornifex shop",
+				"name": "Tseldora: Heavy Crossbow - Ornifex shop"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Ornifex shop/Tseldora: Homing Soul Arrow - Ornifex shop",
+				"name": "Tseldora: Homing Soul Arrow - Ornifex shop"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Ornifex shop/Tseldora: Homing Soulmass - Ornifex shop",
+				"name": "Tseldora: Homing Soulmass - Ornifex shop"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Ornifex shop/Tseldora: Fall Control - Ornifex shop",
+				"name": "Tseldora: Fall Control - Ornifex shop"
+			  }
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 720,
+            "y": 85,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Brightstone Cove Tseldora part 4",
+		"sections": [
+			  {
+				"ref": "Brightstone Cove Tseldora/Tseldora: Large Titanite Shard - balcony, house before spiky mining field/",
+				"name": "Tseldora: Large Titanite Shard - balcony, house before spiky mining field"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Spiky Mining Field Items/Tseldora: Torch x3 - spiky mining field, corpse",
+				"name": "Tseldora: Torch x3 - spiky mining field, corpse"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Spiky Mining Field Items/Tseldora: Titanite Chunk x3 - spiky mining field, corpse",
+				"name": "Tseldora: Titanite Chunk x3 - spiky mining field, corpse"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Spiky Mining Field Items/Tseldora: Titanite Shard - spiky mining field, corpse",
+				"name": "Tseldora: Titanite Shard - spiky mining field, corpse"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Spiky Mining Field Items/Tseldora: Titanite Slab - spiky mining field, corpse",
+				"name": "Tseldora: Titanite Slab - spiky mining field, corpse"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Tseldora: Cracked Red Eye Orb - urn, right side after first boss/",
+				"name": "Tseldora: Cracked Red Eye Orb - urn, right side after first boss"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Tseldora: Poison Arrow x15 - urn, spider temple/",
+				"name": "Tseldora: Poison Arrow x15 - urn, spider temple"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Tseldora: Pickaxe - guide pig to eat mushrooms/",
+				"name": "Tseldora: Pickaxe - guide pig to eat mushrooms"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Chest behind Brightstone Key door/Tseldora: Black Knight Ultra Greatsword - behind locked door, spider temple, metal chest",
+				"name": "Tseldora: Black Knight Ultra Greatsword - behind locked door, spider temple, metal chest"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Chest behind Brightstone Key door/Tseldora: Great Fireball - behind locked door, spider temple, metal chest",
+				"name": "Tseldora: Great Fireball - behind locked door, spider temple, metal chest"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Chest behind Brightstone Key door/Tseldora: Fire Seed - behind locked door, spider temple, metal chest",
+				"name": "Tseldora: Fire Seed - behind locked door, spider temple, metal chest"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Tseldora: Homeward Bone x3 - right side lever-door, spider temple/",
+				"name": "Tseldora: Homeward Bone x3 - right side lever-door, spider temple"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Behind bench in spider temple/Tseldora: Soul of a Hero - behind bench in spider temple",
+				"name": "Tseldora: Soul of a Hero - behind bench in spider temple"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Behind bench in spider temple/Tseldora: Gold Pine Resin x4 - behind bench in spider temple",
+				"name": "Tseldora: Gold Pine Resin x4 - behind bench in spider temple"
+			  }
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 773,
+            "y": 127,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Brightstone Cove Tseldora part 5",
+		"sections": [
+			  {
+				"ref": "Brightstone Cove Tseldora/Tseldora: Pharros' Lockstone - urn, middle level web room/",
+				"name": "Tseldora: Pharros' Lockstone - urn, middle level web room"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Tseldora: Torch - middle level web room/",
+				"name": "Tseldora: Torch - middle level web room"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Tseldora: Twilight Herb - first floor web room, behind pillar/",
+				"name": "Tseldora: Twilight Herb - first floor web room, behind pillar"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Tseldora: Radiant Lifegem - corpse on the web, web room/",
+				"name": "Tseldora: Radiant Lifegem - corpse on the web, web room"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Tseldora: Corrosive Urn x5 - behind pillar, ground floor web room/",
+				"name": "Tseldora: Corrosive Urn x5 - behind pillar, ground floor web room"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Tseldora: Simpleton's Spice - under web in the web room/",
+				"name": "Tseldora: Simpleton's Spice - under web in the web room"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Tseldora: Soul of the Duke's Dear Freja/",
+				"name": "Tseldora: Soul of the Duke's Dear Freja"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Tseldora: Lightning Urn x4 - upper floor above Lower Brightstone Cove bonfire/",
+				"name": "Tseldora: Lightning Urn x4 - upper floor above Lower Brightstone Cove bonfire"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Tseldora: Titanite Slab - first boss drop/",
+				"name": "Tseldora: Titanite Slab - first boss drop"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Tseldora: Torch x2 - urn, house before spiky mining field/",
+				"name": "Tseldora: Torch x2 - urn, house before spiky mining field"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/Tseldora: Titanite Chunk - ledge overlooking second sand area/",
+				"name": "Tseldora: Titanite Chunk - ledge overlooking second sand area"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/ShadedWoods: Second Dragon Ring - Tark after killing last Tseldora boss/",
+				"name": "ShadedWoods: Second Dragon Ring - Tark after killing last Tseldora boss"
+			  },
+			  {
+				"ref": "Brightstone Cove Tseldora/ShadedWoods: Black Scorpion Stinger - Tark after killing last Tseldora boss/",
+				"name": "ShadedWoods: Black Scorpion Stinger - Tark after killing last Tseldora boss"
+			  }
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 803,
+            "y": 127,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Lower Earthen Peak",
+		"sections": [
+			  {
+				"ref": "Earthen Peak/poison filled corridor, lowest level/EarthenPeak: Estus Flask Shard - poison filled corridor, lowest level",
+				"name": "EarthenPeak: Estus Flask Shard - poison filled corridor, lowest level"
+			  },
+			  {
+				"ref": "Earthen Peak/poison filled corridor, lowest level/EarthenPeak: Repair Powder x2 - poison filled corridor, lowest level",
+				"name": "EarthenPeak: Repair Powder x2 - poison filled corridor, lowest level"
+			  },
+			  {
+				"ref": "Earthen Peak/Poisonbite Ring and Soul of a Proud Knight/EarthenPeak: Poisonbite Ring - behind Pharros contraption by Lucatiel, metal chest",
+				"name": "EarthenPeak: Poisonbite Ring - behind Pharros contraption by Lucatiel, metal chest"
+			  },
+			  {
+				"ref": "Earthen Peak/Poisonbite Ring and Soul of a Proud Knight/EarthenPeak: Soul of a Proud Knight - behind Pharros contraption by Lucatiel, metal chest",
+				"name": "EarthenPeak: Soul of a Proud Knight - behind Pharros contraption by Lucatiel, metal chest"
+			  },
+			  {
+				"ref": "Earthen Peak/EarthenPeak: Skeptic's Spice - narrow passage, before first boss/",
+				"name": "EarthenPeak: Skeptic's Spice - narrow passage, before first boss"
+			  },
+			  {
+				"ref": "Earthen Peak/EarthenPeak: Torch - side room before first boss, trapped chest/",
+				"name": "EarthenPeak: Torch - side room before first boss, trapped chest"
+			  },
+			  {
+				"ref": "Earthen Peak/Soul of a Nameless Soldier and Titanite Shard x3/EarthenPeak: Soul of a Nameless Soldier - after jump before first boss",
+				"name": "EarthenPeak: Soul of a Nameless Soldier - after jump before first boss"
+			  },
+			  {
+				"ref": "Earthen Peak/Soul of a Nameless Soldier and Titanite Shard x3/EarthenPeak: Titanite Shard x3 - after jump before first boss",
+				"name": "EarthenPeak: Titanite Shard x3 - after jump before first boss"
+			  },
+			  {
+				"ref": "Earthen Peak/Heavy Crossbow and Heavy Bolt x15/EarthenPeak: Heavy Crossbow - after jump before first boss, metal chest",
+				"name": "EarthenPeak: Heavy Crossbow - after jump before first boss, metal chest"
+			  },
+			  {
+				"ref": "Earthen Peak/Heavy Crossbow and Heavy Bolt x15/EarthenPeak: Heavy Bolt x15 - after jump before first boss, metal chest",
+				"name": "EarthenPeak: Heavy Bolt x15 - after jump before first boss, metal chest"
+			  },
+			  {
+				"ref": "Earthen Peak/EarthenPeak: Covetous Demon Soul/",
+				"name": "EarthenPeak: Covetous Demon Soul"
+			  }
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1456,
+            "y": 108,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Upper Earthen Peak part 1",
+		"sections": [
+			  {
+				"ref": "Earthen Peak/EarthenPeak: Radiant Lifegem - corner, first room after Lower Earthen Peak/",
+				"name": "EarthenPeak: Radiant Lifegem - corner, first room after Lower Earthen Peak"
+			  },
+			  {
+				"ref": "Earthen Peak/Broadsword and Human Effigy/EarthenPeak: Broadsword - broken bridge in machinery room, jump required",
+				"name": "EarthenPeak: Broadsword - broken bridge in machinery room, jump required"
+			  },
+			  {
+				"ref": "Earthen Peak/Broadsword and Human Effigy/EarthenPeak: Human Effigy - broken bridge in machinery room, jump required",
+				"name": "EarthenPeak: Human Effigy - broken bridge in machinery room, jump required"
+			  },
+			  {
+				"ref": "Earthen Peak/EarthenPeak: Pike - lower machinery room, chest/",
+				"name": "EarthenPeak: Pike - lower machinery room, chest"
+			  },
+			  {
+				"ref": "Earthen Peak/EarthenPeak: Black Firebomb x3 - one floor up from Central Earthen Peak/",
+				"name": "EarthenPeak: Black Firebomb x3 - one floor up from Central Earthen Peak"
+			  },
+			  {
+				"ref": "Earthen Peak/EarthenPeak: Manikin Mask - corner, one floor up from Central Earthen Peak/",
+				"name": "EarthenPeak: Manikin Mask - corner, one floor up from Central Earthen Peak"
+			  },
+			  {
+				"ref": "Earthen Peak/EarthenPeak: Simpleton's Spice - ledge through wooden breakable railing, behind windmill/",
+				"name": "EarthenPeak: Simpleton's Spice - ledge through wooden breakable railing, behind windmill"
+			  },
+			  {
+				"ref": "Earthen Peak/Pharros Lockstone and Twinkling Titanite/EarthenPeak: Pharros' Lockstone - ledge down Gilligan's ladder",
+				"name": "EarthenPeak: Pharros' Lockstone - ledge down Gilligan's ladder"
+			  },
+			  {
+				"ref": "Earthen Peak/Pharros Lockstone and Twinkling Titanite/EarthenPeak: Twinkling Titanite - ledge down Gilligan's ladder",
+				"name": "EarthenPeak: Twinkling Titanite - ledge down Gilligan's ladder"
+			  },
+			  {
+				"ref": "Earthen Peak/Soul of a Proud Knight and Divine Blessing/EarthenPeak: Large Soul of a Proud Knight - under raisable wooden platform",
+				"name": "EarthenPeak: Large Soul of a Proud Knight - under raisable wooden platform"
+			  },
+			  {
+				"ref": "Earthen Peak/Soul of a Proud Knight and Divine Blessing/EarthenPeak: Divine Blessing - under raisable wooden platform",
+				"name": "EarthenPeak: Divine Blessing - under raisable wooden platform"
+			  },
+			  {
+				"ref": "Earthen Peak/EarthenPeak: Great Heavy Soul Arrow - side room after Pate's door, metal chest/",
+				"name": "EarthenPeak: Great Heavy Soul Arrow - side room after Pate's door, metal chest"
+			  },
+			  {
+				"ref": "Earthen Peak/EarthenPeak: Radiant Lifegem - upper jumpable gap, machinery room/",
+				"name": "EarthenPeak: Radiant Lifegem - upper jumpable gap, machinery room"
+			  }
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1486,
+            "y": 108,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Upper Earthen Peak part 2",
+		"sections": [
+			  {
+				"ref": "Earthen Peak/Soul of a Brave Warrior and Crimson Water/EarthenPeak: Soul of a Brave Warrior - upper jumpable gap, machinery room, metal chest",
+				"name": "EarthenPeak: Soul of a Brave Warrior - upper jumpable gap, machinery room, metal chest"
+			  },
+			  {
+				"ref": "Earthen Peak/Soul of a Brave Warrior and Crimson Water/EarthenPeak: Crimson Water - upper jumpable gap, machinery room, metal chest",
+				"name": "EarthenPeak: Crimson Water - upper jumpable gap, machinery room, metal chest"
+			  },
+			  {
+				"ref": "Earthen Peak/EarthenPeak: Lightning Spear - machinery room after Pate's door, metal chest/",
+				"name": "EarthenPeak: Lightning Spear - machinery room after Pate's door, metal chest"
+			  },
+			  {
+				"ref": "Earthen Peak/EarthenPeak: Pharros' Lockstone - poison jars room near rotating blade, trapped chest/",
+				"name": "EarthenPeak: Pharros' Lockstone - poison jars room near rotating blade, trapped chest"
+			  },
+			  {
+				"ref": "Earthen Peak/EarthenPeak: Mirrah Shield - above raisable platform, metal chest/",
+				"name": "EarthenPeak: Mirrah Shield - above raisable platform, metal chest"
+			  },
+			  {
+				"ref": "Earthen Peak/EarthenPeak: Flame Butterfly - poison corridor, before rotating blade room/",
+				"name": "EarthenPeak: Flame Butterfly - poison corridor, before rotating blade room"
+			  },
+			  {
+				"ref": "Earthen Peak/EarthenPeak: Spell Quartz Ring+1 - left-side corridor illusory wall, after dart trap ladder/",
+				"name": "EarthenPeak: Spell Quartz Ring+1 - left-side corridor illusory wall, after dart trap ladder"
+			  },
+			  {
+				"ref": "Earthen Peak/EarthenPeak: Small Smooth & Silky Stone - next to mimic, downstairs from Upper Earthen Peak/",
+				"name": "EarthenPeak: Small Smooth & Silky Stone - next to mimic, downstairs from Upper Earthen Peak"
+			  },
+			  {
+				"ref": "Earthen Peak/EarthenPeak: Petrified Something - illusory wall above second boss, chest/",
+				"name": "EarthenPeak: Petrified Something - illusory wall above second boss, chest"
+			  },
+			  {
+				"ref": "Earthen Peak/EarthenPeak: Poison Stone - poison pool before second boss/",
+				"name": "EarthenPeak: Poison Stone - poison pool before second boss"
+			  },
+			  {
+				"ref": "Earthen Peak/EarthenPeak: Mytha, the Baneful Queen Soul/",
+				"name": "EarthenPeak: Mytha, the Baneful Queen Soul"
+			  }
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 1516,
+            "y": 108,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Drangleic Castle part 1",
+		"sections": [
+			  {
+				"ref": "Drangleic Castle/Drangleic: Holy Water Urn x2 - behind rock towards castle/",
+				"name": "Drangleic: Holy Water Urn x2 - behind rock towards castle"
+			  },
+			  {
+				"ref": "Drangleic Castle/Great Combustion and Fire Seed/Drangleic: Great Combustion - right side of castle gate, chest",
+				"name": "Drangleic: Great Combustion - right side of castle gate, chest"
+			  },
+			  {
+				"ref": "Drangleic Castle/Great Combustion and Fire Seed/Drangleic: Fire Seed - right side of castle gate, chest",
+				"name": "Drangleic: Fire Seed - right side of castle gate, chest"
+			  },
+			  {
+				"ref": "Drangleic Castle/Drangleic: Sublime Bone Dust - left side behind Wellager, chest/",
+				"name": "Drangleic: Sublime Bone Dust - left side behind Wellager, chest"
+			  },
+			  {
+				"ref": "Drangleic Castle/Drangleic: Dark Arrow x15 - after multi-door room, chest/",
+				"name": "Drangleic: Dark Arrow x15 - after multi-door room, chest"
+			  },
+			  {
+				"ref": "Drangleic Castle/Drangleic: Royal Soldier's Ring+1 - multi-door room, right side third door/",
+				"name": "Drangleic: Royal Soldier's Ring+1 - multi-door room, right side third door"
+			  },
+			  {
+				"ref": "Drangleic Castle/Drangleic: Mastodon Greatsword - multi-door room, right side second door/",
+				"name": "Drangleic: Mastodon Greatsword - multi-door room, right side second door"
+			  },
+			  {
+				"ref": "Drangleic Castle/Drangleic: Pharros' Lockstone - multi-door room, left side second door/",
+				"name": "Drangleic: Pharros' Lockstone - multi-door room, left side second door"
+			  },
+			  {
+				"ref": "Drangleic Castle/Cave by Grandahl/Drangleic: Faraam Helm - cave by Grandahl",
+				"name": "Drangleic: Faraam Helm - cave by Grandahl"
+			  },
+			  {
+				"ref": "Drangleic Castle/Cave by Grandahl/Drangleic: Faraam Armor - cave by Grandahl",
+				"name": "Drangleic: Faraam Armor - cave by Grandahl"
+			  },
+			  {
+				"ref": "Drangleic Castle/Cave by Grandahl/Drangleic: Faraam Gauntlets - cave by Grandahl",
+				"name": "Drangleic: Faraam Gauntlets - cave by Grandahl"
+			  },
+			  {
+				"ref": "Drangleic Castle/Cave by Grandahl/Drangleic: Faraam Boots - cave by Grandahl",
+				"name": "Drangleic: Faraam Boots - cave by Grandahl"
+			  },
+			  {
+				"ref": "Drangleic Castle/Soul of a Hero, Old Radiant Lifegem x3 and Monastery Charm/Drangleic: Soul of a Hero - after multi-door room, below stairs",
+				"name": "Drangleic: Soul of a Hero - after multi-door room, below stairs"
+			  },
+			  {
+				"ref": "Drangleic Castle/Soul of a Hero, Old Radiant Lifegem x3 and Monastery Charm/Drangleic: Old Radiant Lifegem x3 - after multi-door room, below stairs",
+				"name": "Drangleic: Old Radiant Lifegem x3 - after multi-door room, below stairs"
+			  },
+			  {
+				"ref": "Drangleic Castle/Soul of a Hero, Old Radiant Lifegem x3 and Monastery Charm/Drangleic: Monastery Charm - after multi-door room, below stairs",
+				"name": "Drangleic: Monastery Charm - after multi-door room, below stairs"
+			  }
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 83,
+            "y": 432,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Drangleic Castle part 2",
+		"sections": [
+			  {
+				"ref": "Drangleic Castle/Drangleic: Frozen Flower - after multi-door room/",
+				"name": "Drangleic: Frozen Flower - after multi-door room"
+			  },
+			  {
+				"ref": "Drangleic Castle/Drangleic: Elizabeth Mushroom - acid pool/",
+				"name": "Drangleic: Elizabeth Mushroom - acid pool"
+			  },
+			  {
+				"ref": "Drangleic Castle/Drangleic: Corrosive Urn x3 - acid pool, chest/",
+				"name": "Drangleic: Corrosive Urn x3 - acid pool, chest"
+			  },
+			  {
+				"ref": "Drangleic Castle/Hunter's Blackbow and Iron Arrow x20/Drangleic: Hunter's Blackbow - go down from hidden bonfire, chest",
+				"name": "Drangleic: Hunter's Blackbow - go down from hidden bonfire, chest"
+			  },
+			  {
+				"ref": "Drangleic Castle/Hunter's Blackbow and Iron Arrow x20/Drangleic: Iron Arrow x20 - go down from hidden bonfire, chest",
+				"name": "Drangleic: Iron Arrow x20 - go down from hidden bonfire, chest"
+			  },
+			  {
+				"ref": "Drangleic Castle/Drangleic: Soul of a Brave Warrior - by hidden bonfire/",
+				"name": "Drangleic: Soul of a Brave Warrior - by hidden bonfire"
+			  },
+			  {
+				"ref": "Drangleic Castle/Dart Trap Room Chest/Drangleic: Large Soul of a Brave Warrior - dart trap room, chest",
+				"name": "Drangleic: Large Soul of a Brave Warrior - dart trap room, chest"
+			  },
+			  {
+				"ref": "Drangleic Castle/Dart Trap Room Chest/Drangleic: Twinkling Titanite - dart trap room, chest",
+				"name": "Drangleic: Twinkling Titanite - dart trap room, chest"
+			  },
+			  {
+				"ref": "Drangleic Castle/Dart Trap Room/Drangleic: Large Soul of a Brave Warrior - dart trap room",
+				"name": "Drangleic: Large Soul of a Brave Warrior - dart trap room"
+			  },
+			  {
+				"ref": "Drangleic Castle/Dart Trap Room/Drangleic: Twinkling Titanite - dart trap room",
+				"name": "Drangleic: Twinkling Titanite - dart trap room"
+			  },
+			  {
+				"ref": "Drangleic Castle/Drangleic: Dragonrider Soul/",
+				"name": "Drangleic: Dragonrider Soul"
+			  },
+			  {
+				"ref": "Drangleic Castle/Cursed Painting Room/Drangleic: Fire Greatarrow x10 - cursed painting room",
+				"name": "Drangleic: Fire Greatarrow x10 - cursed painting room"
+			  },
+			  {
+				"ref": "Drangleic Castle/Cursed Painting Room/Drangleic: Destructive Greatarrow x10 - cursed painting room",
+				"name": "Drangleic: Destructive Greatarrow x10 - cursed painting room"
+			  },
+			  {
+				"ref": "Drangleic Castle/Cursed Painting Room/Drangleic: Petrified Dragon Bone - cursed painting room",
+				"name": "Drangleic: Petrified Dragon Bone - cursed painting room"
+			  },
+			  {
+				"ref": "Drangleic Castle/Cursed Painting Room/Drangleic: Torch x3 - cursed painting room",
+				"name": "Drangleic: Torch x3 - cursed painting room"
+			  }
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 113,
+            "y": 432,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Drangleic Castle part 3",
+		"sections": [
+			  {
+				"ref": "Drangleic Castle/Flame Butterfly x10 and Repair Powder x5/Drangleic: Repair Powder x5 - rooftop shortcut room/armory",
+				"name": "Drangleic: Repair Powder x5 - rooftop shortcut room/armory"
+			  },
+			  {
+				"ref": "Drangleic Castle/Flame Butterfly x10 and Repair Powder x5/Drangleic: Flame Butterfly x10 - rooftop shortcut room/armory",
+				"name": "Drangleic: Flame Butterfly x10 - rooftop shortcut room/armory"
+			  },
+			  {
+				"ref": "Drangleic Castle/Drangleic: Estus Flask Shard - rooftop shortcut room/armory, metal chest/",
+				"name": "Drangleic: Estus Flask Shard - rooftop shortcut room/armory, metal chest"
+			  },
+			  {
+				"ref": "Drangleic Castle/Drangleic: Firestorm - large hall after elevator golem, metal chest/",
+				"name": "Drangleic: Firestorm - large hall after elevator golem, metal chest"
+			  },
+			  {
+				"ref": "Drangleic Castle/Caitha's Chime and Soul Greatsword/Drangleic: Caitha's Chime - room after elevator golem, chest",
+				"name": "Drangleic: Caitha's Chime - room after elevator golem, chest"
+			  },
+			  {
+				"ref": "Drangleic Castle/Caitha's Chime and Soul Greatsword/Drangleic: Soul Greatsword - room after elevator golem, chest",
+				"name": "Drangleic: Soul Greatsword - room after elevator golem, chest"
+			  },
+			  {
+				"ref": "Drangleic Castle/Drangleic: Old Knight Hammer - room after elevator golem, chest/",
+				"name": "Drangleic: Old Knight Hammer - room after elevator golem, chest"
+			  },
+			  {
+				"ref": "Drangleic Castle/Soul Vessel and Fire Seed/Drangleic: Soul Vessel - embedded room, chest",
+				"name": "Drangleic: Soul Vessel - embedded room, chest"
+			  },
+			  {
+				"ref": "Drangleic Castle/Soul Vessel and Fire Seed/Drangleic: Fire Seed - embedded room, chest",
+				"name": "Drangleic: Fire Seed - embedded room, chest"
+			  },
+			  {
+				"ref": "Drangleic Castle/Drangleic: Key to King's Passage - embedded room, chest/",
+				"name": "Drangleic: Key to King's Passage - embedded room, chest"
+			  },
+			  {
+				"ref": "Drangleic Castle/Drangleic: Strong Magic Shield - embedded room, chest/",
+				"name": "Drangleic: Strong Magic Shield - embedded room, chest"
+			  },
+			  {
+				"ref": "Drangleic Castle/Drangleic: Ring of the Dead - release locked Milfanito/",
+				"name": "Drangleic: Ring of the Dead - release locked Milfanito"
+			  },
+			  {
+				"ref": "Drangleic Castle/Drangleic: Alluring Skull x3 - before second boss/",
+				"name": "Drangleic: Alluring Skull x3 - before second boss"
+			  },
+			  {
+				"ref": "Drangleic Castle/Drangleic: Lifegem - before second boss/",
+				"name": "Drangleic: Lifegem - before second boss"
+			  }
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 143,
+            "y": 432,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Drangleic Castle part 4",
+		"sections": [
+			  {
+				"ref": "Drangleic Castle/Soul of a Proud Knight and Twinkling Titanite/Drangleic: Soul of a Proud Knight - before second boss",
+				"name": "Drangleic: Soul of a Proud Knight - before second boss"
+			  },
+			  {
+				"ref": "Drangleic Castle/Soul of a Proud Knight and Twinkling Titanite/Drangleic: Twinkling Titanite - before second boss",
+				"name": "Drangleic: Twinkling Titanite - before second boss"
+			  },
+			  {
+				"ref": "Drangleic Castle/Drangleic: Petrified Something - before second boss/",
+				"name": "Drangleic: Petrified Something - before second boss"
+			  },
+			  {
+				"ref": "Drangleic Castle/Chest after second boss/Drangleic: Soul Bolt - after second boss, chest",
+				"name": "Drangleic: Soul Bolt - after second boss, chest"
+			  },
+			  {
+				"ref": "Drangleic Castle/Chest after second boss/Drangleic: Spell Quartz Ring+2 - after second boss, chest",
+				"name": "Drangleic: Spell Quartz Ring+2 - after second boss, chest"
+			  },
+			  {
+				"ref": "Drangleic Castle/Chest after second boss/Drangleic: Bonfire Ascetic x3 - after second boss, chest",
+				"name": "Drangleic: Bonfire Ascetic x3 - after second boss, chest"
+			  },
+			  {
+				"ref": "Drangleic Castle/Drangleic: Looking Glass Knight Soul/",
+				"name": "Drangleic: Looking Glass Knight Soul"
+			  }
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 173,
+            "y": 432,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Wellager Shop",
+		"sections": [
+			  {
+				"ref": "Drangleic Castle/Wellager Shop/Drangleic: Flamberge - Wellager shop",
+				"name": "Drangleic: Flamberge - Wellager shop"
+			  },
+			  {
+				"ref": "Drangleic Castle/Wellager Shop/Drangleic: Lucerne - Wellager shop",
+				"name": "Drangleic: Lucerne - Wellager shop"
+			  },
+			  {
+				"ref": "Drangleic Castle/Wellager Shop/Drangleic: Black Flamestone Dagger - Wellager shop after killing second Drangleic boss",
+				"name": "Drangleic: Black Flamestone Dagger - Wellager shop after killing second Drangleic boss"
+			  },
+			  {
+				"ref": "Drangleic Castle/Wellager Shop/Drangleic: Yellow Quartz Longsword - Wellager shop after killing second Drangleic boss",
+				"name": "Drangleic: Yellow Quartz Longsword - Wellager shop after killing second Drangleic boss"
+			  },
+			  {
+				"ref": "Drangleic Castle/Wellager Shop/Drangleic: Bound Hand Axe - Wellager shop after killing second Drangleic boss",
+				"name": "Drangleic: Bound Hand Axe - Wellager shop after killing second Drangleic boss"
+			  },
+			  {
+				"ref": "Drangleic Castle/Wellager Shop/Drangleic: Homunculus Mace - Wellager shop after killing second Drangleic boss",
+				"name": "Drangleic: Homunculus Mace - Wellager shop after killing second Drangleic boss"
+			  },
+			  {
+				"ref": "Drangleic Castle/Wellager Shop/Drangleic: Transgressor's Staff - Wellager shop after killing second Drangleic boss",
+				"name": "Drangleic: Transgressor's Staff - Wellager shop after killing second Drangleic boss"
+			  },
+			  {
+				"ref": "Drangleic Castle/Wellager Shop/Drangleic: Black Flamestone Parma - Wellager shop after killing second Drangleic boss",
+				"name": "Drangleic: Black Flamestone Parma - Wellager shop after killing second Drangleic boss"
+			  },
+			  {
+				"ref": "Drangleic Castle/Wellager Shop/Drangleic: Yellow Quartz Shield - Wellager shop after killing second Drangleic boss",
+				"name": "Drangleic: Yellow Quartz Shield - Wellager shop after killing second Drangleic boss"
+			  },
+			  {
+				"ref": "Drangleic Castle/Wellager Shop/Drangleic: Bound Wooden Shield - Wellager shop after killing second Drangleic boss",
+				"name": "Drangleic: Bound Wooden Shield - Wellager shop after killing second Drangleic boss"
+			  },
+			  {
+				"ref": "Drangleic Castle/Wellager Shop/Drangleic: Homunculus Wooden Shield - Wellager shop after killing second Drangleic boss",
+				"name": "Drangleic: Homunculus Wooden Shield - Wellager shop after killing second Drangleic boss"
+			  },
+			  {
+				"ref": "Drangleic Castle/Wellager Shop/Drangleic: Great Magic Barrier - Wellager shop",
+				"name": "Drangleic: Great Magic Barrier - Wellager shop"
+			  },
+			  {
+				"ref": "Drangleic Castle/Wellager Shop/Drangleic: Bracing Knuckle Ring+1 - Wellager shop",
+				"name": "Drangleic: Bracing Knuckle Ring+1 - Wellager shop"
+			  },
+			  {
+				"ref": "Drangleic Castle/Wellager Shop/Drangleic: Transgressor's Leather Shield - Wellager shop after killing second Drangleic boss",
+				"name": "Drangleic: Transgressor's Leather Shield - Wellager shop after killing second Drangleic boss"
+			  }
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 128,
+            "y": 393,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Shrine of Amana part 1",
+		"sections": [
+			  {
+				"ref": "Shrine of Amana/Amana: Green Blossom - behind roots before Tower of Prayer/",
+				"name": "Amana: Green Blossom - behind roots before Tower of Prayer"
+			  },
+			  {
+				"ref": "Shrine of Amana/Wilted Dusk Herb x2 and Skeptic's Spice/Amana: Wilted Dusk Herb x2 - cliffside path, door below Tower of Prayer, chest",
+				"name": "Amana: Wilted Dusk Herb x2 - cliffside path, door below Tower of Prayer, chest"
+			  },
+			  {
+				"ref": "Shrine of Amana/Wilted Dusk Herb x2 and Skeptic's Spice/Amana: Skeptic's Spice - cliffside path, door below Tower of Prayer, chest",
+				"name": "Amana: Skeptic's Spice - cliffside path, door below Tower of Prayer, chest"
+			  },
+			  {
+				"ref": "Shrine of Amana/Amana: Large Soul of a Nameless Soldier - under stairs, below Tower of Prayer/",
+				"name": "Amana: Large Soul of a Nameless Soldier - under stairs, below Tower of Prayer"
+			  },
+			  {
+				"ref": "Shrine of Amana/Flame Butterfly and Twinkling Titanite/Amana: Flame Butterfly - cliffside path, door below Tower of Prayer",
+				"name": "Amana: Flame Butterfly - cliffside path, door below Tower of Prayer"
+			  },
+			  {
+				"ref": "Shrine of Amana/Flame Butterfly and Twinkling Titanite/Amana: Twinkling Titanite - cliffside path, door below Tower of Prayer",
+				"name": "Amana: Twinkling Titanite - cliffside path, door below Tower of Prayer"
+			  },
+			  {
+				"ref": "Shrine of Amana/Amana: Elizabeth Mushroom - immediately left after first tower, submerged chest/",
+				"name": "Amana: Elizabeth Mushroom - immediately left after first tower, submerged chest"
+			  },
+			  {
+				"ref": "Shrine of Amana/Amana: Human Effigy x2 - small island before first hut/",
+				"name": "Amana: Human Effigy x2 - small island before first hut"
+			  },
+			  {
+				"ref": "Shrine of Amana/Amana: Crimson Water x3 - behind the first hut, chest/",
+				"name": "Amana: Crimson Water x3 - behind the first hut, chest"
+			  },
+			  {
+				"ref": "Shrine of Amana/Soul of a Lost Undead and Skeptic's Spice/Amana: Soul of a Lost Undead - island before first fog gate",
+				"name": "Amana: Soul of a Lost Undead - island before first fog gate"
+			  },
+			  {
+				"ref": "Shrine of Amana/Soul of a Lost Undead and Skeptic's Spice/Amana: Skeptic's Spice - island before first fog gate",
+				"name": "Amana: Skeptic's Spice - island before first fog gate"
+			  },
+			  {
+				"ref": "Shrine of Amana/Torch x3 and Soul of a Lost Undead/Amana: Torch x3 - island before first fog gate",
+				"name": "Amana: Torch x3 - island before first fog gate"
+			  },
+			  {
+				"ref": "Shrine of Amana/Torch x3 and Soul of a Lost Undead/Amana: Soul of a Lost Undead - island before first fog gate #2",
+				"name": "Amana: Soul of a Lost Undead - island before first fog gate #2"
+			  },
+			  {
+				"ref": "Shrine of Amana/Amana: Large Soul of a Proud Knight - island before first fog gate/",
+				"name": "Amana: Large Soul of a Proud Knight - island before first fog gate"
+			  }
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 83,
+            "y": 340,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Shrine of Amana part 2",
+		"sections": [
+			  {
+				"ref": "Shrine of Amana/Amana: Dragon Charm - left of first fog gate, submerged chest/",
+				"name": "Amana: Dragon Charm - left of first fog gate, submerged chest"
+			  },
+			  {
+				"ref": "Shrine of Amana/Smooth & Silky Stone x3 and Twinkling Titanite/Amana: Twinkling Titanite - cave before first fog gate, metal chest",
+				"name": "Amana: Twinkling Titanite - cave before first fog gate, metal chest"
+			  },
+			  {
+				"ref": "Shrine of Amana/Smooth & Silky Stone x3 and Twinkling Titanite/Amana: Smooth & Silky Stone x3 - cave before first fog gate, metal chest",
+				"name": "Amana: Smooth & Silky Stone x3 - cave before first fog gate, metal chest"
+			  },
+			  {
+				"ref": "Shrine of Amana/Amana: Helix Halberd - submerged Pharros contraption after Crumbled Ruins bonfire, metal chest/",
+				"name": "Amana: Helix Halberd - submerged Pharros contraption after Crumbled Ruins bonfire, metal chest"
+			  },
+			  {
+				"ref": "Shrine of Amana/Amana: Fire Seed - half circle structure after Crumbled Ruins bonfire/",
+				"name": "Amana: Fire Seed - half circle structure after Crumbled Ruins bonfire"
+			  },
+			  {
+				"ref": "Shrine of Amana/King's Set/Amana: King's Crown - behind door, opens after defeating Vendrick, metal chest",
+				"name": "Amana: King's Crown - behind door, opens after defeating Vendrick, metal chest"
+			  },
+			  {
+				"ref": "Shrine of Amana/King's Set/Amana: King's Armor - behind door, opens after defeating Vendrick, metal chest",
+				"name": "Amana: King's Armor - behind door, opens after defeating Vendrick, metal chest"
+			  },
+			  {
+				"ref": "Shrine of Amana/King's Set/Amana: King's Gauntlets - behind door, opens after defeating Vendrick, metal chest",
+				"name": "Amana: King's Gauntlets - behind door, opens after defeating Vendrick, metal chest"
+			  },
+			  {
+				"ref": "Shrine of Amana/King's Set/Amana: King's Leggings - behind door, opens after defeating Vendrick, metal chest",
+				"name": "Amana: King's Leggings - behind door, opens after defeating Vendrick, metal chest"
+			  },
+			  {
+				"ref": "Shrine of Amana/Amana: Soul of the King - throne behind door, opens after defeating Vendrick/",
+				"name": "Amana: Soul of the King - throne behind door, opens after defeating Vendrick"
+			  },
+			  {
+				"ref": "Shrine of Amana/Second Hut/Amana: Old Radiant Lifegem - in the second hut",
+				"name": "Amana: Old Radiant Lifegem - in the second hut"
+			  },
+			  {
+				"ref": "Shrine of Amana/Second Hut/Amana: Large Soul of a Proud Knight - in the second hut",
+				"name": "Amana: Large Soul of a Proud Knight - in the second hut"
+			  },
+			  {
+				"ref": "Shrine of Amana/Second Hut/Amana: Smooth & Silky Stone - in the second hut",
+				"name": "Amana: Smooth & Silky Stone - in the second hut"
+			  },
+			  {
+				"ref": "Shrine of Amana/Amana: Estus Flask Shard - underwater walkway, right side after Crumbled Ruins bonfire/",
+				"name": "Amana: Estus Flask Shard - underwater walkway, right side after Crumbled Ruins bonfire"
+			  }
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 113,
+            "y": 340,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Shrine of Amana part 3",
+		"sections": [
+			  {
+				"ref": "Shrine of Amana/Amana: Sunlight Blade - underwater walkway, right side after Crumbled Ruins bonfire, metal chest/",
+				"name": "Amana: Sunlight Blade - underwater walkway, right side after Crumbled Ruins bonfire, metal chest"
+			  },
+			  {
+				"ref": "Shrine of Amana/Amana: Fire Tempest - water's edge near second hut, submerged metal chest/",
+				"name": "Amana: Fire Tempest - water's edge near second hut, submerged metal chest"
+			  },
+			  {
+				"ref": "Shrine of Amana/Life Ring+2 and Singer's Dress/Amana: Singer's Dress - cave behind roots, left after second hut",
+				"name": "Amana: Singer's Dress - cave behind roots, left after second hut"
+			  },
+			  {
+				"ref": "Shrine of Amana/Life Ring+2 and Singer's Dress/Amana: Life Ring+2 - cave behind roots, left after second hut",
+				"name": "Amana: Life Ring+2 - cave behind roots, left after second hut"
+			  },
+			  {
+				"ref": "Shrine of Amana/Amana: Alluring Skull x3 - rising-beam, left of second fog gate/",
+				"name": "Amana: Alluring Skull x3 - rising-beam, left of second fog gate"
+			  },
+			  {
+				"ref": "Shrine of Amana/Soul of a Hero and Divine Blessing/Amana: Soul of a Hero - walkway right of second fog gate",
+				"name": "Amana: Soul of a Hero - walkway right of second fog gate"
+			  },
+			  {
+				"ref": "Shrine of Amana/Soul of a Hero and Divine Blessing/Amana: Divine Blessing - walkway right of second fog gate",
+				"name": "Amana: Divine Blessing - walkway right of second fog gate"
+			  },
+			  {
+				"ref": "Shrine of Amana/Amana: Skeptic's Spice - middle of pillars after Rhoy's Resting Place bonfire/",
+				"name": "Amana: Skeptic's Spice - middle of pillars after Rhoy's Resting Place bonfire"
+			  },
+			  {
+				"ref": "Shrine of Amana/Red Iron Twinblade and Soul of a Proud Knight/Amana: Red Iron Twinblade - middle of pillars after Rhoy's Resting Place bonfire",
+				"name": "Amana: Red Iron Twinblade - middle of pillars after Rhoy's Resting Place bonfire"
+			  },
+			  {
+				"ref": "Shrine of Amana/Red Iron Twinblade and Soul of a Proud Knight/Amana: Soul of a Proud Knight - middle of pillars after Rhoy's Resting Place bonfire",
+				"name": "Amana: Soul of a Proud Knight - middle of pillars after Rhoy's Resting Place bonfire"
+			  },
+			  {
+				"ref": "Shrine of Amana/Soul of a Brave Warrior and Petrified Dragon Bone/Amana: Soul of a Brave Warrior - middle of pillars after Rhoy's Resting Place bonfire",
+				"name": "Amana: Soul of a Brave Warrior - middle of pillars after Rhoy's Resting Place bonfire"
+			  },
+			  {
+				"ref": "Shrine of Amana/Soul of a Brave Warrior and Petrified Dragon Bone/Amana: Petrified Dragon Bone - middle of pillars after Rhoy's Resting Place bonfire",
+				"name": "Amana: Petrified Dragon Bone - middle of pillars after Rhoy's Resting Place bonfire"
+			  },
+			  {
+				"ref": "Shrine of Amana/Amana: Homing Crystal Soulmass - fallen pilar, circle of pillars after Rhoy's Resting Place bonfire/",
+				"name": "Amana: Homing Crystal Soulmass - fallen pilar, circle of pillars after Rhoy's Resting Place bonfire"
+			  },
+			  {
+				"ref": "Shrine of Amana/Large Soul of a Proud Knight and Green Blossom/Amana: Large Soul of a Proud Knight - walkway, right side after Rhoy's Resting Place bonfire",
+				"name": "Amana: Large Soul of a Proud Knight - walkway, right side after Rhoy's Resting Place bonfire"
+			  },
+			  {
+				"ref": "Shrine of Amana/Large Soul of a Proud Knight and Green Blossom/Amana: Green Blossom - walkway, right side after Rhoy's Resting Place bonfire",
+				"name": "Amana: Green Blossom - walkway, right side after Rhoy's Resting Place bonfire"
+			  }
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 143,
+            "y": 340,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Shrine of Amana part 4",
+		"sections": [
+			  {
+				"ref": "Shrine of Amana/Torch before boss/Amana: Large Soul of a Proud Knight - torch before boss",
+				"name": "Amana: Large Soul of a Proud Knight - torch before boss"
+			  },
+			  {
+				"ref": "Shrine of Amana/Torch before boss/Amana: Green Blossom - torch before boss",
+				"name": "Amana: Green Blossom - torch before boss"
+			  },
+			  {
+				"ref": "Shrine of Amana/Demon of Song drops/Amana: Demon of Song Soul - boss drop",
+				"name": "Amana: Demon of Song Soul - boss drop"
+			  },
+			  {
+				"ref": "Shrine of Amana/Demon of Song drops/Amana: Key to the Embedded - boss drop",
+				"name": "Amana: Key to the Embedded - boss drop"
+			  },
+			  {
+				"ref": "Shrine of Amana/Amana: Magic Arrow x20 - outside Rise of the Dead bonfire, submerged chest/",
+				"name": "Amana: Magic Arrow x20 - outside Rise of the Dead bonfire, submerged chest"
+			  },
+			  {
+				"ref": "Shrine of Amana/Amana: Fire Seed - in cave, under stairs, tower with praying Milfanito/",
+				"name": "Amana: Fire Seed - in cave, under stairs, tower with praying Milfanito"
+			  },
+			  {
+				"ref": "Shrine of Amana/Amana: Bonfire Ascetic - outside tower with praying Milfanito, metal chest/",
+				"name": "Amana: Bonfire Ascetic - outside tower with praying Milfanito, metal chest"
+			  },
+			  {
+				"ref": "Shrine of Amana/Amana: Manslayer - outside tower with praying Milfanito, submerged metal chest/",
+				"name": "Amana: Manslayer - outside tower with praying Milfanito, submerged metal chest"
+			  }			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 173,
+            "y": 340,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Undead Crypt part 1",
+		"sections": [
+			  {
+				"ref": "Undead Crypt/Crypt: Radiant Lifegem - after first bonfire, right of stairs/",
+				"name": "Crypt: Radiant Lifegem - after first bonfire, right of stairs"
+			  },
+			  {
+				"ref": "Undead Crypt/Crypt: Large Soul of a Nameless Soldier - by Agdayne/",
+				"name": "Crypt: Large Soul of a Nameless Soldier - by Agdayne"
+			  },
+			  {
+				"ref": "Undead Crypt/Crushed Eye Orb and Fire Seed/Crypt: Crushed Eye Orb - above bridge after Agdayne",
+				"name": "Crypt: Crushed Eye Orb - above bridge after Agdayne"
+			  },
+			  {
+				"ref": "Undead Crypt/Crushed Eye Orb and Fire Seed/Crypt: Fire Seed - above bridge after Agdayne",
+				"name": "Crypt: Fire Seed - above bridge after Agdayne"
+			  },
+			  {
+				"ref": "Undead Crypt/Simpleton's Spice and Soul of a Great Hero/Crypt: Simpleton's Spice - below bridge after Agdayne",
+				"name": "Crypt: Simpleton's Spice - below bridge after Agdayne"
+			  },
+			  {
+				"ref": "Undead Crypt/Simpleton's Spice and Soul of a Great Hero/Crypt: Soul of a Great Hero - below bridge after Agdayne",
+				"name": "Crypt: Soul of a Great Hero - below bridge after Agdayne"
+			  },
+			  {
+				"ref": "Undead Crypt/Dried Fingers, Bonfire Ascetic and Twinkling Titanite/Crypt: Dried Fingers - balcony above second graveyard",
+				"name": "Crypt: Dried Fingers - balcony above second graveyard"
+			  },
+			  {
+				"ref": "Undead Crypt/Dried Fingers, Bonfire Ascetic and Twinkling Titanite/Crypt: Bonfire Ascetic - balcony above second graveyard",
+				"name": "Crypt: Bonfire Ascetic - balcony above second graveyard"
+			  },
+			  {
+				"ref": "Undead Crypt/Dried Fingers, Bonfire Ascetic and Twinkling Titanite/Crypt: Twinkling Titanite - balcony above second graveyard",
+				"name": "Crypt: Twinkling Titanite - balcony above second graveyard"
+			  },
+			  {
+				"ref": "Undead Crypt/Petrified Dragon Bone and Titanite Chunk/Crypt: Petrified Dragon Bone - first graveyard",
+				"name": "Crypt: Petrified Dragon Bone - first graveyard"
+			  },
+			  {
+				"ref": "Undead Crypt/Petrified Dragon Bone and Titanite Chunk/Crypt: Titanite Chunk - first graveyard",
+				"name": "Crypt: Titanite Chunk - first graveyard"
+			  },
+			  {
+				"ref": "Undead Crypt/Crypt: Bracing Knuckle Ring+2 - second graveyard/",
+				"name": "Crypt: Bracing Knuckle Ring+2 - second graveyard"
+			  },
+			  {
+				"ref": "Undead Crypt/Crypt: Soul of a Lost Undead - second graveyard/",
+				"name": "Crypt: Soul of a Lost Undead - second graveyard"
+			  },
+			  {
+				"ref": "Undead Crypt/Divine Blessing and Soul of a Hero/Crypt: Divine Blessing - room after second graveyard",
+				"name": "Crypt: Divine Blessing - room after second graveyard"
+			  },
+			  {
+				"ref": "Undead Crypt/Divine Blessing and Soul of a Hero/Crypt: Soul of a Hero - room after second graveyard",
+				"name": "Crypt: Soul of a Hero - room after second graveyard"
+			  }
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 158,
+            "y": 241,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Undead Crypt part 2",
+		"sections": [
+			  {
+				"ref": "Undead Crypt/Avelyn and Heavy Bolt x15/Crypt: Avelyn - illusory wall, room after second graveyard",
+				"name": "Crypt: Avelyn - illusory wall, room after second graveyard"
+			  },
+			  {
+				"ref": "Undead Crypt/Avelyn and Heavy Bolt x15/Crypt: Heavy Bolt x15 - illusory wall, room after second graveyard",
+				"name": "Crypt: Heavy Bolt x15 - illusory wall, room after second graveyard"
+			  },
+			  {
+				"ref": "Undead Crypt/Simpleton's Spice and Black Firebomb x2/Crypt: Simpleton's Spice - first graveyard",
+				"name": "Crypt: Simpleton's Spice - first graveyard"
+			  },
+			  {
+				"ref": "Undead Crypt/Simpleton's Spice and Black Firebomb x2/Crypt: Black Firebomb x2 - first graveyard",
+				"name": "Crypt: Black Firebomb x2 - first graveyard"
+			  },
+			  {
+				"ref": "Undead Crypt/Crypt: Soul Vessel - under shortcut, metal chest/",
+				"name": "Crypt: Soul Vessel - under shortcut, metal chest"
+			  },
+			  {
+				"ref": "Undead Crypt/Mace of the Insolent and Soul of a Hero/Crypt: Mace of the Insolent - third graveyard",
+				"name": "Crypt: Mace of the Insolent - third graveyard"
+			  },
+			  {
+				"ref": "Undead Crypt/Mace of the Insolent and Soul of a Hero/Crypt: Soul of a Hero - third graveyard",
+				"name": "Crypt: Soul of a Hero - third graveyard"
+			  },
+			  {
+				"ref": "Undead Crypt/Pharro behind illusory wall/Crypt: Olenford's Staff - Pharros contraption behind illusory wall, third graveyard room, metal chest",
+				"name": "Crypt: Olenford's Staff - Pharros contraption behind illusory wall, third graveyard room, metal chest"
+			  },
+			  {
+				"ref": "Undead Crypt/Pharro behind illusory wall/Crypt: Great Lightning Spear - Pharros contraption behind illusory wall, third graveyard room, metal chest",
+				"name": "Crypt: Great Lightning Spear - Pharros contraption behind illusory wall, third graveyard room, metal chest"
+			  },
+			  {
+				"ref": "Undead Crypt/Third graveyard side tunnel/Crypt: Large Soul of a Proud Knight - third graveyard, side tunnel",
+				"name": "Crypt: Large Soul of a Proud Knight - third graveyard, side tunnel"
+			  },
+			  {
+				"ref": "Undead Crypt/Third graveyard side tunnel/Crypt: Dragon Charm - third graveyard, side tunnel",
+				"name": "Crypt: Dragon Charm - third graveyard, side tunnel"
+			  },
+			  {
+				"ref": "Undead Crypt/Crypt: Soul of a Hero - overlooking Undead Ditch bonfire/",
+				"name": "Crypt: Soul of a Hero - overlooking Undead Ditch bonfire"
+			  },
+			  {
+				"ref": "Undead Crypt/Radiant Lifegem and Homeward Bone/Crypt: Radiant Lifegem - third graveyard",
+				"name": "Crypt: Radiant Lifegem - third graveyard"
+			  },
+			  {
+				"ref": "Undead Crypt/Radiant Lifegem and Homeward Bone/Crypt: Homeward Bone - third graveyard",
+				"name": "Crypt: Homeward Bone - third graveyard"
+			  }
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 128,
+            "y": 241,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Undead Crypt part 3",
+		"sections": [
+			  {
+				"ref": "Undead Crypt/Crypt: King's Ring - last boss room/",
+				"name": "Crypt: King's Ring - last boss room"
+			  },
+			  {
+				"ref": "Undead Crypt/Crypt: Soul of Velstadt/",
+				"name": "Crypt: Soul of Velstadt"
+			  },
+			  {
+				"ref": "Undead Crypt/Crypt: Torch x4 - before first boss/",
+				"name": "Crypt: Torch x4 - before first boss"
+			  },
+			  {
+				"ref": "Undead Crypt/Crypt: Fragrant Branch of Yore - before first boss/",
+				"name": "Crypt: Fragrant Branch of Yore - before first boss"
+			  },
+			  {
+				"ref": "Undead Crypt/Crypt: Darknight Stone - before first boss/",
+				"name": "Crypt: Darknight Stone - before first boss"
+			  },
+			  {
+				"ref": "Undead Crypt/Crypt: Poison Throwing Knife x15 - before first boss/",
+				"name": "Crypt: Poison Throwing Knife x15 - before first boss"
+			  },
+			  {
+				"ref": "Undead Crypt/Magic Stone and Darknight Stone/Crypt: Magic Stone - left side before great hall",
+				"name": "Crypt: Magic Stone - left side before great hall"
+			  },
+			  {
+				"ref": "Undead Crypt/Magic Stone and Darknight Stone/Crypt: Darknight Stone - left side before great hall",
+				"name": "Crypt: Darknight Stone - left side before great hall"
+			  },
+			  {
+				"ref": "Undead Crypt/Crypt: Human Effigy x2 - first graveyard/",
+				"name": "Crypt: Human Effigy x2 - first graveyard"
+			  },
+			  {
+				"ref": "Undead Crypt/Crypt: Soul of a Hero - first graveyard/",
+				"name": "Crypt: Soul of a Hero - first graveyard"
+			  },
+			  {
+				"ref": "Undead Crypt/Crypt: Smooth & Silky Stone - first graveyard/",
+				"name": "Crypt: Smooth & Silky Stone - first graveyard"
+			  },
+			  {
+				"ref": "Undead Crypt/Crypt: Smooth & Silky Stone - first graveyard #2/",
+				"name": "Crypt: Smooth & Silky Stone - first graveyard #2"
+			  },
+			  {
+				"ref": "Undead Crypt/Crypt: Smooth & Silky Stone - first graveyard #3/",
+				"name": "Crypt: Smooth & Silky Stone - first graveyard #3"
+			  }
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 98,
+            "y": 241,
+			"size": 15
+		  }
+		]
+	  },
+
+	  {
+		"name": "Agdayne Gift and Shop",
+		"sections": [
+			  {
+				"ref": "Undead Crypt/Agdayne Gift and Shop/Crypt: Darkdrift - Agdayne after King's Ring",
+				"name": "Crypt: Darkdrift - Agdayne after King's Ring"
+			  },
+			  {
+				"ref": "Undead Crypt/Agdayne Gift and Shop/Crypt: Agdayne's Black Robe - Agdayne after King's Ring",
+				"name": "Crypt: Agdayne's Black Robe - Agdayne after King's Ring"
+			  },
+			  {
+				"ref": "Undead Crypt/Agdayne Gift and Shop/Crypt: Agdayne's Cuffs - Agdayne after King's Ring",
+				"name": "Crypt: Agdayne's Cuffs - Agdayne after King's Ring"
+			  },
+			  {
+				"ref": "Undead Crypt/Agdayne Gift and Shop/Crypt: Agdayne's Kilt - Agdayne after King's Ring",
+				"name": "Crypt: Agdayne's Kilt - Agdayne after King's Ring"
+			  },
+			  {
+				"ref": "Undead Crypt/Agdayne Gift and Shop/Crypt: Soul Spear - Agdayne shop",
+				"name": "Crypt: Soul Spear - Agdayne shop"
+			  },
+			  {
+				"ref": "Undead Crypt/Agdayne Gift and Shop/Crypt: Soul Vortex - Agdayne shop",
+				"name": "Crypt: Soul Vortex - Agdayne shop"
+			  },
+			  {
+				"ref": "Undead Crypt/Agdayne Gift and Shop/Crypt: Soul Appease - Agdayne shop",
+				"name": "Crypt: Soul Appease - Agdayne shop"
+			  },
+			  {
+				"ref": "Undead Crypt/Agdayne Gift and Shop/Crypt: Warmth - Agdayne shop",
+				"name": "Crypt: Warmth - Agdayne shop"
+			  },
+			  {
+				"ref": "Undead Crypt/Agdayne Gift and Shop/Crypt: Ring of Thorns+1 - Agdayne shop",
+				"name": "Crypt: Ring of Thorns+1 - Agdayne shop"
+			  }
+			  
+			  
+		],
+
+		"map_locations": [
+		  {
+			"map": "Overworld",
+			"x": 128,
+            "y": 201,
+			"size": 15
+		  }
+		]
+	  },
+	  
+
+
+	  {
+        "name": "Nashandra",
+        "sections":[{
+          "access_rules": ["@Drangleic Castle, King's Ring, Giant's Kinship"]
+        }],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 127,
+            "y": 529,
+			      "size": 30
+          }
+        ]
+
+      }
+	
 
 	  
 	]

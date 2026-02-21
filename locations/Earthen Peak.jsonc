@@ -1,7 +1,7 @@
 [
   {
     "name": "Earthen Peak",
-    "access_rules": [],
+    "access_rules": ["@Harvest Valley"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [

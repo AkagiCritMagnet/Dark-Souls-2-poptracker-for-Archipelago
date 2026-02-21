@@ -1,7 +1,7 @@
 [
   {
     "name": "Heides Tower of Flame",
-    "access_rules": [],
+    "access_rules": ["@Majula"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [

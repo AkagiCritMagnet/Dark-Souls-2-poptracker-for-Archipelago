@@ -1,7 +1,7 @@
 [
   {
     "name": "Memory of Jeigh",
-    "access_rules": [],
+    "access_rules": ["@Forest of Fallen Giants, Soldier Key, Ashen Mist Heart, King's Ring"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [
@@ -74,7 +74,7 @@
 
   {
     "name": "Memory of Orro",
-    "access_rules": [],
+    "access_rules": ["@Forest of Fallen Giants, Soldier Key, Ashen Mist Heart"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [
@@ -95,7 +95,7 @@
       {
         "name": "Orro: Soul of a Hero x3 - behind contraption",
         "sections":[{
-          "access_rules": []
+          "access_rules": ["Master Lockstone"]
         }],
         "map_locations": [
           {
@@ -122,7 +122,7 @@
       },
       {
         "name": "Orro: Steel Set",
-        "access_rules": [],
+        "access_rules": ["Master Lockstone"],
         "sections":[
           {
             "name": "Orro: Steel Helm - behind contraption, illusory wall"
@@ -274,7 +274,7 @@
 
   {
     "name": "Memory of Vammaar",
-    "access_rules": [],
+    "access_rules": ["@Forest of Fallen Giants, Ashen Mist Heart"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [
@@ -288,6 +288,20 @@
             "map": "Memories",
             "x": 983,
             "y": 953,
+			      "size": 18
+          }
+        ]
+      },
+      {
+        "name": "Vammar: Drangleic Helm - Drummond after defeating Giant Lord",
+        "sections":[{
+          "access_rules": ["Giant's Kinship"]
+        }],
+        "map_locations": [
+          {
+            "map": "Memories",
+            "x": 1027,
+            "y": 971,
 			      "size": 18
           }
         ]

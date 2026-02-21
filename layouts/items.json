@@ -15,14 +15,14 @@
                         "h_alignment": "left",
 						"item_size": 60,
                         "rows": [
-                            ["Flying Feline Boots", "Silvercat Ring", "King's Ring", "Ring of Whispers", "Petrified Egg"],
+                            ["Estus Flask Shards", "Sublime Bone Dusts", "King's Ring", "Ring of Whispers", "Petrified Egg"],
                             ["Master Lockstone", "Rotunda Lockstone", "Giant's Kinship", "Token of Fidelity", "Token of Spite"],
-                            ["Ashen Mist Heart", "Soul of a Giant", "Ladder Miniature", "Dull Ember", "Dragon Talon"],
-                            ["Frozen Flower", "Dragon Stone", "Scorching Iron Scepter", "Smelter Wedge", "Eye of the Priestress"],
-                            ["Soldier Key", "Key to King's Passage", "Bastille Key", "Iron Key", "Forgotten Key"],
+                            ["Ashen Mist Heart", "Soul of a Giant", "Eye of the Priestess", "Dull Ember", "Dragon Talon"],
+                            ["Frozen Flower", "Dragon Stone", "Scorching Iron Scepter", "Smelter Wedge", "Soldier Key"],
+                            ["Key to King's Passage", "Bastille Key", "Iron Key", "Forgotten Key", "Key to the Embedded"],
                             ["Brightstone Key", "Antiquated Key", "Fang Key", "House Key", "Lenigrast's Key"],
                             ["Tseldora Den Key", "Undead Lockaway Key", "Aldia Key", "Heavy Iron Key", "Eternal Sanctum Key"],
-                            ["Tower Key", "Garrison Ward Key"]
+                            ["Tower Key", "Garrison Ward Key", "Flying Feline Boots", "Silvercat Ring", "Ladder Miniature"]
                         ]
                     }
                 ]
@@ -46,8 +46,8 @@
 						"item_size": 60,
                         "rows": [
                             ["Statue in TB", "Rosabeth of Melfia","Statue in Heide", "Statue in LB", "Straid of Olaphis"],
-							["Statue in Black Gulch", "Statue near Manscorpion Tark", "Statue near Black Knight Halberd", "Statue Blocking the Chest in SR", "Lion Mage Set Statue in SR"],
-							["Fang Key Statue in SR", "Warlock Mask Statue in SR", "Milfanito Entrance Statue", "Cyclops Statue in AK", "Left Cage Statue in AK"],
+							["Statue in Black Gulch", "Statue near Manscorpion Tark", "Statue near Black Knight Halberd", "Statue Blocking the Chest in Shaded Ruins", "Lion Mage Set Statue in Shaded Ruins"],
+							["Fang Key Statue in Shaded Ruins", "Warlock Mask Statue in Shaded Ruins", "Milfanito Entrance Statue", "Cyclops Statue in AK", "Left Cage Statue in AK"],
 							["Right Cage Statue in AK", "Statue in DA"]
                         ]
                     }

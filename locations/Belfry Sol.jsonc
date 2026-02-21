@@ -1,7 +1,7 @@
 [
   {
     "name": "Belfry Sol",
-    "access_rules": [],
+    "access_rules": ["@Iron Keep, Master Lockstone"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [

@@ -1,7 +1,7 @@
 [
   {
     "name": "Drangleic Castle",
-    "access_rules": [],
+    "access_rules": ["@Shaded Woods, ^$canFightDrangleic"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [
@@ -117,7 +117,7 @@
 
       },
       {
-        "name": "",
+        "name": "Cave by Grandahl",
         "access_rules": [],
         "sections":[
           {
@@ -588,7 +588,7 @@
 
       },
       {
-        "name": "Test",
+        "name": "Wellager Shop",
         "access_rules": [],
         "sections":[
           {
@@ -642,33 +642,7 @@
           }
         ]
 
-      },
-      {
-        "name": "Maughlin After LGK",
-        "access_rules": ["Key to King's Passage"],
-        "sections":[
-          {
-            "name": "Majula: Looking Glass Mask - Maughlin shop after killing second Drangleic boss"     
-          },
-          {
-            "name": "Majula: Looking Glass Armor - Maughlin shop after killing second Drangleic boss"     
-          },
-          {
-            "name": "Majula: Looking Glass Gauntlets - Maughlin shop after killing second Drangleic boss"     
-          },
-          {
-            "name": "Majula: Looking Glass Leggings - Maughlin shop after killing second Drangleic boss"
-          }],
-        "map_locations": [
-          {
-            "map": "Majula",
-            "x": 1019,
-            "y": 677,
-			      "size": 20
-          }
-        ]
-
-      }      
+      }
       
 	  
     ]

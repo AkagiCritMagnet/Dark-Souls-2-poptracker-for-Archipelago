@@ -1,7 +1,8 @@
 [
   {
     "name": "Grand Cathedral",
-    "access_rules": ["Frozen Flower"],
+    "access_rules": ["Frozen Flower, @Frozen Eleum Loyce"],
+    "visibility_rules": ["DLC 3"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [

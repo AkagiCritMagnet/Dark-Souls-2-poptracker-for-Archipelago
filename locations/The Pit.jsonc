@@ -1,7 +1,7 @@
 [
   {
     "name": "The Pit",
-    "access_rules": ["$canAccessPit"],
+    "access_rules": ["$canAccessPit, ^$canFightThePit"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [

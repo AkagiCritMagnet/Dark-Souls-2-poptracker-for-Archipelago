@@ -1,7 +1,7 @@
 [
   {
     "name": "The Gutter",
-    "access_rules": [],
+    "access_rules": ["@The Pit, ^$canFightTheGutter", "@Grave of Saints, ^$canFightTheGutter"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [

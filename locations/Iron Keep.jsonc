@@ -1,7 +1,7 @@
 [
   {
     "name": "Iron Keep",
-    "access_rules": [],
+    "access_rules": ["@Earthen Peak, ^$canFightIronKeep"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [
@@ -621,35 +621,35 @@
         "sections":[
         {
           "name":"IronKeep: Raime's Helm - Magerold shop after killing last BrumeTower boss",
-          "access_rules": ["Scorching Iron Sceptre"]
+          "access_rules": ["@Brume Tower, Scorching Iron Scepter"]
         },
         {
           "name":"IronKeep: Raime's Armor - Magerold shop after killing last BrumeTower boss",
-          "access_rules": ["Scorching Iron Sceptre"]
+          "access_rules": ["@Brume Tower, Scorching Iron Scepter"]
         },
         {
           "name":"IronKeep: Raime's Gauntlets - Magerold shop after killing last BrumeTower boss",
-          "access_rules": ["Scorching Iron Sceptre"]
+          "access_rules": ["@Brume Tower, Scorching Iron Scepter"]
         },
         {
           "name":"IronKeep: Raime's Leggings - Magerold shop after killing last BrumeTower boss",
-          "access_rules": ["Scorching Iron Sceptre"]
+          "access_rules": ["@Brume Tower, Scorching Iron Scepter"]
         },
         {
           "name":"IronKeep: Alonne's Helm - Magerold shop after killing Alonne boss",
-          "access_rules": ["Crown of the Old Iron King, Tower Key"]
+          "access_rules": ["@Memory of Old Iron King"]
         },
         {
           "name":"IronKeep: Alonne's Armor - Magerold shop after killing Alonne boss",
-          "access_rules": ["Crown of the Old Iron King, Tower Key"]
+          "access_rules": ["@Memory of Old Iron King"]
         },
         {
           "name":"IronKeep: Alonne's Gauntlets - Magerold shop after killing Alonne boss",
-          "access_rules": ["Crown of the Old Iron King, Tower Key"]
+          "access_rules": ["@Memory of Old Iron King"]
         },
         {
           "name":"IronKeep: Alonne's Leggings - Magerold shop after killing Alonne boss",
-          "access_rules": ["Crown of the Old Iron King, Tower Key"]
+          "access_rules": ["@Memory of Old Iron King"]
         }
       ],
         "map_locations": [

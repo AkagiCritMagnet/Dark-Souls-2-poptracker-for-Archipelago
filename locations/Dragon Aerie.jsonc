@@ -1,7 +1,7 @@
 [
   {
     "name": "Dragon Aerie",
-    "access_rules": [],
+    "access_rules": ["@Aldia's Keep"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [

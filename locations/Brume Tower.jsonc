@@ -1,7 +1,8 @@
 [
   {
     "name": "Brume Tower",
-    "access_rules": [],
+    "access_rules": ["@Iron Keep, Heavy Iron Key, ^$canFightBrumeTower"],
+    "visibility_rules": ["DLC 2"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [
@@ -715,7 +716,7 @@
       {
         "name": "BrumeTower: Soul of Nadalia, Bride of Ash - by first bonfire, Ashen Idol",
         "sections":[{
-          "access_rules": []
+          "access_rules": ["$has|Smelter Wedge|11"]
         }],
         "map_locations": [
           {
@@ -730,7 +731,7 @@
       {
         "name": "BrumeTower: Soul of Nadalia, Bride of Ash - second Ashen Idol",
         "sections":[{
-          "access_rules": []
+          "access_rules": ["$has|Smelter Wedge|11"]
         }],
         "map_locations": [
           {
@@ -745,7 +746,7 @@
       {
         "name": "BrumeTower: Soul of Nadalia, Bride of Ash - lever room, Ashen Idol",
         "sections":[{
-          "access_rules": []
+          "access_rules": ["$has|Smelter Wedge|11"]
         }],
         "map_locations": [
           {
@@ -760,7 +761,7 @@
       {
         "name": "BrumeTower: Soul of Nadalia, Bride of Ash - first side tower, Ashen Idol",
         "sections":[{
-          "access_rules": []
+          "access_rules": ["$has|Smelter Wedge|11"]
         }],
         "map_locations": [
           {
@@ -775,7 +776,7 @@
       {
         "name": "BrumeTower: Soul of Nadalia, Bride of Ash - cursed area, Ashen Idol",
         "sections":[{
-          "access_rules": ["Tower Key"]
+          "access_rules": ["Tower Key, $has|Smelter Wedge|11"]
         }],
         "map_locations": [
           {
@@ -789,7 +790,7 @@
       },
       {
         "name": "Fume Knight Drops",
-        "access_rules": ["Scorching Iron Scepter"],
+        "access_rules": ["Scorching Iron Scepter, $has|Smelter Wedge|11"],
         "sections":[
         {
           "name":"BrumeTower: Soul of the Fume Knight"

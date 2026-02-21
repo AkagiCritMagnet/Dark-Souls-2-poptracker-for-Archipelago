@@ -583,7 +583,8 @@
         "access_rules": [],
         "sections":[
           {
-          "name": "Majula: Flying Feline Boots - Shalquoir shop after killing DoP and GoS bosses"
+          "name": "Majula: Flying Feline Boots - Shalquoir shop after killing DoP and GoS bosses",
+          "access_rules": ["@Doors of Pharros/Royal Rat Authority Boss, @Grave of Saints/Royal Rat Vanguard"]
           },
           {
           "name": "Majula: Silvercat Ring - Shalquoir shop"
@@ -616,7 +617,34 @@
           }
         ]
 
-      }
+      },
+
+      {
+        "name": "Maughlin After LGK",
+        "access_rules": ["Key to King's Passage"],
+        "sections":[
+          {
+            "name": "Majula: Looking Glass Mask - Maughlin shop after killing second Drangleic boss"     
+          },
+          {
+            "name": "Majula: Looking Glass Armor - Maughlin shop after killing second Drangleic boss"     
+          },
+          {
+            "name": "Majula: Looking Glass Gauntlets - Maughlin shop after killing second Drangleic boss"     
+          },
+          {
+            "name": "Majula: Looking Glass Leggings - Maughlin shop after killing second Drangleic boss"
+          }],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 1019,
+            "y": 677,
+			      "size": 20
+          }
+        ]
+
+      }      
       
       
 

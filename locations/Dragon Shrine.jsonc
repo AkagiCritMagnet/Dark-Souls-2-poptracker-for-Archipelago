@@ -1,7 +1,7 @@
 [
   {
     "name": "Dragon Shrine",
-    "access_rules": [],
+    "access_rules": ["@Dragon Aerie"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [
