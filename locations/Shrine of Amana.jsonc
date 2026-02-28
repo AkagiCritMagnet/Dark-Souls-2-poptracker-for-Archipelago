@@ -229,7 +229,7 @@
       },
       {
         "name": "King's Set",
-        "access_rules": ["$has|Soul of a Giant|5"],
+        "access_rules": ["All 5 Souls of a Giant"],
         "sections":[
           {
             "name": "Amana: King's Crown - behind door, opens after defeating Vendrick, metal chest"     
@@ -255,7 +255,7 @@
       {
         "name": "Amana: Soul of the King - throne behind door, opens after defeating Vendrick",
         "sections":[{
-          "access_rules": ["$has|Soul of a Giant|5"]
+          "access_rules": ["All 5 Souls of a Giant"]
         }],
         "map_locations": [
           {
