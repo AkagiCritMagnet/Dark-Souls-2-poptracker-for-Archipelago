@@ -1,7 +1,7 @@
 [
   {
     "name": "Harvest Valley",
-    "access_rules": ["@Huntsmans Copse/Copse: Skeleton Lord's Soul"],
+    "access_rules": ["@Huntsman's Copse/Copse: Skeleton Lord's Soul"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [

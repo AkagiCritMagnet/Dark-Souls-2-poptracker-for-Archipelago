@@ -392,3 +392,7 @@ function canFightEleumLoyce()
         end
     end
 end
+
+function returnFalse()
+    return false
+end

@@ -84,7 +84,23 @@ function onClear(slot_data)
     PLAYER_ID = Archipelago.PlayerNumber or -1
     TEAM_NUMBER = Archipelago.TeamNumber or 0
     SLOT_DATA = slot_data
+
+
+    if slot_data['game_version'] then
+        print (slot_data['game_version'])
+        local version=slot_data['game_version']
+        local obj = Tracker:FindObjectForCode('SotFS')
+        if obj then
+            if version==0 then
+            obj.Active = true 
+            else obj.Active = false
+            end
+        end
+    end
+
+    
 end
+
 
 
 function onItem(index, item_id, item_name, player_number)
@@ -172,6 +188,10 @@ end
 function onNotifyLaunch(key, value)
     print("onNotifyLaunch", key, value)
 end
+
+
+
+
 
 
 -- ScriptHost:AddWatchForCode("settings autofill handler", "autofill_settings", autoFill)

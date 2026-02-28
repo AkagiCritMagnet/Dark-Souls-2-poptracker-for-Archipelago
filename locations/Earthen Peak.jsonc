@@ -41,11 +41,11 @@
         "sections":[
           {
             "name": "EarthenPeak: Estus Flask Shard - poison filled corridor, lowest level",
-            "visibility_rules": ["SotFS"]            
+            "visibility_rules": ["$hasnot|SotFS"]            
           },
           {
             "name": "EarthenPeak: Repair Powder x2 - poison filled corridor, lowest level",
-            "visibility_rules":["$hasnot|SotFS"]
+            "visibility_rules":["SotFS"]
           }],
         "map_locations": [
           {
@@ -452,10 +452,64 @@
           }
         ]
 
+      },
+
+      {
+        "name": "Laddersmith Gilligan",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "EarthenPeak: Reinforced Club - Laddersmith Gilligan"
+          },
+          {
+            "name": "EarthenPeak: Claws - Laddersmith Gilligan"
+          },
+          {
+            "name": "EarthenPeak: Whip - Laddersmith Gilligan"
+          },
+          {
+            "name": "EarthenPeak: Wooden Shield - Laddersmith Gilligan"
+          },
+          {
+            "name": "EarthenPeak: Thief Mask - Laddersmith Gilligan"
+          },
+          {
+            "name": "EarthenPeak: Black Leather Armor - Laddersmith Gilligan"
+          },
+          {
+            "name": "EarthenPeak: Black Leather Gloves - Laddersmith Gilligan"
+          },
+          {
+            "name": "EarthenPeak: Black Leather Boots - Laddersmith Gilligan"
+          },
+          {
+            "name": "EarthenPeak: Ladder Miniature - Laddersmith Gilligan"
+          }
+          
+        ],
+        "map_locations": [
+          {
+            "map": "Earthen Peak",
+            "x": 735,
+            "y": 581,
+			      "size": 20
+          },
+          {
+            "map": "Majula",
+            "x": 942,
+            "y": 664,
+			      "size": 20
+          },
+          {
+            "map": "Overworld",
+            "x": 667,
+            "y": 756,
+			      "size": 15
+          }
+        ]
+
       }
-      
-      
-	  
+
     ]
   }
   

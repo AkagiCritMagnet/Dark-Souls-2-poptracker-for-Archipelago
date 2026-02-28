@@ -190,6 +190,12 @@
     "max_quantity": 5
   },
   {
+    "name": "All 5 Souls of a Giant",
+    "type": "toggle",
+    "img": "images/items/SoulofaGiant.png",
+    "codes": "All 5 Souls of a Giant"
+  },
+  {
     "name": "Ladder Miniature",
     "type": "toggle",
     "img": "images/items/LadderMiniature.png",
@@ -233,6 +239,12 @@
 	  "initial_quantity": 0,
     "overlay_background": "#000000",
     "max_quantity": 11
+  },
+  {
+    "name": "All Smelter Wedges",
+    "type": "toggle",
+	  "img": "images/items/SmelterWedge.png",
+    "codes": "All Smelter Wedges"
   },
   {
     "name": "Eye of the Priestess",

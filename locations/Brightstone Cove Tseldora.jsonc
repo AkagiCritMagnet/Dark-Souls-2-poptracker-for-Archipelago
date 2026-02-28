@@ -689,7 +689,7 @@
       {
         "name": "Tseldora: Cracked Red Eye Orb - urn, right side after first boss",
         "sections":[{
-          "access_rules": []
+          "visibility_rules": ["SotFS"]
         }],
         "map_locations": [
           {
@@ -983,6 +983,22 @@
             "map": "Shaded Woods",
             "x": 1213,
             "y": 1019,
+			      "size": 20
+          }
+        ]
+
+      },
+
+      {
+        "name": "Defeat the Duke's Dear Freja",
+        "sections":[{
+          "visibility_rules": ["returnFalse"]
+        }],
+        "map_locations": [
+          {
+            "map": "Brightstone Cove Tseldora",
+            "x": 860,
+            "y": 767,
 			      "size": 20
           }
         ]

@@ -1,7 +1,7 @@
 [
   {
     "name": "Belfry Luna",
-    "access_rules": ["@Lost Bastille, SotFS, Statue in LB, Master Lockstone","@Lost Bastille, $hasnot|SotFS, Master Lockstone"],
+    "access_rules": ["@The Lost Bastille, SotFS, Statue in LB, Master Lockstone","@The Lost Bastille, $hasnot|SotFS, Master Lockstone"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [

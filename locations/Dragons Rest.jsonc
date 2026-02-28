@@ -1,7 +1,7 @@
 [
   {
-    "name": "Dragons Rest",
-    "access_rules": ["@Dragons Sanctum"],
+    "name": "Dragon's Rest",
+    "access_rules": ["@Dragon's Sanctum"],
     "visibility_rules": ["DLC 1"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",

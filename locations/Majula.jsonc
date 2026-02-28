@@ -37,6 +37,9 @@
           "name": "Majula: Fireball - Rosabeth shop"
           },
           {
+          "name": "Majula: Fire Orb - Rosabeth shop"
+          },
+          {
           "name": "Majula: Combustion - Rosabeth shop"
           },
           {
@@ -140,6 +143,29 @@
         ]
 
       },
+
+      {
+        "name": "Majula: Blue Seal - join Way of Blue",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 1125,
+            "y": 202,
+			      "size": 20
+          },
+          {
+            "map": "Overworld",
+            "x": 754,
+            "y": 988,
+			      "size": 15
+          }
+        ]
+
+      },
+
       {
         "name": "Majula: Rusted Coin - towards FOFG, chest",
         "sections":[{
@@ -162,7 +188,7 @@
 
       },
       {
-        "name": "Majula: Crimson Parma - towards HToF, chest",
+        "name": "Majula: Crimson Parma - towards Heides, chest",
         "sections":[{
           "access_rules": []
         }],
@@ -219,7 +245,7 @@
 
       },
       {
-        "name": "Majula: Divine Blessing - towards SW, under tree",
+        "name": "Majula: Divine Blessing - towards ShadedWoods, under tree",
         "sections":[{
           "access_rules": []
         }],
@@ -234,7 +260,7 @@
 
       },
       {
-        "name": "Majula: Morning Star - from TB, drop from cliff",
+        "name": "Majula: Morning Star - from Betwixt, drop from cliff",
         "sections":[{
           "access_rules": []
         }],
@@ -249,7 +275,7 @@
 
       },
       {
-        "name": "Majula: Cleric's Sacred Chime - from TB, drop from cliff",
+        "name": "Majula: Cleric's Sacred Chime - from Betwixt, drop from cliff",
         "sections":[{
           "access_rules": []
         }],
@@ -264,7 +290,7 @@
 
       },
       {
-        "name": "Majula: Binoculars - from TB, drop from cliff, end of path",
+        "name": "Majula: Binoculars - from Betwixt, drop from cliff, end of path",
         "sections":[{
           "access_rules": []
         }],
@@ -339,10 +365,16 @@
 
       },
       {
-        "name": "Majula: Homeward Bone x5 - by Covenant of Champions",
-        "sections":[{
-          "access_rules": []
-        }],
+        "name": "Champion's Tablet",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Majula: Homeward Bone x5 - by Covenant of Champions"
+          },
+          {
+            "name": "Majula: Champion's Tablet - join Company of Champions"
+          }
+        ],
         "map_locations": [
           {
             "map": "Majula",
@@ -583,7 +615,7 @@
         "access_rules": [],
         "sections":[
           {
-          "name": "Majula: Flying Feline Boots - Shalquoir shop after killing DoP and GoS bosses",
+          "name": "Majula: Flying Feline Boots - Shalquoir shop after killing Pharros and GraveOfSaints bosses",
           "access_rules": ["@Doors of Pharros/Royal Rat Authority Boss, @Grave of Saints/Royal Rat Vanguard"]
           },
           {
@@ -641,10 +673,78 @@
             "x": 1019,
             "y": 677,
 			      "size": 20
+          },
+          {
+            "map": "Overworld",
+            "x": 612,
+            "y": 757,
+			      "size": 15
           }
         ]
 
-      }      
+      },
+      
+      {
+        "name": "Maughlin After Smelter Demon or Lost Sinner",
+        "access_rules": ["@Iron Keep/IronKeep: Smelter Demon Soul/"],
+        "sections":[
+          {
+            "name": "Majula: Smelter Demon Helm - Maughlin shop after killing first IronKeep boss"     
+          },
+          {
+            "name": "Majula: Smelter Demon Armor - Maughlin shop after killing first IronKeep boss"     
+          },
+          {
+            "name": "Majula: Smelter Demon Gauntlets - Maughlin shop after killing first IronKeep boss"     
+          },
+          {
+            "name": "Majula: Smelter Demon Leggings - Maughlin shop after killing first IronKeep boss"
+          },
+          {
+            "name": "Majula: Penal Mask - Maughlin shop after killing SinnersRise boss"
+          },
+          {
+            "name": "Majula: Penal Straightjacket - Maughlin shop after killing SinnersRise boss"
+          },
+          {
+            "name": "Majula: Penal Handcuffs - Maughlin shop after killing SinnersRise boss"
+          },
+          {
+            "name": "Majula: Penal Skirt - Maughlin shop after killing SinnersRise boss"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 1039,
+            "y": 677,
+			      "size": 20
+          },
+          {
+            "map": "Overworld",
+            "x": 592,
+            "y": 757,
+			      "size": 15
+          }
+        ]
+
+      },
+      
+      {
+        "name": "Rotate the Majula Rotunda",
+        "sections":[{
+          "visibility_rules": ["$returnFalse"]
+        }],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 891,
+            "y": 1146,
+			      "size": 20
+          }
+        ]
+
+      }
       
       
 

@@ -1,6 +1,6 @@
 [
   {
-    "name": "Dragons Sanctum",
+    "name": "Dragon's Sanctum",
     "access_rules": ["@Shulva Sanctum City"],
     "visibility_rules": ["DLC 1"],
     "chest_unopened_img": "images/items/chest_closed.png",
@@ -20,22 +20,7 @@
           }
         ]
 
-      },
-      {
-        "name": "DragonsSanctum: Bonfire Ascetic x2 - room behind Eternal Sanctum key door , Metal chest",
-        "sections":[{
-          "access_rules": ["Eternal Sanctum Key"]
-        }],
-        "map_locations": [
-          {
-            "map": "Dragons Sanctum",
-            "x": 350,
-            "y": 663,
-			      "size": 15
-          }
-        ]
-
-      },    
+      },   
       {
         "name": "DragonsSanctum: Lightning Clutch Ring - room behind Eternal Sanctum key door , Metal chest",
         "sections":[{
@@ -67,7 +52,7 @@
 
       },      
       {
-        "name": "DragonsSanctum: Second metal chest behind Eternal Sanctum key door",
+        "name": "Room behind Eternal Sanctum key door's metal chest",
         "access_rules": ["Eternal Sanctum Key"],
         "sections":[
           {
@@ -103,22 +88,7 @@
           }
         ]
 
-      },
-      {
-        "name": "DragonsSanctum: Soul of a Great Hero - button room, second room of Dragon Sanctum",
-        "sections":[{
-          "access_rules": []
-        }],
-        "map_locations": [
-          {
-            "map": "Dragons Sanctum",
-            "x": 328,
-            "y": 771,
-			      "size": 20
-          }
-        ]
-
-      },  
+      }, 
       {
         "name": "DragonsSanctum: Destructive Greatarrow x50 - room with two ghosts, metal chest",
         "sections":[{
@@ -342,7 +312,7 @@
           "name":"DragonsSanctum: Boltstone x3 - after spike trapped stairs, chest"
         },
         {
-          "name":"DragonsSanctum: Bleed Stones x3 - after spike trapped stairs, chest"
+          "name":"DragonsSanctum: Bleed Stone x3 - after spike trapped stairs, chest"
         }
       ],
         "map_locations": [
@@ -683,7 +653,7 @@
 
       },
       {
-        "name": "DragonsSanctum: Twinkling Titanite x3 - corridor one level above Dragon's rest(2)",
+        "name": "DragonsSanctum: Twinkling Titanite x3 - corridor one level above Dragon's rest #2",
         "sections":[{
           "access_rules": ["Dragon Stone"]
         }],
@@ -786,7 +756,55 @@
           }
         ]
 
-      }                             
+      },
+      
+      {
+        "name": "DragonsSanctum: Dried Root x2 - room behind Eternal Sanctum key door , Metal chest #2",
+        "sections":[{
+          "access_rules": ["Eternal Sanctum Key"]
+        }],
+        "map_locations": [
+          {
+            "map": "Dragons Sanctum",
+            "x": 350,
+            "y": 660,
+			      "size": 15
+          }
+        ]
+
+      },
+
+      {
+        "name": "DragonsSanctum: Drakeblood Greatsword - walkway, bottom of elevator to Elana's bridge",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Dragons Sanctum",
+            "x": 731,
+            "y": 506,
+			      "size": 20
+          }
+        ]
+
+      },
+
+      {
+        "name": "DragonsSanctum: Human Effigy - spiky field near Dragon Stone",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Dragons Sanctum",
+            "x": 805,
+            "y": 928,
+			      "size": 20
+          }
+        ]
+
+      }
       
 	  
     ]

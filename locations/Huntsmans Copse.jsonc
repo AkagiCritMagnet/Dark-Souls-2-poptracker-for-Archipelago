@@ -1,6 +1,6 @@
 [
   {
-    "name": "Huntsmans Copse",
+    "name": "Huntsman's Copse",
     "access_rules": ["@Majula, Rotunda Lockstone"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
@@ -282,7 +282,7 @@
         "access_rules": [],
         "sections":[
           {
-            "name": "Copse: Combustion - Necromancer cave, ledge overlooking canyone"
+            "name": "Copse: Combustion - Necromancer cave, ledge overlooking canyon"
           },
           {
             "name": "Copse: Titanite Shard x3 - Necromancer cave, ledge overlooking canyon"

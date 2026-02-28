@@ -212,6 +212,21 @@
 			      "size": 20
           }
         ]
+      },
+
+      {
+        "name": "Defeat the Rotten",
+        "sections":[{
+          "visibility_rules": ["$returnFalse"]
+        }],
+        "map_locations": [
+          {
+            "map": "The Gutter & Black Gulch",
+            "x": 50,
+            "y": 50,
+			      "size": 20
+          }
+        ]
       }
 	  
     ]

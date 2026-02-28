@@ -69,10 +69,15 @@
       },
 
       {
-        "name": "DragonShrine: Crystal Magic Weapon - by petrified egg, outside chest",
-        "sections":[{
-          "access_rules": []
-        }],
+        "name": "By petrified egg, outside chest",
+        "sections":[
+          {
+            "name": "DragonShrine: Crystal Magic Weapon - by petrified egg, outside chest"
+          },
+          {
+            "name": "DragonShrine: Fragrant Branch of Yore - by petrified egg, outside chest"
+          }
+        ],
         "map_locations": [
           {
             "map": "Dragon Aerie & Shrine",
@@ -191,6 +196,9 @@
         "name": "Judgement Set",
         "access_rules": [],
         "sections":[
+          {
+            "name":"DragonShrine: Staff of Wisdom - after bonfire, contraption under stairs"
+          },
           {
             "name":"DragonShrine: Mask of Judgment - after bonfire, contraption under stairs"
           },

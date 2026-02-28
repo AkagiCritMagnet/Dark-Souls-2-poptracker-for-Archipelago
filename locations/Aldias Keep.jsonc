@@ -6,10 +6,10 @@
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [
       {
-        "name": "AldiasKeep: Fragrant Branch of Yore - locked side room, enemy drop",
+        "name": "Aldias: Fragrant Branch of Yore - locked side room, enemy drop",
         "sections":[{
           "access_rules": ["Aldia Key"],
-          "visibility_rules": ["SotFS"]
+          "visibility_rules": ["SotFS, $hasnot|SotFS"] //Not implemented, it will stay invisible
         }],
         "map_locations": [
           {
@@ -22,7 +22,7 @@
 
       },
       {
-        "name": "AldiasKeep: Guardian Dragon Soul",
+        "name": "Aldias: Guardian Dragon Soul",
         "sections":[{
           "access_rules": []
         }],
@@ -37,7 +37,7 @@
 
       },
       {
-        "name": "AldiasKeep: Great Magic Barrier - corridor right of mirror room",
+        "name": "Aldias: Great Magic Barrier - corridor right of mirror room",
         "sections":[{
           "access_rules": []
         }],
@@ -52,7 +52,7 @@
 
       },
       {
-        "name": "AldiasKeep: Bonfire Ascetic x2 - right side after big staircase",
+        "name": "Aldias: Bonfire Ascetic x2 - right side after big staircase",
         "sections":[{
           "access_rules": []
         }],
@@ -67,7 +67,7 @@
 
       },
       {
-        "name": "AldiasKeep: Malformed Shell - behind breakable chained door",
+        "name": "Aldias: Malformed Shell - behind breakable chained door",
         "sections":[{
           "access_rules": []
         }],
@@ -82,7 +82,7 @@
 
       },
       {
-        "name": "AldiasKeep: Brightbug - mirror room, chest",
+        "name": "Aldias: Brightbug - mirror room, chest",
         "sections":[{
           "access_rules": [],
           "visibility_rules": ["SotFS"]
@@ -98,7 +98,7 @@
 
       },
       {
-        "name": "AldiasKeep: Fading Soul - by skeleton dragon",
+        "name": "Aldias: Fading Soul - by skeleton dragon",
         "sections":[{
           "access_rules": []
         }],
@@ -117,10 +117,10 @@
         "access_rules": [],
         "sections":[
           {
-          "name": "AldiasKeep: Northern Ritual Band+2 - mirror room"
+          "name": "Aldias: Northern Ritual Band+2 - mirror room"
           },
           {
-          "name":"AldiasKeep: Petrified Dragon Bone - mirror room"
+          "name":"Aldias: Petrified Dragon Bone - mirror room"
           }
         ],
         "map_locations": [
@@ -134,7 +134,7 @@
 
       },
       {
-        "name": "AldiasKeep: Alluring Skull x3 - courtyard",
+        "name": "Aldias: Alluring Skull x3 - courtyard",
         "sections":[{
           "access_rules": []
         }],
@@ -149,7 +149,7 @@
 
       },
       {
-        "name": "AldiasKeep: Radiant Lifegem - long corridor",
+        "name": "Aldias: Radiant Lifegem - long corridor",
         "sections":[{
           "access_rules": []
         }],
@@ -164,7 +164,7 @@
 
       },
       {
-        "name": "AldiasKeep: Large Soul of a Brave Warrior - locked side room, behind barrel",
+        "name": "Aldias: Large Soul of a Brave Warrior - locked side room, behind barrel",
         "sections":[{
           "access_rules": ["Aldia Key"],
           "visibility_rules": ["SotFS"]
@@ -184,10 +184,10 @@
         "access_rules": [],
         "sections":[
           {
-          "name": "AldiasKeep: Simpleton's Spice - room before boss"
+          "name": "Aldias: Simpleton's Spice - room before boss"
           },
           {
-          "name": "AldiasKeep: Twilight Herb - room before boss"
+          "name": "Aldias: Twilight Herb - room before boss"
           }
         ],
         "map_locations": [
@@ -201,7 +201,7 @@
 
       },
       {
-        "name": "AldiasKeep: Crimson Water - after big staircase",
+        "name": "Aldias: Crimson Water - after big staircase",
         "sections":[{
           "access_rules": []
         }],
@@ -220,10 +220,10 @@
         "access_rules": [],
         "sections":[
           {
-          "name": "AldiasKeep: Soul Geyser - acid pool"
+          "name": "Aldias: Soul Geyser - acid pool"
           },
           {
-          "name": "AldiasKeep: Petrified Dragon Bone - acid pool"
+          "name": "Aldias: Petrified Dragon Bone - acid pool"
           }
         ],
         "map_locations": [
@@ -237,7 +237,7 @@
 
       },
       {
-        "name": "AldiasKeep: Poison Throwing Knife x10 - courtyard",
+        "name": "Aldias: Poison Throwing Knife x10 - courtyard",
         "sections":[{
           "access_rules": []
         }],
@@ -252,7 +252,7 @@
 
       },
       {
-        "name": "AldiasKeep: Fire Seed - right side before entrance stairs",
+        "name": "Aldias: Fire Seed - right side before entrance stairs",
         "sections":[{
           "access_rules": []
         }],
@@ -267,7 +267,7 @@
 
       },
       {
-        "name": "AldiasKeep: Aldia Key - acid pool",
+        "name": "Aldias: Aldia Key - acid pool",
         "sections":[{
           "access_rules": [],
           "visibility_rules":["$hasnot|SotFS"]
@@ -283,7 +283,7 @@
 
       },
       {
-        "name": "AldiasKeep: Divine Blessing x2 - acid pool",
+        "name": "Aldias: Divine Blessing x2 - acid pool",
         "sections":[{
           "access_rules": [],
           "visibility_rules": ["SotFS"]
@@ -299,7 +299,7 @@
 
       },
       {
-        "name": "AldiasKeep: Pharros' Lockstone - behind shelf in potion room",
+        "name": "Aldias: Pharros' Lockstone - behind shelf in potion room",
         "sections":[{
           "access_rules": []
         }],
@@ -314,7 +314,7 @@
 
       },
       {
-        "name": "AldiasKeep: Soul of a Proud Knight - locked side room, on table",
+        "name": "Aldias: Soul of a Proud Knight - locked side room, on table",
         "sections":[{
           "access_rules": ["Aldia Key"]
         }],
@@ -329,7 +329,7 @@
 
       },
       {
-        "name": "AldiasKeep: Dragon Scale - by elevator to DA",
+        "name": "Aldias: Dragon Scale - by elevator to Aerie",
         "sections":[{
           "access_rules": []
         }],
@@ -348,10 +348,10 @@
         "access_rules": [],
           "sections":[
           {
-          "name": "AldiasKeep: Large Soul of a Nameless Soldier - acid pool"
+          "name": "Aldias: Large Soul of a Nameless Soldier - acid pool"
           },
           {
-          "name": "AldiasKeep: Corrosive Urn x4 - acid pool"
+          "name": "Aldias: Corrosive Urn x4 - acid pool"
           }
         ],
         "map_locations": [
@@ -365,7 +365,7 @@
 
       },
       {
-        "name": "AldiasKeep: Soul of a Nameless Soldier - courtyard",
+        "name": "Aldias: Soul of a Nameless Soldier - courtyard",
         "sections":[{
           "access_rules": []
         }],
@@ -380,7 +380,7 @@
 
       },
       {
-        "name": "AldiasKeep: Petrified Dragon Bone - courtyard",
+        "name": "Aldias: Petrified Dragon Bone - courtyard",
         "sections":[{
           "access_rules": []
         }],
@@ -395,7 +395,7 @@
 
       },
       {
-        "name": "AldiasKeep: Radiant Lifegem - in water by the entrance",
+        "name": "Aldias: Radiant Lifegem - in water by the entrance",
         "sections":[{
           "access_rules": []
         }],
@@ -410,7 +410,7 @@
 
       },
       {
-        "name": "AldiasKeep: Twilight Herb - left side after entrance stairs",
+        "name": "Aldias: Twilight Herb - left side after entrance stairs",
         "sections":[{
           "access_rules": []
         }],
@@ -425,7 +425,7 @@
 
       },
       {
-        "name": "AldiasKeep: Large Soul of a Brave Warrior - mirror room, stuck in mirror",
+        "name": "Aldias: Large Soul of a Brave Warrior - mirror room, stuck in mirror",
         "sections":[{
           "access_rules": [],
           "visibility_rules": ["SotFS"]
@@ -441,7 +441,7 @@
 
       },
       {
-        "name": "AldiasKeep: Aldia Key - skeleton dragon after killing four invaders",
+        "name": "Aldias: Aldia Key - skeleton dragon after killing four invaders",
         "sections":[{
           "access_rules": [],
           "visibility_rules": ["SotFS"]

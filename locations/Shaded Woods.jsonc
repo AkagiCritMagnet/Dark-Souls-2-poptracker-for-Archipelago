@@ -824,7 +824,23 @@
 			      "size": 20
           }
         ]
-      }                      	  
+      },
+      
+      {
+        "name": "Open Shrine of Winter",
+        "sections":[{
+          "visibility_rules": ["$returnFalse"]
+        }],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 699,
+            "y": 1072,
+			      "size": 20
+          }
+        ]
+
+      }
     ]
   }      
 ]

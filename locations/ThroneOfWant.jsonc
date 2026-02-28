@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Throne of Want",
+    "access_rules": ["@Drangleic Castle, King's Ring"],
+    "chest_unopened_img": "images/items/chest_closed.png",
+    "chest_opened_img": "images/items/chest_opened.png",
+    "children": [
+      {
+        "name": "Double Boss",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "ThroneOfWant: Throne Defender Soul"
+          },
+          {
+            "name": "ThroneOfWant: Throne Watcher Soul"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 127,
+            "y": 480,
+			      "size": 20
+          }
+        ]
+
+      },
+
+      {
+        "name": "ThroneOfWant: Soul of Nashandra",
+        "sections":[{
+          "access_rules": ["@Drangleic Castle, King's Ring, Giant's Kinship"]
+        }],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 127,
+            "y": 529,
+			      "size": 30
+          }
+        ]
+
+      },
+
+      {
+        "name": "Maughlin shop after Throne of Want",
+        "access_rules": ["@Drangleic Castle, King's Ring"],
+        "sections":[
+          {
+            "name": "Majula: Throne Defender Helm - Maughlin shop after killing first ThroneOfWant boss"
+          },
+          {
+            "name": "Majula: Throne Defender Armor - Maughlin shop after killing first ThroneOfWant boss"
+          },
+          {
+            "name": "Majula: Throne Defender Gauntlets - Maughlin shop after killing first ThroneOfWant boss"
+          },
+          {
+            "name": "Majula: Throne Defender Leggings - Maughlin shop after killing first ThroneOfWant boss"
+          },
+          {
+            "name": "Majula: Throne Watcher Helm - Maughlin shop after killing first ThroneOfWant boss"
+          },
+          {
+            "name": "Majula: Throne Watcher Armor - Maughlin shop after killing first ThroneOfWant boss"
+          },
+          {
+            "name": "Majula: Throne Watcher Gauntlets - Maughlin shop after killing first ThroneOfWant boss"
+          },
+          {
+            "name": "Majula: Throne Watcher Leggings - Maughlin shop after killing first ThroneOfWant boss"
+          }
+          
+        ],
+        "map_locations": [
+          {
+            "map": "Majula",
+            "x": 1029,
+            "y": 700,
+			      "size": 20
+          },
+          {
+            "map": "Overworld",
+            "x": 600,
+            "y": 777,
+			      "size": 15
+          }
+        ]
+
+      }
+
+      
+	  
+    ]
+  }
+  
+  
+  
+ 
+]

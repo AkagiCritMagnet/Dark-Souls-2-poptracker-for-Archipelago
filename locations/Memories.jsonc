@@ -147,7 +147,7 @@
         ]
       },
       {
-        "name": "Orro: Wilted Dusk Herb x3 - roof right of cortyard",
+        "name": "Orro: Wilted Dusk Herb x3 - roof right of courtyard",
         "sections":[{
           "access_rules": []
         }],
@@ -215,7 +215,7 @@
         ]
       },
       {
-        "name": "Orro: Soul of a Proud Knight - scaffolding left of cortyard",
+        "name": "Orro: Soul of a Proud Knight - scaffolding left of courtyard",
         "sections":[{
           "access_rules": []
         }],
@@ -273,7 +273,7 @@
   },
 
   {
-    "name": "Memory of Vammaar",
+    "name": "Memory of Vammar",
     "access_rules": ["@Forest of Fallen Giants, Ashen Mist Heart"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
@@ -328,7 +328,27 @@
         "map_locations": [
           {
             "map": "Memories",
-            "x": 1024,
+            "x": 1094,
+            "y": 743,
+			      "size": 18
+          }
+        ]
+      },
+      {
+        "name": "After battlefield area, on the roof",
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Vammar: Soul of a Great Hero - after battlefield area, on the roof"
+          },
+          {
+            "name": "Vammar: Bonfire Ascetic - after battlefield area, on the roof"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Memories",
+            "x": 1023,
             "y": 709,
 			      "size": 18
           }

@@ -137,6 +137,24 @@
           }
         ]
 
+      },
+
+      {
+        "name": "Defeat Royal Rat Vanguard",
+        "sections":[
+          {
+            "visibility_rules": ["returnFalse"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Grave of Saints",
+            "x": 321,
+            "y": 680,
+			      "size": 20
+          }
+        ]
+
       }
 	  
     ]

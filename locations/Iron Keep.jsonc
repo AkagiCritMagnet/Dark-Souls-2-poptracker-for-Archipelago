@@ -637,19 +637,19 @@
         },
         {
           "name":"IronKeep: Alonne's Helm - Magerold shop after killing Alonne boss",
-          "access_rules": ["@Memory of Old Iron King"]
+          "access_rules": ["@Memory of the Old Iron King"]
         },
         {
           "name":"IronKeep: Alonne's Armor - Magerold shop after killing Alonne boss",
-          "access_rules": ["@Memory of Old Iron King"]
+          "access_rules": ["@Memory of the Old Iron King"]
         },
         {
           "name":"IronKeep: Alonne's Gauntlets - Magerold shop after killing Alonne boss",
-          "access_rules": ["@Memory of Old Iron King"]
+          "access_rules": ["@Memory of the Old Iron King"]
         },
         {
           "name":"IronKeep: Alonne's Leggings - Magerold shop after killing Alonne boss",
-          "access_rules": ["@Memory of Old Iron King"]
+          "access_rules": ["@Memory of the Old Iron King"]
         }
       ],
         "map_locations": [
@@ -661,6 +661,22 @@
           }
         ]
 
+      },
+
+      {
+        "name": "Defeat the Old Iron King",
+        "sections":[{
+          "access_rules": [],
+          "visibility_rules": ["returnFalse"]
+        }],
+        "map_locations": [
+          {
+            "map": "Iron Keep & Belfry Sol",
+            "x": 439,
+            "y": 58,
+			      "size": 20
+          }
+        ]
       }
 
       

@@ -1,7 +1,7 @@
 [
   {
-    "name": "Lost Bastille",
-  "access_rules": ["@No-Man's Wharf, ^$canFightLostBatille", "@Forest of Fallen Giants/The Pursuer Drops, ^$canFightLostBatille"],
+    "name": "The Lost Bastille",
+  "access_rules": ["@No-man's Wharf, ^$canFightLostBatille", "@Forest of Fallen Giants/The Pursuer Drops, ^$canFightLostBatille"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [
@@ -233,11 +233,11 @@
         "sections":[
           {
             "name": "Bastille: Bastille Key - boxes on ledge, left after Servants' Quarters",
-            "visibility_rules":["$hasnot|SotFS"]
+            "visibility_rules":["SotFS"]
           },
           {
             "name": "Bastille: Human Effigy - boxes on ledge, left after Servants' Quarters",
-            "visibility_rules": ["SotFS"]
+            "visibility_rules": ["$hasnot|SotFS"]
             
           }
         ],
@@ -642,7 +642,7 @@
         ]
       },
       {
-        "name": "Bastille: Lifegem x8 - beginning of bridge to Sinner's Rise",
+        "name": "Bastille: Lifegem x8 - beginning of bridge to Sinners' Rise",
         "access_rules":["SotFS, Statue in LB","SotFS, Antiquated Key","$hasnot|SotFS"],
         "sections":[
           {
@@ -752,14 +752,14 @@
           },
           {
             "name": "Bastille: Great Lightning Spear - Straid of Olaphis after Crypt boss",
-            "access_rules":["@Undead Crypt/Soul of Velstadt"]
+            "access_rules":["@Undead Crypt/Crypt: Soul of Velstadt"]
           },
           {
             "name": "Bastille: Unveil - Straid shop"
           },
           {
             "name": "Bastille: Sunlight Blade - Straid of Olaphis after Crypt boss",
-            "access_rules":["@Undead Crypt/Soul of Velstadt"]
+            "access_rules":["@Undead Crypt/Crypt: Soul of Velstadt"]
           },
           {
             "name": "Bastille: Lingering Flame - Straid shop"
@@ -821,10 +821,10 @@
         "access_rules": [],
         "sections":[
           {
-            "name": "Bastille: Estus Flask Shard - behind dog/Pursuer courtyard, metal chest"
+            "name": "Bastille: Estus Flask Shard - behind dog - Pursuer courtyard, metal chest"
           },
           {
-            "name": "Bastille: Large Titanite Shard - behind dog/Pursuer courtyard, metal chest"
+            "name": "Bastille: Large Titanite Shard - behind dog - Pursuer courtyard, metal chest"
           }],
         "map_locations": [
           {
@@ -854,10 +854,10 @@
         "access_rules": [],
         "sections":[
           {
-            "name": "Bastille: Soul of a Brave Warrior - rubble path above Pursuer/dog courtyard (drop down)"
+            "name": "Bastille: Soul of a Brave Warrior - rubble path above Pursuer - dog courtyard (drop down)"
           },
           {
-            "name": "Bastille: Human Effigy - rubble path above Pursuer/dog courtyard (drop down)"
+            "name": "Bastille: Human Effigy - rubble path above Pursuer - dog courtyard (drop down)"
           }],
         "map_locations": [
           {

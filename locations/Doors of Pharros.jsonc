@@ -236,6 +236,23 @@
 			      "size": 20
           }
         ]
+      },
+
+      {
+        "name": "Defeat Royal Rat Authority",
+        "access_rules": [],
+        "sections":[{
+          "visibility_rules": ["returnFalse"]
+        }
+        ],
+        "map_locations": [
+          {
+            "map": "Doors of Pharros",
+            "x": 634,
+            "y": 501,
+			      "size": 20
+          }
+        ]
       }
 	  
     ]

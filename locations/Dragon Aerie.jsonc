@@ -141,6 +141,21 @@
       },
 
       {
+        "name": "Aerie: Magic Stone - second dragon nest",
+        "sections":[{
+          "access_rules": []
+        }],
+        "map_locations": [
+          {
+            "map": "Dragon Aerie & Shrine",
+            "x": 30,
+            "y": 626,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
         "name": "Aerie: Pharros' Lockstone - drop to ledge before third dragon nest",
         "sections":[{
           "access_rules": []

@@ -1,7 +1,7 @@
 [
   {
-    "name": "Sinner's Rise",
-    "access_rules": ["@Lost Bastille/Bastille: Lifegem x8 - beginning of bridge to Sinner's Rise, ^$canFightSinnersRise"],
+    "name": "Sinners' Rise",
+    "access_rules": ["@The Lost Bastille/Bastille: Lifegem x8 - beginning of bridge to Sinners' Rise, ^$canFightSinnersRise"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [
@@ -213,6 +213,21 @@
             "map": "Sinner's Rise",
             "x": 623,
             "y": 1079,
+			      "size": 20
+          }
+        ]
+      },
+
+      {
+        "name": "Defeat the Lost Sinner",
+        "sections":[{
+          "visibility_rules": ["returnFalse"]
+        }],
+        "map_locations": [
+          {
+            "map": "Sinner's Rise",
+            "x": 456,
+            "y": 1096,
 			      "size": 20
           }
         ]

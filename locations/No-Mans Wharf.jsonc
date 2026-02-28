@@ -1,7 +1,7 @@
 [
   {
-    "name": "No-Man's Wharf",
-    "access_rules": ["@Heides Tower of Flame"],
+    "name": "No-man's Wharf",
+    "access_rules": ["@Heide's Tower of Flame"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [
@@ -72,9 +72,15 @@
       },
       {
         "name": "Wharf: Human Effigy and Lifegem - On tipped boat in water",
-        "sections":[{
-          "access_rules": []
-        }],
+        "access_rules": [],
+        "sections":[
+          {
+            "name": "Wharf: Human Effigy - on tipped boat in water"
+          },
+          {
+            "name": "Wharf: Lifegem x2 - on tipped boat in water"
+          }
+        ],
         "map_locations": [
           {
             "map": "No-Man's Wharf",

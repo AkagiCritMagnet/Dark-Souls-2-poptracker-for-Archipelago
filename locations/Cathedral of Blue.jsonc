@@ -1,7 +1,7 @@
 [
   {
     "name": "Cathedral of Blue",
-    "access_rules": ["@Heides Tower of Flame, ^$canFightCathedralOfBlue"],
+    "access_rules": ["@Heide's Tower of Flame, ^$canFightCathedralOfBlue"],
     "chest_unopened_img": "images/items/chest_closed.png",
     "chest_opened_img": "images/items/chest_opened.png",
     "children": [

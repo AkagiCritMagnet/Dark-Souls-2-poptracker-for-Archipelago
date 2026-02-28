@@ -168,7 +168,7 @@
       {
         "name": "Drangleic: Frozen Flower - after multi-door room",
         "sections":[{
-          "access_rules": []
+          "visibility_rules": ["SotFS"]
         }],
         "map_locations": [
           {
@@ -336,10 +336,10 @@
         "access_rules": [],
         "sections":[
           {
-            "name": "Drangleic: Repair Powder x5 - rooftop shortcut room/armory"     
+            "name": "Drangleic: Repair Powder x5 - rooftop shortcut room armory"     
           },
           {
-            "name": "Drangleic: Flame Butterfly x10 - rooftop shortcut room/armory"
+            "name": "Drangleic: Flame Butterfly x10 - rooftop shortcut room armory"
           }],
         "map_locations": [
           {
@@ -536,7 +536,8 @@
       {
         "name": "Drangleic: Petrified Something - before second boss",
         "sections":[{
-          "access_rules": ["Key to King's Passage"]
+          "access_rules": ["Key to King's Passage"],
+          "visibility_rules": ["SotFS"]
         }],
         "map_locations": [
           {
@@ -631,6 +632,9 @@
             "name": "Drangleic: Bracing Knuckle Ring+1 - Wellager shop"     
           },
           {
+            "name": "Drangleic: Divine Blessing - Wellager shop"     
+          },
+          {
             "name": "Drangleic: Transgressor's Leather Shield - Wellager shop after killing second Drangleic boss"
           }],
         "map_locations": [
@@ -638,6 +642,37 @@
             "map": "Drangleic Castle",
             "x": 1135,
             "y": 954,
+			      "size": 20
+          }
+        ]
+
+      },
+
+      {
+        "name": "Wellager after killing Jeigh boss",
+        "visibility_rules": ["$returnFalse"],
+        "sections":[
+          {
+            "name": "Drangleic: Royal Dirk - talk to Wellager after killing Jeigh boss"     
+          },
+          {
+            "name": "Drangleic: Espada Ropera - talk to Wellager after killing Jeigh boss"     
+          },
+          {
+            "name": "Drangleic: Llewellyn Armor - talk to Wellager after killing Jeigh boss"     
+          },
+          {
+            "name": "Drangleic: Llewellyn Gloves - talk to Wellager after killing Jeigh boss"     
+          },
+          {
+            "name": "Drangleic: Llewellyn Shoes - talk to Wellager after killing Jeigh boss"     
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Drangleic Castle",
+            "x": 1135,
+            "y": 980,
 			      "size": 20
           }
         ]

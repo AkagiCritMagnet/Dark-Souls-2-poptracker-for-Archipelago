@@ -15,6 +15,7 @@ Tracker:AddLocations("locations/Dragon Aerie.jsonc")
 Tracker:AddLocations("locations/Dragon Shrine.jsonc")
 Tracker:AddLocations("locations/Doors of Pharros.jsonc")
 Tracker:AddLocations("locations/Undead Purgatory.jsonc")
+Tracker:AddLocations("locations/ThroneOfWant.jsonc")
 
 
 Tracker:AddLocations("locations/Shaded Woods.jsonc")
