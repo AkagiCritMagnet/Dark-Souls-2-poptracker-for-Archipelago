@@ -1,6 +1,12 @@
 {
 	"versions": [
 		{
+			"package_version": "1.2",
+			"download_url": "https://github.com/AkagiCritMagnet/Dark-Souls-2-poptracker-for-Archipelago/releases/download/v1.2/Dark.Souls.2.pack.zip",
+			"sha256": "d0855ef7dfa68183ee5ced2d84c5707e4bf8669bbdd2a79d55023bedcf61b021",
+			"changelog": ["Fixed logic related to wedges and souls of lost giants"]
+		},
+		{
 			"package_version": "1.1",
 			"download_url": "https://github.com/AkagiCritMagnet/Dark-Souls-2-poptracker-for-Archipelago/releases/download/v1.1/Dark.Souls.2.pack.zip",
 			"sha256": "fe5536477258e1d61803eb4c98fc1edd9350399358c2574e94d4df66197143b4",

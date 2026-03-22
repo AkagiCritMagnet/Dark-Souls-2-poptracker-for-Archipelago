@@ -296,7 +296,7 @@
       },
       {
         "name": "above Cardinal Tower, behind wagon",
-        "access_rules": [],
+        "access_rules": ["Soldier Key"],
         "sections":[
         {
           "name":"FOFG: Hand Axe - above Cardinal Tower, behind wagon"
@@ -316,7 +316,7 @@
       },
       {
         "name": "Wooden Chest above Cardinal Tower",
-        "access_rules": [],
+        "access_rules": ["Soldier Key"],
         "sections":[
         {
           "name":"FOFG: Small Leather Shield - above second bonfire, wooden chest"
@@ -336,7 +336,7 @@
       },
       {
         "name": "Metal chest above Cardinal Tower",
-        "access_rules": [],
+        "access_rules": ["Soldier Key"],
         "sections":[
         {
           "name":"FOFG: Small White Sign Soapstone - above second bonfire, metal chest"
@@ -364,7 +364,7 @@
       {
         "name": "FOFG: Divine Blessing - above second bonfire, tree branch",
         "sections":[{
-          "access_rules": []
+          "access_rules": ["Soldier Key"]
         }],
         "map_locations": [
           {
@@ -905,7 +905,7 @@
       },
       {
         "name": "The Pursuer Drops on platform",
-         "access_rules": ["Soldier Key"],
+         "access_rules": [],
         "sections":[
         {
           "name":"FOFG: Soul of the Pursuer - boss on platform near Cardinal Tower, drop"
@@ -1042,7 +1042,7 @@
       },
       {
         "name": "The Pursuer Drops",
-         "access_rules": [],
+         "access_rules": ["Soldier Key"],
         "sections":[
         {
           "name":"FOFG: Soul of the Pursuer"
